@@ -1,7 +1,5 @@
 # Vorgehen: Grundschutz
 
-
-
 ### Bemerkungen
 
 * Keine Unterscheidung zw. Gefahren und Schwachstellen
