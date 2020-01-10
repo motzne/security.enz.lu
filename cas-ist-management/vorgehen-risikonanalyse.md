@@ -2,14 +2,14 @@
 
 
 
-![](.gitbook/assets/18.png)
+![](../.gitbook/assets/18.png)
 
 * Grundschutz wird für standardisierte Massnahmen und generelle Risikobetrachtung verwendet
 * Risikoanalyse bietet spezifische Massnahme und eine detaillierte Risikobetrachtung
 
 ## Risiken im Unternehmen
 
-![](.gitbook/assets/19.png)
+![](../.gitbook/assets/19.png)
 
 ## Risiken im Bereich der IT-Organisation
 
@@ -53,19 +53,19 @@ Zuerst müssen die vorhandenen Bedrohungen aufgelistet und eingestuft werden. Da
 
 Ein Beispiel finden wir im Handbuch ab Seite 51.
 
-![](.gitbook/assets/20.png)
+![](../.gitbook/assets/20.png)
 
 ### Schaden
 
-![](.gitbook/assets/21.png)
+![](../.gitbook/assets/21.png)
 
 ### Eintretenwahrscheinlichkeit
 
-![](.gitbook/assets/22.png)
+![](../.gitbook/assets/22.png)
 
 ### Risiko-Portfolio
 
-![](.gitbook/assets/23.png)
+![](../.gitbook/assets/23.png)
 
 * Hier wird das Risiko der einzelnen Gefahren abgeschätzt
 * Das Risiko errechnet sich aus der Eintrittswahrscheinlichkeit \(W\) und dem Schadensausmass \(A\)
@@ -74,11 +74,11 @@ Ein Beispiel finden wir im Handbuch ab Seite 51.
 
 * Mit der Matrix wird dargestellt, welchen Schaden man bei welcher Eintretenswahrscheinlichkeit akzeptiert \(Im Bsp. Akzeptiert man bei sehr seltenen Risiken einen kritischen Schaden\)
 
-![](.gitbook/assets/24.png)
+![](../.gitbook/assets/24.png)
 
 ## Umgang mit IT-Risiken
 
-![](.gitbook/assets/25.png)
+![](../.gitbook/assets/25.png)
 
 Massnahmen mit den folgenden Attributen sollten wenn möglich eingesetzt werden:
 
