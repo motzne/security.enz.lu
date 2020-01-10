@@ -8,7 +8,7 @@ Dies ist eine Themensammlung/Zusammenfassung des behandelten Stoffs im Bereich I
 
 ### Author
 
-Tom Enz,[ tomenz.ch](https://tomenz.ch) - Lucerne, Switzerland
+Tom Enz, [tomenz.ch](https://tomenz.ch) - Lucerne, Switzerland
 
 
 
