@@ -18,4 +18,5 @@
 * [Informationssicherheits-Prozess](informationssicherheits-prozess.md)
 * [Vorgehen: Grundschutz](vorgehen-grundschutz.md)
 * [Vorgehen: Risikonanalyse](vorgehen-risikonanalyse.md)
+* [Hacking-Lab: Musterlösungen](hacking-lab-musterloesungen.md)
 
