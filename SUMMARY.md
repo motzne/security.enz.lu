@@ -5,7 +5,6 @@
 ## CAS-IST: Technologie
 
 * [Hacking-Lab: Musterlösungen](cas-ist-technologie/hacking-lab-musterloesungen.md)
-* [Untitled](cas-ist-technologie/untitled.md)
 
 ## CAS-IST: Management
 
