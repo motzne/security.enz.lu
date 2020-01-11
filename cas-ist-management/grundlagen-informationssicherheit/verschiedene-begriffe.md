@@ -2,6 +2,7 @@
 
 ## ISMS
 
+* Modell für den Aufbau, die Implementierung, den Betrieb, die Überwachung, den Unterhalt und die Verbesserung des Schutzes von Vermögenswerten und Informationen, um basierend auf einem Risiko- Assessment die Geschäftsziele zu erreichen
 * Legt fest, mit welchen Instrumenten und Methoden das Management die auf Informationssicherheit ausgerichtete Aufgaben und Aktivitäten nachvollziehbar lenkt.
 * Besteht aus den Komponenten
   * Mgmt-Prinzipien
@@ -11,6 +12,15 @@
     * IT-Sicherheitspolitik \(Strategie\)
     * IT-Sicherheitsorganisation \(Hilfsmittel z. Umsetzung\)
     * IT-Sicherheitskonzept \(Hilfsmittel z. Umsetzung\)
+* Prozess
+  * Establish \(Plan\) – Zieldefinition, Erstellung von Plänen
+  * Implement \(Do\) – Implementierung der Pläne
+  * Maintain \(Check\) – Messen der Ergebnisse aus der Implementierung
+  * Continual Improvement \(Act\) – Korrekturen und Verbesserungen
+
+Siehe auch 27002 
+
+{% page-ref page="../standards/iso-standards.md" %}
 
 ## Information
 

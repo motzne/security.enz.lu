@@ -2,13 +2,20 @@
 
 ## Intro Challenge ZAP Proxy
 
-Questions: 1\) Which HTTP response code \(xxx\) is sent by the server in case of a successful authentication? 2\) To which URL the user is being redirected, after a successful authentication? 3\) which HTTP response code \(xxx\) is sent in case of a failed login?
+**Questions:**   
+1\) Which HTTP response code \(xxx\) is sent by the server in case of a successful authentication?   
+2\) To which URL the user is being redirected, after a successful authentication?   
+3\) which HTTP response code \(xxx\) is sent in case of a failed login?
 
-Answers: 1\) The HTTP response code for the Login POST-Requests is: 302 2\) The Location parameter of the Response-Header is: [https://www.hacking-lab.com/events/](https://www.hacking-lab.com/events/) 3\) The HTTP response code for the failed login POST-Requests is: 200
+**Answers:**   
+1\) The HTTP response code for the Login POST-Requests is: 302   
+2\) The Location parameter of the Response-Header is: [https://www.hacking-lab.com/events/](https://www.hacking-lab.com/events/)   
+3\) The HTTP response code for the failed login POST-Requests is: 200
 
 ## 1601 LiveCD Intro Challenge: Landing Page Server
 
-Questions: Tell us the linux commands to achieve the following results.
+_**Questions:**_   
+Tell us the linux commands to achieve the following results.
 
 ```text
 start the LiveCD apache server
@@ -16,13 +23,15 @@ stop the LiveCD apache server
 monitor the access_log
 ```
 
-Answers: 1\) As root we can start apache through the init.d script /etc/init.d/apache\_but with the argument start: /etc/init.d/apache\_but start 2\) As root we can stop apache through the init.d script /etc/init.d/apache\_but with the argument stop: /etc/init.d/apache\_but stop 3\) Access\_log is located at /opt/applic/httpd/logs and can be followed with the tail command with option -f \(follow\): tail -f /opt/applic/httpd/logs/access\_log
+_**Answers:**_   
+1\) As root we can start apache through the init.d script /etc/init.d/apache\_but with the argument start: /etc/init.d/apache\_but start   
+2\) As root we can stop apache through the init.d script /etc/init.d/apache\_but with the argument stop: /etc/init.d/apache\_but stop   
+3\) Access\_log is located at /opt/applic/httpd/logs and can be followed with the tail command with option -f \(follow\): tail -f /opt/applic/httpd/logs/access\_log
 
 ## 2101 Bypassing Authorization
 
-**Questions:**
-
-Please answer the following security questions in order to get full points for this challenge.
+_**Questions:**_  
+****Please answer the following security questions in order to get full points for this challenge.
 
 ```text
 Explain the security problem
@@ -30,19 +39,20 @@ Explain your attack. (exploit, screenshot, hacking journal)
 Explain mitigation (remedy)
 ```
 
-**Answers**:
+_**Answers**:_  
+**Security Problem:**   
+After a users login the bell shop sets a cookie "BCookie". In this Cookie we see some sort of unique key for the user / or session-id. The application is frame based and uses GET-Query-Paramter \(pid\) for selecting the profile on "My Account" page. The bell shop is not secure since it does not check whether the requested pid does belong to the user logged in user or he has rights to access it.
 
-Security Problem: After a users login the bell shop sets a cookie "BCookie". In this Cookie we see some sort of unique key for the user / or session-id. The application is frame based and uses GET-Query-Paramter \(pid\) for selecting the profile on "My Account" page. The bell shop is not secure since it does not check whether the requested pid does belong to the user logged in user or he has rights to access it.
+**Attack:**   
+See screenshot, I can login is as User A, request information about another account User B by quessing/brute forcing the pids. Data can be stolen
 
-Attack: See screenshot, I can login is as User A, request information about another account User B by quessing/brute forcing the pids. Data can be stolen
-
-Mitigation: The application should move away from the pid in the GET-Query-parameter to POST to fetch the account information. Also the applications endpoint should be improved to only give access to authorized users.
+**Mitigation:**   
+The application should move away from the pid in the GET-Query-parameter to POST to fetch the account information. Also the applications endpoint should be improved to only give access to authorized users.
 
 ## 2300 Cross-Site Scripting Attack Guestbook
 
-**Questions:**
-
-Please answer the following security questions in order to get full points for this challenge.
+_**Questions:**_  
+****Please answer the following security questions in order to get full points for this challenge.
 
 ```text
 Explain the security problem
@@ -50,11 +60,13 @@ Explain your attack. (exploit, screenshot, hacking journal)
 Explain mitigation (remedy)
 ```
 
-**Answers**:
+_**Answers**:_
 
-Security Problem: The problem is that on the comments of a product XSS is possible and stored in the database. So a hacker can enter a script tag which is stored in the database and does something. Since Cookie "BCookie" is httpOnly=false we're able to read the cookies data with Javascript and make a request to the hackers landing page \(with a image tag\)
+**Security Problem:**   
+The problem is that on the comments of a product XSS is possible and stored in the database. So a hacker can enter a script tag which is stored in the database and does something. Since Cookie "BCookie" is httpOnly=false we're able to read the cookies data with Javascript and make a request to the hackers landing page \(with a image tag\)
 
-Attack type: See screenshot, the cookie can be read in the access\_logs of the hackers landing page. He than can steal the identiy of the user.
+**Attack type:**   
+See screenshot, the cookie can be read in the access\_logs of the hackers landing page. He than can steal the identiy of the user.
 
 **Mitigation:**
 
@@ -62,7 +74,7 @@ Attack type: See screenshot, the cookie can be read in the access\_logs of the h
 * Set cookie "BCookie" to httpOnly so it can't be acces from Javascript anymore
 * Set CSP with http headers to allow img sourcing only from trusted site \(self\)
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 {% embed url="https://www.owasp.org/index.php/Germany/Projekte/Top\_10\_fuer\_Entwickler-2013/A3-Cross-Site\_Scripting\_\(XSS\)" %}
 
@@ -70,9 +82,8 @@ Attack type: See screenshot, the cookie can be read in the access\_logs of the h
 
 ## 2310-a Web Security: SQL-Injection with UNION
 
-**Questions:**
-
-Please answer the following security questions in order to get full points for this challenge.
+_**Questions:**_  
+****Please answer the following security questions in order to get full points for this challenge.
 
 ```text
 Explain the security problem
@@ -80,11 +91,13 @@ Explain your attack. (exploit, screenshot, hacking journal)
 Explain mitigation (remedy)
 ```
 
-**Answers:**
+_**Answers:**_
 
-Security Problem: SQL-Injection is possible on the password-field on "My Account" page. The field is not
+**Security Problem:**   
+SQL-Injection is possible on the password-field on "My Account" page. The field is not
 
-Attack: SQL-Injection / Exploit:
+**Attack:**   
+SQL-Injection / Exploit:
 
 ```text
 ' or 1=1 #
@@ -92,15 +105,16 @@ Attack: SQL-Injection / Exploit:
 
 select \* from users where username = 'hacker33' and password = '' and locked = 0; If we now enter the code above instead of  the string ' or 1=1 \# is entered. Since we have an OR, the query will be true and continue with login. the \# \(hashtag\) at the end is also important to strip away everything after that.
 
-Mitigation: 
+**Mitigation:** 
 
 ## 2400 CowbellShop 1 NOSQL
 
-**Answers:**
-
-Securty Problem: NOSQL-Injection possible on login form of bell shop
-
-Attack: SQL Injection / Exploit for login in without credentials
+_**Answers:**_  
+**Securty Problem:**   
+NOSQL-Injection possible on login form of bell shop  
+  
+**Attack:**   
+SQL Injection / Exploit for login in without credentials
 
 ```text
 username: {"$ne": null}
@@ -194,11 +208,9 @@ Why is a java script from the attacker host not able to do the job \(read the xs
 * Because the cookie might be HttpOnly=true and therefore not readable by javascript
 * there might be an XSS protection, so JS cant be run 
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 {% embed url="https://www.owasp.org/index.php/Germany/Projekte/Top\_10\_fuer\_Entwickler-2013/A8-Cross-Site\_Request\_Forgery\_\(CSRF\)" %}
-
-
 
 ## 2667 Web Security: Failure to restrict url access
 
