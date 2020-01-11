@@ -25,7 +25,7 @@
 * [Analyse Soll-/Ist Vergleich](cas-ist-management/analyse-soll-ist-vergleich.md)
 * [Vorgehen: Grundschutz](cas-ist-management/vorgehen-grundschutz.md)
 * [Vorgehen: Risikonanalyse](cas-ist-management/vorgehen-risikonanalyse.md)
-* [Risikomanagment](cas-ist-management/risikomanagment/README.md)
-  * [Grundlegende Risikobegriffe](cas-ist-management/risikomanagment/grundlegende-risikobegriffe.md)
+* [Risikomanagement](cas-ist-management/risikomanagement/README.md)
+  * [Grundlegende Risikobegriffe](cas-ist-management/risikomanagement/grundlegende-risikobegriffe.md)
 * [Glossar](glossar.md)
 

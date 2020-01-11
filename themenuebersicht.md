@@ -34,3 +34,16 @@
   * 14 Domänen, 35 Kontrollziele, 114 Kontrollen
 * Weitere ISO-Standards
 
+## M: Risikomanagement / Hans-Peter Königs
+
+* Praktisches Risikomodell
+* Begriffe \(auch engl.\)
+* RM-Prozess / ISO 27005
+  * Kontext festlegen
+  * Risiko identifizieren
+  * Risiko analysieren
+  * Risiko bewerten
+  * Risiko behandeln
+  * Kommunikation / Konsultation
+  * Überwachung / Überprüfung
+* 
