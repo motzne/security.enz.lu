@@ -107,6 +107,10 @@ select \* from users where username = 'hacker33' and password = '' and locked = 
 
 **Mitigation:** 
 
+* Applications Code needs to be improved \(Prepared statements\)
+* Run DB in least privileges
+* WAF could help that such requests will not even pass
+
 ## 2400 CowbellShop 1 NOSQL
 
 _**Answers:**_  
