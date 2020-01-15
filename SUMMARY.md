@@ -7,6 +7,7 @@
 ## CAS-IST: Technologie
 
 * [Hacking-Lab: Musterlösung](cas-ist-technologie/hacking-lab-musterloesungen.md)
+* [OWASP Top 10](cas-ist-technologie/owasp-top-10.md)
 
 ## CAS-IST: Management
 
@@ -27,6 +28,7 @@
 * [Analyse Soll-/Ist Vergleich](cas-ist-management/analyse-soll-ist-vergleich.md)
 * [Vorgehen: Grundschutz](cas-ist-management/vorgehen-grundschutz.md)
 * [Vorgehen: Risikonanalyse](cas-ist-management/vorgehen-risikonanalyse.md)
+* [Business Continuity Management](cas-ist-management/business-continuity-management.md)
 * [Glossar](glossar.md)
 
 ## CAS-IST: Recht
