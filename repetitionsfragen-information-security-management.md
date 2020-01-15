@@ -1,11 +1,11 @@
 # Repetitionsfragen Information Security Management
 
-## 1. Was verstehen Sie unter Informationssicherheit?
+## Was verstehen Sie unter Informationssicherheit?
 
 * der Schutz relevanter Daten vor inneren und äusseren Einflüssen
 * der Schutz von Gefahren, denen man ausgesetzt ist
 
-## 2\) Welche Werte werden durch Sicherheit erzeugt?
+## Welche Werte werden durch Sicherheit erzeugt?
 
 * wichtigste:
   * Confidentiality \(Vertraulichkeit\)
@@ -19,7 +19,7 @@
   * Authorization \(Berechtigung\)
   * Accountability \(Verrechenbarkeit\)
 
-## 3\) Erklären Sie die Begriffe Abhängigkeitsanalyse, Verletzlichkeit und Bedrohung!
+## Erklären Sie die Begriffe Abhängigkeitsanalyse, Verletzlichkeit und Bedrohung!
 
 * Abhängigkeitsanalyse: Katalogisieren und Klassifizieren von Abhängigkeiten zur Planung von Alternativen
 * Verletzlichkeit: möglicher Schwachpunkt an einem System \(innerlich\), Systemschwachstelle
