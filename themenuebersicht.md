@@ -11,7 +11,7 @@
 | Web Application Security/OWASP TOP 10 | Ivan Bütler | T |
 | [Business Continuity Management I](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | [Peter E. Fischer](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | M |
 | Hacking \# Cracking \# Malware | Slavo Greminger | T |
-| Standards II | Armand Portmann | M |
+| [Standards II](themenuebersicht.md#m-standards-ii-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-standards-ii-armand-portmann) | M |
 | Zertifikatsbasierende Anwendungen und PKI | Armand Portmann | T |
 | Sicherheitspolitik und Konzepte | Armand Portmann | M |
 | Kryptologie | Josef Schuler | T |
@@ -57,4 +57,38 @@
 * Organisation
 * Eskalation / Alarmierung
 * Notfallhandbuch / Notfallkommunikation
+
+## M: Standards II / Armand Portmann
+
+* Das IT-Grundschutz-Kompendium beinhaltet elementare Gefährdungen und sog. Bausteine.
+
+  Umfang der Ausgabe 2019: 
+
+  * 47 Gefährdungen 
+  * 94 Bausteine
+  * 840 Seiten.
+
+* Absicherungsarten: 
+  * Basisabsicherung \(einfach, KMU\)
+  * Kernabsicherung \(elementare Geschäftsprozesse, Ressourcen\)
+  * Standardabsicherung \(von BSI präferiert, vollständiger IT-Grundschutz-Vorgehensweise\)
+* Aufbau IT-Grundschutz Kompendium
+  * Bausteine
+  * Gefährdungen
+  * Massnahmen
+* Erstellen eins Sicherheitskonzepts:
+  * BSI-Standard 200-2: IT-Grundschutz-Methodik
+    * Konkretisiert die Darstellung des ISMS nach BSI-Standard 200-1
+    * Beschreibt detailliert den Aufbau und Betrieb eines ISMS in der Praxis
+      * Aufgaben des Informationssicherheitsmanagements
+      * Aufbau von Organisationsstrukturen für die
+
+        Informationssicherheit
+* BSI-Standards:
+  * BSI 100-1: Managementsysteme für Informationssicherheit  \(entspricht ISO 27001\)
+  * BSI 100-2: IT-Grundschutz-Vorgehensweise
+  * BSI 100-3: Risikoanalyse auf Basis von IT-Grundschutz
+  * BSI 100-4: Notfallmanagement
+
+
 
