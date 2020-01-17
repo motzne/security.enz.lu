@@ -74,7 +74,7 @@
   </tbody>
 </table>## Praktisches Risikomodell
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 * Bei Projekten gibt es ein anderes Dreieck: Qualität = Scope + Termin + Kosten
 * Bsp. Feuer Wien:

@@ -5,11 +5,11 @@
 | Thema | Dozent | Art |
 | :--- | :--- | :--- |
 | [Standards I](themenuebersicht.md#m-standards-i-tom-schmidt) | [Tom Schmidt](themenuebersicht.md#m-standards-i-tom-schmidt) | M |
-| Grundlagen und Methoden Risikomanagement | Hans-Peter Königs | M |
+| [Grundlagen und Methoden Risikomanagement](themenuebersicht.md#m-risikomanagement-hans-peter-koenigs) | [Hans-Peter Königs](themenuebersicht.md#m-risikomanagement-hans-peter-koenigs) | M |
 | Wissenschaftliches Schreiben | Sylvia Bendel | M |
 | Grundlagen Computer-Security | Sebastian Obermeier | T |
 | Web Application Security/OWASP TOP 10 | Ivan Bütler | T |
-| Business Continuity Management I | Peter E. Fischer | M |
+| [Business Continuity Management I](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | [Peter E. Fischer](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | M |
 | Hacking \# Cracking \# Malware | Slavo Greminger | T |
 | Standards II | Armand Portmann | M |
 | Zertifikatsbasierende Anwendungen und PKI | Armand Portmann | T |
@@ -46,4 +46,15 @@
   * Risiko behandeln
   * Kommunikation / Konsultation
   * Überwachung / Überprüfung
-* 
+
+## M: Business Continuity Management / Peter E. Fischer
+
+* Ziel: Weiterbetrieb, Schaden minimieren, Recovery: Möglichst schnell ins Daily Business
+* Fokus: Wichtigste Geschäftsprozesse, Informationen, Applikationen, Systeme, Abhängigkeiten, Räume \(Tresor\)
+* Bedrohungen
+* Kritische Infrastrukturen
+* Business Impact Analyse
+* Organisation
+* Eskalation / Alarmierung
+* Notfallhandbuch / Notfallkommunikation
+
