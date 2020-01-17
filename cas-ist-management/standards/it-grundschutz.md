@@ -33,6 +33,12 @@ Der IT Grundschutz bietet eine **Vorgehensweise für den Aufbau eines Management
 
 =&gt; Infrastrukturelle, organisatorische, personelle und technische Standard-Sicherheitsmassnahmen helfen, ein Standard-Sicherheitsniveau aufzubauen, um geschäftsrelevante Informationen zu schützen
 
+### Vom IT-Grundschutz-Kompendium beantwortete Fragen
+
+* Was muss ich tun, um einen angemessenen Schutz für einen Informationsverbund zu erreichen?
+* Mit welchen Gefährdungen ist für bestimmte IT- Schutzobjekte zu rechnen?
+* Welche Anforderungen müssen für bestimmte IT- Schutzobjekte/Bausteine umgesetzt werden?
+
 ## IT-Grundschutz Wirkungsprinzip:
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
