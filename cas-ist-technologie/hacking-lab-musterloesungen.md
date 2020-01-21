@@ -1,6 +1,6 @@
 # Hacking-Lab: Musterlösung
 
-## Intro Challenge ZAP Proxy
+## Intro Challenge ZAP Proxy \(5\)
 
 **Questions:**   
 1\) Which HTTP response code \(xxx\) is sent by the server in case of a successful authentication?   
@@ -11,6 +11,8 @@
 1\) The HTTP response code for the Login POST-Requests is: 302   
 2\) The Location parameter of the Response-Header is: [https://www.hacking-lab.com/events/](https://www.hacking-lab.com/events/)   
 3\) The HTTP response code for the failed login POST-Requests is: 200
+
+==&gt; 5/5 Points
 
 ## 1601 LiveCD Intro Challenge: Landing Page Server
 
@@ -27,6 +29,8 @@ _**Answers:**_
 1\) As root we can start apache through the init.d script /etc/init.d/apache\_but with the argument start: /etc/init.d/apache\_but start   
 2\) As root we can stop apache through the init.d script /etc/init.d/apache\_but with the argument stop: /etc/init.d/apache\_but stop   
 3\) Access\_log is located at /opt/applic/httpd/logs and can be followed with the tail command with option -f \(follow\): tail -f /opt/applic/httpd/logs/access\_log
+
+==&gt; 5/5 Points
 
 ## 2101 Bypassing Authorization
 
@@ -48,6 +52,8 @@ See screenshot, I can login is as User A, request information about another acco
 
 **Mitigation:**   
 The application should move away from the pid in the GET-Query-parameter to POST to fetch the account information. Also the applications endpoint should be improved to only give access to authorized users.
+
+==&gt; 5/5 Points
 
 ## 2300 Cross-Site Scripting Attack Guestbook
 
@@ -78,7 +84,7 @@ See screenshot, the cookie can be read in the access\_logs of the hackers landin
 
 {% embed url="https://www.owasp.org/index.php/Germany/Projekte/Top\_10\_fuer\_Entwickler-2013/A3-Cross-Site\_Scripting\_\(XSS\)" %}
 
-
+==&gt; 5/5 Points
 
 ## 2310-a Web Security: SQL-Injection with UNION
 
@@ -111,6 +117,8 @@ select \* from users where username = 'hacker33' and password = '' and locked = 
 * Run DB in least privileges
 * WAF could help that such requests will not even pass
 
+==&gt; 17/20 Points
+
 ## 2400 CowbellShop 1 NOSQL
 
 _**Answers:**_  
@@ -133,6 +141,8 @@ password: {"$ne": null}
 * Use of middleware \(for example: joi/celebrate if you use NodeJS\) 
 * A proper setup of a WAF could block such requests
 
+==&gt; 5/5 Points
+
 ## 2406 CowbellShop 7 SERIAL
 
 **Security Problem:**   
@@ -152,6 +162,8 @@ The hacker is able to see the content sent by the victim in his shell \(See scre
 * Secure application / secure programming \(data input validation\)
 * Patch framework and/or use middleware to validate user-input
 * WAF-Setup could help 
+
+==&gt; 5/5 Points
 
 ## 2503 PLUpload Challenge
 
@@ -209,12 +221,16 @@ The hacker has provided the victim a simple html website with two -Tags on it. T
 
 Why is a java script from the attacker host not able to do the job \(read the xsrf token and post the transaction\)?
 
+
+
 * Because the cookie might be HttpOnly=true and therefore not readable by javascript
 * there might be an XSS protection, so JS cant be run 
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
 {% embed url="https://www.owasp.org/index.php/Germany/Projekte/Top\_10\_fuer\_Entwickler-2013/A8-Cross-Site\_Request\_Forgery\_\(CSRF\)" %}
+
+==&gt; 7/10 Points
 
 ## 2667 Web Security: Failure to restrict url access
 
@@ -251,4 +267,8 @@ See screenshot for evidence
 See attached screenshot
 
 Explained: On the chat both GET or POST are rendered with PHP. If a user enters javascript \(for example an alert\(\)\) the  tags are injected straight to the DOM which will be executed, so the alert-box will be displayed. If we use the htmlentities function \([https://www.php.net/manual/de/function.htmlentities.php](https://www.php.net/manual/de/function.htmlentities.php)\) all applicable characters are converted to HTML entities, the function returns an encoded string [https://www.php.net/manual/de/function.htmlentities.php](https://www.php.net/manual/de/function.htmlentities.php)
+
+
+
+==&gt; 10/10 Points
 
