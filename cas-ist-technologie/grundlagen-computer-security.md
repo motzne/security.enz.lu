@@ -82,7 +82,7 @@ Zertifizierung mit ISO geht etwas länger, OSSTMM kann man einfach einer Ext. Fi
   * Wenn Zugriff erteilt, was darfst Du tun?
   * Erzwingt Grenzen des Handelns
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 
 
@@ -174,9 +174,46 @@ Bsp.  log\(32\) / log\(2\) = 5
 
   ▪ Der Owner hat die Hoheit über die Berechtigungen!!
 
+### Multi Layer Security
+
+![](../.gitbook/assets/image%20%2847%29.png)
+
+![](../.gitbook/assets/image%20%2841%29.png)
+
+![](../.gitbook/assets/image%20%2828%29.png)
 
 
 
+## Architektur
+
+* Client-Server Architektur 
+  * Zentraler Server, Applikationen auf den Clients
+* Multitier Architektur
+  * 3-Schichten Modell \(Daten, Logik, Präsentation\)
+* Terminal-Server Architektur
+  * Zentrale Installation Client-Applikationen
+* Citrix, Microsoft Terminalserver
+* Virtualisierung \(Virtualisierungsschicht über dem Betriebssystem\)
+  * Server \(Konsolidierung im Rechencenter\)
+  * Client \(Unterschiedliche Setups für Entwickler, macOS mit VMware\)
+* Cloud Computing
+  * Liefermodelle:
+
+    • Private clouds
+
+    • Public clouds
+
+    • Hybrid clouds
+
+    • Community clouds
+
+  * Service-Modell:
+
+    • Infrastruktur as a Service
+
+    • Plattform as a Service
+
+    • Software as a Service
 
 
 

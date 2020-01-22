@@ -74,7 +74,7 @@
   </tbody>
 </table>## Praktisches Risikomodell
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 * Bei Projekten gibt es ein anderes Dreieck: Qualität = Scope + Termin + Kosten
 * Bsp. Feuer Wien:
@@ -83,7 +83,7 @@
 
 ## Risiko-Portfolio mit Akzeptanzlinie in Risk-Map
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ## 27005 / Prozess für Risikomanagement der Informationssicherheit
 
@@ -209,7 +209,7 @@ Anwendung
 
 ## Risikoanalysen und Sicherheits- dokumentationen im Projektvorgehen
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 
 
