@@ -9,6 +9,7 @@
 * [Hacking-Lab: Musterlösung](cas-ist-technologie/hacking-lab-musterloesungen.md)
 * [OWASP Top 10](cas-ist-technologie/owasp-top-10.md)
 * [Kryptologie](cas-ist-technologie/kryptologie.md)
+* [Grundlagen Computer Security](cas-ist-technologie/grundlagen-computer-security.md)
 
 ## CAS-IST: Management
 
