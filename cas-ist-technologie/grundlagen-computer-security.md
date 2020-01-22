@@ -176,7 +176,7 @@ Bsp.  log\(32\) / log\(2\) = 5
 
 ### Multi Layer Security
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 ![](../.gitbook/assets/image%20%2841%29.png)
 

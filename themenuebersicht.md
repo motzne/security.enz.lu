@@ -7,7 +7,7 @@
 | [Standards I](themenuebersicht.md#m-standards-i-tom-schmidt) | [Tom Schmidt](themenuebersicht.md#m-standards-i-tom-schmidt) | M |
 | [Grundlagen und Methoden Risikomanagement](themenuebersicht.md#m-risikomanagement-hans-peter-koenigs) | [Hans-Peter Königs](themenuebersicht.md#m-risikomanagement-hans-peter-koenigs) | M |
 | Wissenschaftliches Schreiben | Sylvia Bendel | M |
-| Grundlagen Computer-Security | Sebastian Obermeier | T |
+| [Grundlagen Computer-Security](themenuebersicht.md#t-grundlagen-computer-security) | [Sebastian Obermeier](themenuebersicht.md#t-grundlagen-computer-security) | T |
 | Web Application Security/OWASP TOP 10 | Ivan Bütler | T |
 | [Business Continuity Management I](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | [Peter E. Fischer](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | M |
 | Hacking \# Cracking \# Malware | Slavo Greminger | T |
@@ -89,6 +89,34 @@
   * BSI 100-2: IT-Grundschutz-Vorgehensweise
   * BSI 100-3: Risikoanalyse auf Basis von IT-Grundschutz
   * BSI 100-4: Notfallmanagement
+
+
+
+## T: Grundlagen Computer-Security
+
+* IT-Schutzziele aus technischer Sicht
+  * Vertraulichkeit, Integrität, Verfügbarkeit
+* Bewertung von Sicherheit
+  * Orange Book
+  * Common Criteria
+* Tests
+  * Pen-Tests
+  * Security-Test
+  * Open Source Security Testing Methodology Manual \(OSSTMM\)
+    * Handbuch für Security Testing
+* Authentifizierung
+  * Entropie von Passwörter
+  * Hashes
+* Autorisierung
+  * DAC, RBAC, SRBAC, MAC
+  * Multi Layer
+  * RBAC
+* Architektur
+  * Client-Server, Terminal-Server, Multitier, Cloud-Computing, Virtualisierung
+
+
+
+
 
 
 
