@@ -6,10 +6,11 @@
 
 ## CAS-IST: Technologie
 
+* [Grundlagen Computer-Security](cas-ist-technologie/grundlagen-computer-security.md)
 * [Hacking-Lab: Musterlösung](cas-ist-technologie/hacking-lab-musterloesungen.md)
 * [OWASP Top 10](cas-ist-technologie/owasp-top-10.md)
 * [Kryptologie](cas-ist-technologie/kryptologie.md)
-* [Grundlagen Computer Security](cas-ist-technologie/grundlagen-computer-security.md)
+* [Grundlagen Computer Security](cas-ist-technologie/grundlagen-computer-security-1.md)
 
 ## CAS-IST: Management
 
@@ -31,6 +32,7 @@
 * [Vorgehen: Grundschutz](cas-ist-management/vorgehen-grundschutz.md)
 * [Vorgehen: Risikonanalyse](cas-ist-management/vorgehen-risikonanalyse.md)
 * [Business Continuity Management](cas-ist-management/business-continuity-management.md)
+* [Awareness](cas-ist-management/awareness.md)
 * [Glossar](glossar.md)
 
 ## CAS-IST: Recht
