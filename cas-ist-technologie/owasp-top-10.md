@@ -32,3 +32,13 @@ Das Problem hierbei ist, dass der Angreifer diesen Link in einem Image-Tag unter
 
 
 
+
+
+## SQL-Injection
+
+Angriff auf SQL Datenbanken mit speziell präparierten Benutzereingaben. Der Angriff wird durch mangelnde Überprüfung \(Programmierfehler\) der Benutzereingaben ermöglicht.
+
+![](../.gitbook/assets/image%20%285%29.png)
+
+
+

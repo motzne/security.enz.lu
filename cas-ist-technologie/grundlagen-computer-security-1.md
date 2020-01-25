@@ -82,7 +82,7 @@ Zertifizierung mit ISO geht etwas länger, OSSTMM kann man einfach einer Ext. Fi
   * Wenn Zugriff erteilt, was darfst Du tun?
   * Erzwingt Grenzen des Handelns
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 
 
@@ -90,7 +90,7 @@ Zertifizierung mit ISO geht etwas länger, OSSTMM kann man einfach einer Ext. Fi
 
 ### Entropie von Passwörter
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 #### Entropie berechnen:
 
@@ -176,11 +176,11 @@ Bsp.  log\(32\) / log\(2\) = 5
 
 ### Multi Layer Security
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 
 

@@ -24,7 +24,7 @@
 
 ### IT-Sicherheitskonzeption
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ## IT-Strukturanalyse
 
@@ -153,7 +153,7 @@ Bsp. Ab S. 30 BSI Schulung
 
 Mit einem Basis-Sicherheitscheck ermitteln wir, ob und inwieweit die Massnahmen-Empfehlungen des IT-Grundschutzhandbuchs für die einzelnen Zielobjekte des betrachteten IT-Verbunds umgesetzt sind.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ### Vorgehen
 

@@ -1,6 +1,6 @@
 # Politik, Konzepte, Regelwerk, Prozess
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
 {% page-ref page="informationssicherheitspolitik-isp-1.-stufe.md" %}
 
@@ -12,7 +12,7 @@
 
 ## Zusammenhang ISP / ISK / Regelwerk
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 
 
@@ -20,11 +20,11 @@
 
 ### Sicherheitspyramide nach BSI
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 ### Dokumentenstruktur nach BSI
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 ### Sicherheitspyramide nach Königs
 
@@ -32,9 +32,9 @@
 
 ### Dokumentenstruktur nach Königs
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 ### Sicherheitspyramide nach IT-Sicherheitshandbuch
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 

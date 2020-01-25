@@ -114,7 +114,18 @@
 * Architektur
   * Client-Server, Terminal-Server, Multitier, Cloud-Computing, Virtualisierung
 
+## T:  Hacking\#Cracking\#Malware
 
+Lernziele
+
+* Aktuelle Bedrohungslage/Motivation der Akteure kennen und verstehen
+* Crime-as-a-Service und die Underground Economy begreifen
+* Cyber-Angriffe nachvollziehen können
+* Schwachstellen verstehen und Stack-based Buffer
+
+  Overflows prinzipiell ausnutzen können
+
+* Malware-Arten, -Funktionalitäten und –Techniken kennen und verstehen
 
 
 
