@@ -134,7 +134,7 @@ Bsp.  log\(32\) / log\(2\) = 5
   * \(Annahme: Angreifer kennt Wortliste und Verfahren\):  \(6\*6\*6\*6\*6\) = 7776 mögliche Worte pro 5 Würfe \(5x eine 6, da Wort 5 Buchstaben hat\)
   * Wie viele Bits braucht man zur Darstellung? → log\_2\(7776\) ≈ 12,9 Bit Entropie pro Wort → für 6 Worte ≈ 77,5 Bit Entropie
 
-### Hash
+## Hashes
 
 * Eine Hash-Funktion ist eine Funktion, die Zeichenketten neue Zeichenketten einer fest vorgegebenen Länge zuordnet.
 * kryptrographische Hash Funktionen
@@ -145,6 +145,37 @@ Bsp.  log\(32\) / log\(2\) = 5
   * Rainbow-Tables
     * Vorgerechnete Werte werden abgelegt
     * Gegenmassnahme: Salt
+
+### Welche Angriffsstrategien auf gestohlene Passwort-Hashs hat ein Hacker zur Verfuegung? 
+
+1. Passwort-Hashfunktion knacken   
+2. Brute-Force Attacken
+
+* Alle moeglichen Kombinationen werden systematisch durchprobiert
+* Jeder Kandidat wird verschluesselt und in der Passwortdatei gesucht
+* Vorteil: knackt irgendwann jedes Passwort -¿ vollstaendige Methode 
+
+3. Woerterbuch Attacken
+
+* Nur Woerter aus einem vorgegebenen Woerterbuch werden durchprobiert
+* Beruht auf Annahme, dass sinnvolle Woerter als Passwort verwendet wurden oder dass beim Passwort ein Algorithmus hinterlegt ist \(z.B. Palindrom\)
+* Knackt nur Passwoerter im Woerterbuch \(unvollstaendige Methode\) 
+
+4. Lookup Tabellen
+
+* Woerterbuch mit 1M Woerter verlangt 1M Hashberechnung
+* Effizienter sind Woerterbuecher mit \(Wort / Hashwert\) Eintraegen
+* Jetzt muss nur noch nach dem Hashwert gesucht werden
+* Trade-off: man investiert mehr Memory um Rechenzeit zu sparen
+* Knackt nur Passwoerter in der Tabelle \(unvollstaendige Methode\)
+
+### Nennen Sie den Unterschied zwischen Woerterbuecher und Lookup-Tabellen. 
+
+Lookup-Tabellen sind vorgefertigte Tabellen mit Hashwert + Klartext Passwort. Die Hashes sind alle bereits vorgerechnet. Man muss nun nur noch anhand des gewunschten Hashes das Passwort raus suchen. Ein Woerterbuch ist im ¨ Gegensatz dazu nur eine Sammlung moeglicher Passwoerter im Klartext. Zum Beispiel kann der Duden als Woerterbuch herhalten. Nachher wird beim Angriff jeder Hash zum Wort berechnet. Die Hashes sind somit beim Zeitpunkt des Angriffes nicht vorberechnet.
+
+
+
+
 
 ## Autorisierung \(Zugriffsschutz\)
 
