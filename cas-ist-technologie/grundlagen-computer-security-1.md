@@ -173,6 +173,25 @@ Bsp.  log\(32\) / log\(2\) = 5
 
 Lookup-Tabellen sind vorgefertigte Tabellen mit Hashwert + Klartext Passwort. Die Hashes sind alle bereits vorgerechnet. Man muss nun nur noch anhand des gewunschten Hashes das Passwort raus suchen. Ein Woerterbuch ist im ¨ Gegensatz dazu nur eine Sammlung moeglicher Passwoerter im Klartext. Zum Beispiel kann der Duden als Woerterbuch herhalten. Nachher wird beim Angriff jeder Hash zum Wort berechnet. Die Hashes sind somit beim Zeitpunkt des Angriffes nicht vorberechnet.
 
+### Vorteile Nachteile von Rainbow Tabellen
+
+* Hybride Version von Lookup und Brute-Force
+* Kompromiss bezüglich Hashberechnungen, Speicherplatz, Vollständigkeit
+* Verschiedene Tabellen für verschiedene Hash-Algorithmen
+* Knackt nur Passwörter im Wörterbuch \(unvollständige Methode\)
+* Auf Passwörter einer fixen Länge spezialisiert
+
+### Passwörter salzen
+
+* Salt ist eine zufällig generierte Zeichenkette
+* Berechne den Hash von Passwort und Salz h\(pwd . salt\)
+* Salz und Hashwert werden zusammen in der Passwortdatei gespeichert
+
+#### Angriffe 
+
+Das Salzen eines Passwort hilft gegen Lookup und Rainbow Tables. Es hilft sobald eine Angriffmethode darauf basiert, dass sie klar Hash zu einem Text mappen kann. Also wenn diese vorberechnet sind. Dies ist bei Lookup Tables sowie bei Rainbow Tables der Fall. Die Hashes um diese Tables aufzubauen wurden ohne das Salt berechnet, somit ist es fur das gegebene Passwort nicht ¨ mehr zu gebrauchen. Da das Salt bekannt ist, kann es bei Angriffen, welche die Hashes bei Laufzeit berechnen \(Brute-Force\) einfach angeh¨angt werden. Der Brute-Force Algorhitmus muss, kann dies genau so machen, wie das Betriebssystem selbst. Es fuehrt die Operation h\(pwd . salt\) vor dem Vergleich aus.  
+
+
 
 
 
@@ -207,7 +226,7 @@ Lookup-Tabellen sind vorgefertigte Tabellen mit Hashwert + Klartext Passwort. Di
 
 ### Multi Layer Security
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
