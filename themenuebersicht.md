@@ -10,7 +10,7 @@
 | [Grundlagen Computer-Security](themenuebersicht.md#t-grundlagen-computer-security) | [Sebastian Obermeier](themenuebersicht.md#t-grundlagen-computer-security) | T |
 | Web Application Security/OWASP TOP 10 | Ivan Bütler | T |
 | [Business Continuity Management I](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | [Peter E. Fischer](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | M |
-| Hacking \# Cracking \# Malware | Slavo Greminger | T |
+| [Hacking \# Cracking \# Malware](themenuebersicht.md#t-hacking-cracking-malware) | [Slavo Greminger](themenuebersicht.md#t-hacking-cracking-malware) | T |
 | [Standards II](themenuebersicht.md#m-standards-ii-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-standards-ii-armand-portmann) | M |
 | Zertifikatsbasierende Anwendungen und PKI | Armand Portmann | T |
 | Sicherheitspolitik und Konzepte | Armand Portmann | M |
@@ -116,16 +116,22 @@
 
 ## T:  Hacking\#Cracking\#Malware
 
-Lernziele
-
-* Aktuelle Bedrohungslage/Motivation der Akteure kennen und verstehen
-* Crime-as-a-Service und die Underground Economy begreifen
-* Cyber-Angriffe nachvollziehen können
-* Schwachstellen verstehen und Stack-based Buffer
-
-  Overflows prinzipiell ausnutzen können
-
-* Malware-Arten, -Funktionalitäten und –Techniken kennen und verstehen
+* Begriffe \(Malware, Web Based Attacks, Web Application Attacks, Phishing, ...\)
+* Botnetze
+  * Bot = infizierter Rechner oder Device
+  * C&C / C2 = Command and Control Server
+  * Gebraucht für: Spam-versand, Phishing, Sniffen, DDoS
+* DoS
+  * Booters
+  * DDoS \(Ping / SYN-Flood\)
+* Buffer-Overflows \(Überschreiben von reservierten Speicher, damit kann Schadsoftware eingefügt werden\)
+* Malware
+  * Begriffe: Virus, Wurm, Trojaner
+  * Betrüger brauchen: 
+    * Öffentliche Server  = Stehlen von Informationen, Updates/Konfigurationen zu aktivieren
+    * Mechanimus für = Persistenz, Antiviren-Lösungen umgehen
+  * Funktionen \(DoS, Ransomware, Spam-Enginge, Backdoor\)
+  * Netzwerk \(Fastflux, Domains für Bots, Domain Generating Algorithmus \(P2P, Blockchain-Domains, TOR/I2P\)\)
 
 
 
