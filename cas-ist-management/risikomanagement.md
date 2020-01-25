@@ -74,7 +74,7 @@
   </tbody>
 </table>## Praktisches Risikomodell
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 * Bei Projekten gibt es ein anderes Dreieck: Qualität = Scope + Termin + Kosten
 * Bsp. Feuer Wien:
@@ -83,11 +83,11 @@
 
 ## Risiko-Portfolio mit Akzeptanzlinie in Risk-Map
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 ## 27005 / Prozess für Risikomanagement der Informationssicherheit
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ### Kontext-Definition
 
@@ -154,7 +154,7 @@ Risiko-Objekte so definieren, granularisieren und logisch ordnen, wie sich die B
 * Risiken mit Behandlungsprioritäten und anderen Attributen versehen \(z.B. „wichtig“, „dringlich“ oder „beobachten“\)
 * Entscheide treffen über eine allenfalls notwendige Nachbesserung der Assessment- Ergebnisse
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ### Risiko-Behandlung
 
@@ -209,7 +209,7 @@ Anwendung
 
 ## Risikoanalysen und Sicherheits- dokumentationen im Projektvorgehen
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 
 
