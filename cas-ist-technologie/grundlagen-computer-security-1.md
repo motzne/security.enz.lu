@@ -192,6 +192,14 @@ Lookup-Tabellen sind vorgefertigte Tabellen mit Hashwert + Klartext Passwort. Di
 Das Salzen eines Passwort hilft gegen Lookup und Rainbow Tables. Es hilft sobald eine Angriffmethode darauf basiert, dass sie klar Hash zu einem Text mappen kann. Also wenn diese vorberechnet sind. Dies ist bei Lookup Tables sowie bei Rainbow Tables der Fall. Die Hashes um diese Tables aufzubauen wurden ohne das Salt berechnet, somit ist es fur das gegebene Passwort nicht ¨ mehr zu gebrauchen. Da das Salt bekannt ist, kann es bei Angriffen, welche die Hashes bei Laufzeit berechnen \(Brute-Force\) einfach angeh¨angt werden. Der Brute-Force Algorhitmus muss, kann dies genau so machen, wie das Betriebssystem selbst. Es fuehrt die Operation h\(pwd . salt\) vor dem Vergleich aus.  
 
 
+Welche mathematischen Angriffe auf Hashfunktionen gibt es?
+
+* Meet-in-the-Middle  Der Angreifer erzeugt Variationen der ersten Hälfte einer gefälschten Nachricht und Variationen der zweiten Hälfte. Er berechnet die Hashwerte vorwärts beim Startwert IV beginnend und ruckwärts vom Hash-Resultat aus und versucht eine Kollision am Angriffspunkt zu finden.
+* Correcting Block Attack  Der Angreifer ersetzt alle Blöcke einer Nachricht bis auf einen – etwa den ersten. Anschließend legt er diese Variable so fest, dass sie im Laufe der Verkettung den gewünschten Gesamt-Hashwert liefert.
+* Fixed Point Attack 
+* Differenzielle Kryptoanalyse  Differenzielle Kryptoanalyse ist ein Angriff auf Blockchiffriersysteme, die auf Hashfunktionen übertragen werden kann. Hierbei werden Eingabedifferenzen und die korrespondierenden Ausgabedifferenzen untersucht. Eine Differenz von Null entspricht dann einer Kollision.
+* Boomerang Attack  Der Boomerang Angriff ist eine Erweiterung der differenziellen Kryptoanalyse. Er verbindet zwei unabhängige Differentialpfade zu einem Angriff
+
 
 
 
