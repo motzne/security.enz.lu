@@ -147,7 +147,16 @@
   * Taktisch \(Funktionalitäten, Betriebskonzepte, Bestimmung von Massnahmen\)
   * Operativ \(Richtlinien, Umsetzung der Massnahmen\)
 
-T: Physische Sicherheit / Grundlagen Brandschutz
+## T: Physische Sicherheit / Grundlagen Brandschutz / Markus Spinnler
+
+* Begriffe 
+  * Safety
+  * Security
+* Sicherheitsplanung
+* Gefahrenkatalog
+  * 60% Mensch / 40% Technik
+* Überwachungsarten \(Perimeter, Physisch, Raum, Objekt, Überfall\)
+* Brandschutz
 
 
 
