@@ -125,7 +125,7 @@ Welche Systeme sind nötig um die wichtigsten Geschäftsprozesse zu betreiben?
 
 ## Kritische Infrastrukturen
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 ## Notfallorganisation
 
@@ -164,5 +164,5 @@ ITSCM stellt einerseits sicher, dass der Kunde im Katastrophenfall mit einem def
 
 
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 

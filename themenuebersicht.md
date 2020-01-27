@@ -13,7 +13,7 @@
 | [Hacking \# Cracking \# Malware](themenuebersicht.md#t-hacking-cracking-malware) | [Slavo Greminger](themenuebersicht.md#t-hacking-cracking-malware) | T |
 | [Standards II](themenuebersicht.md#m-standards-ii-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-standards-ii-armand-portmann) | M |
 | Zertifikatsbasierende Anwendungen und PKI | Armand Portmann | T |
-| Sicherheitspolitik und Konzepte | Armand Portmann | M |
+| [Sicherheitspolitik und Konzepte](themenuebersicht.md#m-sicherheitspolitik-und-konzepte-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-sicherheitspolitik-und-konzepte-armand-portmann) | M |
 | Kryptologie | Josef Schuler | T |
 | Rechtsaspekte für Systemverantwortliche | Ursula Uttinger | R |
 | Network Defence | Peter Infanger | T |
@@ -92,7 +92,7 @@
 
 
 
-## T: Grundlagen Computer-Security
+## T: Grundlagen Computer-Security / Sebastian Obermeier
 
 * IT-Schutzziele aus technischer Sicht
   * Vertraulichkeit, Integrität, Verfügbarkeit
@@ -114,7 +114,7 @@
 * Architektur
   * Client-Server, Terminal-Server, Multitier, Cloud-Computing, Virtualisierung
 
-## T:  Hacking\#Cracking\#Malware
+## T:  Hacking\#Cracking\#Malware / Slavo Greminger
 
 * Begriffe \(Malware, Web Based Attacks, Web Application Attacks, Phishing, ...\)
 * Botnetze
@@ -132,6 +132,20 @@
     * Mechanimus für = Persistenz, Antiviren-Lösungen umgehen
   * Funktionen \(DoS, Ransomware, Spam-Enginge, Backdoor\)
   * Netzwerk \(Fastflux, Domains für Bots, Domain Generating Algorithmus \(P2P, Blockchain-Domains, TOR/I2P\)\)
+
+## M: Sicherheitspolitik und Konzepte / Armand Portmann
+
+*  Begriffe nicht einheitlich angewendet
+* "Policy" ist pro Firma anders definiert
+* Sicherheitspyramide / TopDown Approach
+  * Informationssicherheitspolitik \(ISP\)  \(Warum?\)
+  * Informationssicherhetitskonzepte \(ISK\) \(Was?\)
+  * Regelwerk \(Wie?\)
+* Ebenen
+
+  * Strategisch \(Ziele, Generelle Ausrichtung, Organe\)
+  * Taktisch \(Funktionalitäten, Betriebskonzepte, Bestimmung von Massnahmen\)
+  * Operativ \(Richtlinien, Umsetzung der Massnahmen\)
 
 
 
