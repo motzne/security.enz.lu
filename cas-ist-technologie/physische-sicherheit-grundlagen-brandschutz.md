@@ -132,3 +132,13 @@ Die Honorar Ordnung für Architekten und Ingenieure \(HOAI\)
   </tbody>
 </table>
 
+## Einbruchmeldeanlagen
+
+### **Überwachungsarten**
+
+* Perimeterüberwachung \(Zaun oder Fläche um das Haus\)
+* Peripherieüberwachung \(Fenster, Türen, usw.\)
+* Raumüberwachung \(im Raum drin\)
+* Objektüberwachung \(am Objekt, Bilderrahmen, Vitrine\)
+* Überfallmeldesysteme \(Alarmtaster, Geldscheinkontakt\)
+
