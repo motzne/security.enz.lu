@@ -147,6 +147,8 @@
   * Taktisch \(Funktionalitäten, Betriebskonzepte, Bestimmung von Massnahmen\)
   * Operativ \(Richtlinien, Umsetzung der Massnahmen\)
 
+T: Physische Sicherheit / Grundlagen Brandschutz
+
 
 
 
