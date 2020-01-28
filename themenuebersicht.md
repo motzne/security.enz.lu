@@ -17,7 +17,7 @@
 | Kryptologie | Josef Schuler | T |
 | Rechtsaspekte für Systemverantwortliche | Ursula Uttinger | R |
 | Network Defence | Peter Infanger | T |
-| Physische Sicherheit / Grundlagen Brandschutz | Markus Spinnler | T |
+| [Physische Sicherheit / Grundlagen Brandschutz](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md) | [Markus Spinnler](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md) | T |
 | IT-Sicherheitsarchitektur | Markus Pfister | T |
 | Awareness - Theorie | Carlos Rieder | M |
 
