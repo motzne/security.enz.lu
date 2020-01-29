@@ -1,5 +1,16 @@
 # Einführung
 
+## Protokolle / Definition
+
+Protokolle in der Informatik sind Regeln
+
+* die das Format, 
+* den Inhalt, 
+* die Bedeutung 
+* und die Reihenfolge 
+
+gesendeter Nachrichten zwischen verschiedenen Instanzen festlegen
+
 ## Schichtenmodell
 
 * Protokolle arbeiten miteinander – bauen aufeinander auf
