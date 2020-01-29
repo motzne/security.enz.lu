@@ -13,6 +13,8 @@
 * [Grundlagen Computer Security](cas-ist-technologie/grundlagen-computer-security-1.md)
 * [Hacking\#Cracking\#Malware](cas-ist-technologie/hacking-cracking-malware.md)
 * [Physische Sicherheit / Grundlagen Brandschutz](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md)
+* [Network Defence](cas-ist-technologie/network-defence/README.md)
+  * [Einführung](cas-ist-technologie/network-defence/einfuehrung.md)
 
 ## CAS-IST: Management
 
