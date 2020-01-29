@@ -70,17 +70,48 @@ Routenaggregation beschreibt eine Methode zur Minimierung der in einem IP- Netzw
 * Verwendung findet dieses Verfahren u.a. im Spamversand und ist auf konzeptionelle Schwächen des Routing-Systems zurück zu führen.
 * Mit BGP und Prefix Hijacking = Teile des Datenverkehrs an sich umzuleiten, Folge: Schlechte Verbindungen, ManInTheMiddle möglich 
 
+## Serviceverfügbarkeit \(DOS\)
 
+* Techniken wie:
+  * UDP Packet Storm
+  * TCP SYN Flooding
+  * PING-Flooding
+* Bots gehen werden von C&C gesteuert
+* Amplification Attacks = Missbrauch ungeschützter UDP Services, Faktoren sind je nach Protokoll unterschiedlich =&gt; Folge: Bandbreite der Angriffe wird immer grösser
+* 
+### Abwehrmassnahmen
 
-## Serviceverfügbarkeit \(DOS\) 
+Messen um festzustellen ob
 
-
-
-
+* Schwellwert für bestimmte Paket/Protokolltypen überschritten wurde
+* Deutliche Abweichung gegenüber eines Baseline Wertes
+* Bestimmte Herkunft \(location based\) feststellen
 
 
 
 ## Das Telefonbuch des Internet \(DNS\)
+
+### Abfragen
+
+1. hosts Datei
+2. lokaler DNS Server 
+3. iterative Abfrage des hierarchischen DNS-Systems
+
+### Angriffe auf DNS
+
+#### DNS Spoofing/Cache Poisoning
+
+
+
+#### DNS Amplification Attack
+
+* Probleme mit Anycast
+* ...
+
+#### Abwehrmassnahmen
+
+* DNSsec
+* DoT oder DoH
 
 
 
