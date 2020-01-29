@@ -26,11 +26,11 @@
 
 ### Sicherheitspyramide nach BSI
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 ### Dokumentenstruktur nach BSI
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 ### Sicherheitspyramide nach Königs
 
@@ -38,9 +38,9 @@
 
 ### Dokumentenstruktur nach Königs
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 ### Sicherheitspyramide nach IT-Sicherheitshandbuch
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 

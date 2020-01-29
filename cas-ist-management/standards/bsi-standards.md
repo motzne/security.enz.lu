@@ -46,7 +46,7 @@
   * Vereinfachte Risikoanalyse und -bewertung
   * Vgl. Folie 184
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ## **BSI 100-4: Notfallmanagement**
 

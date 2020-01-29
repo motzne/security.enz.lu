@@ -19,7 +19,7 @@
 * regionale Internet-Provider; Institutionen mit Peering-Abkommen \(Durchleiten von fremdem Datenverkehr im allgemeinen nur beschränkt\)
 * "Transit AS": Internet-Backbone hoher Kapazität
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 ## Border Gateway Protocol BGP
 
@@ -101,17 +101,41 @@ Messen um festzustellen ob
 
 #### DNS Spoofing/Cache Poisoning
 
+**DNS spoofing**, auch bekannt als **DNS cache poisoning**, ist ein Form von hacking bei der korrupte [Domain Name System](https://de.wikipedia.org/wiki/Domain_Name_System)-Einträge im Zwischenspeicher \([Cache](https://de.wikipedia.org/wiki/Cache)\) des DNS-Resolvers eingegeben werden, durch den der Name-Server eine falsche Antwort zurückgibt, z. B. eine falsche IP Adresse. Dies führt dazu, dass der [Datenverkehr](https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff) auf den Computer des Angreifers \(oder einen anderen Computer\) umgeleitet wird. Die direkte Übersetzung von DNS cache poisining bedeutet das Vergiften des DNS Zwischenspeichers. _Quelle: Wikipedia_
+
 
 
 #### DNS Amplification Attack
 
+![Cloudflare DNS Amplification Attack](../../.gitbook/assets/image%20%2835%29.png)
+
+Bei der DNS Amplification Attack wird ausgenutzt, dass Nameserver in bestimmten Fällen auf kurze Anfragepakete mit sehr langen Paketen antworten. Eine 60 Bytes lange Anfrage kann in bestimmten Fällen eine mehr als 3000 Bytes lange Antwort provozieren. Es liegt also ein Verstärkungsfaktor von mehr als 50 vor. Mittels [IP-Spoofing](https://de.wikipedia.org/wiki/IP-Spoofing) wird diese Antwort auf die [IP-Adresse](https://de.wikipedia.org/wiki/IP-Adresse) des Opfers gelenkt. Sendet ein Angreifer beispielsweise einen konstanten Datenstrom von 100 Megabits pro Sekunde an verschiedene offene Nameserver im Internet, so erzeugen diese bei einem Verstärkungsfaktor von 50 eine Last von 5 Gigabits pro Sekunde beim Opfer. _Quelle: Wikipedia_
+
+
+
 * Probleme mit Anycast
 * ...
 
-#### Abwehrmassnahmen
+### Abwehrmassnahmen
 
-* DNSsec
-* DoT oder DoH
+#### DNSsec
+
+* Nimmt sich zweier fundamentalen Sicherheitsprobleme des DNS an
+  * Datenintegrität
+  * Datenauthentizität.
+* Es soll gesichert werden, dass die Antwort so ankommt wie sie abgeschickt wurde und dass sie von dem Server abgeschickt wurde von dem der Client seine Antwort erwartet.
+* Zur Sicherung der DNS Antworten werden diese mit digitalen Signaturen versehen
+* Schwächen von DNSsec
+  * Bei DNSsec sind die DNS-Daten immer digital signiert, aber dennoch im Klartext einsehbar.
+  * "Die letzte Meile"von Nameserver des Providers zu dessen Kunden bleibt völlig ungesichert.
+
+![](../../.gitbook/assets/image%20%2863%29.png)
+
+#### DoT oder DoH
+
+![](../../.gitbook/assets/image%20%2831%29.png)
+
+
 
 
 
