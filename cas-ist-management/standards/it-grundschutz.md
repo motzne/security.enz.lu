@@ -41,7 +41,7 @@ Der IT Grundschutz bietet eine **Vorgehensweise für den Aufbau eines Management
 
 ## IT-Grundschutz Wirkungsprinzip:
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 Der IT Grundschutz-Katalog besteht aus den folgenden Teilen:
 
@@ -62,7 +62,7 @@ Titel der Vorlesung
 * **Basis-Anforderungen:**  Minimum, das vorrangig umgesetzt werden muss \(Einstieg\), führt zur Basisabsicherung, «Muss»-Formulierungen
 * **Standard-Anforderungen:**  Für normalen Schutzbedarf, führen zusammen mit den Basis- Anforderungen zur Standard-Absicherung, «Sollte»- Formulierungen **Anforderungen bei erhöhtem Schutzbedarf:**  exemplarische Vorschläge für zusätzliche Anforderungen, «Sollte»-Formulierungen
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
 ## **Gefährdungskataloge**
 

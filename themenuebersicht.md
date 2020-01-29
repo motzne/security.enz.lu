@@ -160,5 +160,30 @@
 
 
 
+## T: Network Defence / Peter Infanger
+
+* Einführung
+  * Protokoll / Definition
+  * Schichtenmodell 
+  * Angriffsflächen Netzwerk
+  * Schwachstellen des Internets
+  * IP
+    * Paket
+    * Adressierung IPv4
+    * Adressaufteilung
+    * Spezielle Adressen \(Broadcast, Loopback\)
+  * Paket-Forwarding \(Ablauf\)
+* Protokollanalyse
+  * Analysatoren
+    * Software \(Wireshark\)
+    * Hardware \(Mobile, WLAN\)
+    * Probleme \(Performance, zu viele Daten\)
+    * Einsatzgebiet, wo richtig messen. zum Teil nur Subnetze möglich, Analysatoren an mehrere stellen Daten sammeln und integrieren.
+  * Statisitiken/Performance
+    * Auswertungen z.B. aus Lasttests
+    * Basismetriken, abweichen erkannt
+    * Wenn Daten weiter auf Gefahren analysiert werden spricht man oft auch von Itrusion Detection Systemen \(IDS\)
+  * 
+
 
 

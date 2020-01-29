@@ -35,9 +35,12 @@
   * –  Missbrauch ist aber nicht so einfach zu erkennen! Genaue Kenntnisse der Protokolle notwendig!
 * Geräte welche eine weitergehende Interpretation der Daten im Hinblick auf einen möglichen Angriff vornehmen werden als „**Intrusion Detection System, IDS“** bezeichnet.
 
+## Performancetests
 
-
-
+* Z.B. RFC 2544, RFC 3432, RFC 4737, RFC5644, ...
+* Messen verschiedene Parameter \(Durchsatz, Latency etc. \) auf verschiedenen Layern
+* Macht man typischerweise bei der Inbetriebnahme oder in den Randzeiten der Nutzung des Netzwerkes
+* Finden auf verschiedenen Layern statt, z.B. Ethernet, IP, TCP/UDP,
 
   
   
