@@ -179,13 +179,37 @@
     * Hardware \(Mobile, WLAN\)
     * Probleme \(Performance, zu viele Daten\)
     * Einsatzgebiet, wo richtig messen. zum Teil nur Subnetze möglich, Analysatoren an mehrere stellen Daten sammeln und integrieren.
-  * Statisitiken/Performance
+  * Statistiken/Performance
     * Auswertungen z.B. aus Lasttests
     * Basismetriken, abweichen erkannt
-    * Wenn Daten weiter auf Gefahren analysiert werden spricht man oft auch von Itrusion Detection Systemen \(IDS\)
+    * Wenn Daten weiter auf Gefahren analysiert werden spricht man oft auch von Intrusion Detection Systemen \(IDS\)
 * Netzwerksicherheit im Internet
-  * * DNS
-    * [Routing im Internet](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#routing-im-internet)[Autonomes System](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#autonomes-system)[Border Gateway Protocol BGP](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#border-gateway-protocol-bgp)[BGP Policy Routing](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#bgp-policy-routing)[Auftretende Routingprobleme](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#auftretende-routingprobleme)[Angriffe auf BGP](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#angriffe-auf-bgp)[IP Hijacking](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#ip-hijacking)[Serviceverfügbarkeit \(DOS\)](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#serviceverfu-gbarkeit-dos)[Abwehrmassnahmen](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#abwehrmassnahmen)[Das Telefonbuch des Internet \(DNS\)](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#das-telefonbuch-des-internet-dns)[Abfragen](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#abfragen)[Angriffe auf DNS](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#angriffe-auf-dns)[ ](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#abwehrmassnahmen-1)
+  * Routing
+    * Autonome Systeme \(AS\), unterteilt in 3 Klassen \(einzeln, Provider, Transit\)
+    * BGP
+      * TCP, Port 179
+      * Ohne Sicherheitsmechanismen entwickelt
+      * BGP Policy Routing \(durch Netzbetreiber festgelegt\)
+      * Angriffe: Announcment von falschen Routen, De-Aggregration
+  * IP Hijacking
+  * Serviceverfügbarkeit \(DoS\)
+    * UDP Packet Storm
+    * TCP Syn Flooding
+    * Ping-Flooding
+  * DNS
+    * Abfragen
+    * Angriffe
+      * DNS Spoofing / Cache Poisoning:  Umleiten von Datenverkehr zum Angreifer
+      * DNS Amplification Attack:  Verstärkung 
+    * Abwehrmassnahmen
+      * DNSsec
+        * Nimmt sich 2 Problemenen an:
+          * Integrität
+          * Authentizität
+        * DNS-Daten digital signiert
+        * Problem: Letzte Meile von DNS zum Client bleibt ungesichert
+      * DoT \(DNS over TLS\) + DoH \(DNS over HTTPS\)
+        * [Routing im Internet](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#routing-im-internet)[Autonomes System](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#autonomes-system)[Border Gateway Protocol BGP](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#border-gateway-protocol-bgp)[BGP Policy Routing](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#bgp-policy-routing)[Auftretende Routingprobleme](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#auftretende-routingprobleme)[Angriffe auf BGP](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#angriffe-auf-bgp)[IP Hijacking](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#ip-hijacking)[Serviceverfügbarkeit \(DOS\)](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#serviceverfu-gbarkeit-dos)[Abwehrmassnahmen](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#abwehrmassnahmen)[Das Telefonbuch des Internet \(DNS\)](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#das-telefonbuch-des-internet-dns)[Abfragen](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#abfragen)[Angriffe auf DNS](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#angriffe-auf-dns)[ ](https://app.gitbook.com/@ictberufsbildungzentralschweiz/s/security/~/drafts/-LzmQ7tNb8z_FI9mIm0j/cas-ist-technologie/network-defence/netzwerksicherheit-im-internet#abwehrmassnahmen-1)
 
 
 
