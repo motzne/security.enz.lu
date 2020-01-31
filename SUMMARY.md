@@ -48,5 +48,6 @@
 * [Zusammenfassung](cas-ist-recht/zusammenfassung.md)
 * [Datenschutzgesetz \(DSG\)](cas-ist-recht/datenschutzgesetz-dsg.md)
 * [Urheberrechtsgesetz \(URG\)](cas-ist-recht/urheberrechtsgesetz-urg.md)
+* [Strafgesetzbuch \(StGB\)](cas-ist-recht/strafgesetzbuch-stgb.md)
 * [Weitere Gesetzestexte](cas-ist-recht/gesetzestexte.md)
 

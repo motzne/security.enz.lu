@@ -129,7 +129,7 @@ Bei der DNS Amplification Attack wird ausgenutzt, dass Nameserver in bestimmten 
   * Bei DNSsec sind die DNS-Daten immer digital signiert, aber dennoch im Klartext einsehbar.
   * "Die letzte Meile"von Nameserver des Providers zu dessen Kunden bleibt völlig ungesichert.
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 #### DoT oder DoH
 
