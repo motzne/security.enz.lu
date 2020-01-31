@@ -38,7 +38,7 @@ Das Problem hierbei ist, dass der Angreifer diesen Link in einem Image-Tag unter
 
 Angriff auf SQL Datenbanken mit speziell präparierten Benutzereingaben. Der Angriff wird durch mangelnde Überprüfung \(Programmierfehler\) der Benutzereingaben ermöglicht.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 
 

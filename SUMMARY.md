@@ -18,6 +18,7 @@
   * [Protokollanalyse](cas-ist-technologie/network-defence/untitled.md)
   * [Netzwerksicherheit im Internet](cas-ist-technologie/network-defence/netzwerksicherheit-im-internet.md)
   * [Perimeter](cas-ist-technologie/network-defence/perimeter.md)
+  * [IPv6](cas-ist-technologie/network-defence/ipv6.md)
 
 ## CAS-IST: Management
 

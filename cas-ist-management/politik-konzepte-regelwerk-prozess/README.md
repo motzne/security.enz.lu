@@ -1,6 +1,6 @@
 # Politik, Konzepte, Regelwerk, Prozess
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 ### Management-Ebenen
 
@@ -18,7 +18,7 @@
 
 ## Zusammenhang ISP / ISK / Regelwerk
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 
 
@@ -26,21 +26,21 @@
 
 ### Sicherheitspyramide nach BSI
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 ### Dokumentenstruktur nach BSI
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 ### Sicherheitspyramide nach Königs
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 ### Dokumentenstruktur nach Königs
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 ### Sicherheitspyramide nach IT-Sicherheitshandbuch
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
