@@ -24,7 +24,7 @@
 
 ### IT-Sicherheitskonzeption
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ## IT-Strukturanalyse
 
@@ -131,7 +131,7 @@ Bsp. S. 29 BSI Schulung
 
 Ziel der Modellierung gemäss IT-Grundschutz ist es festzulegen, welche Bausteine des IT-Grundschutzhandbuchs auf welche Zielobjekte der IT einer Organisation anzuwenden sind \(Ergebnis: IT- Grundschutzmodell\).
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ### Vorgehen Modellierung
 
@@ -153,7 +153,7 @@ Bsp. Ab S. 30 BSI Schulung
 
 Mit einem Basis-Sicherheitscheck ermitteln wir, ob und inwieweit die Massnahmen-Empfehlungen des IT-Grundschutzhandbuchs für die einzelnen Zielobjekte des betrachteten IT-Verbunds umgesetzt sind.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ### Vorgehen
 

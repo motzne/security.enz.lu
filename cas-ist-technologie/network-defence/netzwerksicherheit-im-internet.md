@@ -19,7 +19,7 @@
 * regionale Internet-Provider; Institutionen mit Peering-Abkommen \(Durchleiten von fremdem Datenverkehr im allgemeinen nur beschränkt\)
 * "Transit AS": Internet-Backbone hoher Kapazität
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 ## Border Gateway Protocol BGP
 
@@ -33,7 +33,7 @@
   * niedrigsten \(z. B. Übertragungsverzögerung\)
   * höchsten \(z. B. Bandbreite\)
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 ### BGP Policy Routing
 
@@ -107,7 +107,7 @@ Messen um festzustellen ob
 
 #### DNS Amplification Attack
 
-![Cloudflare DNS Amplification Attack](../../.gitbook/assets/image%20%2835%29.png)
+![Cloudflare DNS Amplification Attack](../../.gitbook/assets/image%20%2837%29.png)
 
 Bei der DNS Amplification Attack wird ausgenutzt, dass Nameserver in bestimmten Fällen auf kurze Anfragepakete mit sehr langen Paketen antworten. Eine 60 Bytes lange Anfrage kann in bestimmten Fällen eine mehr als 3000 Bytes lange Antwort provozieren. Es liegt also ein Verstärkungsfaktor von mehr als 50 vor. Mittels [IP-Spoofing](https://de.wikipedia.org/wiki/IP-Spoofing) wird diese Antwort auf die [IP-Adresse](https://de.wikipedia.org/wiki/IP-Adresse) des Opfers gelenkt. Sendet ein Angreifer beispielsweise einen konstanten Datenstrom von 100 Megabits pro Sekunde an verschiedene offene Nameserver im Internet, so erzeugen diese bei einem Verstärkungsfaktor von 50 eine Last von 5 Gigabits pro Sekunde beim Opfer. _Quelle: Wikipedia_
 
@@ -129,11 +129,11 @@ Bei der DNS Amplification Attack wird ausgenutzt, dass Nameserver in bestimmten 
   * Bei DNSsec sind die DNS-Daten immer digital signiert, aber dennoch im Klartext einsehbar.
   * "Die letzte Meile"von Nameserver des Providers zu dessen Kunden bleibt völlig ungesichert.
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 #### DoT oder DoH
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 
 

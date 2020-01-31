@@ -29,7 +29,7 @@
   * Anzuwendende Massnahmen bestimmen
   * Durchführen einer Standortbestimmung
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ## **BSI 100-3: Risikoanalyse auf Basis von IT-Grundschutz**
 
@@ -46,9 +46,9 @@
   * Vereinfachte Risikoanalyse und -bewertung
   * Vgl. Folie 184
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 ## **BSI 100-4: Notfallmanagement**
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
