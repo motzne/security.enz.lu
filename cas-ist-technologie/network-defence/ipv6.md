@@ -149,5 +149,14 @@ IPv6 hat ja keinen Mangel an Adressen. Deswegen braucht es bei IPv6 eigentlich k
 * Bougus router implantion attack sind einfach zu realisieren
 * Neue Herausforderung an die Firewall­Admins
 
+## Was sind die Unterschiede zwischen Stateless und Stateful Auto Configuration?
+
+* Stateless
+  * Hosts sollen Plug­and­Play sein
+  * Hosts erhalten automatisch eine IPv6 Adresse
+* Statefull
+  * DHCPv6 Protokoll für IPv6
+  * Wenn kein Router gefunden oder Router explizit sagt es gibt einen DHCP
+
 
 

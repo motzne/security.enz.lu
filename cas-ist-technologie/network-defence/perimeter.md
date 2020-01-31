@@ -234,6 +234,26 @@ Dieses mal werden auch die TCP Flags beachtet. Probleme bestehen aber noch, z.B.
 
 
 
+## Wie können Angriffe auf Netzwerk­ Ebene entdeckt und analysiert werden?
+
+Mittels IDS Intrusion Detection Systeme
+
+* Hostbasierte Systeme
+  * Log­Daten, Kernel­Daten
+  * korrelieren von Services auf Host möglich
+  * Nachteil: OS abhängig, Hostsystem belastet
+* Netzwerkbasierte Systeme
+  * Endsysteme werden nicht zusätzlich belastet
+  * Erkennung von mehrere System gleichzeitig
+  * Unsichtbar für Angreifer
+  * Nachteil: bei hoher Last
+* Hybride IDS
+  * Kombination
+
+
+
+
+
 
 
 
