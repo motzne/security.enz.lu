@@ -62,7 +62,7 @@ Wichtig: Perimeter Security alleine genügt heute nicht
 
 Dieses mal werden auch die TCP Flags beachtet. Probleme bestehen aber noch, z.B. werden die Portnummern nicht eingeschränkt.
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
 
 
@@ -192,7 +192,18 @@ Dieses mal werden auch die TCP Flags beachtet. Probleme bestehen aber noch, z.B.
 
 
 
+### Beispiel:
 
+![](../../.gitbook/assets/image%20%2860%29.png)
+
+
+
+1. Note that while HTTP traffic typically uses TCP, it can also use UDP. Because of this IP is used instead of TCP or UDP.
+2. Allow all HTTP and HTTPS traffic to a web server with an IP of 192.168.1.25. This requires two rules. One rule allows HTTP traffic by allowing port 80, and the second rule allows HTTPS traffic by allowing port 443.
+3. Allow DNS queries from any source to a computer with an IP of 192.168.1.10. DNS name resolution queries use UDP port 53.
+4. Block DNS zone transfer traffic from any source to any destination. DNS zone transfers use TCP port 53.
+5. Block all DNS traffic from any source to any destination. Using IP blocks both DNS name resolution queries on UDP port 53 and DNS zone transfers on TCP port 53. You could also implement this was two separate rules with one for UDP and one for TCP.
+6. Implement implicit deny. The implicit deny rule is always placed last and it blocks any type of traffic from any source to any destination using any port. Note that you could also have omitted rules 4 and 5 and placed the implicit deny rule after rule 3. It would still have met the requirements but wouldn’t have stressed the difference between TCP port 53 and UDP port 53.
 
 ## FW - Wartung und Betrieb
 

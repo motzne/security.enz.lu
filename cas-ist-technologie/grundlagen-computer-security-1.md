@@ -234,9 +234,9 @@ Welche mathematischen Angriffe auf Hashfunktionen gibt es?
 
 ### Multi Layer Security
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 ![](../.gitbook/assets/image%20%2850%29.png)
 

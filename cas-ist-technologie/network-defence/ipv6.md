@@ -34,7 +34,7 @@
 * Weniger Felder als bei IPv4
 * Funktion einiger Felder gleich geblieben aber anders benannt
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2882%29.png)
 
 ### Header
 
