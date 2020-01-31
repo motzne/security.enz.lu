@@ -210,6 +210,28 @@
         * Problem: Letzte Meile von DNS zum Client bleibt ungesichert
       * DoT \(DNS over TLS\) + DoH \(DNS over HTTPS\)
 * Perimeter
+  * Firewall
+    * Packet Filters \(mit Access Control Lists\)
+      * Einfache Regeln
+      * Paketinhalt wird nicht kontrolliert
+      * Schwierige Konfiguration
+    * Stateful Inspection FW
+      * Paketfilter mit Intelligenz
+    * Application Layer Gateways \(OSI 5. Schicht\)
+      * Relativ sicher im Vergleich zu Paketfilter
+  * Web Application Firewalls
+    * Viel Know-How und Konfiguration nötig
+    * Sichere Variante
+  * Moderne  Firewalls
+    * Nicht mehr so teuer
+    * Software basiert
+      * Oft schon im OS
+      * Zusätzliche Programme
+  * DMZ Zone
+    * Webserver nie ins Interne Netz
+  * FW Betrieb und Wartung
+* IPv6
+  * 
 
 
 
