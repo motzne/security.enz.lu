@@ -11,7 +11,7 @@
 * Für Unternehmen, für welche das Vertrauen der Kundschaft wichtig ist
 * Im Anhang sind die Controls definiert; diese referenzieren auf ISO 27002
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
 ### **Planen \(PLAN\)**: Festlegen des ISMS
 
@@ -51,7 +51,7 @@
 
 ### Schwachstellenanalyse:
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 
 

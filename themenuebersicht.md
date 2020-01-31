@@ -231,6 +231,20 @@
     * Webserver nie ins Interne Netz
   * FW Betrieb und Wartung
 * IPv6
+  * mehr Adressen benötigt
+  * 128 Bit lang \(8 Gruppen a je 4 HEX-Zahlen\) 
+    * 64 Bit Net/Subnet Prefix \(aka. Header\)
+
+      64 Bit Interface ID
+  * Typen:
+    * Unicast \(One to one\)
+    * Multicast
+    * Anycast 
+  * IPv6 / DHCP
+    * verschiedene Varianten
+  * IPv6 / NAT
+    * NAT wird nicht mehr gebraucht, nur für IPv4
+  * Beispiele von Adressen
   * 
 
 

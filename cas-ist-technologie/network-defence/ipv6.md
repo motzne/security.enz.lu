@@ -11,7 +11,7 @@
 * Multicasting und Anycast
   * Bieten neue Möglichkeiten zur Verbreitung vom multimedialen Inhalten oder Anpassung an besondere Verhältnisse
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
   
 
@@ -34,11 +34,12 @@
 * Weniger Felder als bei IPv4
 * Funktion einiger Felder gleich geblieben aber anders benannt
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 ### Header
 
-* IPv6 besitzt primär nur einen Basisheader. Erweiterungsheaders möglich
+* IPv6 besitzt primär nur einen Basisheader. Erweiterungsheaders möglich, siehe Grafik oben "Next Header"
+* Verkettung von Erweiterungsheader \(Chaining\), Länge unbestimmt
 
 ### Adressierung
 
@@ -87,7 +88,15 @@ span.s2 {color: \#fb0007}
 * 6to4: 2002:xxx:xxx:...
 * IPv4-mapped: ::FFFF: \(nur an Socket-API\)
 
+## IPv6 Addresstypen:
 
+![](../../.gitbook/assets/image%20%2846%29.png)
+
+
+
+* Unicast
+* Mulitcase
+* Anycast
 
 ## DHCPv6
 
@@ -110,6 +119,22 @@ Stateful weil Informationen über die Clients gespeichert werden.
 ## IPv6 NAT 
 
 IPv6 hat ja keinen Mangel an Adressen. Deswegen braucht es bei IPv6 eigentlich kein NAT. Es gibt aber trotzdem NAT, hat aber einen anderen Zweck als bei IPv4. Dieser Zweck ist es, zwischen einem z.B. IPv6 Only Netzwerk und einem IPv4 Netzwerk zu „vermitteln“.
+
+
+
+
+
+## IPv6 Adress-Beispiele
+
+![](../../.gitbook/assets/image%20%2825%29.png)
+
+
+
+![](../../.gitbook/assets/image%20%2829%29.png)
+
+
+
+
 
 
 
