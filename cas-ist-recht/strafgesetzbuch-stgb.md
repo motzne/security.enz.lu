@@ -2,6 +2,10 @@
 
 
 
+
+
+{% file src="../.gitbook/assets/stgb \(1\).pdf" caption="Schweizerische Strafgesetztbuch \(StGB\)" %}
+
 ## Übersicht Artikel Computerkriminalität
 
 | Art |  | Stichwort | Beschreibung |

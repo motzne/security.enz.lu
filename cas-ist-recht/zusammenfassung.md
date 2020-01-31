@@ -89,32 +89,3 @@
       * man kann nicht damit rechen das man aufgenommen wurde
     * Bilder auch über Hecke in den Garten, Einblick in die Privatsphäre
 
-
-
-
-
-
-
-## Datenschutzgesetz \(DSG\)
-
-* Verordnung
-
-
-
-
-
-## Schweizerisches Strafgesetzbuch \(StGB\)
-
-
-
-
-
-{% file src="../.gitbook/assets/stgb \(1\).pdf" caption="Schweizerische Strafgesetztbuch \(StGB\)" %}
-
-
-
-## Urheberrechtsgesetz \(URG\)
-
-  
-
-
