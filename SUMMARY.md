@@ -46,5 +46,6 @@
 ## CAS-IST: Recht
 
 * [Zusammenfassung](cas-ist-recht/zusammenfassung.md)
+* [Datenschutzgesetz \(DSG\)](cas-ist-recht/datenschutzgesetz-dsg.md)
 * [Weitere Gesetzestexte](cas-ist-recht/gesetzestexte.md)
 

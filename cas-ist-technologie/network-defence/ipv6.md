@@ -11,7 +11,7 @@
 * Multicasting und Anycast
   * Bieten neue Möglichkeiten zur Verbreitung vom multimedialen Inhalten oder Anpassung an besondere Verhältnisse
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
   
 
@@ -34,7 +34,7 @@
 * Weniger Felder als bei IPv4
 * Funktion einiger Felder gleich geblieben aber anders benannt
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 ### Header
 
@@ -90,7 +90,7 @@ span.s2 {color: \#fb0007}
 
 ## IPv6 Addresstypen:
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 
 
@@ -126,11 +126,11 @@ IPv6 hat ja keinen Mangel an Adressen. Deswegen braucht es bei IPv6 eigentlich k
 
 ## IPv6 Adress-Beispiele
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
 
 
