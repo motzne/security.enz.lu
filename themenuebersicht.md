@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | [Standards I](themenuebersicht.md#m-standards-i-tom-schmidt) | [Tom Schmidt](themenuebersicht.md#m-standards-i-tom-schmidt) | M |
 | [Grundlagen und Methoden Risikomanagement](themenuebersicht.md#m-risikomanagement-hans-peter-koenigs) | [Hans-Peter Königs](themenuebersicht.md#m-risikomanagement-hans-peter-koenigs) | M |
-| Wissenschaftliches Schreiben | Sylvia Bendel | M |
+| ~~Wissenschaftliches Schreiben~~ | ~~Sylvia Bendel~~ | ~~M~~ |
 | [Grundlagen Computer-Security](themenuebersicht.md#t-grundlagen-computer-security) | [Sebastian Obermeier](themenuebersicht.md#t-grundlagen-computer-security) | T |
 | Web Application Security/OWASP TOP 10 | Ivan Bütler | T |
 | [Business Continuity Management I](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | [Peter E. Fischer](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | M |
@@ -16,9 +16,9 @@
 | [Sicherheitspolitik und Konzepte](themenuebersicht.md#m-sicherheitspolitik-und-konzepte-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-sicherheitspolitik-und-konzepte-armand-portmann) | M |
 | Kryptologie | Josef Schuler | T |
 | Rechtsaspekte für Systemverantwortliche | Ursula Uttinger | R |
-| Network Defence | Peter Infanger | T |
+| [Network Defence](themenuebersicht.md#t-network-defence-peter-infanger) | [Peter Infanger](themenuebersicht.md#t-network-defence-peter-infanger) | T |
 | [Physische Sicherheit / Grundlagen Brandschutz](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md) | [Markus Spinnler](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md) | T |
-| IT-Sicherheitsarchitektur | Markus Pfister | T |
+| ~~IT-Sicherheitsarchitektur~~ | ~~Markus Pfister~~ | ~~T~~ |
 | Awareness - Theorie | Carlos Rieder | M |
 
 ## M: Standards I / Tom Schmidt
@@ -231,21 +231,21 @@
     * Webserver nie ins Interne Netz
   * FW Betrieb und Wartung
 * IPv6
+
   * mehr Adressen benötigt
   * 128 Bit lang \(8 Gruppen a je 4 HEX-Zahlen\) 
     * 64 Bit Net/Subnet Prefix \(aka. Header\)
 
       64 Bit Interface ID
   * Typen:
-    * Unicast \(One to one\)
-    * Multicast
-    * Anycast 
+    * Unicast \(One to one, für einzelnes Interface\)
+    * Multicast \(One to many\) 
+    * Anycast \(One to nearest, \)
   * IPv6 / DHCP
     * verschiedene Varianten
   * IPv6 / NAT
     * NAT wird nicht mehr gebraucht, nur für IPv4
   * Beispiele von Adressen
-  * 
 
 
 
