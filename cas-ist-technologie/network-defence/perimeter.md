@@ -232,9 +232,9 @@ Dieses mal werden auch die TCP Flags beachtet. Probleme bestehen aber noch, z.B.
 
 
 
+## Beispielfragen
 
-
-## Wie können Angriffe auf Netzwerk­ Ebene entdeckt und analysiert werden?
+#### Wie können Angriffe auf Netzwerk­ Ebene entdeckt und analysiert werden?
 
 Mittels IDS Intrusion Detection Systeme
 
@@ -249,6 +249,46 @@ Mittels IDS Intrusion Detection Systeme
   * Nachteil: bei hoher Last
 * Hybride IDS
   * Kombination
+
+
+
+#### Was ist der Unterschied zwischen einem Paketfilter und einer Stateful Inspection
+
+* Paket­Filter:
+
+  -- Filterung nur anhand IP­Adressen und/oder TCP/UDP­Port  Die meisten
+
+  Router unterstützen Filter ebenfalls 
+
+* Stateful Inspektion:
+
+  -- Filterung auf Grund des ersten Paketes
+
+  -- Die Firewall merkt sich diese Verbindung und erlaubt den
+
+  -- Verkehr in beide Richtungen
+
+  -- Mit Stateful Inspektion wird auch NAT implementiert Für hohe Lasten zwingend notwendig
+
+#### Was wird mit einem Proxyfilter sichergestellt?
+
+* Filterung mit Zwischenspeicherung des Paketes und Analyse des Paketes
+* Unterbrechung der TCP­Verbindung
+
+#### Wie werden in einer Firewall die Regeln abgearbeitet? Wie kann eine typische Regel aussehen?
+
+* Viele Regeln
+* IP­Adresse und Ports
+* Bsp.
+
+  -- Erlaube alle TCP Port 80 Kommunikation von dieser Adresse an eine interne Adresse
+
+#### Welche Zusatzfunktionen kann eine Firewall haben?
+
+* NAT
+* IDS
+* VPN
+* Remote Zugriff
 
 
 
