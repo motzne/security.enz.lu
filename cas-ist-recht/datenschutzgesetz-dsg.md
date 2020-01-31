@@ -48,8 +48,6 @@ Es gibt sehr viele Datenschutzgesetze. Und dafür gibt es teils sogar noch Zusat
 | BÜPF | Staatstrojaner   |
 | Sozialversicherung | Schweigepflicht |
 
-
-
 ## Art. 2  / Geltungsbereich
 
 * Private Personen = Gegenstück der Bundesorgane. 
@@ -98,9 +96,7 @@ private Personen oder Bundesorgane, die über den Zweck und den Inhalt einer Dat
 3. _Personendaten dürfen nur zu dem Zweck bearbeitet werden, der bei der Beschaffung angegeben wurde, aus den Umständen ersichtlich oder gesetzlich vorgesehen ist._ 
 4. _Die Beschaffung von Personendaten und insbesondere der Zweck ihrer Bearbeitung müssen für die betroffene Person erkennbar sein._ 
 
-
-
-Verhältnismässig heisst, es dürfen:
+**Verhältnismässig heisst**, es dürfen:
 
 * notwendig und zweckdienlich.
 * Zugriff nur, wenn diese für die Erfüllung der übertragenen Aufgaben tatsächlich benötigen werden.
@@ -128,7 +124,7 @@ Das heisst:
 
 Daten müssen objektiv sein! Z.B. «Beinbruch»  
 
-Was tun, wenn sensible Daten missbraucht werden? 
+#### Was tun, wenn sensible Daten missbraucht werden? 
 
 Krankheitsakte «Depression» =&gt; Klagen gegen Ehrverletzung und Verleumdung!
 
@@ -141,7 +137,7 @@ Krankheitsakte «Depression» =&gt; Klagen gegen Ehrverletzung und Verleumdung!
 
 Datensicherheit ist ein Zentrales Thema! Es geht um den Schutz der Daten vor Personen! 
 
-### Verordnung zum Bundesgesetz über den Datenschutz konsultieren! VDSG! 
+#### Verordnung zum Bundesgesetz über den Datenschutz konsultieren! VDSG! 
 
 * Berichtigungen
 * Sicherheitsstufen
