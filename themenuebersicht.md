@@ -15,7 +15,7 @@
 | Zertifikatsbasierende Anwendungen und PKI | Armand Portmann | T |
 | [Sicherheitspolitik und Konzepte](themenuebersicht.md#m-sicherheitspolitik-und-konzepte-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-sicherheitspolitik-und-konzepte-armand-portmann) | M |
 | Kryptologie | Josef Schuler | T |
-| Rechtsaspekte für Systemverantwortliche | Ursula Uttinger | R |
+| [Rechtsaspekte für Systemverantwortliche](themenuebersicht.md#r-rechtsaspekte-fuer-systemverantwortliche-ursula-uttinger) | [Ursula Uttinger](themenuebersicht.md#r-rechtsaspekte-fuer-systemverantwortliche-ursula-uttinger) | R |
 | [Network Defence](themenuebersicht.md#t-network-defence-peter-infanger) | [Peter Infanger](themenuebersicht.md#t-network-defence-peter-infanger) | T |
 | [Physische Sicherheit / Grundlagen Brandschutz](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md) | [Markus Spinnler](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md) | T |
 | ~~IT-Sicherheitsarchitektur~~ | ~~Markus Pfister~~ | ~~T~~ |
@@ -246,6 +246,18 @@
   * IPv6 / NAT
     * NAT wird nicht mehr gebraucht, nur für IPv4
   * Beispiele von Adressen
+
+## R: Rechtsaspekte für Systemverantwortliche / Ursula Uttinger
+
+* Verfahren
+  * Zivilprozess
+  * Strafverfahren
+  * Verwaltungverfahren
+* Gewaltenteilung \(Legislative, Executive, Judikative\)
+* Öffentliches Recht / Privates Recht
+* Datenschutz \(DSG\)
+* Urheberrecht \(URG\)
+* Strafgesetzbuch \(StGB\)
 
 
 
