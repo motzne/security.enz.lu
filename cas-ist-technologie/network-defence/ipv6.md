@@ -138,5 +138,16 @@ IPv6 hat ja keinen Mangel an Adressen. Deswegen braucht es bei IPv6 eigentlich k
 
 
 
+## Löst das neue Internet ­Protokoll IPv6 alle Sicherheitsprobleme?
+
+* Löst viele Probleme von IPv4, bringt aber neue mit sich
+* IPV6 Tunnels können Firewall umgegehen
+* Autoconfiguration von IPV6 lässt viele Attacken zu Man­in­the­middle einfach
+
+  realisieren
+
+* Bougus router implantion attack sind einfach zu realisieren
+* Neue Herausforderung an die Firewall­Admins
+
 
 

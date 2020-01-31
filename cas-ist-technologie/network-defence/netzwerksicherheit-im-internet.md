@@ -62,6 +62,17 @@
 
 Routenaggregation beschreibt eine Methode zur Minimierung der in einem IP- Netzwerk erforderlichen Anzahl von Routing-Tabellen.
 
+#### Wie könnten Router angegriffen werden? Was könnten die Auswirkungen sein?
+
+* Smurf­Angriff
+  * ICMP Pakete ohne Absenden
+  * Blockierend des Routers
+* IPSpoofing
+  * Vortäuschen einer bestimmten IP­Adresse als Absender­Adresse.
+* SYN Flooding  ○ Sendet nur SYN, ACK wird ausgelassen ­ der Router wartet auf die ACK ­Meldungen ● 
+* Portscan
+  * Offene Ports
+
 ## IP Hijacking
 
 * wiederrechtliche Übernahme von registrierten aber aktuell unbenutzten IP-Adressbereichen durch Dritte verstanden.
