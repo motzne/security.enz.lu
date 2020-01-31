@@ -53,7 +53,7 @@ Wichtig: Perimeter Security alleine genügt heute nicht
 * Ankommende Pakete verboten
 * Abgehende Pakete erlaubt
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 #### 2 ter Versuch:
 
@@ -62,7 +62,7 @@ Wichtig: Perimeter Security alleine genügt heute nicht
 
 Dieses mal werden auch die TCP Flags beachtet. Probleme bestehen aber noch, z.B. werden die Portnummern nicht eingeschränkt.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 
 
@@ -150,6 +150,80 @@ Dieses mal werden auch die TCP Flags beachtet. Probleme bestehen aber noch, z.B.
 * Techniken von professionellen \(stateful\) Firewalls,
 * Intrusion Detection & Prevention Systemen \(IDP & IPS\)
 * Applikations-Kontrolle \(mittels Deep-Packet-Inspection\)
+* Kombination herkömmlicher Firewalls
+* Externe Quellen werden hinzugezogen
+* Bsp. Phishing-Website auf externen Blacklist, wird direkt gesperrt
+
+### Firewalls heute
+
+* Nicht zwingend teuer
+* Produkte: Ubiquity, pfSense, OPNSense
+
+### Personal Firewall
+
+* Software für Rechner
+* Auch moderne Betriebssysteme haben einfache FWs Integriert
+* Bsp. Little Snitch 
+* Bietet Schutz beim direktem Anschluss ans Internet \(z.B. Wireless\) oder beim Anschluss an andere Netzwerke \(z.B. Hotel\)
+* Werden oft als integrierter Bestandteil eines "Internet Security" Produkt gekauft \(zusammen mit Anti-Viren-Software, usw.\)
+* Heutige Personal Firewalls bieten Schutz nicht nur von ankommenden Verbindungen sondern auch von abgehenden.
+* Kritikpunkte:
+  * Schwierig zu konfigurieren: dürfen "services.exe" oder "winword.exe" auf das Internet zugreifen?
+  * Oft falsch konfiguriert oder funktionieren nicht richtig
+
+## Demilitarisierte Zone \(DMZ\)
+
+* Einer der wichtigsten Begriffe im Zusammenhang mit Firewalls
+* Heutzutage gibt es viele verschiedene Definitionen im Internet, einige davon sind jedoch falsch \(oder zumindest verwirrend\)
+* "Klassische Definition":  **DMZ = Netzwerk zwischen dem geschützten Netzwerk \(inside\) und dem externen Netzwerk \(outside\)**
+* Systeme, die vom Internet her zugreifbar sind, sollten in der DMZ installiert werden.
+
+![](../../.gitbook/assets/image%20%2841%29.png)
+
+
+
+## Basic Firewall Rules
+
+1. Direkter Zugriff vom Internet ins interne Netz grundsätzlich verboten.
+2. Öffentlich zugängliche Web- und sonstige Server gehören in eine DMZ – und NICHT ins interne Netz
+3. Zugriff vom Internet aus begrenzt auf bestimmte Server in der DMZ. Anzahl Dienste \(Ports\) möglichst begrenzt.
+4. ALT: Zugriff vom internen Netz auf das Internet grundsätzlich offen. NEU: Zugriff vom internen Netz auf das Internet grundsätzlich untersagt \(limitiert "phone home tools"!\) , ausser bestimmten Diensten oder über Proxies.
+5. Gefährliche Protokolle nicht zulassen \(soweit möglich\), z.B. NetBIOS, NFS, TeamViewer, ...
+
+
+
+
+
+## FW - Wartung und Betrieb
+
+* Software Upgrades/Updates
+  * SW hat immer Sicherheitslücken
+  * Wartungsvertrag
+  * Periodisch updaten
+* Backups
+  * Auch für FW nötig
+  * Konfigurationen, Regeln, Logs, OS?
+* Change Control
+  * Änderungsprotokoll \(Wer hat wann was gemacht?\)
+  * Revisionssicherheit
+  * Prozesse definieren
+* Log-Files
+  * Loglevels
+  * Retention-Time
+  * Externe System für Auswertung \(Splunk\)
+* Firewall Outsourcing
+  * FW von Firme gemanaged
+  * Wichtige Fragen:
+    * Wer definiert die Sicherheitsanforderungen?
+    * Kundentrennung?
+    * Recht auf Audit? \(Wer bezahlt?\)
+* Firewall Management Tools
+
+
+
+
+
+
 
 
 

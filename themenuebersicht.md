@@ -209,6 +209,9 @@
         * DNS-Daten digital signiert
         * Problem: Letzte Meile von DNS zum Client bleibt ungesichert
       * DoT \(DNS over TLS\) + DoH \(DNS over HTTPS\)
-* 
+* Perimeter
+
+
+
 
 

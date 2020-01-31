@@ -19,7 +19,7 @@
 * regionale Internet-Provider; Institutionen mit Peering-Abkommen \(Durchleiten von fremdem Datenverkehr im allgemeinen nur beschränkt\)
 * "Transit AS": Internet-Backbone hoher Kapazität
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 ## Border Gateway Protocol BGP
 
@@ -129,7 +129,7 @@ Bei der DNS Amplification Attack wird ausgenutzt, dass Nameserver in bestimmten 
   * Bei DNSsec sind die DNS-Daten immer digital signiert, aber dennoch im Klartext einsehbar.
   * "Die letzte Meile"von Nameserver des Providers zu dessen Kunden bleibt völlig ungesichert.
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 #### DoT oder DoH
 

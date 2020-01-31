@@ -41,7 +41,7 @@ Der IT Grundschutz bietet eine **Vorgehensweise für den Aufbau eines Management
 
 ## IT-Grundschutz Wirkungsprinzip:
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 Der IT Grundschutz-Katalog besteht aus den folgenden Teilen:
 
