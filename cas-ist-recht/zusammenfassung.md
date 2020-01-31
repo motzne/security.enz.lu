@@ -1,5 +1,25 @@
 # Zusammenfassung
 
+## Bedeutung des Rechts in der IT-Welt
+
+* Recht als Rahmen von zulässigen \(= Maximum\) oder zwingenden Funktionen \(= Minimum\) einer Software resp. Datenverarbeitung
+* Klärung von Verpflichtungen und Haftung
+* Industriestandards ergänzen Recht
+* IT-Recht kein explizites Gesetz, sondern Vielzahl  von Gesetzen
+* Rechtssprechung hinkt oft hintennach
+
+## Instanzenzug
+
+* Es reicht nicht zu wissen, welche Rechte man hat, man muss auch wissen, wie man diese durchsetzen kann!
+* Zivil-, Verwaltungs- und Strafgerichte haben unterschiedliche Verfahren.
+* Grundsätzlich aber in allen Rechtsbereichen drei Instanzen: Bezirksgericht – Kantonsgericht – Bundesgericht
+
+
+
+
+
+
+
 ## Datenschutzgesetz \(DSG\)
 
 * Verordnung

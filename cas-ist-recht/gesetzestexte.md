@@ -2,7 +2,7 @@
 description: 'Stand: 12. Januar 2019'
 ---
 
-# Gesetzestexte
+# Weitere Gesetzestexte
 
 ## Link-Sammlung
 

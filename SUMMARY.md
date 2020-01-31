@@ -46,5 +46,5 @@
 ## CAS-IST: Recht
 
 * [Zusammenfassung](cas-ist-recht/zusammenfassung.md)
-* [Gesetzestexte](cas-ist-recht/gesetzestexte.md)
+* [Weitere Gesetzestexte](cas-ist-recht/gesetzestexte.md)
 
