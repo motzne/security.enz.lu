@@ -18,7 +18,7 @@
 
 ## Zusammenhang ISP / ISK / Regelwerk
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 
 
@@ -26,11 +26,11 @@
 
 ### Sicherheitspyramide nach BSI
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 ### Dokumentenstruktur nach BSI
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 ### Sicherheitspyramide nach Königs
 
@@ -38,9 +38,9 @@
 
 ### Dokumentenstruktur nach Königs
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ### Sicherheitspyramide nach IT-Sicherheitshandbuch
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 

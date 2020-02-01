@@ -50,13 +50,13 @@
 
 ## Gewaltenteilung
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
 
 
 ## Öffentliches Recht / Privates Recht
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ### Was ist was?
 
