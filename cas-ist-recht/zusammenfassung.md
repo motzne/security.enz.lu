@@ -115,7 +115,7 @@ Art 197 StGB \(Pornografie\)
 
 Art. 143 StGB unbefugte Datenbeschaffung   
 Art. 144bis StGB Datenbeschädigung   
-Art. 143bis StGB unbefugtes Eindringen in ein Datenverarbeitungssystem Die infizierten Computer können für verschiedene Cyberdelikte verwendet werden. Hierbei ist das entsprechende Phänomeneblatt beizuzie-hen. Möglich sind insbesondere DoS/DDos oder Phishing, aber auch Ransomware/Crypto-Ransomeware und E-Banking-Trojaner.
+Art. 143bis StGB unbefugtes Eindringen in ein Datenverarbeitungssystem Die infizierten Computer können für verschiedene Cyberdelikte verwendet werden. Hierbei ist das entsprechende Phänomeneblatt beizuziehen. Möglich sind insbesondere DoS/DDos oder Phishing, aber auch Ransomware/Crypto-Ransomeware und E-Banking-Trojaner.
 
 
 

@@ -2,7 +2,7 @@
 
 * Grundidee =  Informationelle Selbstbestimmung
 * DSG im Wandel
-  * Europa DSGVO
+  * Europa DSGVO \(viel Strenger \(einschneidernde Verhaltensregeln\) als Datenschutzgesetz in der Schweiz, höhere Bussen\)
   * Schweiz: Entwurf verabschiedet – Aufteilung in zwei Teile
   * Achtung: Datenschutz macht kein Halt vor Landesgrenzen
 
@@ -18,8 +18,8 @@
 | 6 | Grenzüberschreitende Bekanntgabe | Daten dürfen nur in Länder weitergegeben werden, welche einen angemessenen gesetzlichen Schutz haben. Sonst siehe Abs. 2ff |
 | 7 | Datensicherheit | Inhaber der Datensammlung muss Daten angemessen schützen können \(vgl. VDSG Art. 8 - 12 |
 | 8 | Informationspflicht | Inhaber der Datensammlung muss Auskunft geben inkl. deren Herkunft \(vgl. Abs. 2 lit. B |
-| 12 | Persönlichkeitsverletzungen | Datenbearbeitung darf Persönlichkeitsrechte nicht verletzen |
-| 14 | Beschaffen besonders schützenswerte Daten | Inhaber Daten muss mitgeteilt werden dann seine Daten gesammelt werden |
+| 12 | Persönlichkeitsverletzungen | Datenbearbeitung darf Persönlichkeitsrechte  nicht verletzen |
+| 14 | Beschaffen besonders schützenswerte Daten | Inhaber Daten muss mitgeteilt werden dann seine Daten gesammelt werden \(Medizinische, Biometrische\) |
 | 34 | Verletzung oben genannter Artikel | Antragsdelikt mit Busse |
 | 35 | Verletzung Schweigepflicht | Antragsdelikt mit Busse vgl. StGB 321 |
 
@@ -86,8 +86,6 @@ Behörden und Dienststellen des Bundes sowie Personen, soweit sie mit öffentlic
   
 **i. Inhaber der Datensammlung:**   
 private Personen oder Bundesorgane, die über den Zweck und den Inhalt einer Datensammlung entscheiden;_
-
-
 
 ## Art. 4 / Grundsätze
 
