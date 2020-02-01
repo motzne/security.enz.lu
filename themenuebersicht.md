@@ -8,7 +8,7 @@
 | [Grundlagen und Methoden Risikomanagement](themenuebersicht.md#m-risikomanagement-hans-peter-koenigs) | [Hans-Peter Königs](themenuebersicht.md#m-risikomanagement-hans-peter-koenigs) | M |
 | ~~Wissenschaftliches Schreiben~~ | ~~Sylvia Bendel~~ | ~~M~~ |
 | [Grundlagen Computer-Security](themenuebersicht.md#t-grundlagen-computer-security) | [Sebastian Obermeier](themenuebersicht.md#t-grundlagen-computer-security) | T |
-| Web Application Security/OWASP TOP 10 | Ivan Bütler | T |
+| [Web Application Security/OWASP TOP 10](themenuebersicht.md#t-web-application-security-owasp-top-10-ivan-buetler) | [Ivan Bütler](themenuebersicht.md#t-web-application-security-owasp-top-10-ivan-buetler) | T |
 | [Business Continuity Management I](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | [Peter E. Fischer](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | M |
 | [Hacking \# Cracking \# Malware](themenuebersicht.md#t-hacking-cracking-malware) | [Slavo Greminger](themenuebersicht.md#t-hacking-cracking-malware) | T |
 | [Standards II](themenuebersicht.md#m-standards-ii-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-standards-ii-armand-portmann) | M |
@@ -282,6 +282,11 @@
 * Revokationslisten \(CRL\)
 
 ## T: Web Application Security/OWASP TOP 10  / Ivan Bütler
+
+* Empfehlungen
+* Attack Pyramide \(und Mitigation\)
+* Cookies \(6 Werte erklärt\)
+* OWASP-Top10
 
 
 
