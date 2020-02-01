@@ -7,7 +7,7 @@
 * [ ] Session Handling via Cookies secure, HttpOnly, ~~expire, domain~~, path=/app \(restriktiv\), SameSite=strict
 * [ ] Nach erfolgreichem Login -&gt; neue Session
 
-Attack Pyramide
+## Attack Pyramide
 
 | Angriff | Mitigation |
 | :--- | :--- |
@@ -54,7 +54,7 @@ Angriff auf SQL Datenbanken mit speziell präparierten Benutzereingaben. Der An
 
 Bei Cross-Site-Scripting wird versucht, einer Seite ein eigenes Skript unterzuschieben. Es gibt mehrere Möglichkeiten wie man das anstellen kann. 
 
-### Persistentes XSS: 
+#### Persistentes XSS: 
 
 Angenommen es existiert ein Gästebuch das keinen Content-Filter verwendet. Wenn man einen neuen Beitrag erstellt, hängt man zusätzlich noch ein bisschen HTML-Code an. Um XSS-Lücken zu testen, verwendet man meistens das bekannte Script
 
@@ -64,7 +64,7 @@ Angenommen es existiert ein Gästebuch das keinen Content-Filter verwendet. Wenn
 
 Das ganze wird danach in einer DB oder in einem File gespeichert und immer wenn ein User die Seite aufruft erscheint die Meldung „XSS“. Das macht natürlich noch nicht viel Sinn. Eine Sinnvollere Anwendung wäre jetzt das Cookie des Users auszulesen und an eine externe Seite zu schicken. Der Angreifer kann danach die Session übernehmen und sich als die bestohlene Person ausgeben. 
 
-### Nicht-Persistentes XSS: 
+#### Nicht-Persistentes XSS: 
 
 Nicht-Persistente oder Reflexive XSS Lücken haben eine begrenzte Gültigkeit und werden nicht abgespeichert. Nehmen wir an eine Seite gibt den Inhalt eines Parameters auf einer Seite aus und Filtert diese Eingabe nicht. Die XSS Anwendung würde dann folgendermassen aussehen: 
 
