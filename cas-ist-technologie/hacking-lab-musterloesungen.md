@@ -80,7 +80,7 @@ See screenshot, the cookie can be read in the access\_logs of the hackers landin
 * Set cookie "BCookie" to httpOnly so it can't be acces from Javascript anymore
 * Set CSP with http headers to allow img sourcing only from trusted site \(self\)
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 {% embed url="https://www.owasp.org/index.php/Germany/Projekte/Top\_10\_fuer\_Entwickler-2013/A3-Cross-Site\_Scripting\_\(XSS\)" %}
 

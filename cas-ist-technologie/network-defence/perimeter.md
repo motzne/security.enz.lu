@@ -53,7 +53,7 @@ Wichtig: Perimeter Security alleine genügt heute nicht
 * Ankommende Pakete verboten
 * Abgehende Pakete erlaubt
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 #### 2 ter Versuch:
 
@@ -62,7 +62,7 @@ Wichtig: Perimeter Security alleine genügt heute nicht
 
 Dieses mal werden auch die TCP Flags beachtet. Probleme bestehen aber noch, z.B. werden die Portnummern nicht eingeschränkt.
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
 
 
@@ -99,7 +99,7 @@ Dieses mal werden auch die TCP Flags beachtet. Probleme bestehen aber noch, z.B.
 
 * Werden auch Proxy genannt, Proxy ≡ Stellvertreter
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 
 
@@ -178,7 +178,7 @@ Dieses mal werden auch die TCP Flags beachtet. Probleme bestehen aber noch, z.B.
 * "Klassische Definition":  **DMZ = Netzwerk zwischen dem geschützten Netzwerk \(inside\) und dem externen Netzwerk \(outside\)**
 * Systeme, die vom Internet her zugreifbar sind, sollten in der DMZ installiert werden.
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 
 
@@ -194,7 +194,7 @@ Dieses mal werden auch die TCP Flags beachtet. Probleme bestehen aber noch, z.B.
 
 ### Beispiel:
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 
 

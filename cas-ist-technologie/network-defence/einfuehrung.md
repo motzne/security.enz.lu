@@ -16,7 +16,7 @@ gesendeter Nachrichten zwischen verschiedenen Instanzen festlegen
 * Protokolle arbeiten miteinander – bauen aufeinander auf
 * Output einer Schicht ist Input der nächsten Schicht \(gilt in beide Richtungen!\)
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 
 
@@ -50,7 +50,7 @@ gesendeter Nachrichten zwischen verschiedenen Instanzen festlegen
 * keine Schutzelemente \(ausser Checksumme für Header\)
 * es wird auf der IP-Ebene **weder die Richtigkeit der der Daten noch die Einhaltung von Sequenz, Vollständigkeit und Eindeutigkeit der Datagramme überprüft**.
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 ### IP Paket
 
@@ -93,7 +93,7 @@ gesendeter Nachrichten zwischen verschiedenen Instanzen festlegen
   * Zielmaske
   * Schnittstelle/Next Hop über welche es erreichbar ist
 
-![ Beispiel Routingtabelle](../../.gitbook/assets/image%20%2830%29.png)
+![ Beispiel Routingtabelle](../../.gitbook/assets/image%20%2831%29.png)
 
 ### IP Paket "Forwarding" \(Routing\) / Ablauf
 

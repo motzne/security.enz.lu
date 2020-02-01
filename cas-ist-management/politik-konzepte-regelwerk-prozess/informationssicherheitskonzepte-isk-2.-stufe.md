@@ -18,7 +18,7 @@
 * Definiert den Umgang mit verschieden zentralen Elementen der Informationssysteme
 * Mittelfristige Geltungsdauer \(1-3 Jahre\)
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 ## Weitere Sicherheitskonzepte
 
