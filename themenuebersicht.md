@@ -14,12 +14,12 @@
 | [Standards II](themenuebersicht.md#m-standards-ii-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-standards-ii-armand-portmann) | M |
 | Zertifikatsbasierende Anwendungen und PKI | Armand Portmann | T |
 | [Sicherheitspolitik und Konzepte](themenuebersicht.md#m-sicherheitspolitik-und-konzepte-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-sicherheitspolitik-und-konzepte-armand-portmann) | M |
-| Kryptologie | Josef Schuler | T |
+| [Kryptologie](themenuebersicht.md#t-kryptologie-josef-schuler) | [Josef Schuler](themenuebersicht.md#t-kryptologie-josef-schuler) | T |
 | [Rechtsaspekte für Systemverantwortliche](themenuebersicht.md#r-rechtsaspekte-fuer-systemverantwortliche-ursula-uttinger) | [Ursula Uttinger](themenuebersicht.md#r-rechtsaspekte-fuer-systemverantwortliche-ursula-uttinger) | R |
 | [Network Defence](themenuebersicht.md#t-network-defence-peter-infanger) | [Peter Infanger](themenuebersicht.md#t-network-defence-peter-infanger) | T |
 | [Physische Sicherheit / Grundlagen Brandschutz](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md) | [Markus Spinnler](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md) | T |
 | ~~IT-Sicherheitsarchitektur~~ | ~~Markus Pfister~~ | ~~T~~ |
-| Awareness - Theorie | Carlos Rieder | M |
+| ~~Awareness - Theorie~~ | ~~Carlos Rieder~~ | M |
 
 ## M: Standards I / Tom Schmidt
 
@@ -258,6 +258,18 @@
 * Datenschutz \(DSG\)
 * Urheberrecht \(URG\)
 * Strafgesetzbuch \(StGB\)
+
+## T: Kryptologie / Josef Schuler
+
+* Begriffe \(Kryptographie, Kryptoanalyse\)
+* Verfahren:
+  * Asymetrisch
+  * Symmetrisch
+* Hash-Funktionen
+* Funktionsprinzipien von Algorithmen
+
+  * Blockchiffre 
+  * Stromchiffre
 
 
 
