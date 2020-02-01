@@ -90,7 +90,7 @@ Art. 239 StGB Störung von Betrieben, die der Allgemeinheit dienen
 
 Art. 143 StGB Unbefugte Datenbeschaffung und/oder   
 Art. 179novies StGB unbefugtes Beschaffen von Personendaten  
-Art. 143bis StGB Unbefugtes Eindringen in ein Datenverarbeitungs-system   
+Art. 143bis StGB Unbefugtes Eindringen in ein Datenverarbeitungssystem   
 Art. 143 StGB Unbefugt Datenbeschaffung   
 Art. 144bis StGB Datenbeschädigung bei jeglicher Veränderung \(z.B. Löschung von Daten wie E-Mails, Kontakten usw.\) Aufgrund der vorgenommenen Änderungen können weitere Straftat-bestände betroffen sein, insbesondere   
 Art. 261bis StGB Rassendiskriminierung,   
@@ -99,7 +99,7 @@ Art. 197 StGB Pornografie usw.
 
 #### Bei blossem Eindringen \(z.B. anhand eines gestohlenen Passworts\): 
 
-Art. 143bis StGB Unbefugtes Eindringen in ein Datenverarbeitungs-system
+Art. 143bis StGB Unbefugtes Eindringen in ein Datenverarbeitungssystem
 
 #### Werden Änderungen an der Webseite vorgenommen
 
