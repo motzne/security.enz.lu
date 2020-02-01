@@ -8,7 +8,7 @@
 
 * [Grundlagen Computer-Security](cas-ist-technologie/grundlagen-computer-security.md)
 * [Hacking-Lab: Musterlösung](cas-ist-technologie/hacking-lab-musterloesungen.md)
-* [OWASP Top 10](cas-ist-technologie/owasp-top-10.md)
+* [Web Application Security / OWASP Top 10](cas-ist-technologie/owasp-top-10.md)
 * [Grundlagen Computer Security](cas-ist-technologie/grundlagen-computer-security-1.md)
 * [Hacking\#Cracking\#Malware](cas-ist-technologie/hacking-cracking-malware.md)
 * [Physische Sicherheit / Grundlagen Brandschutz](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md)
