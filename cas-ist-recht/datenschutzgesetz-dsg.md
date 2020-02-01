@@ -52,7 +52,7 @@ Es gibt sehr viele Datenschutzgesetze. Und dafür gibt es teils sogar noch Zusat
 
 * Private Personen = Gegenstück der Bundesorgane. 
 * Natürliche Personen  = Personen, wie wir. 
-* Juristische Personen = Unternehmen wie AG, GmbH
+* Juristische Personen = Unternehmen wie AG, GmbH, Vereine und Stiftungen
 * Bundesorgane =  Parlament, Polizei, Militär, Eidg. Steuerverwaltung, SUVA, Obligatorische Versicherungen
 
 ## Art. 3 / Begriffe
