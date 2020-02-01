@@ -273,6 +273,15 @@
 
 ## T: Zertifikatsbasierende Anwendungen und PKI / Armand Portmann
 
+* Symmetrische Verschlüsselung
+* Asymmetrische Verschlüsselung
+* Email signieren und verschlüsseln \(immer in dieser Reihenfolge\)
+* Publikation öffentlicher Schlüssel \(CA\)
+* Zertifikatsklassen
+  * Class 1 \(wenig Sicherheit, Comodo, Lets Encrypt\) , Class 2, Class3, Qualified, Extendend Validation Certificate \(Banken\)
+* Revokationslisten \(CRL\)
+  * 
+
 
 
 
