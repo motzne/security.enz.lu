@@ -12,7 +12,7 @@
 | [Business Continuity Management I](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | [Peter E. Fischer](themenuebersicht.md#m-business-continuity-management-peter-e-fischer) | M |
 | [Hacking \# Cracking \# Malware](themenuebersicht.md#t-hacking-cracking-malware) | [Slavo Greminger](themenuebersicht.md#t-hacking-cracking-malware) | T |
 | [Standards II](themenuebersicht.md#m-standards-ii-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-standards-ii-armand-portmann) | M |
-| Zertifikatsbasierende Anwendungen und PKI | Armand Portmann | T |
+| [Zertifikatsbasierende Anwendungen und PKI](themenuebersicht.md#t-zertifikatsbasierende-anwendungen-und-pki-armand-portmann) | [Armand Portmann](themenuebersicht.md#t-zertifikatsbasierende-anwendungen-und-pki-armand-portmann) | [T](themenuebersicht.md#t-zertifikatsbasierende-anwendungen-und-pki-armand-portmann) |
 | [Sicherheitspolitik und Konzepte](themenuebersicht.md#m-sicherheitspolitik-und-konzepte-armand-portmann) | [Armand Portmann](themenuebersicht.md#m-sicherheitspolitik-und-konzepte-armand-portmann) | M |
 | [Kryptologie](themenuebersicht.md#t-kryptologie-josef-schuler) | [Josef Schuler](themenuebersicht.md#t-kryptologie-josef-schuler) | T |
 | [Rechtsaspekte für Systemverantwortliche](themenuebersicht.md#r-rechtsaspekte-fuer-systemverantwortliche-ursula-uttinger) | [Ursula Uttinger](themenuebersicht.md#r-rechtsaspekte-fuer-systemverantwortliche-ursula-uttinger) | R |
@@ -280,7 +280,10 @@
 * Zertifikatsklassen
   * Class 1 \(wenig Sicherheit, Comodo, Lets Encrypt\) , Class 2, Class3, Qualified, Extendend Validation Certificate \(Banken\)
 * Revokationslisten \(CRL\)
-  * 
+
+## T: Web Application Security/OWASP TOP 10  / Ivan Bütler
+
+
 
 
 
