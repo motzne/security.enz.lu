@@ -9,12 +9,11 @@
 * [Grundlagen Computer-Security](cas-ist-technologie/grundlagen-computer-security.md)
 * [Hacking-Lab: Musterlösung](cas-ist-technologie/hacking-lab-musterloesungen.md)
 * [OWASP Top 10](cas-ist-technologie/owasp-top-10.md)
-* [Kryptologie](cas-ist-technologie/kryptologie.md)
 * [Grundlagen Computer Security](cas-ist-technologie/grundlagen-computer-security-1.md)
 * [Hacking\#Cracking\#Malware](cas-ist-technologie/hacking-cracking-malware.md)
 * [Physische Sicherheit / Grundlagen Brandschutz](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md)
-* [PKI](cas-ist-technologie/pki.md)
-* [Kryptologie](cas-ist-technologie/kryptologie-1.md)
+* [Zertifikatsbasierende Anwendungen und PKI](cas-ist-technologie/pki.md)
+* [Kryptologie](cas-ist-technologie/kryptologie.md)
 * [Network Defence](cas-ist-technologie/network-defence/README.md)
   * [Einführung](cas-ist-technologie/network-defence/einfuehrung.md)
   * [Protokollanalyse](cas-ist-technologie/network-defence/untitled.md)
@@ -43,7 +42,6 @@
 * [Vorgehen: Risikonanalyse](cas-ist-management/vorgehen-risikonanalyse.md)
 * [Business Continuity Management](cas-ist-management/business-continuity-management.md)
 * [Awareness](cas-ist-management/awareness.md)
-* [Glossar](glossar.md)
 
 ## CAS-IST: Recht
 
@@ -52,4 +50,5 @@
 * [Urheberrechtsgesetz \(URG\)](cas-ist-recht/urheberrechtsgesetz-urg.md)
 * [Strafgesetzbuch \(StGB\)](cas-ist-recht/strafgesetzbuch-stgb.md)
 * [Weitere Gesetzestexte](cas-ist-recht/gesetzestexte.md)
+* [Glossar](glossar.md)
 
