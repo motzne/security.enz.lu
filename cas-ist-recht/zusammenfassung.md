@@ -60,9 +60,9 @@
 
 ### Was ist was?
 
-* X hat das herumliegende Passwort seiner Partnerin genutzt, um auf die Mails zuzugreifen.
-* Y nutzt die Bilder des letzten Firmenanlasses und stellt diese auf die Firmenhomepage.
-* Z hat sein Autokontroll- schilder sperren lassen. Dennoch hat die Polizei Zugriff.
+* X hat das herumliegende Passwort seiner Partnerin genutzt, um auf die Mails zuzugreifen.  =&gt; Öffentliches Recht /  StGB Bsp. Art. 143
+* Y nutzt die Bilder des letzten Firmenanlasses und stellt diese auf die Firmenhomepage. =&gt; Privates Recht / ZGB?
+* Z hat sein Autokontrollschilder sperren lassen. Dennoch hat die Polizei Zugriff. =&gt; Öffentliches Recht
 
 ## Gängige Artikel
 
