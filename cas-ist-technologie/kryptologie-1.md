@@ -5,7 +5,7 @@
 * **Kryptographie**: Entwurf von Systemen
 * **Kryptoanalyse**: Brechen von Systemen.
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
 
 
@@ -14,7 +14,17 @@
 ### Symmetrische Kryptographie
 
 * Beide Kommunikationspartner besitzen den geheimen Schlüssel.
-* Grösster Nachteil :Schlüsselverteilung und Anzahl Schlüssel \(bei n Partnern braucht es ungefähr n2/2 Schlüssel, wenn jeder mit jedem mit einem anderen Schlüssel kommunizieren will.\)
+* Grösster Nachteil :Schlüsselverteilung und Anzahl Schlüssel \(bei n Partnern braucht es ungefähr n2/2 Schlüssel, wenn jeder mit jedem mit einem anderen Schlüssel kommunizieren will.\) 
+
+![](../.gitbook/assets/image%20%2871%29.png)
+
+Gleicher Schlüssel für Verschlüsselung und Entschlüsselung
+
+* Schlüssel muss unbedingt geheim gehalten sein
+* Grösstes Problem: Sichere Schlüsselverteilung! + Skaliert schlecht
+* Grösster Vorteil: Schnell! 
+* Mit der symmetrischen Verschlüsselung kann nur das Abhören verhindert werden. Resp. es kann nur Geheimhaltung **nicht** aber Integrität erreicht werden!!!
+* Anzahl Schlüssel bei symmetrischen Verfahren `n^2/2 [genauer n*(n-1)/2]`  
 
 ### Asymmetrische Kryptographie
 
@@ -23,13 +33,23 @@
 * Der obige Nachteil ist hier behoben, es braucht nur n, resp. 2n Schlüsselpaare.
 * Der grösste Nachteil ist der erhöhte Rechenaufwand.
 
+![](../.gitbook/assets/image%20%2820%29.png)
+
+Öffentlicher Schlüssel des Empfängers: zum Verschlüsseln von Daten
+
+* Privater Schlüssel des Empfängers: zum Entschlüsseln von Daten
+* Grösstes Problem: ca. 1000-mal langsamer als sym. Alg.
+* Grösster Vorteil: «Einfaches Key Management», skaliert besser \(Internet\)
+* Anzahl Schlüssel bei asymmetrischen Verfahren `n Schlüsselpaare`  
+* Mit der asymmetrischen Verschlüsselung kann ebenfalls nur das Abhören verhindert werden. Resp. es kann nur Geheimhaltung **nicht** aber Integrität erreicht werden!!!
+
 
 
 ## Kryptopuzzle als Übersicht:
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
-
+![](../.gitbook/assets/image%20%2864%29.png)
 
 ## Sicherheitsanforderungen:
 
@@ -56,7 +76,7 @@
 
 ## Angriffe im klassichen Kryptomodell
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 * Eve
   * Abhören der Meldung \(Confidentiality\)
@@ -81,9 +101,15 @@
 
 
 
+## Beispiele / Anwendungen
+
 ![](../.gitbook/assets/image%20%2816%29.png)
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
+
+![](../.gitbook/assets/image%20%2821%29.png)
+
+![](../.gitbook/assets/image%20%2818%29.png)
 
 ## Hashfunktionen:
 
@@ -93,7 +119,7 @@
 
 
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 ### Beispiele:
 
@@ -113,9 +139,59 @@
 
 ## Wichtige Eigenschaften 
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
+
+  
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 32.0px 'Times New Roman'; color: \#000000}  
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 24.0px 'Times New Roman'; color: \#000000}  
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 20.0px 'Times New Roman'; color: \#000000}  
+p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px 'Times New Roman'; color: \#000000}  
+span.s1 {font: 26.0px 'Times New Roman'}  
+span.s2 {font: 19.0px 'Times New Roman'}  
 
 
+## **Hybridverschlüsselung**
+
+**Problem:** Grosse Daten können nicht asymmetrisch verschlüsselt werden.
+
+**Lösung:** Die Hypridverschlüsselung
+
+* Erzeugung eines zufällig gewählten symmetrischen Session Key‘s \(cf. z.B. mit Randomfkt. In Kap. 8.4 im Skript\)
+* Die Dokumenten- oder Meldungsverschlüsselung wird mit symmetrischen Verfahren durchgeführt.
+* Der verwendete symmetrische Schlüssel wird mit einem asymmetrischen Verfahren verschlüsselt und mitgeschickt.
+* Vorteile:
+  * „Einfaches“ Key Management \(cf. asymmetrisches Verfahren\).
+  * **Die bessere Performance der symmetrischen Verfahren wird mit der besseren Schlüsselverteilung der asymmetrischen Verfahren kombiniert.**
+
+![](../.gitbook/assets/image%20%2877%29.png)
+
+
+
+## **MAC Berechnung** 
+
+![Secret Key Kryptografie 2: MAC-Berechnung](../.gitbook/assets/image%20%2895%29.png)
+
+## **Digitale Signatur \(z.B. RSA\)**
+
+![Public Key Krypto. 3: Digitale Signatur \(z.B. RSA\)](../.gitbook/assets/image%20%2852%29.png)
+
+
+
+## Funktionsprinzipien von Algorithmen
+
+### Blockchiffre
+
+![](../.gitbook/assets/image%20%2893%29.png)
+
+### Stromchiffre
+
+![](../.gitbook/assets/image%20%2831%29.png)
+
+
+
+
+
+## Zusammenfassung
 
 ### Vertraulichkeit/Geheimhaltung
 
