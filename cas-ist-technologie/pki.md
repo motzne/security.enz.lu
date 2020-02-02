@@ -2,17 +2,17 @@
 
 ## Signieren und verschlüsseln einer Email
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 ## Entschlüsseln und Verifizieren einer Email
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 ## Schlüsselverwendung:
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 ## Publikation des öffentlichen Schlüssels
 
@@ -100,7 +100,7 @@
 * Alternativ zur Überprüfung via Revokationsliste ist auch eine Online-Prüfung via Online Certificate Status Protocol \(OCSP\) möglich
 * Hinweis: Beim sog. OCSP-Stapling liefert der Webserverbetreiber anstelle der CA die Antwort zur OCSP-Anfrage
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 ### Typen von Revokationslisten
 

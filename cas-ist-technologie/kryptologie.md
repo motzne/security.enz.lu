@@ -5,7 +5,7 @@
 * **Kryptographie**: Entwurf von Systemen
 * **Kryptoanalyse**: Brechen von Systemen.
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
 
 
@@ -16,7 +16,7 @@
 * Beide Kommunikationspartner besitzen den geheimen Schlüssel.
 * Grösster Nachteil :Schlüsselverteilung und Anzahl Schlüssel \(bei n Partnern braucht es ungefähr n2/2 Schlüssel, wenn jeder mit jedem mit einem anderen Schlüssel kommunizieren will.\) 
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 Gleicher Schlüssel für Verschlüsselung und Entschlüsselung
 
@@ -47,9 +47,9 @@ Gleicher Schlüssel für Verschlüsselung und Entschlüsselung
 
 ## Kryptopuzzle als Übersicht:
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 ## Sicherheitsanforderungen:
 
@@ -76,7 +76,7 @@ Gleicher Schlüssel für Verschlüsselung und Entschlüsselung
 
 ## Angriffe im klassichen Kryptomodell
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 * Eve
   * Abhören der Meldung \(Confidentiality\)
@@ -105,7 +105,7 @@ Gleicher Schlüssel für Verschlüsselung und Entschlüsselung
 
 ![](../.gitbook/assets/image%20%2817%29.png)
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 ![](../.gitbook/assets/image%20%2822%29.png)
 
@@ -119,7 +119,7 @@ Gleicher Schlüssel für Verschlüsselung und Entschlüsselung
 
 
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 ### Beispiele:
 
@@ -139,7 +139,7 @@ Gleicher Schlüssel für Verschlüsselung und Entschlüsselung
 
 ## Wichtige Eigenschaften 
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
   
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 32.0px 'Times New Roman'; color: \#000000}  
@@ -163,17 +163,17 @@ span.s2 {font: 19.0px 'Times New Roman'}
   * „Einfaches“ Key Management \(cf. asymmetrisches Verfahren\).
   * **Die bessere Performance der symmetrischen Verfahren wird mit der besseren Schlüsselverteilung der asymmetrischen Verfahren kombiniert.**
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 
 
 ## **MAC Berechnung** 
 
-![Secret Key Kryptografie 2: MAC-Berechnung](../.gitbook/assets/image%20%28101%29.png)
+![Secret Key Kryptografie 2: MAC-Berechnung](../.gitbook/assets/image%20%28102%29.png)
 
 ## **Digitale Signatur \(z.B. RSA\)**
 
-![Public Key Krypto. 3: Digitale Signatur \(z.B. RSA\)](../.gitbook/assets/image%20%2853%29.png)
+![Public Key Krypto. 3: Digitale Signatur \(z.B. RSA\)](../.gitbook/assets/image%20%2854%29.png)
 
 
 
@@ -181,11 +181,11 @@ span.s2 {font: 19.0px 'Times New Roman'}
 
 ### Blockchiffre
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28100%29.png)
 
 ### Stromchiffre
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 
 

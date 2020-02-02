@@ -122,3 +122,9 @@ Autounfall sehr selten vorsätzlich. Eventualvorsatz: Strassenrennen.
 
 Ein Tier ist eine Sachbeschädigung!
 
+
+
+
+
+![](../.gitbook/assets/image%20%2823%29.png)
+
