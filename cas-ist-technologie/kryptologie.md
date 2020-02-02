@@ -141,15 +141,6 @@ Gleicher Schlüssel für Verschlüsselung und Entschlüsselung
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-  
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 32.0px 'Times New Roman'; color: \#000000}  
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 24.0px 'Times New Roman'; color: \#000000}  
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 20.0px 'Times New Roman'; color: \#000000}  
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px 'Times New Roman'; color: \#000000}  
-span.s1 {font: 26.0px 'Times New Roman'}  
-span.s2 {font: 19.0px 'Times New Roman'}  
-
-
 ## **Hybridverschlüsselung**
 
 **Problem:** Grosse Daten können nicht asymmetrisch verschlüsselt werden.
