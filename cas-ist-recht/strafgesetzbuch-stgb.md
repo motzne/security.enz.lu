@@ -172,7 +172,60 @@
         Mit der Freiheitsstrafe kann Geldstrafe verbunden werden</td>
     </tr>
   </tbody>
-</table>## Strafrecht 
+</table>### Gängige Artikel
+
+#### Ransomware: 
+
+Art. 144bis StGB Datenbeschädigung   
+Art. 156 StGB Erpressung   
+Art. 305bis StGB Geldwäscherei
+
+#### e-Banking Trojaner 
+
+Art. 144bis StGB Datenbeschädigung Installation von Malware auf PC und / oder Verändern von Browser-einstellungen \(gefälschte Bankenzertifikate, Umleitung auf TOR\)   
+Art. 147 StGB Betrügerischer Missbrauch einer Datenverarbeitungsanlage Manipulation des Zahlungsverkehrs unter Mithilfe von Schadsoftware, Vermögenswerte des Geschädigten werden verschoben   
+Art. 305bis StGB Geldwäscherei
+
+#### DDOS/Dos: 
+
+Art. 156 StGB Erpressung   
+Art. 144bis StGB Datenbeschädigung liegt gemäss MELANI bereits dann vor, wenn Daten durch einen Angriff über eine gewisse Zeit nicht verfügbar und deshalb unbrauchbar sind   
+Art. 181 StGB Nötigung insbesondere dann wenn seitens der Täterschaft keine Geldforderung ge-stellt wurde   
+Art. 179septies StGB Missbrauch einer Fernmeldeanlage   
+Art. 239 StGB Störung von Betrieben, die der Allgemeinheit dienen
+
+#### Hacking Bei Datendiebstahl: 
+
+Art. 143 StGB Unbefugte Datenbeschaffung und/oder   
+Art. 179novies StGB unbefugtes Beschaffen von Personendaten  
+Art. 143bis StGB Unbefugtes Eindringen in ein Datenverarbeitungssystem   
+Art. 143 StGB Unbefugt Datenbeschaffung   
+Art. 144bis StGB Datenbeschädigung bei jeglicher Veränderung \(z.B. Löschung von Daten wie E-Mails, Kontakten usw.\) Aufgrund der vorgenommenen Änderungen können weitere Straftat-bestände betroffen sein, insbesondere   
+Art. 261bis StGB Rassendiskriminierung,   
+Art. 173 ff. Üble Nachrede, Verleumdung, Beschimpfung,   
+Art. 197 StGB Pornografie usw.
+
+#### Bei blossem Eindringen \(z.B. anhand eines gestohlenen Passworts\): 
+
+Art. 143bis StGB Unbefugtes Eindringen in ein Datenverarbeitungssystem
+
+#### Werden Änderungen an der Webseite vorgenommen
+
+Art. 144bis StGB Datenbeschädigung \(bei jeglicher Veränderung\)
+
+#### Bei Verunstaltung Webseite \(je nach Änderung\)
+
+Art. 261bis StGB \(Rassendiskriminierung\)   
+Art. 173 ff. StGB \(Üble Nachrede, Verleumdung, Beschimpfung\)   
+Art 197 StGB \(Pornografie\)
+
+#### Botnet
+
+Art. 143 StGB unbefugte Datenbeschaffung   
+Art. 144bis StGB Datenbeschädigung   
+Art. 143bis StGB unbefugtes Eindringen in ein Datenverarbeitungssystem Die infizierten Computer können für verschiedene Cyberdelikte verwendet werden. Hierbei ist das entsprechende Phänomeneblatt beizuziehen. Möglich sind insbesondere DoS/DDos oder Phishing, aber auch Ransomware/Crypto-Ransomeware und E-Banking-Trojaner.
+
+## Strafrecht 
 
 * Legalitätsprinzip: Nulla poena sine lege – «**Keine Strafe ohne Gesetz**» \(Art. 1 StGB\)
 * Zeitlicher Aspekt \(Art. 2 StGB\)
