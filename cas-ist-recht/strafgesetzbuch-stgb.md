@@ -343,7 +343,24 @@ Ein Tier ist eine Sachbeschädigung!
 
 ### Welche 3 Voraussetzungen braucht es, für eine Strafbarkeit?
 
+1. Tatbestand
+   1. Wird unterteilt in objektiv und subjektiv \(Bereicherung, Absicht\) 
+2. Rechtswidrigkeit
+3. Schuldhaftigkeit
 
+### Was verstehen Sie unter Compliance? Nennen Sie zwei Aufgaben von einem Compliance-Officer in einem Grossunternehmen
+
+* besteht in der Einhaltung verschiedener Normen,
+* wird mit verschiedenen Führungsinstrumenten umgesetzt und kontrolliert,
+* impliziert Risikomanagement und IT-Security,
+* ist für den konkreten Adressaten spezifisch und verbindlich zu präzisieren. 
+
+### Verjährung
+
+Im Strafrecht unterscheidet man zwischen Verfolgungs- und Vollstreckungsverjährung.
+
+* Die **Verfolgungsverjährung** \(Art. 97 ff. StGB\) legt fest, innerhalb welcher Fristen seit Ausführung einer Straftat diese durch die Strafuntersuchungsbehörden, also den Staat, **noch verfolgt werden kann**.
+* Die **Vollstreckungsverjährung** \(Art. 99 ff. StGB\) bestimmt, innerhalb welcher Fristen **nach Erlass eines Urteils** eine Strafe gegenüber dem Täter noch **vollstreckt werden kann**.
 
 
 
