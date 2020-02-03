@@ -288,5 +288,20 @@ Welche mathematischen Angriffe auf Hashfunktionen gibt es?
 
     • Software as a Service
 
+  
+
+
+##  Trusted Computing Base \(TCB\)
+
+* Die Summe aller Komponenten die sicherheitsrelevant sind:
+  * Software
+  * Hardware
+  * Firmware
+* Die Kombination davon ist verantwortlich für die Gewährleistung der Security Policy
+* Kernfrage: 
+  * Was und wem vertrau ich ?
+  * Bsp.Microsoft + Bitlocker
+* ==&gt; Die Summe muss stimmen, wenn HW sehr sicher und Software schlecht bringt das auch nichts
+
 
 
