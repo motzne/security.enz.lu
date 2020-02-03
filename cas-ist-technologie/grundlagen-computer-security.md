@@ -242,6 +242,21 @@ Welche mathematischen Angriffe auf Hashfunktionen gibt es?
 
 
 
+### BLP / Bell LaPadula - Zugriff
+
+* \(TS, {X, Z}\) auf  \(S, {X,Z}\) **=&gt; Lesen**
+* \(S, {X, Z}\) auf  \(TS, {X, Z}\) **=&gt; Schreiben**
+* \(C, {Z}\) auf  \(C, {Y}\)  **=&gt; Nichts**
+* \(S, {Z}\) auf  \(S, {Z}\)  **=&gt; Lesen, Schreiben**
+* \(TS, {X, Z}\) auf  \(C, {X}\)  **=&gt; Lesen**
+* ohne Clearance auf  \(C, {Y\)  **=&gt; Schreiben, leere Menge ist eine Teilmenge, daher alles**
+* \(S, {A, B}\) auf  \(S, {V, T, A}\)  **=&gt; Nichts**
+* \(S, {V, T, A}\) auf  \(S, {V, T, A}\)  **=&gt; Lesen, Schreiben**
+* \(TS, {A, O}\) auf  \(TS, {O}\)  **=&gt; Lesen**
+* \(S, {O}\) auf  \(TS, {O}\)  **=&gt; Schreiben** 
+
+
+
 ## Architektur
 
 * Client-Server Architektur 
