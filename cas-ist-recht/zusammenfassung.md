@@ -149,3 +149,22 @@ Bsp. Foto aus Internet :
       * man kann nicht damit rechen das man aufgenommen wurde
     * Bilder auch über Hecke in den Garten, Einblick in die Privatsphäre
 
+## Buch Sury Informatikrecht - Strafaspekte:
+
+### Welche Strafartikel betreffen grundsätzlich Privacy-Aspekte?
+
+* Art. 179novies StGB – Unbefugtes Beschaffen von Perso- nendaten
+* Art. 173ff StGB generell
+* Art. 34f DSG
+
+### Wo, in welchen Gesetzen, finden sich die diesbezüglichen Strafartikel?
+
+* Strafgesetzbuch
+* DSG
+* Kantonale Datenschutzgesetzgebung
+* FMG
+
+### Wie kann sich ein Mitarbeiter vor strafrechtlicher Verfolgung wegen Privacy-Verletzung schützen?
+
+Verweis auf den Einzelarbeitsvertrag und die damit verbundene Be- auftragung durch die Unternehmung, eine entsprechende Arbeit im Namen der Firma auszuführen.
+

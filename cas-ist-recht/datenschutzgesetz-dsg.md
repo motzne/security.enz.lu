@@ -1,18 +1,10 @@
 # Datenschutzgesetz \(DSG\)
 
-* Datenschutz = **Persönlichkeitsschutz**
-  * nicht aller oder irgendwelcher Daten
-  * sondern mit bestimmte oder bestimmbaren Bezug auf Person
-  * nicht um Schutz von Daten, sondern um Personen um die Daten gehen
-* Grundidee =  **Informationelle Selbstbestimmung**
+* Grundidee =  Informationelle Selbstbestimmung
 * DSG im Wandel
   * Europa DSGVO \(viel Strenger \(einschneidernde Verhaltensregeln\) als Datenschutzgesetz in der Schweiz, höhere Bussen\)
   * Schweiz: Entwurf verabschiedet – Aufteilung in zwei Teile
   * Achtung: Datenschutz macht kein Halt vor Landesgrenzen
-* Mit Persönlichkeitsschutz allgemein und Datenschutz im Besonderen befassen sich nebst dem Datenschutzgesetz auch noch andere Ge- setze, wie beispielsweise:
-  * das **ZGB**, insbesondere Art. 28-28l ZGB \(Persönlichkeitsschutz allgemein\),
-  * das **OR**, insbesondere Art. 328-328b OR, gemäss welchem der Arbeitgeber nur solche Daten des Arbeitnehmers bearbeiten darf, die dessen Eignung für das Arbeitsverhältnis betreffen,
-  * das **StGB**, insbesondere Art. 173-179novies StGB, welches be- stimmte Arten von Persönlichkeitsverletzungen unter Strafe stellt.
 
 {% file src="../.gitbook/assets/dsg.pdf" caption="Datenschutzgesetz \(DSG\)" %}
 
