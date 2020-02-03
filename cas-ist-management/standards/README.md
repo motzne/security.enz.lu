@@ -17,7 +17,5 @@
 
 Mehr Informationen zu den BSI Standards erhält man auf dem Internetauftritt von BSI:
 
-{% embed url="https://www.bsi.bund.de/DE/Themen/ITGrundschutz/itgrundschutz\_node.html" %}
-
-
+[https://www.bsi.bund.de/DE/Themen/ITGrundschutz/itgrundschutz\_node.html](https://www.bsi.bund.de/DE/Themen/ITGrundschutz/itgrundschutz_node.html)
 

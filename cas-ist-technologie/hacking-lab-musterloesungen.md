@@ -82,7 +82,7 @@ See screenshot, the cookie can be read in the access\_logs of the hackers landin
 
 ![](../.gitbook/assets/image%20%2841%29.png)
 
-{% embed url="https://www.owasp.org/index.php/Germany/Projekte/Top\_10\_fuer\_Entwickler-2013/A3-Cross-Site\_Scripting\_\(XSS\)" %}
+[https://www.owasp.org/index.php/Germany/Projekte/Top\_10\_fuer\_Entwickler-2013/A3-Cross-Site\_Scripting\_\(XSS\)](https://www.owasp.org/index.php/Germany/Projekte/Top_10_fuer_Entwickler-2013/A3-Cross-Site_Scripting_%28XSS%29)
 
 ==&gt; 5/5 Points
 
@@ -228,7 +228,7 @@ Why is a java script from the attacker host not able to do the job \(read the xs
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-{% embed url="https://www.owasp.org/index.php/Germany/Projekte/Top\_10\_fuer\_Entwickler-2013/A8-Cross-Site\_Request\_Forgery\_\(CSRF\)" %}
+[https://www.owasp.org/index.php/Germany/Projekte/Top\_10\_fuer\_Entwickler-2013/A8-Cross-Site\_Request\_Forgery\_\(CSRF\)](https://www.owasp.org/index.php/Germany/Projekte/Top_10_fuer_Entwickler-2013/A8-Cross-Site_Request_Forgery_%28CSRF%29)
 
 ==&gt; 7/10 Points
 
