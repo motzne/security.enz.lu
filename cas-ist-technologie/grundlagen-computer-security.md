@@ -36,7 +36,7 @@
     * Wert der Zertifizierung?
   * Musterfragen:
     * CC ist ein spezialisiertes Framework nach ISO/IEC15408, in dem Hersteller Behauptungen über die Security Attribute ihrer Produkte aufstellen und Testlabore die Produkte hinsichtlich der Hersteller- behauptungen bewerten und zertifizieren können.
-    * CC definiert Unternehmensanforderungen, unter anderem auch Betriebs- und Kommunikationsmanagement
+    * CC erlaubt den Herstellern, viele Test-Details selbst festzulegen
 
 ## Tests
 
