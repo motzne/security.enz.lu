@@ -2,6 +2,11 @@
 
 
 
+* Zwei Deliktarten unterschieden werden:
+  * Zum einen gibt es Delikte, gemäss denen der Täter darauf abzielt, Elemente der IT, wie beispielsweise Daten, zu schädigen. Diese Delikte sind mit dem Aufkommen der Informatik und der Informatikmittel neu entstanden und werden im folgenden **Computerdelikte im engeren Sinne** genannt. Dazu zählt beispielsweise die unbefugte Datenbeschaffung,
+  * Zum andern gibt es Delikte, für welche die Mittel der Informatik ein neues und sehr effizientes Medium sind. Es handelt sich aber um **traditionelle Delikte,** die schon vor Bestehen von Infor- matikmitteln begangen wurden. Diese Delikte, wie beispielsweise die Pornographie, werden vorliegend als **Computerdelikte im weiteren Sinne** bezeichnet.
+* Begriff **Cyberkriminalität** = sämtliche Computerdelikte \(also im engeren Sinne und im weiteren Sinne\), welche mit dem Hilfsmittel des Internet begangen werden.
+
 
 
 {% file src="../.gitbook/assets/stgb \(1\).pdf" caption="Schweizerische Strafgesetztbuch \(StGB\)" %}

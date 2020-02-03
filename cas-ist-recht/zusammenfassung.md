@@ -117,7 +117,14 @@ Art. 143 StGB unbefugte Datenbeschaffung
 Art. 144bis StGB Datenbeschädigung   
 Art. 143bis StGB unbefugtes Eindringen in ein Datenverarbeitungssystem Die infizierten Computer können für verschiedene Cyberdelikte verwendet werden. Hierbei ist das entsprechende Phänomeneblatt beizuziehen. Möglich sind insbesondere DoS/DDos oder Phishing, aber auch Ransomware/Crypto-Ransomeware und E-Banking-Trojaner.
 
+## Recht am eigenen Bild
 
+Das Recht des Urhebers am von ihm geschaffenen Werk wird durch das **Recht am eigenen Bild** ergänzt. Das Recht am eigenen Bild untersteht dem Persönlichkeitsschutz und ist beispielsweise in Deutschland im Urheberrechtsgesetz ausdrücklich erwähnt. Wer ein Bild einer Person ohne deren ausdrückliche oder stillschweigende Zustimmung verwendet, begeht eine **Persönlichkeitsverletzung**.
+
+Bsp. Foto aus Internet :
+
+* für Geburtstagseinladung an geschlossen = OK
+* für Firmeneinladung = Problematisch, da kommerzieller Gebrauch vorliegt
 
 ## Mögliche Prüfungsfragen
 
