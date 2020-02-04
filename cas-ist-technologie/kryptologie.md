@@ -143,7 +143,9 @@ Gleicher Schlüssel für Verschlüsselung und Entschlüsselung
 
 ## **Hybridverschlüsselung**
 
-**Problem:** Grosse Daten können nicht asymmetrisch verschlüsselt werden.
+**Beispiel:  TLS, PGP  
+  
+Problem:** Grosse Daten können nicht asymmetrisch verschlüsselt werden.
 
 **Lösung:** Die Hypridverschlüsselung
 
