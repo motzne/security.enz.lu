@@ -34,6 +34,9 @@
   * Probleme:
     * Sehr generisch
     * Wert der Zertifizierung?
+  * Musterfragen:
+    * CC ist ein spezialisiertes Framework nach ISO/IEC15408, in dem Hersteller Behauptungen über die Security Attribute ihrer Produkte aufstellen und Testlabore die Produkte hinsichtlich der Hersteller- behauptungen bewerten und zertifizieren können.
+    * CC erlaubt den Herstellern, viele Test-Details selbst festzulegen
 
 ## Tests
 
@@ -242,6 +245,21 @@ Welche mathematischen Angriffe auf Hashfunktionen gibt es?
 
 
 
+### BLP / Bell LaPadula - Zugriff
+
+* \(TS, {X, Z}\) auf  \(S, {X,Z}\) **=&gt; Lesen**
+* \(S, {X, Z}\) auf  \(TS, {X, Z}\) **=&gt; Schreiben**
+* \(C, {Z}\) auf  \(C, {Y}\)  **=&gt; Nichts**
+* \(S, {Z}\) auf  \(S, {Z}\)  **=&gt; Lesen, Schreiben**
+* \(TS, {X, Z}\) auf  \(C, {X}\)  **=&gt; Lesen**
+* ohne Clearance auf  \(C, {Y\)  **=&gt; Schreiben, leere Menge ist eine Teilmenge, daher alles**
+* \(S, {A, B}\) auf  \(S, {V, T, A}\)  **=&gt; Nichts**
+* \(S, {V, T, A}\) auf  \(S, {V, T, A}\)  **=&gt; Lesen, Schreiben**
+* \(TS, {A, O}\) auf  \(TS, {O}\)  **=&gt; Lesen**
+* \(S, {O}\) auf  \(TS, {O}\)  **=&gt; Schreiben** 
+
+
+
 ## Architektur
 
 * Client-Server Architektur 
@@ -272,6 +290,21 @@ Welche mathematischen Angriffe auf Hashfunktionen gibt es?
     • Plattform as a Service
 
     • Software as a Service
+
+  
+
+
+##  Trusted Computing Base \(TCB\)
+
+* Die Summe aller Komponenten die sicherheitsrelevant sind:
+  * Software
+  * Hardware
+  * Firmware
+* Die Kombination davon ist verantwortlich für die Gewährleistung der Security Policy
+* Kernfrage: 
+  * Was und wem vertrau ich ?
+  * Bsp.Microsoft + Bitlocker
+* ==&gt; Die Summe muss stimmen, wenn HW sehr sicher und Software schlecht bringt das auch nichts
 
 
 

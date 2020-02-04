@@ -1,10 +1,18 @@
 # Datenschutzgesetz \(DSG\)
 
-* Grundidee =  Informationelle Selbstbestimmung
+* Datenschutz = **Persönlichkeitsschutz**
+  * nicht aller oder irgendwelcher Daten
+  * sondern mit bestimmte oder bestimmbaren Bezug auf Person
+  * nicht um Schutz von Daten, sondern um Personen um die Daten gehen
+* Grundidee =  **Informationelle Selbstbestimmung**
 * DSG im Wandel
   * Europa DSGVO \(viel Strenger \(einschneidernde Verhaltensregeln\) als Datenschutzgesetz in der Schweiz, höhere Bussen\)
   * Schweiz: Entwurf verabschiedet – Aufteilung in zwei Teile
   * Achtung: Datenschutz macht kein Halt vor Landesgrenzen
+* Mit Persönlichkeitsschutz allgemein und Datenschutz im Besonderen befassen sich nebst dem Datenschutzgesetz auch noch andere Ge- setze, wie beispielsweise:
+  * das **ZGB**, insbesondere Art. 28-28l ZGB \(Persönlichkeitsschutz allgemein\),
+  * das **OR**, insbesondere Art. 328-328b OR, gemäss welchem der Arbeitgeber nur solche Daten des Arbeitnehmers bearbeiten darf, die dessen Eignung für das Arbeitsverhältnis betreffen,
+  * das **StGB**, insbesondere Art. 173-179novies StGB, welches be- stimmte Arten von Persönlichkeitsverletzungen unter Strafe stellt.
 
 {% file src="../.gitbook/assets/dsg.pdf" caption="Datenschutzgesetz \(DSG\)" %}
 
@@ -155,5 +163,52 @@ Auskunftsberechtigt:
 * Frist Auskunftserteilung: Schriftlich – Oder Einsicht im gegenseitigen Einverständnis – Grundsätzlich innert 30 Tagen.
 * Gebühren: Kostenlos, in Ausnahmefällen CHF 300.- \(muss vorgängig angekündigt werden\)
 
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Frage</th>
+      <th style="text-align:left">Titel</th>
+      <th style="text-align:left">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Wo finde ich Gesetzesartikel?</td>
+      <td style="text-align:left">Artikel</td>
+      <td style="text-align:left">Art. 8-10 DSG / und Frist in (Art. 1 Abs. 4 VDSG)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Was muss er machen?</td>
+      <td style="text-align:left">Antrag</td>
+      <td style="text-align:left">Identit&#xE4;t ausweisen und die Auskunft in der Regel in schriftlicher
+        Form einreichen</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kostet es etwas?</td>
+      <td style="text-align:left">Geb&#xFC;hr</td>
+      <td style="text-align:left">Kostenlos, in Ausnahmef&#xE4;llen max. CHF 300.- (muss vorg&#xE4;ngig
+        angek&#xFC;ndigt werden -&gt; AGB)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Was resp. wann muss Datensammler Auskunft geben?</td>
+      <td style="text-align:left">Frist/Inhalt</td>
+      <td style="text-align:left">innert 30 Tagen , Alle erhobenen Daten&#x2013; Mit Ausnahmen art. 2 Abs.
+        2 DSG bzw. Art. 9 DSG</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Keine Auskunft nach 60 Tagen?</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Auskunft verweigert, einschr&#xE4;nkt oder aufschiebt, muss er Sie dar&#xFC;ber
+          informieren.</p>
+        <p>Weiter an ED&#xD6;B (Eidgen&#xF6;ssischer Datenschutz- und &#xD6;ffentlichkeitsbeauftragter)</p>
+        <ul>
+          <li>Bundesorgane: Beschwerde an das Bundesverwaltungsgericht</li>
+          <li>private Inhaber: gerichtliche Klage zur Durchsetzung des Auskunftsrechts
+            eingereicht am Wohnsitz der Firma/privaten Person</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 

@@ -188,3 +188,16 @@ CAs revoziert worden sind \(nur selten verwendet!\)
 
   -- Extenden \(komplett grüner Balken im Browser\)
 
+### Smart-Cards  / Chip-Karte
+
+Eine Smartcard ist eine Plastikkarte mit einem kleinen erbaute Mikrocomputer-Chip und integrierte Schaltung, die große Datenmengen zu verarbeiten und speichern können. Es gilt als ein sicheres, Zeit sparende Gerät sein, das Informationen ohne Verwendung eines PC oder das Internet zugreifen können. Allerdings haben die Smartcards sowohl vor-als auch Nachteile.
+
+
+
+| Vorteil | Nachteile |
+| :--- | :--- |
+| **Flexibilität**: Verschieden Einsetzbar, Identifizierung, Kreditkarten | **Kosten**: Karte selber günstig, jedoch Lesegeräte HW sind teuer |
+| **Logischer Zugangsschutz \(PIN\):** Weit verbreitet, guter Schutz | **Speicher:** Speicherkapazität ist beschränkt |
+
+
+
