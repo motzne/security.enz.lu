@@ -36,7 +36,7 @@
 
 ## Risiko-Ermittlung
 
-* Risiko = Schaden x Eintretenswahrscheinlichkeit \(Vorsicht: Bei Anwendung einfacher Formeln, Multiplikation bei hohen Schäden und geringer Wahrscheinlichkeit täuscht ein zu geringes Risiko vor!\)
+* Risiko = Schaden x Eintretenswahrscheinlichkeit
 
 ## Bedrohungen / Gefahren
 

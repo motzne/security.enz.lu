@@ -146,7 +146,7 @@ Risiko-Objekte so definieren, granularisieren und logisch ordnen, wie sich die B
 
 ### Risiko-Bewertung
 
-* Bewertung des ermittelten Risikos im Kontext des Betrachtung-Gegenstands, Vergleich mit den im Kontext definierten Kriterien, z.B. Risiko-Toleranz, Akzeptanz- Kriterien
+* Bewertung des ermittelten Risikos im Kontext des Betrachtung-Gegenstands, **Vergleich mit** den im Kontext **definierten Kriterien**, z.B. Risiko-Toleranz, Akzeptanz- Kriterien
 * Risiko-Wahrnehmung der Umgebung und des Managements einbeziehen
 * Einbezug der für die Massnahmen relevanten zusätzlichen Anforderungen, z.B. vertragliche, gesetzliche, regulatorische Anforderungen, Standards, Qualitäts- und Leistungsanforderungen, Zeit- und Kostenbeschränkungen
 * Risiken / Chancen abwägen hinsichtlich Optimum bei der Wahl der Massnahmen
@@ -207,9 +207,17 @@ Anwendung
 
 
 
-## Risikoanalysen und Sicherheits- dokumentationen im Projektvorgehen
+## Risikoanalysen und Sicherheitsdokumentationen im Projektvorgehen
 
 ![](../.gitbook/assets/image%20%2888%29.png)
+
+### Sicherheitspyramide nach Königs
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+### Dokumentenstruktur nach Königs
+
+![](../.gitbook/assets/image%20%2855%29.png)
 
 
 
