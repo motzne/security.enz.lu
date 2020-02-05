@@ -3,41 +3,78 @@
 <head>
     <title>Entropie Rechner</title>
     <script src="src/jquery-3.4.1.min.js"></script>
+    <script src="src/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="src/bootstrap.min.css" >   
 </head>
 
 <body>
-    <h1>Diceware</h1>
-    Anz. Seiten am Würfel <input type="number" value="6" id="wuerfelSeiten"><br>
-    Anz. Buchstaben je Wort <input type="number" value="5" id="buchstabenWort"><br>
-    Anz. Worte für Passwort <input type="number" value="6" id="anzWoerterPasswort"><br>
-    Vergleiche Total Entropie mit <input type="number" value="75" id="entropyCompareTo"><br>
-    <br>
-    <br>
-    <div id="diceText1"></div><br>
-    <div id="diceText2"></div><br>
-    <div id="diceText3"></div><br>
-    <div id="diceText_compareEntropy"></div><br><br><br>
-    <hr>
-    <h1>Entropie Passwort</h1>
-    <form id="charComplexity">
-    Grossbuchstaben A-Z (26)<input type="checkbox" value="26" id="inputLettersBig"><br>
-    Grossbuchstaben A-Z inkl. ÄÖU (29)<input type="checkbox" value="29" id="inputLettersBigWithSpecial"><br>
-    Kleinbuchstaben a-z (26) <input type="checkbox" value="26" id="inputLettersSmall"><br>
-    Kleinbuchstaben a-z inkl. äöü (29) <input type="checkbox" value="29" id="inputLettersSmallSpecial"><br>
-    Anzahl Zahlen Total (Bsp. 0-9 => 10) <input type="number" value="0" id="countNumbers" placeholder="10"><br>
-    Anzahl Sonderzeichen Total (Bsp. +$/ => 3) <input type="number" value="0" id="countSpecialChars" placeholder="3"><br>
-    <div id="entropyText1"></div><br>
-    <br></form>
-    Möglichkeiten je Zeichen<input type="number" value="75" id="possibilitiesPerChar"><br>
-    Länge des Passworts<input type="number" value="0" id="pwLength" placeholder="7"><br><br><br>
-    <div id="entropyText2"></div><br>
-    <div id="entropyText3"></div><br>
-    <div id="entryText_compareEntropy"></div><br>
+    <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <h3>Diceware</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-4">Anzahl Seiten am Würfel 🎲</div><div class="col-2"><input class="form-control" type="number" value="6" id="wuerfelSeiten"></div>
+          <div class="col-4">Anzahl Buchstaben je Wort 🔤 / Würfe</div><div class="col-2"><input class="form-control" type="number"  value="5" id="buchstabenWort"></div>
+          <div class="col-4">Anzahl Worte für Passwort 💬</div><div class="col-2"><input class="form-control" type="number" value="5" id="anzWoerterPasswort"></div>
+          <div class="col-4">Vergleiche Totale Entropie mit </div><div class="col-2"><input class="form-control" type="number" value="75" id="entropyCompareTo"></div>
+         </div>
+       <div class="row py-3">
+          <div class="col-12">
+            <div class="card">
+                <div class="card-body bg-light">
+                    <div class="col-12"><div id="diceText1"></div><br></div>
+                    <div class="col-12"><div id="diceText2"></div><br></div>
+                    <div class="col-12"><div id="diceText3"></div></div>
+                </div>
+              </div>
+          </div>
+      </div>
+      <div class="row">
+          <div class="col-12"><div id="diceText_compareEntropy"></div></div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-12">
+          <h3>Entropie Passwort</h3>
+        </div>
+      </div>
+      <div class="row  py-3">
+
+        <div class="col-4">Grossbuchstaben A-Z (26)</div><div class="col-2"><input class="form-control" checked type="checkbox" value="26" id="inputLettersBig"></div>
+        <div class="col-4">Grossbuchstaben A-Z inkl. ÄÖU (29)</div><div class="col-2"><input class="form-control" type="checkbox" value="29" id="inputLettersBigWithSpecial"></div>
+        <div class="col-4">Kleinbuchstaben a-z (26)</div><div class="col-2"><input class="form-control"  type="checkbox" value="26" id="inputLettersSmall"></div>
+        <div class="col-4">Kleinbuchstaben a-z inkl. äöü (29)</div><div class="col-2"><input class="form-control" type="checkbox" value="29" id="inputLettersSmallSpecial"></div>
+        <div class="col-4">Anzahl Zahlen Total (Bsp. 0-9 => 10) </div><div class="col-2"><input class="form-control" type="number" value="10" id="countNumbers" ></div>
+        <div class="col-4">Anzahl Sonderzeichen Total (Bsp. +$/ => 3)</div><div class="col-2"><input class="form-control" type="number" value="3" id="countSpecialChars"></div>
+    </div>
+    <div class="row">
+        <div class="col-4">Möglichkeiten je Zeichen</div><div class="col-2"><input class="form-control"  type="number" value="75" id="possibilitiesPerChar"></div>
+        <div class="col-4">Länge des Passworts</div><div class="col-2"><input class="form-control" type="number" value="7" id="pwLength"></div>  
+    </div>
+     <div class="row py-3">
+        <div class="col-12">
+          <div class="card">
+              <div class="card-body bg-light">
+                  <div class="col-12"><div id="entropyText2"></div><br></div>
+                  <div class="col-12"><div id="entropyText3"></div></div>
+              </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12"><div id="entropyText4"></div></div>
+    </div>
+
+
+
 
     <script >
         $(document).ready(function () {
             rechneDiceware();
             calcPossibilitiesPerChar();
+            calcEntropy();
       $("#wuerfelSeiten, #buchstabenWort, #anzWoerterPasswort, #entropyCompareTo").keyup(function () {
         rechneDiceware();
       });
@@ -80,13 +117,13 @@
     
         var compareText ="";
         if(entropyCompareTo > entropyTotal) {
-            compareText = "Die berechnete Entropie von ''" + entropyTotal + "' ist <strong>kleiner</strong> wie die eingeben '" + entropyCompareTo+ "' und bietet somit <strong>weniger Sicherheit</strong>! !";
+            compareText = "<div class=\"alert alert-danger\" role=\"alert\">Die berechnete Entropie von '" + entropyTotal + "' ist <strong>kleiner</strong> wie die eingeben '" + entropyCompareTo+ "' und bietet somit <strong>weniger Sicherheit</strong>!</div>";
         }
         else if (entropyCompareTo == entropyTotal){
-            compareText = "Die berechnete Entropie von ''" + entropyTotal + "' ist <strong>gleich</strong> wie die eingeben '" + entropyCompareTo+ "' !";
+            compareText = "<div class=\"alert alert-warning\" role=\"alert\">Die berechnete Entropie von '" + entropyTotal + "' ist <strong>gleich</strong> wie die eingeben '" + entropyCompareTo+ "' !</div>";
         }
         else {
-            compareText = "Die berechnete Entropie von '" + entropyTotal + "' ist <strong>grösser</strong> wie die eingeben '" + entropyCompareTo+ "' und bietet somit <strong>höhere Sicherheit</strong>!";
+            compareText = "<div class=\"alert alert-success\" role=\"alert\">Die berechnete Entropie von '" + entropyTotal + "' ist <strong>grösser</strong> wie die eingeben '" + entropyCompareTo+ "' und bietet somit <strong>höhere Sicherheit</strong> 👍🏻!</div>";
         }
         $("#diceText_compareEntropy").html(compareText);
       }
@@ -115,8 +152,8 @@
         var etnropyPerChar = roundToTwo(Math.log2(possibilitiesPerChar));
         var entropyTotal2 = roundToTwo(pwLength * etnropyPerChar);
         $("#entropyText2").html("log_2(" + possibilitiesPerChar + ") ≈ " + etnropyPerChar + " Bit Entropie pro Zeichen");   
-        $("#entropyText3").html(pwLength + " Stellen langes Passwort * log_2(" + possibilitiesPerChar + ") = "+ entropyTotal2 +" Bit Entropie Total<br>=> 2<sup>"+entropyTotal2+"</sup> , entspricht 2<sup>"+entropyTotal2+"</sup> Möglichkeiten" );      
-
+        $("#entropyText3").html(pwLength + " Zeichen langes Passwort * log_2(" + possibilitiesPerChar + ") = "+ entropyTotal2 +" Bit Entropie Total" );      
+        $("#entropyText4").html("<div class=\"alert alert-success\" role=\"alert\">➡️ Dies entspricht 2<sup>"+entropyTotal2+"</sup> Möglichkeiten oder augeschrieben: " +Math.pow(2, entropyTotal2));
       }
 
       function roundToTwo(num) {    
@@ -124,6 +161,7 @@
       }
     });
       </script>
+    </div>
 </body>
 
 </html>
