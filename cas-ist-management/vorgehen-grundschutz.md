@@ -1,4 +1,4 @@
-# Vorgehen: Sicherheitskonzepts nach IT-Grundschutz
+# Vorgehen: Grundschutz
 
 ### Bemerkungen
 

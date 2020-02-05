@@ -27,7 +27,7 @@ Aussagen zu:
 * Organisation der Unternehmens
 * Grundsätze \(z.B. alles ist erlaubt, was nicht verboten ist\)
 
-### Compliance \(Gesetze / Verträge\)
+## Compliance \(Gesetze / Verträge\)
 
 * OR / StGB
 * Datenschutzgesetz
@@ -35,7 +35,7 @@ Aussagen zu:
 * BÜPF / VÜPF \(wichtig wegen Internet / Email\)
 * Verträge mit Kunden, Lieferanten, Mitarbeitenden etc
 
-### Richtlinien
+## Richtlinien
 
 * Leitplanken für Informationssicherheit
 * Fokus Sicherstellung der Geschäftsfortführung \(!!\)
@@ -46,7 +46,7 @@ Aussagen zu:
 * Wirtschaftliche Aspekte, Kostenfolgen aufzeigen \(!!\)
 * Langfristige Betrachtung \(3-5 Jahre\)
 
-### \(Wichtigste\) Rollen der Sicherheitsorganisation
+## \(Wichtigste\) Rollen der Sicherheitsorganisation
 
 * GL / Management \(trägt die Verantwortung / Risiko!\)
 * Informationssicherheitsbeauftragter \(sollte nicht aus dem Bereich IT stammen!\)
