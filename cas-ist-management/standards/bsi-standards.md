@@ -44,7 +44,6 @@
   * Stufe 2
     * Höherer Schutzbedarf, unübliche Einsatzszenarien
     * Vereinfachte Risikoanalyse und -bewertung
-  * 
 
 ![](../../.gitbook/assets/image%20%2880%29.png)
 
