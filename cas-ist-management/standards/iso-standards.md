@@ -74,7 +74,7 @@
 
 
 
-## Prüfungsfragen:
+## Fragen Probeprüfung
 
 #### Was versteht man unter der Abkürzung ISMS und auf welchem Zyklus basiert dieses im Rahmen von ISO 27001?
 
