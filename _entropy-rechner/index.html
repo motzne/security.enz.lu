@@ -1,0 +1,129 @@
+<html>
+
+<head>
+    <title>Entropie Rechner</title>
+    <script src="src/jquery-3.4.1.min.js"></script>
+</head>
+
+<body>
+    <h1>Diceware</h1>
+    Anz. Seiten am Würfel <input type="number" value="6" id="wuerfelSeiten"><br>
+    Anz. Buchstaben je Wort <input type="number" value="5" id="buchstabenWort"><br>
+    Anz. Worte für Passwort <input type="number" value="6" id="anzWoerterPasswort"><br>
+    Vergleiche Total Entropie mit <input type="number" value="75" id="entropyCompareTo"><br>
+    <br>
+    <br>
+    <div id="diceText1"></div><br>
+    <div id="diceText2"></div><br>
+    <div id="diceText3"></div><br>
+    <div id="diceText_compareEntropy"></div><br><br><br>
+    <hr>
+    <h1>Entropie Passwort</h1>
+    <form id="charComplexity">
+    Grossbuchstaben A-Z (26)<input type="checkbox" value="26" id="inputLettersBig"><br>
+    Grossbuchstaben A-Z inkl. ÄÖU (29)<input type="checkbox" value="29" id="inputLettersBigWithSpecial"><br>
+    Kleinbuchstaben a-z (26) <input type="checkbox" value="26" id="inputLettersSmall"><br>
+    Kleinbuchstaben a-z inkl. äöü (29) <input type="checkbox" value="29" id="inputLettersSmallSpecial"><br>
+    Anzahl Zahlen Total (Bsp. 0-9 => 10) <input type="number" value="0" id="countNumbers" placeholder="10"><br>
+    Anzahl Sonderzeichen Total (Bsp. +$/ => 3) <input type="number" value="0" id="countSpecialChars" placeholder="3"><br>
+    <div id="entropyText1"></div><br>
+    <br></form>
+    Möglichkeiten je Zeichen<input type="number" value="75" id="possibilitiesPerChar"><br>
+    Länge des Passworts<input type="number" value="0" id="pwLength" placeholder="7"><br><br><br>
+    <div id="entropyText2"></div><br>
+    <div id="entropyText3"></div><br>
+    <div id="entryText_compareEntropy"></div><br>
+
+    <script >
+        $(document).ready(function () {
+            rechneDiceware();
+            calcPossibilitiesPerChar();
+      $("#wuerfelSeiten, #buchstabenWort, #anzWoerterPasswort, #entropyCompareTo").keyup(function () {
+        rechneDiceware();
+      });
+      $("#countNumbers, #countSpecialChars").keyup(function () {
+        calcPossibilitiesPerChar();
+        calcEntropy();
+      });
+      $('#inputLettersBig, #inputLettersBigWithSpecial, #inputLettersSmall, #inputLettersSmallSpecial').click(function () {
+        calcPossibilitiesPerChar();
+        calcEntropy();
+      });
+
+      $('#possibilitiesPerChar, #pwLength').keyup(function () {
+        calcEntropy();
+        $('#charComplexity').trigger("reset");
+
+      });
+    
+      function rechneDiceware() {
+        var wuerfelSeiten = $("#wuerfelSeiten").val();
+        var buchstabenWort = $("#buchstabenWort").val();
+        var anzWortePasswort = $("#anzWoerterPasswort").val();
+        var entropyCompareTo = $("#entropyCompareTo").val();
+        
+        var txt = "";
+        for (var n = 1; n <= buchstabenWort; ++n) {
+          if (n == 1) {
+            txt += wuerfelSeiten;
+          } else
+          {
+            txt = txt + " * " + wuerfelSeiten;
+          }
+        }
+        var result = eval(txt);
+        var entropy = roundToTwo(Math.log2(result));
+        var entropyTotal = roundToTwo(anzWortePasswort * entropy);
+        $("#diceText1").html("(" + txt + ") = " + result + " mögliche Worte pro " + buchstabenWort + " Würfe \(" + buchstabenWort + "x eine " + wuerfelSeiten + ", da Wort " + buchstabenWort + " Buchstaben hat\)");
+        $("#diceText2").html("log_2(" + result + ") ≈ " + entropy + " Bit Entropie pro Wort");
+        $("#diceText3").html("Total für " + anzWortePasswort + " Worte ≈ "+ entropyTotal +" Bit Entropie");    
+    
+        var compareText ="";
+        if(entropyCompareTo > entropyTotal) {
+            compareText = "Die berechnete Entropie von ''" + entropyTotal + "' ist <strong>kleiner</strong> wie die eingeben '" + entropyCompareTo+ "' und bietet somit <strong>weniger Sicherheit</strong>! !";
+        }
+        else if (entropyCompareTo == entropyTotal){
+            compareText = "Die berechnete Entropie von ''" + entropyTotal + "' ist <strong>gleich</strong> wie die eingeben '" + entropyCompareTo+ "' !";
+        }
+        else {
+            compareText = "Die berechnete Entropie von '" + entropyTotal + "' ist <strong>grösser</strong> wie die eingeben '" + entropyCompareTo+ "' und bietet somit <strong>höhere Sicherheit</strong>!";
+        }
+        $("#diceText_compareEntropy").html(compareText);
+      }
+
+      function calcPossibilitiesPerChar() {
+        var countNumbers = parseFloat($("#countNumbers").val());
+        var countSpecialChars = parseFloat($("#countSpecialChars").val());
+        var sumPossibilitesPerChar = 0;
+        if($("#inputLettersBig").is(':checked')){ sumPossibilitesPerChar +=  parseFloat($("#inputLettersBig").val()) } else { sumPossibilitesPerChar += 0;}
+        if($("#inputLettersBigWithSpecial").is(':checked')){ sumPossibilitesPerChar +=  parseFloat($("#inputLettersBigWithSpecial").val()) } else { sumPossibilitesPerChar += 0;}
+        if($("#inputLettersSmall").is(':checked')){ sumPossibilitesPerChar +=  parseFloat($("#inputLettersSmall").val()) } else { sumPossibilitesPerChar += 0;}
+        if($("#inputLettersSmallSpecial").is(':checked')){ sumPossibilitesPerChar +=  parseFloat($("#inputLettersSmallSpecial").val()) } else { sumPossibilitesPerChar += 0;}
+
+        sumPossibilitesPerChar = sumPossibilitesPerChar + countNumbers + countSpecialChars;
+        $("#possibilitiesPerChar").val(sumPossibilitesPerChar);
+        $("#entropyText1").html("=> "+ sumPossibilitesPerChar + " Möglichkeiten pro Zeichen");
+
+      }
+
+      function calcEntropy(){
+        
+        var possibilitiesPerChar = parseFloat($("#possibilitiesPerChar").val());    
+        var pwLength = parseFloat($("#pwLength").val());    
+        var entropyCompareTo2 = parseFloat($("#entropyCompareTo2").val());    
+
+        var etnropyPerChar = roundToTwo(Math.log2(possibilitiesPerChar));
+        var entropyTotal2 = roundToTwo(pwLength * etnropyPerChar);
+        $("#entropyText2").html("log_2(" + possibilitiesPerChar + ") ≈ " + etnropyPerChar + " Bit Entropie pro Zeichen");   
+        $("#entropyText3").html(pwLength + " Stellen langes Passwort * log_2(" + possibilitiesPerChar + ") = "+ entropyTotal2 +" Bit Entropie Total<br>=> 2<sup>"+entropyTotal2+"</sup> , entspricht 2<sup>"+entropyTotal2+"</sup> Möglichkeiten" );      
+
+      }
+
+      function roundToTwo(num) {    
+            return +(Math.round(num + "e+2")  + "e-2");
+      }
+    });
+      </script>
+</body>
+
+</html>
