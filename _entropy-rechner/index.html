@@ -4,7 +4,14 @@
     <title>Entropie Rechner</title>
     <script src="src/jquery-3.4.1.min.js"></script>
     <script src="src/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="src/bootstrap.min.css" >   
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <style>
+    html, body {
+        font-family: 'Roboto Mono', monospace !important;
+        font-size: 0.9rem;
+    }</style>
+        <link rel="stylesheet" href="src/bootstrap.min.css" >   
+
 </head>
 
 <body>
@@ -43,11 +50,11 @@
       <div class="row  py-3">
 
         <div class="col-4">Grossbuchstaben A-Z (26)</div><div class="col-2"><input class="form-control" checked type="checkbox" value="26" id="inputLettersBig"></div>
-        <div class="col-4">Grossbuchstaben A-Z inkl. ÄÖU (29)</div><div class="col-2"><input class="form-control" type="checkbox" value="29" id="inputLettersBigWithSpecial"></div>
+        <div class="col-4">inkl. ÄÖU (3)</div><div class="col-2"><input class="form-control" type="checkbox" value="3" id="inputLettersBigWithSpecial"></div>
         <div class="col-4">Kleinbuchstaben a-z (26)</div><div class="col-2"><input class="form-control"  type="checkbox" value="26" id="inputLettersSmall"></div>
-        <div class="col-4">Kleinbuchstaben a-z inkl. äöü (29)</div><div class="col-2"><input class="form-control" type="checkbox" value="29" id="inputLettersSmallSpecial"></div>
-        <div class="col-4">Anzahl Zahlen Total (Bsp. 0-9 => 10) </div><div class="col-2"><input class="form-control" type="number" value="10" id="countNumbers" ></div>
-        <div class="col-4">Anzahl Sonderzeichen Total (Bsp. +$/ => 3)</div><div class="col-2"><input class="form-control" type="number" value="3" id="countSpecialChars"></div>
+        <div class="col-4">inkl. äöü (3)</div><div class="col-2"><input class="form-control" type="checkbox" value="3" id="inputLettersSmallSpecial"></div>
+        <div class="col-4">Anzahl Zahlen</div><div class="col-2"><input class="form-control" type="number" value="10" id="countNumbers" ></div>
+        <div class="col-4">Anzahl Sonderzeichen</div><div class="col-2"><input class="form-control" type="number" value="3" id="countSpecialChars"></div>
     </div>
     <div class="row">
         <div class="col-4">Möglichkeiten je Zeichen</div><div class="col-2"><input class="form-control"  type="number" value="75" id="possibilitiesPerChar"></div>
@@ -112,7 +119,7 @@
         var entropy = roundToTwo(Math.log2(result));
         var entropyTotal = roundToTwo(anzWortePasswort * entropy);
         $("#diceText1").html("(" + txt + ") = " + result + " mögliche Worte pro " + buchstabenWort + " Würfe \(" + buchstabenWort + "x eine " + wuerfelSeiten + ", da Wort " + buchstabenWort + " Buchstaben hat\)");
-        $("#diceText2").html("log_2(" + result + ") ≈ " + entropy + " Bit Entropie pro Wort");
+        $("#diceText2").html("log<sub>2</sub>(" + result + ") ≈ " + entropy + " Bit Entropie pro Wort");
         $("#diceText3").html("Total für " + anzWortePasswort + " Worte ≈ "+ entropyTotal +" Bit Entropie");    
     
         var compareText ="";
@@ -151,9 +158,9 @@
 
         var etnropyPerChar = roundToTwo(Math.log2(possibilitiesPerChar));
         var entropyTotal2 = roundToTwo(pwLength * etnropyPerChar);
-        $("#entropyText2").html("log_2(" + possibilitiesPerChar + ") ≈ " + etnropyPerChar + " Bit Entropie pro Zeichen");   
-        $("#entropyText3").html(pwLength + " Zeichen langes Passwort * log_2(" + possibilitiesPerChar + ") = "+ entropyTotal2 +" Bit Entropie Total" );      
-        $("#entropyText4").html("<div class=\"alert alert-success\" role=\"alert\">➡️ Dies entspricht 2<sup>"+entropyTotal2+"</sup> Möglichkeiten oder augeschrieben: " +Math.pow(2, entropyTotal2));
+        $("#entropyText2").html("log<sub>2</sub>(" + possibilitiesPerChar + ") ≈ " + etnropyPerChar + " Bit Entropie pro Zeichen");   
+        $("#entropyText3").html(pwLength + " Zeichen langes Passwort * log<sub>2</sub>(" + possibilitiesPerChar + ") = "+ entropyTotal2 +" Bit Entropie Total" );      
+        $("#entropyText4").html("<div class=\"alert alert-success\" role=\"alert\">➡️ Dies entspricht 2<sup>"+entropyTotal2+"</sup> Möglichkeiten ->  " +Math.pow(2, entropyTotal2));
       }
 
       function roundToTwo(num) {    
