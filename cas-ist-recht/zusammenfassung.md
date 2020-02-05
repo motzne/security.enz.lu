@@ -64,14 +64,60 @@
 * Y nutzt die Bilder des letzten Firmenanlasses und stellt diese auf die Firmenhomepage. =&gt; Privates Recht / ZGB?
 * Z hat sein Autokontrollschilder sperren lassen. Dennoch hat die Polizei Zugriff. =&gt; Öffentliches Recht
 
-## Recht am eigenen Bild
+## Gängige Artikel
 
-Das Recht des Urhebers am von ihm geschaffenen Werk wird durch das **Recht am eigenen Bild** ergänzt. Das Recht am eigenen Bild untersteht dem Persönlichkeitsschutz und ist beispielsweise in Deutschland im Urheberrechtsgesetz ausdrücklich erwähnt. Wer ein Bild einer Person ohne deren ausdrückliche oder stillschweigende Zustimmung verwendet, begeht eine **Persönlichkeitsverletzung**.
+#### Ransomware: 
 
-Bsp. Foto aus Internet :
+Art. 144bis StGB Datenbeschädigung   
+Art. 156 StGB Erpressung   
+Art. 305bis StGB Geldwäscherei
 
-* für Geburtstagseinladung an geschlossen = OK
-* für Firmeneinladung = Problematisch, da kommerzieller Gebrauch vorliegt
+#### e-Banking Trojaner 
+
+Art. 144bis StGB Datenbeschädigung Installation von Malware auf PC und / oder Verändern von Browser-einstellungen \(gefälschte Bankenzertifikate, Umleitung auf TOR\)   
+Art. 147 StGB Betrügerischer Missbrauch einer Datenverarbeitungsanlage Manipulation des Zahlungsverkehrs unter Mithilfe von Schadsoftware, Vermögenswerte des Geschädigten werden verschoben   
+Art. 305bis StGB Geldwäscherei
+
+#### DDOS/Dos: 
+
+Art. 156 StGB Erpressung   
+Art. 144bis StGB Datenbeschädigung liegt gemäss MELANI bereits dann vor, wenn Daten durch einen Angriff über eine gewisse Zeit nicht verfügbar und deshalb unbrauchbar sind   
+Art. 181 StGB Nötigung insbesondere dann wenn seitens der Täterschaft keine Geldforderung ge-stellt wurde   
+Art. 179septies StGB Missbrauch einer Fernmeldeanlage   
+Art. 239 StGB Störung von Betrieben, die der Allgemeinheit dienen
+
+#### Hacking Bei Datendiebstahl: 
+
+Art. 143 StGB Unbefugte Datenbeschaffung und/oder   
+Art. 179novies StGB unbefugtes Beschaffen von Personendaten  
+Art. 143bis StGB Unbefugtes Eindringen in ein Datenverarbeitungssystem   
+Art. 143 StGB Unbefugt Datenbeschaffung   
+Art. 144bis StGB Datenbeschädigung bei jeglicher Veränderung \(z.B. Löschung von Daten wie E-Mails, Kontakten usw.\) Aufgrund der vorgenommenen Änderungen können weitere Straftat-bestände betroffen sein, insbesondere   
+Art. 261bis StGB Rassendiskriminierung,   
+Art. 173 ff. Üble Nachrede, Verleumdung, Beschimpfung,   
+Art. 197 StGB Pornografie usw.
+
+#### Bei blossem Eindringen \(z.B. anhand eines gestohlenen Passworts\): 
+
+Art. 143bis StGB Unbefugtes Eindringen in ein Datenverarbeitungssystem
+
+#### Werden Änderungen an der Webseite vorgenommen
+
+Art. 144bis StGB Datenbeschädigung \(bei jeglicher Veränderung\)
+
+#### Bei Verunstaltung Webseite \(je nach Änderung\)
+
+Art. 261bis StGB \(Rassendiskriminierung\)   
+Art. 173 ff. StGB \(Üble Nachrede, Verleumdung, Beschimpfung\)   
+Art 197 StGB \(Pornografie\)
+
+#### Botnet
+
+Art. 143 StGB unbefugte Datenbeschaffung   
+Art. 144bis StGB Datenbeschädigung   
+Art. 143bis StGB unbefugtes Eindringen in ein Datenverarbeitungssystem Die infizierten Computer können für verschiedene Cyberdelikte verwendet werden. Hierbei ist das entsprechende Phänomeneblatt beizuziehen. Möglich sind insbesondere DoS/DDos oder Phishing, aber auch Ransomware/Crypto-Ransomeware und E-Banking-Trojaner.
+
+
 
 ## Mögliche Prüfungsfragen
 
@@ -95,23 +141,4 @@ Bsp. Foto aus Internet :
     * Transparenz fehlt
       * man kann nicht damit rechen das man aufgenommen wurde
     * Bilder auch über Hecke in den Garten, Einblick in die Privatsphäre
-
-## Buch Sury Informatikrecht - Strafaspekte:
-
-### Welche Strafartikel betreffen grundsätzlich Privacy-Aspekte?
-
-* Art. 179novies StGB – Unbefugtes Beschaffen von Perso- nendaten
-* Art. 173ff StGB generell
-* Art. 34f DSG
-
-### Wo, in welchen Gesetzen, finden sich die diesbezüglichen Strafartikel?
-
-* Strafgesetzbuch
-* DSG
-* Kantonale Datenschutzgesetzgebung
-* FMG
-
-### Wie kann sich ein Mitarbeiter vor strafrechtlicher Verfolgung wegen Privacy-Verletzung schützen?
-
-Verweis auf den Einzelarbeitsvertrag und die damit verbundene Be- auftragung durch die Unternehmung, eine entsprechende Arbeit im Namen der Firma auszuführen.
 

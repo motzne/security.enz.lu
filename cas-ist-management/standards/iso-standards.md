@@ -1,12 +1,11 @@
 # ISO-Standards
 
+## \*\*\*\*
+
 ## **ISO 27001 : 2005 Information Security Management System ISMS**
 
 * Prozess der Informationssicherheit
 * Ursprünglich British Standard BS 7799-2
-  * BRITISH STANDARD \(2002\). BS 7799-2:2002 – Information security management systems –
-
-    Specification with guidance for use. London.
 * Definiert Sicherheitsprozess nach Modell „Plan, Do, Check, Act“
 * Zertifizierung möglich
 * Für Unternehmen, für welche das Vertrauen der Kundschaft wichtig ist
@@ -71,25 +70,4 @@
   * Risiko-Bewertung
   * Risiken managen, Massnahmen priorisieren, planen umsetzen
 * Ab S. 55 im Handbuch
-
-
-
-## Prüfungsfragen:
-
-#### Was versteht man unter der Abkürzung ISMS und auf welchem Zyklus basiert dieses im Rahmen von ISO 27001?
-
-* Information Security Management System ISMS, ****Prozess der Informationssicherheit
-* 4 Phasen
-  * Planen \(PLAN\): Festlegen des ISMS
-  * Machen \(DO\): Umsetzen und Durchführung des ISMS
-  * Prüfen \(CHECK\): Überwachen und Überprüfen des ISMS
-  * Handeln \(ACT\): Erhalten und Verbessern des ISMS
-
-**Der ISO 27002 Standard kann gut als Grundlage für die Erstellung von so genannten Hardening- Guidelines \(Vorgaben zur sicheren Installation und Konfiguration von Systemen\) herangezogen werden. Wählen Sie von den nachfolgenden zwei Satzanfängen den korrekten aus und schliessen Sie die Aussage ab.**
-
-Diese Aussage stimmt, da 27002 Zielsetzungen definiert. Eine der 14 Domänen ist "Physical und environmental security" welche als Grundlage für den sicheren Umgang mit Informationen verwendet werden kann.
-
-#### Der ISO 27002 Standard ist ursprünglich aus einem British Standard entstanden. Wie hiess dieser \(bitte präzise Bezeichnung\)?
-
-* BS 7799-1 / BRITISH STANDARD \(1999\). BS 7799-1:1999 – Information security management – Part 1: Code of practice for information security management. 
 

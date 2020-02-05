@@ -166,39 +166,3 @@ ITSCM stellt einerseits sicher, dass der Kunde im Katastrophenfall mit einem def
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
-
-
-## Prüfungsvorbereitung:
-
-### Notfallvorsorge muss immer auf das eigene Unternehmen abgestimmt sein. Es gibt keine generischen oder allgemein gültigen Konzepte. Welches sind aus Ihrer Sicht oder Erfahrung oft angetroffene Schwächen in Notfallkonzepten und warum? Nennen Sie vier.
-
-| Schwäche | Beschreibung |
-| :--- | :--- |
-| Falscher Fokus | Fokus liegt nicht auf dem 5 wichtigsten Geschäftsprozesse und/oder es wurde nicht an alle Applikationen/Systeme gedacht |
-| Rollen | Rollen im Notfall sind nicht klar definiert, Personen nicht anwesend |
-| Handbuch | Viel zu detailliert/kompliziert resp. von den Verantwortlichen nie eingeübt.  |
-| Kommunikation | Es wurden komische resp. für aussenstehende falsche Aussagen kommuniziert. Eindruck von Chaos entstand |
-
-### Definieren Sie «Sofortmassnahmen» und «vorbehaltene Entschlüsse». Was sind die Unterschiede?
-
-#### Sofortmassnahmen:
-
-* Massnahmen um weiteren Schaden zu verhindern
-* Massnahmen zum das Schadensausmass zu reduzieren
-* Werden durch die jeweiligen Stäbe erarbeitet
-* Werden **ad hoc** definiert
-
-#### **Vorbehaltene Entschlüsse**
-
-* **Vorgängig** erarbeitete Massnahmen für einen Fall X, resp. Y, ....
-* Werden im Notfall zur Unterstützung eingesetzt
-* Bilden Handlungs- und Entscheidungsspielraum
-* Gehören zur Notfallplanung
-* Im wesentlichen Denkarbeit!!
-* **Lösungen sind nicht nur IT-bezogen, sondern kommen auch aus den Fachabteilungen**
-
-  
-Unterschied: Vorbehaltene Entschlüsse werden vorgängig definiert und werden zurückgehalten, Denkarbeit. Sofortmassnahmen sind mehr ad hoc und werden durch Stäbe im Ereignissfall erarbeitet
-
-
-
