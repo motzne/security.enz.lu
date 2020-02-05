@@ -39,12 +39,12 @@
   * Keine geeigneter Baustein im IT-Grundschutz
 * Zweistufiges BSI-Modell
   * Stufe 1
-  * Normaler Schutzbedarf, übliche Einsatzszenarien
-  * Qualitative Methode zur Risikoanalyse und –bewertung
+    * Normaler Schutzbedarf, übliche Einsatzszenarien
+    * Qualitative Methode zur Risikoanalyse und –bewertung
   * Stufe 2
-  * Höherer Schutzbedarf, unübliche Einsatzszenarien
-  * Vereinfachte Risikoanalyse und -bewertung
-  * Vgl. Folie 184
+    * Höherer Schutzbedarf, unübliche Einsatzszenarien
+    * Vereinfachte Risikoanalyse und -bewertung
+  * 
 
 ![](../../.gitbook/assets/image%20%2880%29.png)
 
