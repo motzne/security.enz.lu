@@ -39,25 +39,16 @@
   * Keine geeigneter Baustein im IT-Grundschutz
 * Zweistufiges BSI-Modell
   * Stufe 1
-    * Normaler Schutzbedarf, übliche Einsatzszenarien
-    * Qualitative Methode zur Risikoanalyse und –bewertung
+  * Normaler Schutzbedarf, übliche Einsatzszenarien
+  * Qualitative Methode zur Risikoanalyse und –bewertung
   * Stufe 2
-    * Höherer Schutzbedarf, unübliche Einsatzszenarien
-    * Vereinfachte Risikoanalyse und -bewertung
+  * Höherer Schutzbedarf, unübliche Einsatzszenarien
+  * Vereinfachte Risikoanalyse und -bewertung
+  * Vgl. Folie 184
 
 ![](../../.gitbook/assets/image%20%2880%29.png)
 
 ## **BSI 100-4: Notfallmanagement**
 
 ![](../../.gitbook/assets/image%20%2812%29.png)
-
-### Sicherheitspyramide nach BSI
-
-![](../../.gitbook/assets/image%20%2875%29.png)
-
-### Dokumentenstruktur nach BSI
-
-![](../../.gitbook/assets/image%20%2871%29.png)
-
-
 
