@@ -37,7 +37,7 @@
   * [Regelwerk / Massnahmenkatalog \(3. Stufe\)](cas-ist-management/politik-konzepte-regelwerk-prozess/regelwerk-massnahmenkatalog-3.-stufe.md)
   * [Informationssicherheits-Prozess](cas-ist-management/politik-konzepte-regelwerk-prozess/informationssicherheits-prozess.md)
 * [Analyse Soll-/Ist Vergleich](cas-ist-management/analyse-soll-ist-vergleich.md)
-* [Vorgehen: Grundschutz](cas-ist-management/vorgehen-grundschutz.md)
+* [Vorgehen: Sicherheitskonzepts nach IT-Grundschutz](cas-ist-management/vorgehen-grundschutz.md)
 * [Vorgehen: Risikonanalyse](cas-ist-management/vorgehen-risikonanalyse.md)
 * [Business Continuity Management](cas-ist-management/business-continuity-management.md)
 * [Awareness](cas-ist-management/awareness.md)
