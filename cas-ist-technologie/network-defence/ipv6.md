@@ -55,12 +55,6 @@
 * Cluster Adressierung erlaubt Verdopplung der Dienste
 * wird auch als Anycast bezeichnet!
 
-  
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 20.0px Helvetica; color: \#000000}  
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px Helvetica; color: \#000000}  
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Helvetica; color: \#000000}  
-span.s1 {font: 11.0px Arial}  
-span.s2 {color: \#fb0007}  
 
 
 ### IPv6 Adressnotation

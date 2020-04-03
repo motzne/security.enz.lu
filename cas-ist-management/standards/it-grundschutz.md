@@ -11,6 +11,9 @@
   * 94 Bausteine
   * 840 Seiten.
 
+* BIS = Bundesamt für Sicherheit in der Informationstechnik
+* Kompendium = kurz gefasstes Lehrbuch; ein kurz gefasstes Nachschlagewerk
+
 Der IT Grundschutz bietet eine **Vorgehensweise für den Aufbau eines Managementsystems für Informationssicherheit** sowie eine umfassende Basis für die **Risikobewertung**, die **Überprüfung des vorhandenen IT-Sicherheitsniveaus** und die **Implementierung der angemessenen IT-Sicherheit.**
 
 ### Absicherungsarten: 
@@ -55,12 +58,11 @@ Der IT Grundschutz-Katalog besteht aus den folgenden Teilen:
 * B4 Sicherheit im Netz
 * B5 Sicherheit in Anwendungen
 
-Titel der Vorlesung
-
 ### Aufschlüsselung der Anforderungen pro Baustein
 
 * **Basis-Anforderungen:**  Minimum, das vorrangig umgesetzt werden muss \(Einstieg\), führt zur Basisabsicherung, «Muss»-Formulierungen
-* **Standard-Anforderungen:**  Für normalen Schutzbedarf, führen zusammen mit den Basis- Anforderungen zur Standard-Absicherung, «Sollte»- Formulierungen **Anforderungen bei erhöhtem Schutzbedarf:**  exemplarische Vorschläge für zusätzliche Anforderungen, «Sollte»-Formulierungen
+* **Standard-Anforderungen:**  Für normalen Schutzbedarf, führen zusammen mit den Basis- Anforderungen zur Standard-Absicherung, «Sollte»- Formulierungen
+* **Anforderungen bei erhöhtem Schutzbedarf:**  exemplarische Vorschläge für zusätzliche Anforderungen, «Sollte»-Formulierungen
 
 ![](../../.gitbook/assets/image%20%2850%29.png)
 
@@ -83,7 +85,7 @@ Titel der Vorlesung
 * M5 Kommunikation
 * M6 Notfallvorsorge
 
-## **Vorteile**
+## [➕](https://emojipedia.org/plus-sign/) **Vorteile**
 
 * Extrem ausführliche und detaillierte Beschreibung \(ca. 3000 Seiten! Vergleich ISO: ca. 250 Seiten\)
 * Geht auf spezifische Probleme ein \(z.B. Probleme zum Windows Server\)
@@ -92,7 +94,7 @@ Titel der Vorlesung
 * Führt schnell zu einem relativ hohen Niveau an Sicherheit gegen die häufigsten Bedrohungen.
 * Stark verbreitet und relativ kostengünstig
 
-## **Nachteile**
+## ➖ **Nachteile**
 
 * Ungenügender Schutz bei erhöhten Risiken oder Schutzbedarf
 * Mögliche Einschränkung der Funktionalität durch Überschutz
