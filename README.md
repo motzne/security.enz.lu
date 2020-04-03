@@ -1,6 +1,6 @@
 # Intro
 
-## CAS Information Security Technologie
+## CAS Information Security Technology
 
 Dies ist eine persönliche Themensammlung/Zusammenfassung des behandelten Stoffs im Bereich IT Security des Studiengangs [CAS Information Security Technology der Hochschule Luzern](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-technology/).  
 
