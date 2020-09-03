@@ -11,7 +11,7 @@
   * Anzahl Kündigungen von Kunden, die aufgrund von Informationssicherheitsproblemen erfolgt sind
     * Häufigkeit und Dauer der von Kunden reklamierten Betriebsunterbrechungen und Ausfälle.
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 ![](../.gitbook/assets/image%20%28112%29.png)
 
