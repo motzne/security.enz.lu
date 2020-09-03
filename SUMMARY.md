@@ -2,16 +2,15 @@
 
 * [Intro](README.md)
 
-## CAS-ISM: Mgmt
+## CAS-ISM: Mgmt <a id="cas-ism-management"></a>
 
-* [Todo's](cas-ism-mgmt/todos.md)
-* [Planung, Aufbau und Betrieb eines ISMS](cas-ism-mgmt/planung-aufbau-und-betrieb-eines-isms.md)
-* [Begriffe](cas-ism-mgmt/verschiedene-begriffe.md)
+* [Todo's](cas-ism-management/todos.md)
+* [Planung, Aufbau und Betrieb eines ISMS](cas-ism-management/planung-aufbau-und-betrieb-eines-isms.md)
+* [Integriertes Informations-Risikomanagement im Praxiseinsatz](cas-ism-management/integriertes-informations-risikomanagement-im-praxiseinsatz.md)
+* [Begriffe](cas-ism-management/verschiedene-begriffe.md)
 
 ## CAS-IST: Management
 
-* [Grundlagen Informationssicherheit](cas-ist-management/grundlagen-informationssicherheit/README.md)
-  * [Diverse Bedrohungen](cas-ist-management/grundlagen-informationssicherheit/diverse-bedrohungen.md)
 * [Standards](cas-ist-management/standards/README.md)
   * [ISO-Standards](cas-ist-management/standards/iso-standards.md)
   * [IT Grundschutz](cas-ist-management/standards/it-grundschutz.md)
@@ -58,4 +57,9 @@
 * [Glossar](glossar.md)
 * [Repetitionsfragen Information Security Management](repetitionsfragen-information-security-management.md)
 * [Themenüberischt CAS IS-T](themenuebersicht.md)
+
+## Old\_Unused
+
+* [Grundlagen Informationssicherheit](old_unused/grundlagen-informationssicherheit/README.md)
+  * [Diverse Bedrohungen](old_unused/grundlagen-informationssicherheit/diverse-bedrohungen.md)
 

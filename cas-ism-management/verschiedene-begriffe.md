@@ -1,6 +1,6 @@
 # Begriffe
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](../.gitbook/assets/image%20%28113%29.png)
 
 <table>
   <thead>
@@ -184,4 +184,22 @@ Schutz des logischen Systems, personenbezogen
 
 **Zugriffskontrolle**   
 Schutz der Operationen, datenbezogen
+
+
+
+## Modul Integriertes Informations-Risikomanagement im Praxiseinsatz
+
+**Key Goal Indikatoren \(KGI\)**  
+ misst, ob der IT-Prozess die Geschäfts-anforderungen \(z.B. die Sollwerte der Informationskriterien\) erfüllt hat \(nachlaufender Indikator\).
+
+**Key Performance Indikatoren \(KPI\)**  
+ misst „wie gut“ die Leistung eines IT-Prozesses für das Erreichen eines Ziels in der Lage ist und ermöglicht damit eine Voraussage für die Zielerreichung \(vorlaufender Indikator\).
+
+**Kritische Erfolgsfaktoren \(CSF\)**  
+ repräsentieren die wichtigsten Dinge, die getan werden müssen, um den Erfolg des Prozesses in der Erfüllung seiner Ziele zu erhöhen. Beispiel: Die IT-Prozesse sind definiert und an der IT-Strategie und den Geschäftszielen ausgerichtet.
+
+**Key Risk Indikatoren \(KRI\)**  
+ geben Auskunft über bestimmte Aspekte des Risikos; sie können u.a. mittels negierter Performance-Parametern gebildet werden.
+
+
 

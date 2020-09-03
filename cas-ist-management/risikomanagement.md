@@ -158,6 +158,8 @@ Risiko-Objekte so definieren, granularisieren und logisch ordnen, wie sich die B
 
 ![](../.gitbook/assets/image%20%2836%29.png)
 
+![](../.gitbook/assets/image%20%28114%29.png)
+
 ### Risiko-Behandlung
 
 * Berücksichtigung der Anforderungen an Massnahmen
