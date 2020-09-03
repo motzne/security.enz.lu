@@ -1,30 +1,17 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Themenüberischt](themenuebersicht.md)
-* [Repetitionsfragen Information Security Management](repetitionsfragen-information-security-management.md)
 
-## CAS-IST: Technologie
+## CAS-ISM: Mgmt
 
-* [Hacking-Lab: Musterlösung](cas-ist-technologie/hacking-lab-musterloesungen.md)
-* [Web Application Security / OWASP Top 10](cas-ist-technologie/owasp-top-10.md)
-* [Grundlagen Computer Security](cas-ist-technologie/grundlagen-computer-security.md)
-* [Hacking\#Cracking\#Malware](cas-ist-technologie/hacking-cracking-malware.md)
-* [Physische Sicherheit / Grundlagen Brandschutz](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md)
-* [Zertifikatsbasierende Anwendungen und PKI](cas-ist-technologie/pki.md)
-* [Kryptologie](cas-ist-technologie/kryptologie.md)
-* [Network Defence](cas-ist-technologie/network-defence/README.md)
-  * [Einführung](cas-ist-technologie/network-defence/einfuehrung.md)
-  * [Protokollanalyse](cas-ist-technologie/network-defence/untitled.md)
-  * [Netzwerksicherheit im Internet](cas-ist-technologie/network-defence/netzwerksicherheit-im-internet.md)
-  * [Perimeter](cas-ist-technologie/network-defence/perimeter.md)
-  * [IPv6](cas-ist-technologie/network-defence/ipv6.md)
+* [Todo's](cas-ism-mgmt/todos.md)
+* [Planung, Aufbau und Betrieb eines ISMS](cas-ism-mgmt/planung-aufbau-und-betrieb-eines-isms.md)
+* [Begriffe](cas-ism-mgmt/verschiedene-begriffe.md)
 
 ## CAS-IST: Management
 
 * [Grundlagen Informationssicherheit](cas-ist-management/grundlagen-informationssicherheit/README.md)
   * [Diverse Bedrohungen](cas-ist-management/grundlagen-informationssicherheit/diverse-bedrohungen.md)
-  * [Verschiedene Begriffe](cas-ist-management/grundlagen-informationssicherheit/verschiedene-begriffe.md)
 * [Standards](cas-ist-management/standards/README.md)
   * [ISO-Standards](cas-ist-management/standards/iso-standards.md)
   * [IT Grundschutz](cas-ist-management/standards/it-grundschutz.md)
@@ -42,6 +29,22 @@
 * [Business Continuity Management](cas-ist-management/business-continuity-management.md)
 * [Awareness](cas-ist-management/awareness.md)
 
+## CAS-IST: Technologie
+
+* [Hacking-Lab: Musterlösung](cas-ist-technologie/hacking-lab-musterloesungen.md)
+* [Web Application Security / OWASP Top 10](cas-ist-technologie/owasp-top-10.md)
+* [Grundlagen Computer Security](cas-ist-technologie/grundlagen-computer-security.md)
+* [Hacking\#Cracking\#Malware](cas-ist-technologie/hacking-cracking-malware.md)
+* [Physische Sicherheit / Grundlagen Brandschutz](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md)
+* [Zertifikatsbasierende Anwendungen und PKI](cas-ist-technologie/pki.md)
+* [Kryptologie](cas-ist-technologie/kryptologie.md)
+* [Network Defence](cas-ist-technologie/network-defence/README.md)
+  * [Einführung](cas-ist-technologie/network-defence/einfuehrung.md)
+  * [Protokollanalyse](cas-ist-technologie/network-defence/untitled.md)
+  * [Netzwerksicherheit im Internet](cas-ist-technologie/network-defence/netzwerksicherheit-im-internet.md)
+  * [Perimeter](cas-ist-technologie/network-defence/perimeter.md)
+  * [IPv6](cas-ist-technologie/network-defence/ipv6.md)
+
 ## CAS-IST: Recht
 
 * [Zusammenfassung](cas-ist-recht/zusammenfassung.md)
@@ -49,5 +52,10 @@
 * [Urheberrechtsgesetz \(URG\)](cas-ist-recht/urheberrechtsgesetz-urg.md)
 * [Strafgesetzbuch \(StGB\)](cas-ist-recht/strafgesetzbuch-stgb.md)
 * [Weitere Gesetzestexte](cas-ist-recht/gesetzestexte.md)
+
+---
+
 * [Glossar](glossar.md)
+* [Repetitionsfragen Information Security Management](repetitionsfragen-information-security-management.md)
+* [Themenüberischt CAS IS-T](themenuebersicht.md)
 

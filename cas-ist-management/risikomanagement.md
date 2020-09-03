@@ -72,7 +72,9 @@
       <td style="text-align:left">Verbleibendes Risiko nach der Risikobehandlung</td>
     </tr>
   </tbody>
-</table>## Praktisches Risikomodell
+</table>
+
+## Praktisches Risikomodell
 
 ![](../.gitbook/assets/image%20%2899%29.png)
 

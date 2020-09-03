@@ -1,5 +1,7 @@
 # Politik, Konzepte, Regelwerk, Prozess
 
+
+
 ![Vorgehen: Top Down-Approach vom Generellen zum Detailierten](../../.gitbook/assets/image%20%2816%29.png)
 
 ### Management-Ebenen

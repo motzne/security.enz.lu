@@ -172,7 +172,9 @@
         Mit der Freiheitsstrafe kann Geldstrafe verbunden werden</td>
     </tr>
   </tbody>
-</table>### Gängige Artikel
+</table>
+
+### Gängige Artikel
 
 #### Ransomware: 
 

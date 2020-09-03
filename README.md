@@ -10,7 +10,7 @@ Tom Enz, [tomenz.ch](https://tomenz.ch) - Lucerne, Switzerland
 
 ### Lokale Installation
 
-Dieses Dokument wurde Hauptsächlich mit der Online-Lösung [GitBook](https://gitbook.com) geschrieben, jedoch können die darunterliegenden Markdown `.md`-Dateien auch auf einem Rechner lokal im Browser angezeigt werden.
+Dieses Dokument wurde Hauptsächlich mit der Online-Lösung [GitBook](https://gitbook.com) geschrieben, jedoch können die darunterlegenden Markdown `.md`-Dateien auch auf einem Rechner lokal im Browser angezeigt werden.
 
 * Git
 * [NodeJS](https://nodejs.org)

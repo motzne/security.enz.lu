@@ -102,7 +102,9 @@ Sicherstellen des Geschäftsfortgangs:
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>## Themen:
+</table>
+
+## Themen:
 
 * Prioritäten der Geschäftsprozesse festlegen
 * Notfall-Organisation
