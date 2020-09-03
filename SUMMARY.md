@@ -7,6 +7,7 @@
 * [Todo's](cas-ism-management/todos.md)
 * [Planung, Aufbau und Betrieb eines ISMS](cas-ism-management/planung-aufbau-und-betrieb-eines-isms.md)
 * [Integriertes Informations-Risikomanagement im Praxiseinsatz](cas-ism-management/integriertes-informations-risikomanagement-im-praxiseinsatz.md)
+* [Awareness](cas-ism-management/awareness.md)
 * [Begriffe](cas-ism-management/verschiedene-begriffe.md)
 
 ## CAS-IST: Management
@@ -26,7 +27,6 @@
 * [Vorgehen: Risikonanalyse](cas-ist-management/vorgehen-risikonanalyse.md)
 * [Analyse Soll-/Ist Vergleich](cas-ist-management/analyse-soll-ist-vergleich.md)
 * [Business Continuity Management](cas-ist-management/business-continuity-management.md)
-* [Awareness](cas-ist-management/awareness.md)
 
 ## CAS-IST: Technologie
 
