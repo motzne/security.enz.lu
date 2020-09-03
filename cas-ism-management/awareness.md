@@ -1,13 +1,33 @@
 # Awareness
 
 * Der Mensch ist das schwächste Glied in der Kette!!
-
-## Begriff Awareness
-
-* Sensibilisieren
-* Bewusstsein schaffen
-* Motivation
-* Verständnis
+* **Begriff Awareness**
+  * Sensibilisieren
+  * Bewusstsein schaffen
+  * Motivation
+  * Verständnis
+* **Risiken**
+  * Identitätsdiebstahl
+  * Social Engineering =&gt; z.B. Spionage
+  * CEO Fraud
+* **Massnahmen**
+  * Schulung
+  * Phishing
+  * Weisungen
+  * Vorbild \(Beispiel Fussball\)
+  * Kontrollen
+* **Awareness-Vorlagen sind zu finden in...**
+  * 27002 / 7.2.2 Sensibilisierung, Aus- und Weiterbildung zur Informationssicherheit
+  * BSI ORP.3: Sensibilisierung und Schulung
+    * Zielsetzung
+    * Gefährdungslage
+    * Anforderungen
+* **Mittel**
+  * Wifi Pinapple
+  * USB Rubberducky
+  * Man in the middle
+  * Phishing
+  * Screengrab
 
 ### XMV \(Xonde Menschen Verstand\):
 
@@ -266,32 +286,6 @@ Lateral movement refers to the techniques cyber attackers use to move through a 
   * Lessons Learned
 * Gegenüber Zielpublikum
   * Erfolgsmeldung
-
-
-
-
-
-## Risiken
-
-* Identitätsdiebstahl
-* Social Engineering =&gt; z.B. Spionage
-* CEO Fraud
-
-## Massnahmen
-
-* Schulung
-* Phishing
-* Weisungen
-* Vorbild \(Beispiel Fussball\)
-* Kontrollen
-
-### Awareness-Vorlagen sind zu finden in...
-
-* 27002 / 7.2.2 Sensibilisierung, Aus- und Weiterbildung zur Informationssicherheit
-* BSI ORP.3: Sensibilisierung und Schulung
-  * Zielsetzung
-  * Gefährdungslage
-  * Anforderungen
 
 
 
