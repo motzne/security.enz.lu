@@ -23,7 +23,7 @@
 **Informatikrevision...**  
 ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller Aspekte von automatisierten, informationsverarbeitenden Systemen \(oder Teilen davon\) umfasst; inklusive der damit zusammen- hängenden nicht-automatisierten Prozesse und ihrer Schnittstellen.
 
-![](../.gitbook/assets/image%20%28120%29.png)
+![](../.gitbook/assets/image%20%28121%29.png)
 
 ### 
 
@@ -51,18 +51,18 @@ ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller 
 
 Typisches Vorgehen gemäss CISA
 
-![](../.gitbook/assets/image%20%28124%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
   
 **Definition Revision, Verifikation, Beweis**
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 
 
 ### **Minimalanforderungen an Dokumentation wichtiger Kontrollen**
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28120%29.png)
 
 
 

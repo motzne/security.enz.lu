@@ -2,7 +2,9 @@
 
 * [ ] Themenübersicht ISM erstellen
 * [ ] Begriffe: Corporate Governance / IT Governance
-* [ ] Revision: Wichtigste Punkte herausschälen?
+* [ ] Revision: Evt. Daniela noch Fragen, wichtigste Punkte?
+
+
 
 
 

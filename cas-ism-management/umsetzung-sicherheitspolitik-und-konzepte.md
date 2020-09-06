@@ -2,7 +2,7 @@
 
 ## Die Sicherheit wird für die Sicherstellung der Geschäftsprozesse **immer wichtiger**
 
-![](../.gitbook/assets/image%20%28130%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
 ## Einflussfaktoren auf ein Security Framework ****
 
@@ -18,17 +18,17 @@
 
 ### Regulatorische Einflussfaktoren
 
-![](../.gitbook/assets/image%20%28125%29.png)
+![](../.gitbook/assets/image%20%28127%29.png)
 
 
 
 ### Sourcing Sicherheitsleistungen
 
-![](../.gitbook/assets/image%20%28129%29.png)
+![](../.gitbook/assets/image%20%28132%29.png)
 
 ### Was benötige ich alles für den Aufbau eines «Information Security Framework»?
 
-![](../.gitbook/assets/image%20%28131%29.png)
+![](../.gitbook/assets/image%20%28134%29.png)
 
 ## Aufbau eines Information Security Frameworks
 
@@ -42,7 +42,7 @@
 * Die richtigen Darstellungen wählen
 * Sicherheitsmangement System, das die 3 Handlungsebenen aufzeigt 
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28129%29.png)
 
 ## Was sollte bei der Erstellung einer IS/ICT Security Policy beachtet werden?
 

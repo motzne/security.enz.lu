@@ -209,7 +209,31 @@ Schutz der Operationen, datenbezogen
 | :--- | :--- |
 | Safety befasst sich mit vorbeugenden Massnahmen gegen den Eintritt von Ereignissen \(Vorfällen, Unfällen und anderen unerwünschten Zuständen\), die ihren Ursprung in nichtbeabsichtigten menschlichen und / oder technischen Unzulänglichkeiten haben, sowie mit der Begrenzung oder Beherrschung solcher Vorfälle und mit allgemeinen Problemen der Arbeitssicherheit. | Security befasst sich mit vorbeugenden Massnahmen gegen den Eintritt von Ereignissen \(Handlungen, Delikten und anderen unerwünschten Zuständen\), die durch Personen in böswilliger Absicht gegen Unternehmen oder Organisationen \(Mitarbeiter, Eigentum im weitesten Sinne oder guter Ruf\) begangen werden, sowie mit der Begrenzung oder Beherrschung solcher Vorfälle und des daraus resultierenden Schadens. |
 
-![](.gitbook/assets/image%20%28127%29.png)
+![](.gitbook/assets/image%20%28130%29.png)
+
+
+
+## Governance vs. Corporate Governance vs. IT Governance vs. IS Governance vs. Compliance
+
+* Governance:
+  * Zusammengefasst: Führung und Kontrolle
+  * Verbreiteter Begriff, jedoch nicht offiziell definiert
+  * _Alle Regeln_
+* Corporate Governance
+  * deutsch: Grundsätze der Unternehmensführung
+  * Corporate Governance ist das System von **Regeln**, **Praktiken** und **Prozessen**, durch das ein Unternehmen geleitet und kontrolliert wird
+  * Corporate Governance ≠ Management
+* IT Governance
+  * _Governance im Bezug auf IT_
+  * Eingebettet in Corporate Governance \(siehe Grafik unten\)
+  * Informationsverarbeitende und -lagernde \(technischen oder nicht-technischen\) Systeme, die die Schutzziele Vertraulichkeit, Verfügbarkeit und Integrität sicherstellen
+* IS Security Governance
+  * Nicht nur in IT , sondern auch noch Teil in Corporate Governance \(z.B. Papierakten\) - geht darüber hinaus \(sieh Grafik unten\)
+  * Führung, Organisationsstrukturen und Prozesse zur Sicherstellung der Unterstützung der Unternehmensstrategie und -ziele in Bezug auf Information Security
+* Compliance
+  * Effektives Implementieren, Umsetzen der definierten internen und externen Richtlinien, wie wird es explizit umgesetzt
+
+![](.gitbook/assets/image%20%28128%29.png)
 
 
 

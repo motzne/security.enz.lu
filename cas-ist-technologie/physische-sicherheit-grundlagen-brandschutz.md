@@ -1,6 +1,6 @@
 # Physische Sicherheit / Grundlagen Brandschutz
 
-![](../.gitbook/assets/image%20%28128%29.png)
+![](../.gitbook/assets/image%20%28131%29.png)
 
 ## Sicherheitsplanung
 
@@ -18,9 +18,9 @@ Die Honorar Ordnung für Architekten und Ingenieure \(HOAI\)
 * Projekt \(Teilleistungen 3 bis 9\)
 * Ausführung Teilleistungen 10 bis 15\)
 
-![](../.gitbook/assets/image%20%28123%29.png)
+![](../.gitbook/assets/image%20%28125%29.png)
 
-![](../.gitbook/assets/image%20%28122%29.png)
+![](../.gitbook/assets/image%20%28124%29.png)
 
 ## Gefahrenkatalog / Bedrohungsbild
 
