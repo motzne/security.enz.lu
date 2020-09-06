@@ -20,7 +20,7 @@
 
 ## Basiskonzept
 
-![](../.gitbook/assets/image%20%28155%29.png)
+![](../.gitbook/assets/image%20%28157%29.png)
 
 ### **Public Relations**
 
@@ -32,7 +32,7 @@
 
 #### PR-Zielsetzungpyramide nach Nitsch
 
-![](../.gitbook/assets/image%20%28157%29.png)
+![](../.gitbook/assets/image%20%28159%29.png)
 
 
 
