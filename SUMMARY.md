@@ -14,6 +14,7 @@
 * [Governance der Informationssicherheit](cas-ism-management/governance-der-informationssicherheit.md)
 * [Internes Kontrollsystem \(IKS\)](cas-ism-management/internes-kontrollsystem-iks.md)
 * [GL-, VR-Anträge / Wirtschaftlichkeit](cas-ism-management/gl-vr-antraege-wirtschaftlichkeit.md)
+* [Business Continuity Management](cas-ism-management/business-continuity-management.md)
 
 ## CAS-ISM: Recht
 
@@ -39,7 +40,6 @@
 * [Vorgehen: Sicherheitskonzepts nach IT-Grundschutz](cas-ist-management/vorgehen-grundschutz.md)
 * [Vorgehen: Risikonanalyse](cas-ist-management/vorgehen-risikonanalyse.md)
 * [Analyse Soll-/Ist Vergleich](cas-ist-management/analyse-soll-ist-vergleich.md)
-* [Business Continuity Management](cas-ist-management/business-continuity-management.md)
 
 ## CAS-IST: Technologie
 
