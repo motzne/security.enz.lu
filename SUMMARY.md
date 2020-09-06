@@ -13,6 +13,7 @@
 * [Informatik - Revision](cas-ism-management/informatik-revision.md)
 * [Governance der Informationssicherheit](cas-ism-management/governance-der-informationssicherheit.md)
 * [Internes Kontrollsystem \(IKS\)](cas-ism-management/internes-kontrollsystem-iks.md)
+* [GL-, VR-Anträge / Wirtschaftlichkeit](cas-ism-management/gl-vr-antraege-wirtschaftlichkeit.md)
 
 ## CAS-ISM: Recht
 

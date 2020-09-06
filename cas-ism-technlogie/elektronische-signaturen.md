@@ -2,13 +2,13 @@
 
 
 
-![](../.gitbook/assets/image%20%28146%29.png)
+![](../.gitbook/assets/image%20%28149%29.png)
 
 1. Im ersten Schritt wird über die zu signierenden Daten ein Hashwert berechnet. \(Eine Hashfunktion ist eine kryptographische Operation, die eine Zeichenfolge beliebiger Länge auf eine Zeichenfolge fester Länge abbildet.\)
 2. Der Hashwert wird danach mit dem privaten Schlüssel des Unterzeichners verschlüsselt. Das Ergebnis ist die elektronische Signatur.
 3. Die elektronische Signatur wird entsprechend des verwendeten Signaturstandards an die zu signierenden Informationen angehängt. Dabei können zusätzliche Informationen wie Zertifikate und Zertifikatsgültigkeitsinformationen mit integriert werden.
 
-![](../.gitbook/assets/image%20%28147%29.png)
+![](../.gitbook/assets/image%20%28152%29.png)
 
 1. Die Signatur wird aus dem Dokument extrahiert.
 2. Die Signatur wird mit dem öffentlichen Schlüssel des Unterzeichners entschlüsselt \(der öffentliche Schlüssel wird mit dem Zertifikat des Unterzeichners mitgeliefert\).
@@ -132,7 +132,7 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
   
 
 
-![](../.gitbook/assets/image%20%28145%29.png)
+![](../.gitbook/assets/image%20%28148%29.png)
 
 ## **Anforderungen Signaturerstellungseinheit**
 
