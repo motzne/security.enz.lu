@@ -125,9 +125,104 @@ Welche Systeme sind nötig um die wichtigsten Geschäftsprozesse zu betreiben?
   * Netzwerke
   * Räume inkl. Arbeitsplätze
 
+![](../.gitbook/assets/image%20%28148%29.png)
+
+## Die grössten Fehler in Krisensituationen
+
+* Fehlende Akzeptanz des Ereignisses \(Das kann doch gar nicht sein! Ist es wirklich so schlimm? etc.\)
+* Meldewege sind oft unklar \(Zuständigkeiten, etc.\)
+* Die Funktionsträger sind trotz vorgängiger Notstandsübungen zu wenig auf ein mögliches Ereignis sensibilisiert
+* Mobiltelefone sind oft unbrauchbar  Netzüberlastung
+* Interventionskräfte sind nicht oder zu wenig bzgl. IT-Belange
+
+  sensibilisiert
+
+* Die Presse und die Medien bedrängten Einsatzkräfte und Mitarbeitende
+
+![](../.gitbook/assets/image%20%28151%29.png)
+
+![](../.gitbook/assets/image%20%28155%29.png)
+
+## Sofortmassnahmen
+
+* Massnahmen, um weiteren Schaden zu verhindern
+* Massnahmen, um das Schadensausmass zu reduzieren
+* Werden durch die jeweiligen Stäbe erarbeitet
+* Werden ad hoc definiert
+
+## Vorbehaltene Entschlüsse
+
+* Vorgängig erarbeitete Massnahmen für einen Fall X, resp. Y, ....
+* Werden im Notfall zur Unterstützung eingesetzt
+* Bilden Handlungs- und Entscheidungsspielraum
+* Gehören zur Notfallplanung
+* Im wesentlichen Denkarbeit!!
+* Lösungen sind nicht nur IT-bezogen, sondern kommen aus allen Fachabteilungen!
+
+### Beispiele
+
+* Ersatz Serverraum 
+* Standort mit entsprechender Versorgung
+* Beschaffung HW / Netzwerk
+* Prioritäten der Wiederinbetriebnahme
+* Mini-Office falls Geschäftsräume nicht mehr nutzbar
+* Personalbedarf \(Wer arbeitet im Minioffice\)
+* Definierte Räume \(Ansprechpartner, Zugänglichkeit, ...\)
+* Definierte Infrastruktur \(HW, SW, Kommuikation\)
+* Vorgehen Ausfall Telefonanlage
+* Ersatzlösung mit Mobiltelefonen • Vorbereitete SIM-Karten
+* Vorbereitete Nummernliste
+* Instruktionen für den Einsatz
+
 ## Kritische Infrastrukturen
 
 ![](../.gitbook/assets/image%20%2891%29.png)
+
+## Aufbau der Krisenorganisation \(Krisenstab\)
+
+![](../.gitbook/assets/image%20%28152%29.png)
+
+## Führungsrhythmus
+
+Der Führungsrythmus kann mit folgenden 5 Schritten beschrieben werden:
+
+![](../.gitbook/assets/image%20%28150%29.png)
+
+
+
+1. **Analyse Auftrag**
+   1. Festlegung der Ereignisart \(worum handelt es sich?\)
+   2. Grobbeurteilung der Schäden und Verluste
+   3. Festlegung der zu alarmierenden Personen und Mittel \(wen muss der Krisenstab aufbieten?\)
+   4. Festlegung der Dringlichkeiten \(wo muss der Krisenstab zuerst eingreifen?\)
+   5. Festlegung der Zeitverhältnisse \(bis zu welchem Zeitpunkt sollen welche Tätigkeiten abgeschlossen sein?\)
+   6. Anordnung von Sofortmassnahmen \(was kann derKrisenstab vor der Befehlsgebung bereits anordnen?\)
+2. **Sofortmassnahmen**
+   1. Alarmierung von Spezialisten und Einsatzformationen • Veranlassung der sofortigen Hilfeleistung
+   2. Materialbestellung
+   3. Transportmittel / Baumaschinen / Geräte
+   4. Erkundung
+   5. Verbindung mit Behörden
+   6. Verkehrsregelung \(Absperrung, Einweisung, Umleitung\)
+   7. Orientierungsrapport
+   8. Orientierung
+   9. Anträge Sofortmassnahmen
+   10. Entschluss Sofortmassnahmen • Leitidee / Vorgehensplan
+   11. Zeitplan
+3. **Zeitplan**
+   1. was muss sofort,
+   2. was kann später,
+   3. was viel später
+   4. erledigt werden?
+4. **Beurteilung der Lage**
+   1. Ein Ereignis beurteilen heisst angesichts der Schäden für die Bewältigung der Folgen die bedeutsamen Faktoren zu erkennen und die Einsatzmöglichkeiten zu bewerten
+   2. Es stellen sich folgende Fragen
+   3. Unterstützung
+   4. Teilaufträge und deren Dringlichkeit
+   5. Zustand der Mittel
+   6. Besondere Gefährdung
+   7. Entwicklung der Schadenlage
+5. **Entschluss**
 
 ## Notfallorganisation
 
@@ -135,6 +230,7 @@ Welche Systeme sind nötig um die wichtigsten Geschäftsprozesse zu betreiben?
 * Festlegen der Rollen
 * Pflichtenheft der einzelnen Aufgaben
 * Klären der Verantwortlichkeiten / Kompetenzen
+* Meldeweg
 * Definition der Entscheidungswege / Erreichbarkeit
 * Festlegen der Stellvertretung
 
@@ -142,12 +238,23 @@ Welche Systeme sind nötig um die wichtigsten Geschäftsprozesse zu betreiben?
 
 Einfache Anleitung zur Bewältigung des Notfalls Charakteristik:
 
-* KISS
+* KISS \(Keep it stupid simple\)
+* Alarmierungsmatrix 
 * Checklistenartig
 * Auf das Wesentlichste konzentriert
 * Up to date \(Change Management\)
 * Eingeübt
 * Im Notfall verfügbar
+
+### Umgang mit der Presse und den Medien
+
+* Sachlich \(keine Übertreibungen, Mutmassungen, etc.\)
+* Korrekt \(nur Fakten\)
+* Freundlich, zuvorkommend, vorbereitet
+* Medienleute sind Partner, nicht Feinde!
+* Nicht vertuschen, verweigern, etc.
+* Keine Aussagen im Stile von „No Comment“ o.ä.
+* Kommunikation ist Chefsache!
 
 ## Aktivitäten: 
 
