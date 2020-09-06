@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Intro](README.md)
+* [Begriffe](begriffe.md)
 
 ## CAS-ISM: Mgmt <a id="cas-ism-management"></a>
 
@@ -8,7 +9,8 @@
 * [Planung, Aufbau und Betrieb eines ISMS](cas-ism-management/planung-aufbau-und-betrieb-eines-isms.md)
 * [Integriertes Informations-Risikomanagement im Praxiseinsatz](cas-ism-management/integriertes-informations-risikomanagement-im-praxiseinsatz.md)
 * [Awareness](cas-ism-management/awareness.md)
-* [Begriffe](cas-ism-management/verschiedene-begriffe.md)
+* [Umsetzung Sicherheitspolitik und Konzepte](cas-ism-management/umsetzung-sicherheitspolitik-und-konzepte.md)
+* [Internes Kontrollsystem \(IKS\)](cas-ism-management/internes-kontrollsystem-iks.md)
 
 ## CAS-IST: Management
 

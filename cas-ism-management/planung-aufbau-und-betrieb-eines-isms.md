@@ -21,11 +21,9 @@
   * Maintain \(Check\) – Messen der Ergebnisse aus der Implementierung
   * Continual Improvement \(Act\) – Korrekturen und Verbesserungen
 
-![](../.gitbook/assets/image%20%28111%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
-
-
-### Typische Probleme
+## Typische Probleme
 
 * Unzureichende Verankerung
   * Fehlender Management Support
