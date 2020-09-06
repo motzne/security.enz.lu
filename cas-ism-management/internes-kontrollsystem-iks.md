@@ -12,3 +12,13 @@ Die Kontrollen können sowohl prozessunabhängig, beispielsweise durch die Inter
 
 
 
+Das Interne Kontrollsystem \(IKS\) ist die Gesamtheit aller \(in einem Unternehmen angewandten\) Massnahmen für:
+
+* Schutz des Geschäftsvermögens l Genauigkeit und Zuverlässigkeit
+* der Geschäftsabwicklung
+* effiziente Geschäftsführung
+* Einhaltung der Geschäftspolitik
+* Verhinderung und Erkennung von Fehlern oder Unregelmässigkeiten
+
+
+

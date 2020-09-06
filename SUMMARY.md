@@ -11,6 +11,7 @@
 * [Awareness](cas-ism-management/awareness.md)
 * [Umsetzung Sicherheitspolitik und Konzepte](cas-ism-management/umsetzung-sicherheitspolitik-und-konzepte.md)
 * [Internes Kontrollsystem \(IKS\)](cas-ism-management/internes-kontrollsystem-iks.md)
+* [Informatik - Revision](cas-ism-management/informatik-revision.md)
 
 ## CAS-IST: Management
 

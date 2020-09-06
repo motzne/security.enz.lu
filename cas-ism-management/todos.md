@@ -1,7 +1,8 @@
 # Todo's
 
-* [ ] Themenübersicht ISM
+* [ ] Themenübersicht ISM erstellen
 * [ ] Begriffe: Corporate Governance / IT Governance
+* [ ] Revision: Wichtigste Punkte herausschälen?
 
 
 
