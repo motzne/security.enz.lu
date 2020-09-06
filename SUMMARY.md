@@ -18,6 +18,10 @@
 
 * [Corporate Governance](cas-ism-recht/corporate-governance.md)
 
+## CAS-ISM: Technlogie
+
+* [Elektronische Signaturen](cas-ism-technlogie/elektronische-signaturen.md)
+
 ## CAS-IST: Management
 
 * [Standards](cas-ist-management/standards/README.md)
@@ -35,10 +39,6 @@
 * [Vorgehen: Risikonanalyse](cas-ist-management/vorgehen-risikonanalyse.md)
 * [Analyse Soll-/Ist Vergleich](cas-ist-management/analyse-soll-ist-vergleich.md)
 * [Business Continuity Management](cas-ist-management/business-continuity-management.md)
-
-## CAS-ISM: Technlogie
-
-* [Elektronische Signaturen](cas-ism-technlogie/elektronische-signaturen.md)
 
 ## CAS-IST: Technologie
 
