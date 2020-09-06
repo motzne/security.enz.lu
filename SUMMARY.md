@@ -15,6 +15,7 @@
 * [Internes Kontrollsystem \(IKS\)](cas-ism-management/internes-kontrollsystem-iks.md)
 * [GL-, VR-Anträge / Wirtschaftlichkeit](cas-ism-management/gl-vr-antraege-wirtschaftlichkeit.md)
 * [Business Continuity Management](cas-ism-management/business-continuity-management.md)
+* [Zusammenarbeit mit Partner / Outsourcing](cas-ism-management/zusammenarbeit-mit-partner-outsourcing.md)
 
 ## CAS-ISM: Recht
 

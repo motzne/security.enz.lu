@@ -125,7 +125,7 @@ Welche Systeme sind nötig um die wichtigsten Geschäftsprozesse zu betreiben?
   * Netzwerke
   * Räume inkl. Arbeitsplätze
 
-![](../.gitbook/assets/image%20%28148%29.png)
+![](../.gitbook/assets/image%20%28149%29.png)
 
 ## Die grössten Fehler in Krisensituationen
 
@@ -139,9 +139,9 @@ Welche Systeme sind nötig um die wichtigsten Geschäftsprozesse zu betreiben?
 
 * Die Presse und die Medien bedrängten Einsatzkräfte und Mitarbeitende
 
-![](../.gitbook/assets/image%20%28151%29.png)
+![](../.gitbook/assets/image%20%28152%29.png)
 
-![](../.gitbook/assets/image%20%28155%29.png)
+![](../.gitbook/assets/image%20%28156%29.png)
 
 ## Sofortmassnahmen
 
@@ -180,13 +180,13 @@ Welche Systeme sind nötig um die wichtigsten Geschäftsprozesse zu betreiben?
 
 ## Aufbau der Krisenorganisation \(Krisenstab\)
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%28153%29.png)
 
 ## Führungsrhythmus
 
 Der Führungsrythmus kann mit folgenden 5 Schritten beschrieben werden:
 
-![](../.gitbook/assets/image%20%28150%29.png)
+![](../.gitbook/assets/image%20%28151%29.png)
 
 
 
