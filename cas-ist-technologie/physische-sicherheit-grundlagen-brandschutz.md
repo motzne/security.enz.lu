@@ -1,10 +1,6 @@
 # Physische Sicherheit / Grundlagen Brandschutz
 
-## Begriffe
-
-| Safety | Security |
-| :--- | :--- |
-| Safety befasst sich mit vorbeugenden Massnahmen gegen den Eintritt von Ereignissen \(Vorfällen, Unfällen und anderen unerwünschten Zuständen\), die ihren Ursprung in nichtbeabsichtigten menschlichen und / oder technischen Unzulänglichkeiten haben, sowie mit der Begrenzung oder Beherrschung solcher Vorfälle und mit allgemeinen Problemen der Arbeitssicherheit. | Security befasst sich mit vorbeugenden Massnahmen gegen den Eintritt von Ereignissen \(Handlungen, Delikten und anderen unerwünschten Zuständen\), die durch Personen in böswilliger Absicht gegen Unternehmen oder Organisationen \(Mitarbeiter, Eigentum im weitesten Sinne oder guter Ruf\) begangen werden, sowie mit der Begrenzung oder Beherrschung solcher Vorfälle und des daraus resultierenden Schadens. |
+![](../.gitbook/assets/image%20%28120%29.png)
 
 ## Sicherheitsplanung
 
@@ -15,16 +11,18 @@ Ordnung für Leistungen und Honorare der Maschinen- und der Elektroingenieure so
 **Deutschland**  
 Die Honorar Ordnung für Architekten und Ingenieure \(HOAI\)
 
-### **Ein Projektablauf kann in die folgenden vier Hauptphasen \(SIA\) unterteilt werden:**
+### **Ein Projektablauf kann in die folgenden 4 Hauptphasen \(SIA\) unterteilt werden:**
 
 * Grundlagenermittlung / Sicherheitskonzept \(Teilleistung 0\)
 * Vorprojekt \(Teilleistungen 1 und 2\)
 * Projekt \(Teilleistungen 3 bis 9\)
 * Ausführung Teilleistungen 10 bis 15\)
 
+![](../.gitbook/assets/image%20%28119%29.png)
 
+![](../.gitbook/assets/image%20%28118%29.png)
 
-## Gefahrenkatalog
+## Gefahrenkatalog / Bedrohungsbild
 
 60% Mensch / 40% Technik
 
@@ -131,6 +129,17 @@ Die Honorar Ordnung für Architekten und Ingenieure \(HOAI\)
     </tr>
   </tbody>
 </table>
+
+## Sicherheitspolitik / Schutzziele
+
+1. **Priorität: Schutz der Personen \(Safety\)**
+
+   1. Mitarbeiter, Besucher, Handwerker, Servicetechniker etc.
+
+2. **Priorität**: **Schutz der Werte \(Security\)**
+   1. Sachwerte: Stromversorgung und -verteilung, Telematik, Informatik
+   2. Materielle Werte: Sach- und Geldwerte, Kunstgegenstände, etc.
+   3. Immaterielle Werte: physische und elektronische Informationsträger
 
 
 
