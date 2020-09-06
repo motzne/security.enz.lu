@@ -51,12 +51,12 @@ ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller 
 
 Typisches Vorgehen gemäss CISA
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28129%29.png)
 
   
 **Definition Revision, Verifikation, Beweis**
 
-![](../.gitbook/assets/image%20%28122%29.png)
+![](../.gitbook/assets/image%20%28123%29.png)
 
 
 

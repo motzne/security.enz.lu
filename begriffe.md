@@ -209,7 +209,7 @@ Schutz der Operationen, datenbezogen
 | :--- | :--- |
 | Safety befasst sich mit vorbeugenden Massnahmen gegen den Eintritt von Ereignissen \(Vorfällen, Unfällen und anderen unerwünschten Zuständen\), die ihren Ursprung in nichtbeabsichtigten menschlichen und / oder technischen Unzulänglichkeiten haben, sowie mit der Begrenzung oder Beherrschung solcher Vorfälle und mit allgemeinen Problemen der Arbeitssicherheit. | Security befasst sich mit vorbeugenden Massnahmen gegen den Eintritt von Ereignissen \(Handlungen, Delikten und anderen unerwünschten Zuständen\), die durch Personen in böswilliger Absicht gegen Unternehmen oder Organisationen \(Mitarbeiter, Eigentum im weitesten Sinne oder guter Ruf\) begangen werden, sowie mit der Begrenzung oder Beherrschung solcher Vorfälle und des daraus resultierenden Schadens. |
 
-![](.gitbook/assets/image%20%28130%29.png)
+![](.gitbook/assets/image%20%28135%29.png)
 
 
 
@@ -233,7 +233,7 @@ Schutz der Operationen, datenbezogen
 * Compliance
   * Effektives Implementieren, Umsetzen der definierten internen und externen Richtlinien, wie wird es explizit umgesetzt
 
-![](.gitbook/assets/image%20%28128%29.png)
+![](.gitbook/assets/image%20%28132%29.png)
 
 
 

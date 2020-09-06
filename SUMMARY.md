@@ -10,9 +10,9 @@
 * [Integriertes Informations-Risikomanagement im Praxiseinsatz](cas-ism-management/integriertes-informations-risikomanagement-im-praxiseinsatz.md)
 * [Awareness](cas-ism-management/awareness.md)
 * [Umsetzung Sicherheitspolitik und Konzepte](cas-ism-management/umsetzung-sicherheitspolitik-und-konzepte.md)
-* [Internes Kontrollsystem \(IKS\)](cas-ism-management/internes-kontrollsystem-iks.md)
 * [Informatik - Revision](cas-ism-management/informatik-revision.md)
 * [Governance der Informationssicherheit](cas-ism-management/governance-der-informationssicherheit.md)
+* [Internes Kontrollsystem \(IKS\)](cas-ism-management/internes-kontrollsystem-iks.md)
 
 ## CAS-ISM: Recht
 

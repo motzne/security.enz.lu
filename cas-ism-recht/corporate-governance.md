@@ -1,7 +1,5 @@
 # Corporate Governance
 
-
-
 _In eigenen Worten:   
 Framework mit Regeln, Richtlinien und Definitionen wie man es machen sollte, Managen und Monitoren, Anforderungen, \(Information Security\) zum Wohlergehen des Unternehmers und der Stakeholder_
 
@@ -88,7 +86,7 @@ Um Risiken zu erkennen, Massnahmen zu erstellen und Resultate zu Messen und so d
 * Information Security Governance
   * Führung, Organisationsstrukturen und Prozesse zur Sicherstellung der Unterstützung der Unternehmensstrategie und -ziele  in Bezug auf Information Security
 
-![](../.gitbook/assets/image%20%28123%29.png)
+![](../.gitbook/assets/image%20%28124%29.png)
 
 
 
