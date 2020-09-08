@@ -19,7 +19,14 @@
 
 ## CAS-ISM: Recht
 
-* [Corporate Governance](cas-ism-recht/corporate-governance.md)
+## Recht
+
+* [Zusammenfassung](recht/zusammenfassung.md)
+* [Urheberrechtsgesetz \(URG\)](recht/urheberrechtsgesetz-urg.md)
+* [Datenschutzgesetz \(DSG\)](recht/datenschutzgesetz-dsg.md)
+* [Corporate Governance](recht/corporate-governance.md)
+* [Strafgesetzbuch \(StGB\)](recht/strafgesetzbuch-stgb.md)
+* [Weitere Gesetzestexte](recht/gesetzestexte.md)
 
 ## CAS-ISM: Technlogie
 
@@ -57,14 +64,6 @@
   * [Netzwerksicherheit im Internet](cas-ist-technologie/network-defence/netzwerksicherheit-im-internet.md)
   * [Perimeter](cas-ist-technologie/network-defence/perimeter.md)
   * [IPv6](cas-ist-technologie/network-defence/ipv6.md)
-
-## CAS-IST: Recht
-
-* [Zusammenfassung](cas-ist-recht/zusammenfassung.md)
-* [Datenschutzgesetz \(DSG\)](cas-ist-recht/datenschutzgesetz-dsg.md)
-* [Urheberrechtsgesetz \(URG\)](cas-ist-recht/urheberrechtsgesetz-urg.md)
-* [Strafgesetzbuch \(StGB\)](cas-ist-recht/strafgesetzbuch-stgb.md)
-* [Weitere Gesetzestexte](cas-ist-recht/gesetzestexte.md)
 
 ---
 
