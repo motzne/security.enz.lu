@@ -58,6 +58,10 @@
 
 ![](../.gitbook/assets/image%20%2818%29.png)
 
+![](../.gitbook/assets/image%20%28163%29.png)
+
+
+
 ### Was ist was?
 
 * X hat das herumliegende Passwort seiner Partnerin genutzt, um auf die Mails zuzugreifen.  =&gt; Öffentliches Recht /  StGB Bsp. Art. 143

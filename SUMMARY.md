@@ -27,6 +27,7 @@
 * [Corporate Governance](recht/corporate-governance.md)
 * [Strafgesetzbuch \(StGB\)](recht/strafgesetzbuch-stgb.md)
 * [Weitere Gesetzestexte](recht/gesetzestexte.md)
+* [Vertragsrecht \(OR\)](recht/vertragsrecht-or.md)
 
 ## CAS-ISM: Technlogie
 
