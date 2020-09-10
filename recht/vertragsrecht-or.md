@@ -313,9 +313,9 @@ Wann werden sie Bestandteil des Vertrages?
 
 ![](../.gitbook/assets/image%20%28165%29.png)
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28174%29.png)
 
-![](../.gitbook/assets/image%20%28168%29.png)
+![](../.gitbook/assets/image%20%28173%29.png)
 
 
 

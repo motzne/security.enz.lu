@@ -17,20 +17,20 @@
 * [Business Continuity Management](cas-ism-management/business-continuity-management.md)
 * [Zusammenarbeit mit Partner / Outsourcing](cas-ism-management/zusammenarbeit-mit-partner-outsourcing.md)
 
-## CAS-ISM: Recht
-
 ## Recht
 
 * [Zusammenfassung](recht/zusammenfassung.md)
 * [Urheberrechtsgesetz \(URG\)](recht/urheberrechtsgesetz-urg.md)
 * [Datenschutzgesetz \(DSG\)](recht/datenschutzgesetz-dsg.md)
-* [Corporate Governance](recht/corporate-governance.md)
 * [Strafgesetzbuch \(StGB\)](recht/strafgesetzbuch-stgb.md)
-* [Weitere Gesetzestexte](recht/gesetzestexte.md)
 * [Vertragsrecht \(OR\)](recht/vertragsrecht-or.md)
+* [Corporate Governance](recht/corporate-governance.md)
+* [Haftung in digitalen Projekten](recht/haftung-in-digitalen-projekten.md)
+* [Weitere Gesetzestexte](recht/gesetzestexte.md)
 
 ## CAS-ISM: Technlogie
 
+* [Identity and Access Management](cas-ism-technlogie/identity-and-access-management.md)
 * [Elektronische Signaturen](cas-ism-technlogie/elektronische-signaturen.md)
 
 ## CAS-IST: Management
