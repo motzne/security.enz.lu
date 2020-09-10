@@ -1,5 +1,40 @@
 # Identity and Access Management
 
+## Allgemeine 
+
+### Was ist der Nutzen/Gewinn 
+
+* Zentrale Benutzerverwaltung, nicht jede Applikation einzeln 
+* SSO - Single Sign on 
+* Endpoint Security Kontrolle von Client möglich 
+* identity based firewalling   joiner mover leaver Prozess 
+* Zentrale 2FA Faktoren Verwaltung; Migration / Update / etc. 
+* Schnell und flexibel anpassbar 
+* Step-up Möglichkeiten \(Flows\) 
+* Federation von verschiedenen Quellen \(AD, Facebook\)
+
+### Welches Aufgaben erfüllt eine IAM Lösung?
+
+* Verwaltung von User
+* Berechtigungsmanagement
+* Zugriffssteuerung
+* Organisationsstrukturen
+* 
+### Welche Quellen und Ziele nutzt eine IAM Lösung?
+
+* HR Daten
+* Active Directory
+* Physische Zutrittssysteme
+* Applikationen
+* DB
+* Identity Provider
+* technische User \(z.b. root, lokaler Account\), 
+* APIs
+* IoT
+* BYOD
+
+## 
+
 ## Worum geht es?
 
 * **Verschiedene Identitäten**
