@@ -73,7 +73,7 @@
 * **SIBE, Legal & Compliance, Personal**
 * **Interne** **Revision**
 
-
+![](../.gitbook/assets/image%20%28178%29.png)
 
 ## Ausgewählte Dikussionsthemen
 
@@ -81,7 +81,23 @@
 * Zentral versus dezentrale Aufgabenverteilung
 * Ansiedlung der Sicherheits-Verantwortung
 
+## Externe vs. Interne Faktoren
 
+Extern Faktoren:
+
+* Umwelt
+* Markt
+* Wirtschaftslage
+* Politik
+* Kultur und Sozialleben
+
+Intern:
+
+* Firmenstategie
+* Organisation
+* Prozesse
+* Personen
+* Technologie
 
 ## Gremien
 

@@ -1,5 +1,21 @@
 # ISO-Standards
 
+## ISO 27000- Familie 
+
+ist eine Reihe von Standards zur Informationssicherheit.
+
+* ISO 27001:2015
+  * Anforderungen
+* ISO 27002:2013
+  * Kochbuch, Code of Practice, wie man es machen muss
+* ISO 27003:2013
+  * Wie man dies nun wirklich mache kann
+* ISO 27004:2013
+  * Implementation eines Messsystems
+* ISO 27005:2013
+  * Risikomanagement
+  * Warum muss ich immer mit diesem starten, wenn ich nach ISO 27… zertifiziert werden will? Man braucht eine Grundlage wo die Problemstellen sind wo sind die Risiken, Lücken, Risikoanalyse
+
 ## **ISO 27001 : 2005 Information Security Management System ISMS**
 
 * Prozess der Informationssicherheit

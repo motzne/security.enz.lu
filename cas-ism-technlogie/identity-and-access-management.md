@@ -50,7 +50,7 @@
 * **Technologien**
   * Risk- und Step up Authentisierung, ABAC, RBAC, Federation Services, CIAM, XACML, Identity Provider, TAN Mechanismen, SSO, OpenID Connect, SIEM, etc.
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28177%29.png)
 
 ### Wichtige IAM Funktionen
 
@@ -65,7 +65,7 @@
 
 ![](../.gitbook/assets/image%20%28168%29.png)
 
-![](../.gitbook/assets/image%20%28177%29.png)
+![](../.gitbook/assets/image%20%28180%29.png)
 
 ## Problemfelder des Identity and Access Managements
 
@@ -90,7 +90,7 @@
 
 ## IAM Service Framework
 
-![](../.gitbook/assets/image%20%28172%29.png)
+![](../.gitbook/assets/image%20%28173%29.png)
 
 ### Authentisierung
 
@@ -99,7 +99,7 @@
   * Dabei wird ein **Schlüsselpaar** generiert und z.B. bei Windows Hello im TPM-Chip gespeichert 
   * Biometrische Anmeldung erlaubt
   * bleibt auf **lokalem Gerät**
-  * Benutzer-ID und PIN funktionieren nur auf diesem PC, der Angreifer müsste auch den PC in seinen Besitz bekommen
+  * Benutzer-ID und PIN funktionieren nur auf diesem PC, der Angreifer müsste auch den PC in seinen Besitz bekommen 
 * **Basis & Starke Authentisierung**
   * Basic Auth
     * Benutzer-ID und Passwort \(od. Zertifikat\)
@@ -125,7 +125,9 @@
     * Integration bestehender Systeme wie ServiceProvider,Portale, IaaS/PaaS/SaaS \(Infrastructure- / Platform- / Software as a Service\)
     * **Weniger verwaiste Benutzer**-Identitäten \(ungenützte Accounts\) ****
 
-![](../.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28190%29.png)
+
+![](../.gitbook/assets/image%20%28172%29.png)
 
 
 
@@ -190,11 +192,11 @@
 
 
 
-![](../.gitbook/assets/image%20%28183%29.png)
+![](../.gitbook/assets/image%20%28197%29.png)
 
-![](../.gitbook/assets/image%20%28181%29.png)
+![](../.gitbook/assets/image%20%28195%29.png)
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28198%29.png)
 
 #### ABAC
 
@@ -203,11 +205,11 @@
 * Bei einer attributbasierten Zugriffskontrolle wird ein Zugriff für einen Benutzer gewährt, nachdem eine Kombination aus Attributen, die mit ihm assoziiert sind, überprüft wurden. 
 * ABAC Ablauf im Systemumfeld
 
-![](../.gitbook/assets/image%20%28180%29.png)
+![](../.gitbook/assets/image%20%28194%29.png)
 
 
 
-![](../.gitbook/assets/image%20%28176%29.png)
+![](../.gitbook/assets/image%20%28179%29.png)
 
 ## Services, Quellen, Ziele
 
@@ -229,9 +231,9 @@
   * Autorisierung \(was darf ich\)
 * über Organisations- und Firmengrenzen hinweg
 * 
-![](../.gitbook/assets/image%20%28178%29.png)
+![](../.gitbook/assets/image%20%28183%29.png)
 
-![](../.gitbook/assets/image%20%28174%29.png)
+![](../.gitbook/assets/image%20%28176%29.png)
 
 
 
@@ -291,7 +293,7 @@
 
 ### IAM Pyramide der Implementierungsphasen
 
-![](../.gitbook/assets/image%20%28186%29.png)
+![](../.gitbook/assets/image%20%28200%29.png)
 
 
 

@@ -1,5 +1,7 @@
 # Informatik - Revision
 
+## 
+
 ## Aufgaben der Revision
 
 * Kontrolle auf allen Ebene im "Cremeschnitten-Modell" \(siehe Grafik unten\)
@@ -63,6 +65,20 @@ Typisches Vorgehen gemäss CISA
 ### **Minimalanforderungen an Dokumentation wichtiger Kontrollen**
 
 ![](../.gitbook/assets/image%20%28120%29.png)
+
+## COBIT 
+
+Control Objectives for Information and Related Technology \(COBIT\) 
+
+Geschichte COBIT wurde ursprünglich \(1996\) vom internationalen Verband der IT-Prüfer \(Information Systems Audit and Control Association, ISACA\) entwickelt. COBIT hat sich von einem Werkzeug für IT-Prüfer \(Auditoren\) zu einem Werkzeug für die Steuerung der IT aus Unternehmenssicht entwickelt und wird unter anderem auch als Modell zur Sicherstellung der Einhaltung gesetzlicher Anforderungen \(Compliance\) eingesetzt. Dies fördert die IT-Industrialisierung.
+
+### Was ist COBIT und was ist es nicht
+
+![](../.gitbook/assets/image%20%28182%29.png)
+
+![](../.gitbook/assets/image%20%28191%29.png)
+
+
 
 
 
