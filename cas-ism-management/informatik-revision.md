@@ -74,9 +74,9 @@ Geschichte COBIT wurde ursprünglich \(1996\) vom internationalen Verband der IT
 
 ### Was ist COBIT und was ist es nicht
 
-![](../.gitbook/assets/image%20%28182%29.png)
+![](../.gitbook/assets/image%20%28183%29.png)
 
-![](../.gitbook/assets/image%20%28191%29.png)
+![](../.gitbook/assets/image%20%28192%29.png)
 
 
 

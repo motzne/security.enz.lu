@@ -73,7 +73,7 @@
 * **SIBE, Legal & Compliance, Personal**
 * **Interne** **Revision**
 
-![](../.gitbook/assets/image%20%28178%29.png)
+![](../.gitbook/assets/image%20%28179%29.png)
 
 ## Ausgewählte Dikussionsthemen
 

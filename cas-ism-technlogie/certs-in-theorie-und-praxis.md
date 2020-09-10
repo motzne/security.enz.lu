@@ -33,9 +33,9 @@ PSIRT = Product Security Incident Response Team
 | Research |  |
 | Internal Services |  |
 
-![](../.gitbook/assets/image%20%28187%29.png)
-
 ![](../.gitbook/assets/image%20%28188%29.png)
+
+![](../.gitbook/assets/image%20%28189%29.png)
 
 Teil des Incident Managements ist das Incident Handling
 
@@ -44,7 +44,7 @@ Teil des Incident Managements ist das Incident Handling
 3. Falls ja, wird der Vorfall analysiert
 4. Es werden Massnahmen zur Abwehr des Angriffes implementiert
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/image%20%28171%29.png)
 
 ## Aufbau eines CSIRTs
 
@@ -78,7 +78,7 @@ Teil des Incident Managements ist das Incident Handling
     * Erhöhen die effektivität eines Teams
   * Externe
 
-![](../.gitbook/assets/image%20%28193%29.png)
+![](../.gitbook/assets/image%20%28194%29.png)
 
 ## GFCE 5 Step Plan
 
@@ -88,13 +88,17 @@ Teil des Incident Managements ist das Incident Handling
 4. Aufbau von Vertrauensbeziehungen
 5. Kontinuierliche Verbesserung
 
-![](../.gitbook/assets/image%20%28181%29.png)
+![](../.gitbook/assets/image%20%28182%29.png)
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28185%29.png)
+
+![](../.gitbook/assets/image%20%28187%29.png)
+
+![](../.gitbook/assets/image%20%28193%29.png)
 
 ![](../.gitbook/assets/image%20%28186%29.png)
 
-![](../.gitbook/assets/image%20%28192%29.png)
 
-![](../.gitbook/assets/image%20%28185%29.png)
+
+![](../.gitbook/assets/image%20%28170%29.png)
 

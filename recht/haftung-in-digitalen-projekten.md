@@ -8,7 +8,7 @@
 
 Wer jemandem \(schuldhaft\) einen Schaden zufügt, muss diesen grundsätzlich wieder \(finanziell\) ausgleichen!
 
-![](../.gitbook/assets/image%20%28189%29.png)
+![](../.gitbook/assets/image%20%28190%29.png)
 
 * Unterscheidung zwischen ausservertraglicher \(OR 41ff.\) und vertraglicher Haftung \(OR 99ff.\) .
 * Unterscheidung zwischen Verschuldenshaftung und Kausalhaftung.
@@ -196,5 +196,5 @@ Risiko = Eintretenswahrscheinlichkeit \* mögliches Schadenausmass
 
 ## Gesetzesartikel
 
-![](../.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28172%29.png)
 
