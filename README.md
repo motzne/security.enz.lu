@@ -2,7 +2,7 @@
 
 ## Information Security
 
-Dies ist eine persönliche Themensammlung/Zusammenfassung des behandelten Stoffs im Bereich IT Security der Studiengänge:
+Dies ist eine persönliche Themensammlung und Zusammenfassung des behandelten Stoffs im Bereich IT Security der Studiengänge:
 
 * [CAS Information Security Technology der Hochschule Luzern](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-technology/).  
 * [CAS Information Security Management der Hochschule Luzern.  ](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-management/)
@@ -10,6 +10,10 @@ Dies ist eine persönliche Themensammlung/Zusammenfassung des behandelten Stoffs
 ### Author
 
 Tom Enz, [tomenz.ch](https://tomenz.ch) - Lucerne, Switzerland
+
+### Credits
+
+Gewisser Inhalt, Grafiken und Screenshots stammen aus Vorlesungsunterlagen der Hochschule Luzern Informatik und ihrer Dozenten. 
 
 ### Lokale Installation
 
