@@ -1,9 +1,23 @@
 # CERTs in Theorie und Praxis
 
 CERT = Computer Emergency Response Team  
-PSIRT = Product Security Incident Response Team
+CSIRT = Computer Security Incident Response Team  
+PSIRT = Product Security Incident Response Team  
+SOC  = Security Operations Center  
+SIEM = Security Information and Event Management
 
+* Begriffe sind nicht 100% klar definiert
 * Gruppe von IT Sicherheitsspezialisten, die Ihre Organisation bei Aufklärung und Auflösung von IT Sicherheitsvorfälle unterstützen
+* **CERT**
+  * Definiton in Organigramm
+  * Kompetenzen festhalten
+  * Abgrenzung: 
+    * Was macht das unternehmen selber?
+    * Was wird als Service eingekauft \(Bspw. SOC bei Swisscom\)
+    * Was sind andere Partner \(govCERT, SWITCH\) und wie ist das Zusammenspiel?
+* **SIEM**
+  * Echtzeitanalyse von Sicherheitsalarmen aus den Quellen Anwendungen und Netzwerkkomponenten
+  * Alarme erstellen
 * **Netzwerke**
   * sind bei komplexen Problemen effizient
   * sind aufwändig 
@@ -19,6 +33,17 @@ PSIRT = Product Security Incident Response Team
 * **PSIRTs**
   * werden immer wichtiger
   * sind Komplementär zu CERTs
+* **SOC**
+  * Zentrum, das Dienstleistungen für die EDV-Sicherheit bietet: ein Verfahren zur Vorbeugung und Behandlung von unvorhergesehenen Schwierigkeiten
+  * Teil von CERT
+  * Gibt Empfehlung z.H. von Betrieb / Operation / GL ab
+  * Klare Abgrenzungen und Kompetenzen in "Playbooks" festzuhalten
+* **Playbooks**
+  * Rollen
+  * Kompetenzen
+  * Was darf ich im Fall X tun \(Bsp. Malware auf Laptop, Direkt Isolieren oder nur an CERT resp. Operations melden\)
+*  **Lessons Learned**
+  * Nach Vorfall: Was ist schief gelaufen? Wie kann man es in Zukunft besser machen?
 
 ### Tätigkeitsfelder
 
