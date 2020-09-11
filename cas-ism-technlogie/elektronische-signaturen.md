@@ -127,7 +127,74 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
 
 ![](../.gitbook/assets/image%20%28143%29.png)
 
-==&gt; Unterschiede siehe Folien
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Fortgeschrittene elektronische Signatur</td>
+      <td style="text-align:left">Art. 2, <b>lit. b,</b> ZertES</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Ist ausschliesslich dem Inhaber zugeordnet</li>
+          <li>Erm&#xF6;glicht die Identifizierung des Inhabers</li>
+          <li>Wird mit Mitteln erzeugt, welche der Inhaber unter seiner alleinigen Kontrolle
+            halten kann</li>
+          <li>ist mit den Daten, auf die sie sich bezieht, so verkn&#xFC;pft, dass eine
+            nachtr&#xE4;gliche Ver&#xE4;nderung der Daten erkannt werden kann</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Geregelte elektronische Signatur</td>
+      <td style="text-align:left">Gem&#xE4;ss Art. 2, <b>lit. c, </b>ZertES</td>
+      <td style="text-align:left">Ist eine fortgeschrittene elektronische Signatur, die unter Verwendung
+        einer <b>sicheren Signaturerstellungseinheit </b>nach Artikel 6 erstellt
+        wurde und auf einem <b>geregelten</b>, auf eine <b>nat&#xFC;rliche Person</b> ausgestellten
+        und zum Zeitpunkt der Erzeugung der elektronischen Signatur g&#xFC;ltigen <b>Zertifikat</b> beruht.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Geregeltes elektronisches Siegel</td>
+      <td style="text-align:left">Gem&#xE4;ss Art. 2, <b>lit. d, </b>ZertES</td>
+      <td style="text-align:left">Ist eine fortgeschrittene elektronische Signatur, die unter Verwendung
+        einer <b>sicheren Siegelerstellungseinheit </b>nach Artikel 6 erstellt wurde
+        und auf einem <b>geregelten</b>, auf eine <b>UID-Einheit1)</b> ausgestellten
+        und zum Zeitpunkt der Erzeugung des elektronischen Siegels g&#xFC;ltigen <b>Zertifikat</b> beruht.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Qualifizierte elektronische Signatur</td>
+      <td style="text-align:left">Gem&#xE4;ss Art. 2, <b>lit. e, </b>ZertES</td>
+      <td style="text-align:left">
+        <p>Ist eine geregelte elektronische Signatur, die auf einem</p>
+        <p><b>qualifizierten Zertifikat</b> beruht.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">digitales Zertifikat</td>
+      <td style="text-align:left">Art. 2, <b>lit. f.,</b> ZertES</td>
+      <td style="text-align:left">digitale Bescheinigung, die den <b>&#xF6;ffentlichen Schl&#xFC;ssel seinem Inhaber zuordnet</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">geregeltes Zertifikat</td>
+      <td style="text-align:left">Art. 2, <b>lit. g., </b> ZertES</td>
+      <td style="text-align:left">digitales Zertifikat, das die <b>Anforderungen nach Art. 7 </b>erf&#xFC;llt
+        und <b>von einer anerkannten Anbieterin </b>von Zertifizierungsdiensten <b>ausgestellt</b> wurde</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">qualifiziertes Zertifikat</td>
+      <td style="text-align:left">Art. 2, <b>lit. h, </b>ZertES</td>
+      <td style="text-align:left">geregeltes Zertifikat das die <b>Anforderungen nach Art. 8</b> erf&#xFC;llt</td>
+    </tr>
+  </tbody>
+</table>
 
   
 
