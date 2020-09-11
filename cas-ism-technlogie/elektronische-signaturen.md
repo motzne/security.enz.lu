@@ -209,5 +209,9 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
 
 
 
+## UID-Einheiten
+
+![](../.gitbook/assets/image%20%28203%29.png)
+
 
 
