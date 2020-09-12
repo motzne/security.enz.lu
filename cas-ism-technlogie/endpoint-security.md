@@ -4,6 +4,11 @@ Zusammengefasst was es braucht in der Endpoint Security
 
 ![Summary](../.gitbook/assets/image%20%28206%29.png)
 
+*  Governance: Wo Entscheidungen von Unternehmungsleitung getreffen werden \(=&gt; Strategie\)
+  * Mehrheitlich Security Governance
+* User Awareness: Damit die MA den Umstand kennen und wissen was sie können/sollen/müssen machen
+  * Endbenutzer sind oft der erste Schritt im Rahmen eines erfolgreichen Antriff \(bspw. CEO Fraud mit Transaktionen\)
+
 
 
 ## Cyber Kill Chain
@@ -542,7 +547,11 @@ Stärken
 
 ## Wireless LAN Security
 
-* Angriffsvektoren
+* **Technologien und Gefahren**
+  * SSID - einziges Erkennungsmerkmal \(Reto's Netzwerk\) - bei gleichen Namen können bei Clients zu Problemen führen
+  * Wardriving: Sammlung von Netzwerken auf GPS Karten
+  * Mobile Clients sind meist schlechter geschützt
+* **Angriffsvektoren**
   * RF Jamming
     * Ausstrahlen von Funksignalen auf derselben Frequenz \(z.B. 2.4GHz\) mit einer höheren Leistung
   * Denial-of-Service
@@ -558,24 +567,20 @@ Stärken
   * Rouge Devices
   * Authentifikation
   * **Verschlüsselung**
-    * WPA3
-
-      -Mitte 2018 publiziert -Rückwärtskompatibel zu WPA2 Geräten
-
-      -192bit Verschlüsselung
-
-      -CNSA \(Commercial National Security Algorithm\) -48bit Initialisierungsvektor
-
-      -Simultaneous Authentication of Equals \(SAE\) mittels Dragonfly Protokoll
-
-      -Verhinderung von Bruteforce/Dictionary Attacken
-
-      -Opportunistic Wireless Encryption \(OWE\) -Verschlüsselung von HotSpot Traffic
+    * **WPA3**
+      * Mitte 2018 publiziert 
+      * **Rückwärtskompatibel** zu WPA2 Geräten
+      * **192bit Verschlüsselung**
+      * CNSA \(Commercial National Security Algorithm\) -48bit Initialisierungsvektor
+      * Simultaneous Authentication of Equals \(SAE\) mittels Dragonfly Protokoll
+      * Verhinderung von Bruteforce/Dictionary Attacken
+      * Opportunistic Wireless Encryption \(OWE\) -Verschlüsselung von HotSpot Traffic
 
 
 
 ## Bluetooth Security
 
+* Für kleine Ad-Hoc Netzwerke \(Piconetze\) - für den kleinen Rahmen von max 7 Clients und einem Master
 * Funktionsweise
   * **2 Modelle** unterteilt werden:
     * **No Security:** Keine Sicherheit wird verwendet
@@ -590,13 +595,14 @@ Stärken
 
 - RFID = Radio Frequency Identification
 
-NFC = Near Field Communication
+* NFC = Near Field Communication
+  * NFC ist ein Subset von RFID
+  * Gibt ein Transponder, Reader und Middleware
+  * Verschiedenste Einsatzgebiete: Zutrittsysteme, Inventar, etc.
 
-* - NFC ist ein Subset von RFID
-* 
 ### Risiken
 
-*  Kontaktlose Bezahlung
+* Kontaktlose Bezahlung
 * Verlust der Privatsphäre
 * Skimming \(Kopieren des Tags\)
 * Industrie-Spionage \(Wie viel Produziert der Mitbewerber\)
