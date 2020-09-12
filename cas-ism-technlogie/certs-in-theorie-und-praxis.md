@@ -47,7 +47,7 @@ SIEM = Security Information and Event Management
 
 ### Tätigkeitsfelder
 
-| CERT Services | PSIRT Services |
+| CERT  Computer Emergency Response Team Services | PSIRT  Product Security Incident Response Team Services |
 | :--- | :--- |
 | Incident Management | Stakeholder Management |
 | Analysis | Vulnerability Discovery |
