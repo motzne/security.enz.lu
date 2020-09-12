@@ -4,10 +4,15 @@
 
 ### Was ist der Nutzen/Gewinn 
 
+* _Kostenreduktion durch Automatisierung_
+* _Entlastung von Administratoren_
+* _Bereinigte Zielsysteme \(Verweiste Identiäten\)_
+* _Mehr Sicherheit \(Compliance, Nachvollziehbarkeit, Transparenz\)_
+* _Zentrale Policy_
 * Zentrale Benutzerverwaltung, nicht jede Applikation einzeln 
 * SSO - Single Sign on 
 * Endpoint Security Kontrolle von Client möglich 
-* identity based firewalling   joiner mover leaver Prozess 
+* identity based firewalling    joiner mover leaver Prozess 
 * Zentrale 2FA Faktoren Verwaltung; Migration / Update / etc. 
 * Schnell und flexibel anpassbar 
 * Step-up Möglichkeiten \(Flows\) 
@@ -19,7 +24,8 @@
 * Berechtigungsmanagement
 * Zugriffssteuerung
 * Organisationsstrukturen
-* 
+* Segregation of Duties \(SoD\)
+
 ### Welche Quellen und Ziele nutzt eine IAM Lösung?
 
 * HR Daten
@@ -32,8 +38,6 @@
 * APIs
 * IoT
 * BYOD
-
-## 
 
 ## Worum geht es?
 
@@ -66,6 +70,10 @@
 ![](../.gitbook/assets/image%20%28168%29.png)
 
 ![](../.gitbook/assets/image%20%28181%29.png)
+
+![](../.gitbook/assets/image%20%28202%29.png)
+
+![](../.gitbook/assets/image%20%28210%29.png)
 
 ## Problemfelder des Identity and Access Managements
 

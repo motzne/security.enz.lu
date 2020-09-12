@@ -212,7 +212,7 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
 
 ## UID-Einheiten
 
-![](../.gitbook/assets/image%20%28204%29.png)
+![](../.gitbook/assets/image%20%28205%29.png)
 
 ## Anforderungen an die Aussteller von Zertifikaten \(ab Folie 38\)
 
@@ -244,7 +244,7 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
 * In der CH gibt es keine Vorschriften / Vorgaben für die SWs \(im Gegensatz zur Deutschland\)
 * Zeitstempel ist gem. OR Art. 14 Abs. 2bis festgelegt:
 
-![](../.gitbook/assets/image%20%28205%29.png)
+![](../.gitbook/assets/image%20%28206%29.png)
 
 * Dies führt dazu, dass das Dokument zwei Signaturen besitzt:
   * **Signatur**; Das Dokument wurde von Person X signiert/unterzeichent
@@ -257,5 +257,5 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
 * Frage auf Folie 70: Nur der Hash-Wert wird in die Cloud geschickt zur Signierung \(Vertraulichkeit des Dokumentes ist damit sichergestellt\)
 * Schlüsselmaterial \(Private Key\) wird einmalig verwendet - danach weggeworfen \(Public Cert ist dem Dokument assigned\)
 
-![](../.gitbook/assets/image%20%28202%29.png)
+![](../.gitbook/assets/image%20%28203%29.png)
 
