@@ -25,9 +25,19 @@
 ## **Gesetze, Verordnungen und technische Vorschriften**
 
 * Bundesgesetz über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(ZertES\)**
+  * Art. 6 Anforderungen an die Signaturherstellungseinheiten
+  * Art. 7 Anforderungen an alle geregelten Zertifikate
+  * Art. 8 Zusätzliche Anforderungen an qualifizierte Zertifikate
+  * Art. 9 Anforderungen an die Aussteller geregelter Zertifikaten
+  * Art. 17 & Art. 18 - Haftung der Anbieterin von Zertifizierungsdiensten
 * Verordnung über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(VZertES\)**
+  * Art. 5 Ausstellung geregelter Zertifikate
+  * Art. 7 Befreiung von der Pflicht des persönlichen Erscheinens --&gt; Online
 * Technische und administrative Vorschriften über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(TAV\)**
 * **OR \(Art. 14 Abs. 2bis\)**
+  * OR Art. 14 Abs. 2bis Unterschrift - Der eigenhändigen Unterschrift gleichgestellt … mit elektronische Signatur
+  * OR Art. 11 Formfreiheit - Form der Verträge grundsätzlich frei \(ausser wo Gesetzt vorgibt\)
+  * OR Art. 59a28 - Haftung für kryptografische Schlüssel
 
 ### Formvorschriften
 
@@ -176,23 +186,6 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
         <p><b>qualifizierten Zertifikat</b> beruht.</p>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left">digitales Zertifikat</td>
-      <td style="text-align:left">Art. 2, <b>lit. f.,</b> ZertES</td>
-      <td style="text-align:left">digitale Bescheinigung, die den <b>&#xF6;ffentlichen Schl&#xFC;ssel seinem Inhaber zuordnet</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">geregeltes Zertifikat</td>
-      <td style="text-align:left">Art. 2, <b>lit. g., </b> ZertES</td>
-      <td style="text-align:left">digitales Zertifikat, das die <b>Anforderungen nach Art. 7 </b>erf&#xFC;llt
-        und <b>von einer anerkannten Anbieterin </b>von Zertifizierungsdiensten <b>ausgestellt</b> wurde</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">qualifiziertes Zertifikat</td>
-      <td style="text-align:left">Art. 2, <b>lit. h, </b>ZertES</td>
-      <td style="text-align:left">geregeltes Zertifikat das die <b>Anforderungen nach Art. 8</b> erf&#xFC;llt</td>
-    </tr>
   </tbody>
 </table>
 
@@ -200,6 +193,14 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
 
 
 ![](../.gitbook/assets/image%20%28153%29.png)
+
+
+
+|  |  |  |
+| :--- | :--- | :--- |
+| digitales Zertifikat | Art. 2, **lit. f.,** ZertES | digitale Bescheinigung, die den **öffentlichen Schlüssel seinem Inhaber zuordnet** |
+| geregeltes Zertifikat | Art. 2, **lit. g.,**  ZertES | digitales Zertifikat, das die **Anforderungen nach Art. 7** erfüllt und **von einer anerkannten Anbieterin** von Zertifizierungsdiensten **ausgestellt** wurde |
+| qualifiziertes Zertifikat | Art. 2, **lit. h,** ZertES | geregeltes Zertifikat das die **Anforderungen nach Art. 8** erfüllt |
 
 ## **Anforderungen Signaturerstellungseinheit**
 
@@ -211,7 +212,50 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
 
 ## UID-Einheiten
 
-![](../.gitbook/assets/image%20%28203%29.png)
+![](../.gitbook/assets/image%20%28204%29.png)
+
+## Anforderungen an die Aussteller von Zertifikaten \(ab Folie 38\)
+
+* Vorgaben gem. ZertES Art. 9
+  * "kann persönliche Erscheinen ersetzen" --&gt; Kamera mit ID \(analog E-Banking onboarding\)
+* Wer kann dann die Identität "prüfen";
+  * Gemeinden - sind gem. Quovadis für die Beglaubigung zuständig
+  * Post \(von Swisssign\)
+  * Zertifizierungsstelle selber - falls sie ein Office habe
+
+### Anerkennung von Zertifizierungsstellen \(CSPs\):
+
+* KPNG ist in der CH die einzige Anerkennungsstelle
+  * Machen initiale Audits und jährliche Re-Certs bei welchen die Audits durchlaufen werden müssen
+
+## Ausblick: Markt
+
+* QuoVadis; inkl. Service \(Signing Service\)
+* SwissSign; bietet aktuell kein qualifiziertes Zertifikat mehr an
+  * SuisseID; für Authentification und als Qualified Signature
+* SwissID
+  * Target: B2C \(nicht B2B\)
 
 
+
+## Erstellung von qualifizierten Signaturen \(ab Folie 57\)
+
+* Verschiedenste Tools - Grundsatz: "what you see is what you sign"
+* In der CH gibt es keine Vorschriften / Vorgaben für die SWs \(im Gegensatz zur Deutschland\)
+* Zeitstempel ist gem. OR Art. 14 Abs. 2bis festgelegt:
+
+![](../.gitbook/assets/image%20%28205%29.png)
+
+* Dies führt dazu, dass das Dokument zwei Signaturen besitzt:
+  * **Signatur**; Das Dokument wurde von Person X signiert/unterzeichent
+  * **Zeitstempel**; Das Dokument wurde zu diesem Zeitpunkt signiert \(beglaubigter Zeitstempel\)
+
+### Signing Services
+
+* Signaturerstellung in der Cloud
+* Seit August 2011 mit einer Änderung in VZertES möglich
+* Frage auf Folie 70: Nur der Hash-Wert wird in die Cloud geschickt zur Signierung \(Vertraulichkeit des Dokumentes ist damit sichergestellt\)
+* Schlüsselmaterial \(Private Key\) wird einmalig verwendet - danach weggeworfen \(Public Cert ist dem Dokument assigned\)
+
+![](../.gitbook/assets/image%20%28202%29.png)
 
