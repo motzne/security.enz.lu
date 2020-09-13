@@ -40,6 +40,139 @@
 
 ![](../.gitbook/assets/image%20%28110%29.png)
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Kapitel</th>
+      <th style="text-align:left">Inhalt</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">4 - Kontext der Organisation</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Aufbau der Organisation, Rollen, Verantwortlichkeiten</li>
+          <li>Kernprozesse / Strategische Ziele</li>
+          <li>Erfordernisse und Erwartungen interessierter Parteien &quot;raus schauen&quot;
+            (<b>Stakeholders</b>) (Kunden, MA, GL/VR, Investoren, Regulator, &#xD6;ffentlichkeit)</li>
+          <li>Geltungsbereich des ISMS festlegen</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">5 - F&#xFC;hrung</td>
+      <td style="text-align:left">
+        <ul>
+          <li>F&#xFC;hrung und Verpflichtung:</li>
+          <li>Informationssicherheitspolitik, Ist das Grundsatzdokument auf strategischer
+            Ebene</li>
+          <li>Aufgaben, Kompetenzen, Verantwortung f&#xFC;r Informationssicherheit</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">6 - Planung</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Risiko-Behandlungsprozess, was muss beachtet werden und was sind die Anforderungen</li>
+          <li>Planung:
+            <ul>
+              <li>Risiken identifizieren</li>
+              <li>Sicherheitsanforderungen bestimmen</li>
+              <li>Schwachstellen identifizieren</li>
+              <li>Risiken bewerten
+                <ul>
+                  <li>potentiellen Schadenausmasses</li>
+                  <li>Eintrittswahrscheinlichkeit</li>
+                </ul>
+              </li>
+              <li>Risikobehandlungsoptionen
+                <ul>
+                  <li>Minimieren</li>
+                  <li>Aktive &#xDC;bernahme</li>
+                  <li>Umgegangen</li>
+                  <li>Abw&#xE4;lzen</li>
+                </ul>
+              </li>
+              <li>Risikobehandlung planen</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">7 - Support (Unterst&#xFC;tzung zum ISMS)</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Ressourcen m&#xFC;ssen gegeben sein</li>
+          <li>Kompetenzen werden erarbeitet</li>
+          <li>Bewusstsein schaffen</li>
+          <li>Kommunikation</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8 - Betrieb</td>
+      <td style="text-align:left">Kann nur durchgef&#xFC;hrt werden, wenn die Voraussetzungen aus PLAN erarbeitet
+        wurden</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">9 - Bewertung der Leistung</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Kennzahlen</li>
+          <li>Reporting</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10 - Verbesserung</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Verbesserung</li>
+          <li>
+            <p>Schl&#xFC;sselfaktor zum Kontinuierlichen Verbesserungsprozess</p>
+            <p></p>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Aufbau des ISMS
+
+* Voraussetzungen für den Aufbau
+  * Man soll die Standards kennen / sattelfest sein =&gt; es hilft, sich diesen Standards anzulehnen
+  * Ziel nicht aus den Augen verlieren - Es geht um den Nutzen für die interessierten Parteien \(Stakeholder\)
+  * Orientierung an den gängigen Standards \(unabhängig ob eine Zertifizierung angestrebt wird oder nicht\)
+
+### Stolpersteine:
+
+* Verankerung im Management kann nicht sichergestellt werden
+* Doppelspurigkeiten vermeiden \(IKS / Compliance\)
+* Reporting; Zielgruppen-Orientiert rapportieren
+* Genügende personelle Ressourcen
+* Mangelnde Kommunikation & Awareness - es muss ein Thema in der Unternehmung sein
+* Abstraktionsgrad
+
+ 
+
+### Kritische Erfolgsfaktoren:
+
+* Faktor Mensch nicht unterschätzen
+* Betroffene zu Beteiligte machen: Schinken - Käse Sandwich
+*  Andere Vorstellungen vorhanden: Auch berücksichtigen \(es gibt auch andere Sichten\)
+* Nicht ein Extrazug fahren - nutzen von bestehenden Stellen \(Kommunikation, Verfahren, etc.\) - nicht ein eigener Zug für Informationssicherheit fahren
+* Wichtig im Voraus; Was soll das Tool auch können - meist kann es mehr
+* "Mut zur Lücke": Auch in Zusammenarbeit mit den Betroffenen
+* Slow Down - Take it Easy
+  * Gegebene Tatsachen - welche nicht geändert werden können - auch hinnehmen
+  * Gelassenheit
+
+ 
+
 ## Breakout Sessions
 
 ### Breakout-Session I
