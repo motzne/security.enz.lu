@@ -2,6 +2,86 @@
 
 ![](../.gitbook/assets/image%20%28136%29.png)
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Begriff</th>
+      <th style="text-align:left">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Organisation</td>
+      <td style="text-align:left">
+        <ul>
+          <li><b>Personen und Betriebsorganisationen: Sehr anspruchsvoll</b>
+          </li>
+          <li>Grundrisspl&#xE4;ne in <b>Sicherheitszonen</b> aufteilen (Sinn und Zweck)
+            <ul>
+              <li>&#xD6;ffentliche Zonen, Kundenzonen</li>
+            </ul>
+          </li>
+          <li><b>Zonen&#xFC;berg&#xE4;nge</b> 
+            <ul>
+              <li>Angrffs- und Widerstandswerte (mit Polzeilicher Intervention abstimmen)</li>
+            </ul>
+          </li>
+          <li>Es gibt keinen Standard, sondern h&#xE4;ngt stark von der Struktur des
+            Geb&#xE4;udes a</li>
+          <li>Betriebsabl&#xE4;ufe m&#xFC;ssen beschrieben werden, damit jeder diese
+            Abl&#xE4;ufe kennt und dahinter steht (f&#xFC;hrt sonst zu vielen Reibungsverlusten)
+            <ul>
+              <li>Zutrittsregelung</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Bau</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Zentral: Bauteile in welcher Wiederstandsklasse</li>
+          <li>Europ&#xE4;ische Normen f&#xFC;r einbruchhemmende Bauteile (EN1627)</li>
+          <li>Widerstandsklassen (3 resp. 4 Klassen von Verglasungen)</li>
+          <li>Alarmglas (zuerst Alarmglas, dahinter Wiederstandsglas)</li>
+          <li>Sicherheitst&#xFC;ren
+            <ul>
+              <li>Widerstandswerte (Klassen): RC1-RC6 und deren Einbruchszeit</li>
+            </ul>
+          </li>
+        </ul>
+        <p></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Technik</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Melder einzeichnen und einplanen l&#xF6;st nicht das Problem(!)</li>
+          <li><b>Je besser/schneller das Ereignis detektiert </b>werden kann, <b>desto schneller </b>k&#xF6;nnen
+            die<b> Interventionskr&#xE4;fte alarmiert</b> werden</li>
+          <li>Bauliche Wiederstande einbauen &amp; technische M&#xF6;glichkeiten verbauen,
+            dass ein Einbruch detektiert wird
+            <ul>
+              <li></li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Stromversorgung</td>
+      <td style="text-align:left">
+        <p>Stromversorgung als vitales System</p>
+        <ul>
+          <li>Zweit-Einspeisung und dessen Vorteile</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Sicherheitsplanung
 
 ### **Grundlagen**
