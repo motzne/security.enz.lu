@@ -5,7 +5,7 @@
 * Zwei Deliktarten unterschieden werden:
   * Zum einen gibt es Delikte, gemäss denen der Täter darauf abzielt, Elemente der IT, wie beispielsweise Daten, zu schädigen. Diese Delikte sind mit dem Aufkommen der Informatik und der Informatikmittel neu entstanden und werden im folgenden **Computerdelikte im engeren Sinne** genannt. Dazu zählt beispielsweise die unbefugte Datenbeschaffung,
   * Zum andern gibt es Delikte, für welche die Mittel der Informatik ein neues und sehr effizientes Medium sind. Es handelt sich aber um **traditionelle Delikte,** die schon vor Bestehen von Infor- matikmitteln begangen wurden. Diese Delikte, wie beispielsweise die Pornographie, werden vorliegend als **Computerdelikte im weiteren Sinne** bezeichnet.
-* Begriff **Cyberkriminalität** = sämtliche Computerdelikte \(also im engeren Sinne und im weiteren Sinne\), welche mit dem Hilfsmittel des Internet begangen werden.
+* Begriff **Cyberkriminalität** = sämtliche Computerdelikte \(also im engeren Sinne und im weiteren Sinne\), welche **mit Einbezug von IT** begangen werden.
 * Keine Strafe ohne Gesetz = neue Sachen problematisch, da Strafrichter keine Gesetzgebung hat
 * Strafbestände nicht nur im StGB, sondern auf in vielen Spezialgesetzen
 * Delikte
@@ -334,6 +334,22 @@ Ein Tier ist eine Sachbeschädigung!
 
 
 
+Täterschaft
+
+![](../.gitbook/assets/image%20%28205%29.png)
+
+* "Beteiligungslehre"; Identifizierung und Differenzierung der einzelnen Beiträge
+* **Alleintäterschaft** / Mittäter: Wir treffen den Entscheid "mer mached en Banköberfall"
+  * Einer steht schmier, einer geht mit der Waffe rein, einer fährt das Auto, etc.
+  * Macht es einen Unterschied, wer ich "bin"? ==&gt; kein Unterschied
+  * Wenn sich aber Meier für eine richtige Waffe entscheidet \(obwohl wir etwa anderes abgemacht haben\) ändert sich das Straffmass… resp. wird er strenger verurteilt
+  * "Bis kurz vor der Tat" können "Mittäter" dazu kommen - auch ohne bei der Planung dabei zu sein - sprich kurz vor der Bank, he, was macht ihr - mach doch mit :-\)
+* **Nebentäter**/mittelbare Täter
+  * Gibt es mehr bei den Unterlassungs-Delikten
+  * Jemand liegt am Boden und man hilft nicht "Unterlassungs-Delikt" da nicht geholfen
+  * Beispiel "Chef am Telefon und ich sag ihm; da braucht jemand Hilfe welcher am Boden liegt" - Wenn er sagt, wenn du jetzt aufhängst kündige ich dir… er wäre dann "Anstifter für die Unterlassung der Nothilfe"
+  * Man ist verpflichtet zu helfen -&gt; Unterlassungs-Delikt - man muss sich selber aber nicht in Gefahr bringen
+
 ## Musterprüfung
 
 ### Was bedeutet "Auf Antrag"? 
@@ -365,6 +381,11 @@ Im Strafrecht unterscheidet man zwischen Verfolgungs- und Vollstreckungsverjäh
 * Die **Vollstreckungsverjährung** \(Art. 99 ff. StGB\) bestimmt, innerhalb welcher Fristen **nach Erlass eines Urteils** eine Strafe gegenüber dem Täter noch **vollstreckt werden kann**.
 
 
+
+Gruppenarbeiten  
+
+
+![](../.gitbook/assets/image%20%28209%29.png)
 
 
 

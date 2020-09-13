@@ -73,7 +73,7 @@
 
 ![](../.gitbook/assets/image%20%28202%29.png)
 
-![](../.gitbook/assets/image%20%28210%29.png)
+![](../.gitbook/assets/image%20%28212%29.png)
 
 ## Problemfelder des Identity and Access Managements
 

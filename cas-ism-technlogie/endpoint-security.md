@@ -2,7 +2,7 @@
 
 Zusammengefasst was es braucht in der Endpoint Security
 
-![Summary](../.gitbook/assets/image%20%28207%29.png)
+![Summary](../.gitbook/assets/image%20%28208%29.png)
 
 *  Governance: Wo Entscheidungen von Unternehmungsleitung getreffen werden \(=&gt; Strategie\)
   * Mehrheitlich Security Governance
@@ -13,7 +13,7 @@ Zusammengefasst was es braucht in der Endpoint Security
 
 ## Cyber Kill Chain
 
-![](../.gitbook/assets/image%20%28208%29.png)
+![](../.gitbook/assets/image%20%28210%29.png)
 
 
 
@@ -104,7 +104,7 @@ Zusammengefasst was es braucht in der Endpoint Security
 
     Speicher ausgeführt
 
-![Rootkits \(Ringe\)](../.gitbook/assets/image%20%28209%29.png)
+![Rootkits \(Ringe\)](../.gitbook/assets/image%20%28211%29.png)
 
   
 
@@ -133,7 +133,7 @@ Zusammengefasst was es braucht in der Endpoint Security
   * Nur signierte Bootloader werden ausgeführt 
   * Thunderstrike, HD Firmware attacks etc.
 
-![](../.gitbook/assets/image%20%28213%29.png)
+![](../.gitbook/assets/image%20%28215%29.png)
 
 ![](../.gitbook/assets/image%20%28204%29.png)
 
