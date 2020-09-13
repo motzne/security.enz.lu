@@ -25,7 +25,7 @@
 * [Strafgesetzbuch \(StGB\)](recht/strafgesetzbuch-stgb.md)
 * [Vertragsrecht \(OR\)](recht/vertragsrecht-or.md)
 * [Corporate Governance](recht/corporate-governance.md)
-* [Haftung in digitalen Projekten](recht/haftung-in-digitalen-projekten.md)
+* [Liability / Haftung in digitalen Projekten](recht/haftung-in-digitalen-projekten.md)
 * [Weitere Gesetzestexte](recht/gesetzestexte.md)
 
 ## CAS-ISM: Technlogie

@@ -133,7 +133,7 @@ Zusammengefasst was es braucht in der Endpoint Security
   * Nur signierte Bootloader werden ausgeführt 
   * Thunderstrike, HD Firmware attacks etc.
 
-![](../.gitbook/assets/image%20%28211%29.png)
+![](../.gitbook/assets/image%20%28213%29.png)
 
 ![](../.gitbook/assets/image%20%28204%29.png)
 

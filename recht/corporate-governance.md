@@ -1,7 +1,9 @@
 # Corporate Governance
 
 _In eigenen Worten:   
-Framework mit Regeln, Richtlinien und Definitionen wie man es machen sollte, Managen und Monitoren, Anforderungen, \(Information Security\) zum Wohlergehen des Unternehmers und der Stakeholder_
+Framework mit Regeln, Richtlinien und Definitionen wie man es machen sollte, Managen und Monitoren, Anforderungen, \(Information Security\) zum Wohlergehen des Unternehmers und der Stakeholder  
+  
+To be compliance: Damit "sie" mit den externen und internen Regeln inline sind._
 
 ## Was ist Corporate Governance?
 
@@ -58,7 +60,11 @@ Um Risiken zu erkennen, Massnahmen zu erstellen und Resultate zu Messen und so d
 ## Swiss Code of Best Practice \(«Swiss Code»\)
 
 * Empfehlung aus dem Jahre 2002 \(aktualisiert 2007, 2014 und 2016\) des Wirtschafts-Dachverbandes Economiesuisse bezüglich Corporate Governance der an der Schweizer Börse notierten Gesellschaften
-* «Soft Law»  kann grundsätzlich nicht vom Staat sanktioniert werden  Sanktionierung durch Verbände \(_Soft Law_ ist eine Bezeichnung für nicht verbindliche Übereinkünfte, Absichtserklärungen oder Leitlinien\)
+* «Soft Law»
+  * Durch Unternehmen/Verbände/etc. - wird auch durch diese sanktioniert
+  *  kann grundsätzlich nicht vom Staat sanktioniert werden  Sanktionierung durch Verbände \(_Soft Law_ ist eine Bezeichnung für nicht verbindliche Übereinkünfte, Absichtserklärungen oder Leitlinien\)
+*  «Hard-Law»
+  *  Wir durch den Staat / Ordnungshüter durchgesetzt
 * u.a. Vorgaben zu folgenden Bereichen zu VR und GL
   * -  Zusammensetzung und Aufgaben des VR  OR 716a
   * -  Arbeitsweise und Vorsitz des VR

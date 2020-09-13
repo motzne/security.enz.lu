@@ -319,7 +319,10 @@ Wann werden sie Bestandteil des Vertrages?
 
 
 
+###   ZGB Art. 2: Grundsatz: "Treu und Glaube" - Handbremse / Aspirin der Juristen
 
+* Kann immer angewendet werden - auch wenn kein Argument mehr vorhanden ist
+* Und immer hin; es ist ein Artikel aus dem ZGB
 
 
 

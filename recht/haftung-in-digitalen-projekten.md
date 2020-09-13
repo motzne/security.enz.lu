@@ -1,4 +1,4 @@
-# Haftung in digitalen Projekten
+# Liability / Haftung in digitalen Projekten
 
 
 
