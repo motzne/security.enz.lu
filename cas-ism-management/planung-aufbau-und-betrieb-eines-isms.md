@@ -190,8 +190,9 @@
 
 * BSI: 
   * Compliance orientiert, Basis-Schutzbedarf
-  * Grundschutz =  
+  *  Empfehlung, Best-Practies für Implementierung - sehr Detailliert
 * 27001
+  * kann zertifiziert werden
   * Management-System
   * Risikoorientert
 
