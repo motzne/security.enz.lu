@@ -26,10 +26,13 @@ Allgemein gilt Formfreiheit OR 11
 * Formfreiheit egal was, geht auch mit Handschlag \(Verträge\) 
 * **Einfache Schriftlichkeit** 
   * Vertrag muss eigenhändig unterschrieben sein \(Zession OR165, Konkurrenzverbot OR 340, Aufhebung Erbvertrag ZGB 513, Kündigung Mieter, Schenkungsversprechen, etc.\)
+  * mittels qualifizierter digitaler Signatur \(z.B. im PDF-Format\)
 * **Qualifizierte Schriftlichkeit** 
   * teilweise eigenhändig geschrieben oder Mindestinhalt \(Abzahlungsvertrag OR 226 a, Lehrvertrag OR 344 a, Bürgschaft OR 493 II\)
+  * müssen z.B. einzelne Elemente des Vertrags handschriftlich ausgefüllt werden
 * **Öffentliche Beurkundung** 
   * Wird von Urkundsperson aufgesetzt und in deren Anwesenheit von beiden Parteien unterschrieben \(Grundstückkauf OR 216, Gründung einer AG OR 629, Ehe- Erbverträge 
+  * bei einem Notar
 * Zusätzlich kann noch eine Eintragung in ein staatliches Register verlangt werden \(Grundstückkauf, Eigentumsvorbehalt ZGB 715, Gründung AG od. GmbH\) 
 * **Fax, E-Mail:** formfreie Verträge 
 * **Digitale Signaturen:** momentan formfrei, später einfache Schriftlichkeit
