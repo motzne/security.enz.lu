@@ -6,7 +6,7 @@
   * **Art. 2 URG**
     * Werke sind unabhängig von ihrem Wert \(Preis, man muss kein Picasso sein\) oder Zweck, geistigen Schöpfungen \(nur Menschen, kein Elefant\) der Literatur und Kunst, die individuellen Charakter haben.
     * Ein geschütztes Werk muss **neu** sein.
-    * Geschützt ist **nicht die Idee, sondern deren wahrnehmbarer Ausdruck**
+    * Geschützt ist **nicht die Idee, sondern deren wahrnehmbarer Ausdruck \(muss umgesetzt sein\)**
     * Schutz ipso iure **-&gt; Keine Registrierung!** Von Gesetzes wegen weltweiter Schutz bei Entstehungen \(Berner Übereinkunft, TRIPS Abkommen\)
 * **Individueller Charakter entspricht Originalität** 
 * Bei Software wird der Algorithmus angeschaut, ob er «originell» ist.
