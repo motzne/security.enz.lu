@@ -55,7 +55,8 @@
       <td style="text-align:left">
         <p><b>eigenh&#xE4;ndig Unterschrieben</b>
         </p>
-        <p>&#x2022; zur DokumentationderWillenserkl&#xE4;rungund &#x2022; zurIdentifikationderhandelndenPerson</p>
+        <p>&#x2022; zur Dokumentation der Willenserkl&#xE4;rung und &#x2022; zur
+          Identifikation der handelnden Person</p>
       </td>
       <td style="text-align:left">
         <p>Art. 344a</p>

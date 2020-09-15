@@ -32,7 +32,7 @@ Allgemein gilt Formfreiheit OR 11
   * müssen z.B. einzelne Elemente des Vertrags handschriftlich ausgefüllt werden
 * **Öffentliche Beurkundung** 
   * Wird von Urkundsperson aufgesetzt und in deren Anwesenheit von beiden Parteien unterschrieben \(Grundstückkauf OR 216, Gründung einer AG OR 629, Ehe- Erbverträge 
-  * bei einem Notar, aufklären was Sie hier machen
+  * bei einem Notar, aufklären was Sie hier machen \(vorlesen\)
 * Zusätzlich kann noch eine Eintragung in ein staatliches Register verlangt werden \(Grundstückkauf, Eigentumsvorbehalt ZGB 715, Gründung AG od. GmbH\) 
 * **Fax, E-Mail:** formfreie Verträge 
 * **Digitale Signaturen:** momentan formfrei, später einfache Schriftlichkeit
