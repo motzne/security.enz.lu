@@ -4,7 +4,7 @@
 - [Begriffe](begriffe.md)
 - [Todo's](todos.md)
 
-- ## CAS-ISM: Mgmt <a id="cas-ism-management"></a>
+## CAS-ISM: Mgmt <a id="cas-ism-management"></a>
 
 - [Planung, Aufbau und Betrieb eines ISMS](cas-ism-management/planung-aufbau-und-betrieb-eines-isms.md)
 - [Integriertes Informations-Risikomanagement im Praxiseinsatz](cas-ism-management/integriertes-informations-risikomanagement-im-praxiseinsatz.md)
