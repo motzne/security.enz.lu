@@ -30,10 +30,10 @@ Um Risiken zu erkennen, Massnahmen zu erstellen und Resultate zu Messen und so d
 
 * Intern: 
   * Personen, Strategie, Technologie, Finanzen
-  * Eigentümer, Verwaltungsrat, Geschäftsleitung der Beispiel AG
+  * Eigentümer, Verwaltungsrat, Geschäftsleitung der Beispiel AG, Arbeitnehmer
 * Extern: 
   * Wirtschaftslage, Politik, Kultur
-  * Kreditgeber, Kunden, Zulieferer, Arbeitnehmer, Staat \(Steuern\)
+  * Kreditgeber, Kunden, Zulieferer, Staat \(Steuern\)
 
 ## Prinzipien / Key Principles
 
