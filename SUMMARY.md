@@ -19,7 +19,9 @@
 
 ## Recht
 
-* [Zusammenfassung](recht/zusammenfassung.md)
+* [Zusammenfassung IS-T](recht/zusammenfassung.md)
+* [Mindmap Digilaw](recht/mindmap-digilaw/README.md)
+  * [04 Veträge in digitalen Projekten](recht/mindmap-digilaw/04-vetraege-in-digitalen-projekten.md)
 * [Urheberrechtsgesetz \(URG\)](recht/urheberrechtsgesetz-urg.md)
 * [Datenschutzgesetz \(DSG\)](recht/datenschutzgesetz-dsg.md)
 * [Strafgesetzbuch \(StGB\)](recht/strafgesetzbuch-stgb.md)

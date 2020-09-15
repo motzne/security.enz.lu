@@ -1,4 +1,4 @@
-# Zusammenfassung
+# Zusammenfassung IS-T
 
 ## Bedeutung des Rechts in der IT-Welt
 
