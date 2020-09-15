@@ -1,6 +1,10 @@
 # Informatik - Revision
 
-## 
+## Lernziele:
+
+* die Aufgaben der Revision beschreiben
+* die typischen Revisions- Anforderungen an das IKS kennen
+* sich optimal auf Über- prüfungen \(Revisionen, Audits\) jeglicher Art vorbereiten
 
 ## Aufgaben der Revision
 
