@@ -10,7 +10,7 @@
 * Offizialdelikt \(von Amtes wegen verfolgt werden muss\)
 * Art. 143 StGB / Unbefugte Datenbeschaffung
   * unrechtmässig bereichern, Daten beschaffen
-  * bis zu 5 Jahre Freiheitsstrafe oder Gelfstrafe
+  * bis zu 5 Jahre Freiheitsstrafe oder Geldstrafe
 * Art. 143bis StGB / Unbefugtes eindringen in Datenverarbeitungssystem
   * Passwörter, Programme, andere Daten
   * Freiheitsstrafe bis zu 3 Jahren oder Geldstrafen
@@ -25,12 +25,12 @@
 
 * Nutzungsbedingungen verbietet Weitergabe an unbefugte Dritte
 * Lösung oft technisch: Anzahl Geräte limitieren
-* Vertragverletzung nach Art. 97 OR
+* Vertragsverletzung nach Art. 97 OR
 * Schadenersatz verlangen
 * Sperrung von Accounts
 * Schlimmer = Weitergabe, Diebstahl, unbefugtes Verwenden von Daten
-  * Art. 143 StGB \(mit Bereiecherungsabsicht\)
-  * Art. 143bis StGB \(ohne Bereiecherungsabsicht\)
+  * Art. 143 StGB \(mit Bereicherungsabsicht\)
+  * Art. 143bis StGB \(ohne Bereicherungsabsicht\)
 
 ## Datenfälschung
 
