@@ -281,6 +281,8 @@ Autounfall sehr selten vorsätzlich. Eventualvorsatz: Strassenrennen.
 
 ## Computerdelikte
 
+Generell schwierig, unterliegt den Kantonen. Viel Auslandbezug und enormes fachliches/technisches Know-How nötigt. Kanton hinken hinterher, Bund \(KOBIK, MELANI\) unterstützen.
+
 * Art. 143 StGB bis Art. 148 StGB
 * Unbefugte Datenbeschaffung
 * Unbefugtes Eindringen in ein Datenverarbeitungssystem
@@ -311,8 +313,8 @@ Autounfall sehr selten vorsätzlich. Eventualvorsatz: Strassenrennen.
 
 ## Computerdelikte im weiteren Sinne
 
-* Art. 135 StGB – Gewaltdarstellungen
-* Art. 197 StGB – Pornographie
+* Art. 135 StGB – Verbotene Gewaltdarstellungen 
+* Art. 197 StGB – Verbotene Pornographie
 * Art. 261 StGB – Rassendiskriminierung
 * Art. 173 StGB – Ehrverletzung
 
