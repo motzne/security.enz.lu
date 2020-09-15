@@ -4,18 +4,18 @@
 - [Begriffe](begriffe.md)
 - [Todo's](todos.md)
 
-- CAS-ISM: Mgmt <a id="cas-ism-management"></a>
+- ## CAS-ISM: Mgmt <a id="cas-ism-management"></a>
 
-  - [Planung, Aufbau und Betrieb eines ISMS](cas-ism-management/planung-aufbau-und-betrieb-eines-isms.md)
-  - [Integriertes Informations-Risikomanagement im Praxiseinsatz](cas-ism-management/integriertes-informations-risikomanagement-im-praxiseinsatz.md)
-  - [Awareness](cas-ism-management/awareness.md)
-  - [Umsetzung Sicherheitspolitik und Konzepte](cas-ism-management/umsetzung-sicherheitspolitik-und-konzepte.md)
-  - [Informatik - Revision](cas-ism-management/informatik-revision.md)
-  - [Governance der Informationssicherheit](cas-ism-management/governance-der-informationssicherheit.md)
-  - [Internes Kontrollsystem \(IKS\)](cas-ism-management/internes-kontrollsystem-iks.md)
-  - [GL-, VR-Anträge / Wirtschaftlichkeit](cas-ism-management/gl-vr-antraege-wirtschaftlichkeit.md)
-  - [Business Continuity Management](cas-ism-management/business-continuity-management.md)
-  - [Zusammenarbeit mit Partner / Outsourcing](cas-ism-management/zusammenarbeit-mit-partner-outsourcing.md)
+- [Planung, Aufbau und Betrieb eines ISMS](cas-ism-management/planung-aufbau-und-betrieb-eines-isms.md)
+- [Integriertes Informations-Risikomanagement im Praxiseinsatz](cas-ism-management/integriertes-informations-risikomanagement-im-praxiseinsatz.md)
+- [Awareness](cas-ism-management/awareness.md)
+- [Umsetzung Sicherheitspolitik und Konzepte](cas-ism-management/umsetzung-sicherheitspolitik-und-konzepte.md)
+- [Informatik - Revision](cas-ism-management/informatik-revision.md)
+- [Governance der Informationssicherheit](cas-ism-management/governance-der-informationssicherheit.md)
+- [Internes Kontrollsystem \(IKS\)](cas-ism-management/internes-kontrollsystem-iks.md)
+- [GL-, VR-Anträge / Wirtschaftlichkeit](cas-ism-management/gl-vr-antraege-wirtschaftlichkeit.md)
+- [Business Continuity Management](cas-ism-management/business-continuity-management.md)
+- [Zusammenarbeit mit Partner / Outsourcing](cas-ism-management/zusammenarbeit-mit-partner-outsourcing.md)
 
 ## Recht
 
