@@ -1,7 +1,5 @@
 # 09 Haftung in digitalen Projekten
 
-
-
 * Haftpflichtfälle in analog schon schwer, in digitaler Welt noch komplexer
 * zwischen Mensch und Maschine ist nun auch noch die digitale Komponente
 
@@ -9,7 +7,7 @@
 
 * Einstehenmüssen für ein Schaden
 * Unterscheidung zwischen vertraglicher Haftung Art. 97ff OR\) &lt;-&gt; Ausservertraglicher Haftung \(Art. 41 ff OR\)
-* Bei Ausservertraglicher Haftung zw. Verschuldenahftung &lt;-&gt; Kausalhaftung
+* Bei Ausservertraglicher Haftung zw. Verschuldenshaftung &lt;-&gt; Kausalhaftung
 
 ## Vertragliche Haftung \(Art 97 OR\)
 
@@ -32,7 +30,7 @@
   * absichtlich oder fahrlässig \(rechtlich gegeben Sorgfaltpflicht nicht einhält\)
 * Schaden
   * effektiv \(Loch in der Kasse\)
-  * künftiger \(Entganger Gewinn\)
+  * künftiger \(Entgangener Gewinn\)
 * Versicherer unterscheiden
   * Personenschaden
   * Sachschaden
@@ -47,27 +45,27 @@
 * bestimmte Konstellation
 * Bsp. Halter eines Autos
 
-## Produktehaftpflich
+## Produktehaftpflicht
 
 * Typ der Kausalhaftung
-* Produktehaftpflichgesetz \(PrHG\)
+* Produktehaftpflichtgesetz \(PrHG\)
 * Haftplichtiger = primär der Hersteller
 * Produkt = jede bewegliche Sache
 * Explizit im Gesetz erwähnt = Elektrizität \(auch Software und Apps\)
 * Voraussetzung Haftung nach PrHG:
   * Adäquater Kausalzusammenhang zwischen dem Fehler und dem Schaden muss belegt werden
 * Produktesicherheitsgesetz \(PrSG\)
-  * prduktespez. Vorschriften
+  * produktespez. Vorschriften
   * in allgemeiner Form
 * Hersteller haftet NICHT wenn Schaden am Produkt bei In-Vekehrsbringen noch nicht vorlag, daher
   * Qualitätskontrollen sind enorm wichtig
   * Haftpflichtversicherung für Produkte abschliessen
 
-## Genugtung
+## Genugtuung
 
 * Tötung eines Menschen oder Körperverletzung \(Art 47 OR\)
-* oder Personlichkeitsverletzung \(Art 49 OR\)
-* Genugtung = Geldleistung für seelischen Unbill
+* oder Persönlichkeitsverletzung \(Art 49 OR\)
+* Genugtuung = Geldleistung für seelischen Unbill
 
 ## Verjährung
 
@@ -92,25 +90,25 @@
 
 * Typischer Fall von Produktehaftung im Sinne des PrHG
 * im Betrieb selbst weiterentwickeln
-* Bsp. Selbstfahrendes Auto, Vollautomatiserung, Lenker wird zum Passagier, Welcher Passier wäre veantwortlich
+* Bsp. Selbstfahrendes Auto, Vollautomatiserung, Lenker wird zum Passagier, Welcher Passier wäre verantwortlich
 * Halter haftet weiterhin \(Kausal\) nach Art. 58 SVG
 * Hersteller ebenfalls kausal nach PrHG
 
 ## Haftpflichtversicherung
 
-* Prof. Peter Gauch: _"man brauche keine Versicherung ausser einer Haftpflichversicherung"_
+* Prof. Peter Gauch: _"man brauche keine Versicherung ausser einer Haftpflichtversicherung"_
 * kleine Fehler/Ursachen = enorme Schäden
-* enorme Risiken, mittels Haftpflichversicherung absichern
+* enorme Risiken, mittels Haftpflichtversicherung absichern
 * Kernfrage: Prüfen Ob man und für was man versichert ist und genügen hohe Versicherungssumme
 * Auch hier, Privathaftpflicht schützt nicht im Business
 
-## Rechtschutzversicherung
+## Rechtsschutzversicherung
 
-* finanzielle Fogeln von rechtlichen Auseinandersetzungen, eigentliche Prozessrisikio
+* finanzielle Folgen von rechtlichen Auseinandersetzungen, eigentliche Prozessrisikio
 * Vor dem Abschluss prüfen
   * ob gewisse Prozessrisiken durch andere Versicherungen gedeckt sind
-  * was effektiv gedecht wird
-  * Wahl eines Rechtanwalts möglich ist
+  * was effektiv gedacht wird
+  * Wahl eines Rechtsanwalts möglich ist
 * Privat deckt Business nicht
 * Privat oft günstig, Business teuer
 
