@@ -38,7 +38,7 @@
   * Zu detaillierte Erfassung der Objekte / Assets
   * Führt zu administrativem Overkill, ist nicht mehr handhabbar
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![gem&#xE4;ss Unterlagen von Rolf Brunner, unterscheidet sich zu PDCA von Griesser](../.gitbook/assets/image%20%28110%29.png)
 
 <table>
   <thead>
