@@ -1,17 +1,15 @@
 # 04 Veträge in digitalen Projekten
 
-### Verträge
+## Vertrag
 
-#### Vertrag
-
-* geneseitige Willensäusserung
+* gegenseitige Willensäusserung
 * ausdrücklich oder stillschweigend
 * Rechte und Pflichten eingehen
 * _"Nothing is agreed, until everything is agreed"_ =&gt; Kongruenz
 * Angebot \(empfohlen zu befristen\) / Annahme
 * Vertrag und Vereinbarung sind synonym
 
-#### Vertragsform
+## Vertragsform
 
 * Grundsatz der Formfreiheit
 * alle für die digitale Welt wichtigen Verträge formlos abgeschlossen werden
@@ -19,7 +17,7 @@
 * qualifizierte Schritflichkeit
 * Beurkundung
 
-#### Qualifizierte digitiale Signatur
+## Qualifizierte digitale Signatur
 
 * mit qualifizierten Zeitstempel
 * der eigenhändigen Unterschrift gleichgestellt
@@ -27,21 +25,21 @@
 * USB-Stick mit Chip \(SuisseID\)
 * bestätigt effektiv von mir digital signiert
 
-#### Vertrag auflösen
+## Vertrag auflösen
 
 * Irrtum: Verträge einfach auflösen, Produkte zurückgeben
 * Verträge müssen eingehalten werden
 * Kein generelles Widerrufsrecht in der Schweiz
 * Korrekte juristische Formulierung für Kündigungsklausel im Script
 
-#### Vertragsgestalung
+## Vertragsgestalung
 
 * klar, für alle verständlich
 * _"Worst-Case-Denken"_
 * Nicht nur für Parteien sondern auch für Dritte klar sein muss
 * Beizug von Juristen empfehlenswert
 
-#### LoI / NDA / NUA
+## LoI / NDA / NUA
 
 * LoI = Letter of Intent
   * Absichtserklärung
@@ -59,7 +57,7 @@
   * Verbietet selbst oder unatorisert durch Eigentümer zu nutzen
   * oder Dritte im Nutzen zu unterstützen
 
-#### AGB
+## AGB
 
 * Allgemeine Geschäftsbedingungen
 * Bedeutende Rolle, unabdingbar
@@ -80,21 +78,21 @@
 * UWG, unlauterer Wettbwerb \(Art. 8\)
   * Wer AGB verwendet, welche ungerechtfertigtes Missverhältnis zwischen vertragl. Rechten und Pflichten
 
-#### Lizenzvertrag
+## Lizenzvertrag
 
 * im schweiz. Recht nicht explizit geregelt
 * Innomativverträge \(im Gesetz nicht geannte Verträge\)
 * Recht zur Nutzung
 * Bsp. Software: Urheberrechter
 
-#### Kaufvertrag
+## Kaufvertrag
 
 * Unterschied zu Lizenzvertrag = Umfang der übertragenen Rechte
 * Käufer erhält vom Verkäufer das Eigentum
 * Somit alle Rechte daran
 * Beim URG die relevanten kommerziellen Rechte, nicht jedoch die Persönlichkeitsrechte
 
-#### Cloud Contracts
+## Cloud Contracts
 
 * Vertrag über Leistungen, die in einem virtuellem Raum über das Internet angeboten werden
 * SaaS
@@ -111,7 +109,7 @@
   * Export von Personenbezogenen Daten ins Ausland
   * Anwendwendbares Recht und Gerichtsstand
 
-#### Smart Contracts
+## Smart Contracts
 
 * "schlau"
 * selbst ausführen, bzw. verwalten
@@ -124,7 +122,7 @@
   * Aber auch Problem: Einmal beginnt, nicht mehr eingegriffen werden
   * Bsp. Softwarelizenz \(siehe Details digilaw\)
 
-#### Sharing Contracts
+## Sharing Contracts
 
 * Sharing Economy = geteilte Nutzung, Bsp. Airbnb
 * direkt zwischen Vermieter und Mieter
@@ -141,7 +139,7 @@
   * Einkünfte Airbnb = Steuerbares Einkommen
   * Kurtaxe und Tourismusabgabe
 
-#### Kündigung von digitalen Verträge
+## Kündigung von digitalen Verträge
 
 * Von Kunden ausschliesslich Kündigun auf digitalem Weg verlangen =&gt; Möglich via AGB
 * Fragt sich aber ob Grundsatz von Trau und Glauben \(Art. ZGB\) haltbar ist?
