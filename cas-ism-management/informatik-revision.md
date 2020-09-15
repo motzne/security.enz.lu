@@ -6,6 +6,10 @@
 * die typischen Revisions- Anforderungen an das IKS kennen
 * sich optimal auf Über- prüfungen \(Revisionen, Audits\) jeglicher Art vorbereiten
 
+
+
+### 
+
 ## Aufgaben der Revision
 
 * Kontrolle auf allen Ebene im "Cremeschnitten-Modell" \(siehe Grafik unten\)
@@ -29,6 +33,10 @@
 **Informatikrevision...**  
 ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller Aspekte von automatisierten, informationsverarbeitenden Systemen \(oder Teilen davon\) umfasst; inklusive der damit zusammen- hängenden nicht-automatisierten Prozesse und ihrer Schnittstellen.
 
+
+
+
+
 ![](../.gitbook/assets/image%20%28121%29.png)
 
 ### 
@@ -50,6 +58,11 @@ ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller 
 * Unterstützung des Verwaltungsrates
 * Überprüfung Geschäftsleitung
 * breites Tätigkeitsfeld
+
+### Unterschied Audit / Revision
+
+* Audit = externe Firma, die das Audit mache
+* Interne Revision = braucht es von gesetztes wegen. Machen aber auch Adits
 
 ## Prüfungen
 
