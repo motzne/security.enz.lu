@@ -43,7 +43,7 @@
 
 * LoI = Letter of Intent
   * Absichtserklärung
-  * im schw. Recht nirgeds definiert
+  * im schw. Recht nirgends definiert
   * Hinblick auf den Abschluss von Hauptvertrag
   * Wer kosten trägt wenn Hauptvertrag nicht zustande kommt
   * Bsp. \(nicht digital\) Interessenten bei Hauskauf
@@ -54,7 +54,7 @@
   * NDA ohne Konventionalstrafe ist wie ein Tiger ohne Zähne
 * Non-Use Agreement
   * Bezug auf Innovationen
-  * Verbietet selbst oder unatorisert durch Eigentümer zu nutzen
+  * Verbietet selbst oder unautorisert durch Eigentümer zu nutzen
   * oder Dritte im Nutzen zu unterstützen
 
 ## AGB
@@ -63,8 +63,8 @@
 * Bedeutende Rolle, unabdingbar
 * E-Commerce = Massengeschäft, keine indiv., umfangreiche Verträge möglich
 * einfacher Austausch von Auftrag und Auftragsbestätigung
-* Vertragsklauseln, generell auf alle ihre Geschäftbeziehungen oder Teilbereich
-* Rationaliserung oder bei kl. Unternehmen als Checkliste
+* Vertragsklauseln, generell auf alle ihre Geschäftsbeziehungen oder Teilbereich
+* Rationalisierung oder bei kl. Unternehmen als Checkliste
 * Übernahme von AGB
   * AGB zur Kenntnis nehmen
   * E-Commerce explizite Annahme
@@ -75,13 +75,13 @@
   * unverbindlich, wenn ungewöhnlichen Bestimmungen nicht rechnen musste
 * AGB bereits bei Offerte beilegen
 * _"Battle of Forms"_ nicht ratsam =&gt; eine AGB nehmen und entsprechen anpassen
-* UWG, unlauterer Wettbwerb \(Art. 8\)
+* UWG, unlauterer Wettbewerb \(Art. 8\)
   * Wer AGB verwendet, welche ungerechtfertigtes Missverhältnis zwischen vertragl. Rechten und Pflichten
 
 ## Lizenzvertrag
 
 * im schweiz. Recht nicht explizit geregelt
-* Innomativverträge \(im Gesetz nicht geannte Verträge\)
+* Innomativverträge \(im Gesetz nicht genannte Verträge\)
 * Recht zur Nutzung
 * Bsp. Software: Urheberrechter
 
@@ -115,7 +115,7 @@
 * selbst ausführen, bzw. verwalten
 * Software-Code, der dazu entwickelt wird, voderfinierte Bedingungen, Funktion oder Aktion auszuführen
 * auf Blockchain aufgesetzt
-* Dezentralisierung und Transparaennz praktisch Immun gegen Eingriffe
+* Dezentralisierung und Transparenz praktisch Immun gegen Eingriffe
 * Zwei wesentliche Parameter
   * einmal aufgesetzt
   * Ausführung niemand mehr kontrollieren
