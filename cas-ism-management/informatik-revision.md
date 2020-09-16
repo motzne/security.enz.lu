@@ -118,13 +118,9 @@ Die üblichen Qualitätsanforderungen an ein IKS setzen ebenfalls implizit gewis
 
 ![](../.gitbook/assets/image%20%28229%29.png)
 
-## Revisions**typen**
 
-### **Informatikrevision**
 
-ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller Aspekte von automatisierten, informationsverarbeitenden Systemen \(oder Teilen davon\) umfasst; inklusive der damit zusammen- hängenden nicht-automatisierten Prozesse und ihrer Schnittstellen.
-
-Cremeschnitten-Modell
+## Cremeschnitten-Modell  / Kontrollen in der IT
 
 ![](../.gitbook/assets/image%20%28121%29.png)
 
@@ -132,7 +128,7 @@ Cremeschnitten-Modell
   * Wesentliche **Geschäftsprozesse** - aufgeteilt in Teil-Prozesse \(manuell\)
     * R: inhärente Risiken der Geschäftsprozesse \(Konkurs, Währungs-R, etc.\)
     * C: Bonitätsprüfung bei Kreditvergabe, Absicherung Währungsrisiko bei Devisen-Transaktionen
-  *  Automatisierte Teile der **Geschäftsprozesse**, resp. die eigentlichen \(IT-\) Anwendungen
+  *  Automatisierte Teile der **Geschäftsprozesse**, resp. die eigentlichen **\(IT-\) Anwendungen**
     * R: im Zusammenhang mit SW; Funktionalität, Codierung, unvollständige Tests, SW-Personal
     * C: Rollen&Workflows, Plausibilitätsprüfungen von Eingaben
   * IT-**Basissysteme** \(DB, Core-Systeme\)
@@ -143,6 +139,16 @@ Cremeschnitten-Modell
     * C: spez. C. von technologieabhängigen C.; Zugriffsschutz, OS-Funktionen zur Überwachung
 * Auf jeder dieser Ebenen bestehen typische Risiken \(siehe oben "R: x"\)
 * … aber auch entsprechende Kontrollen \(Controls\) \(siehe oben "C: x"\) \(Script S. 14\)
+
+## Revisions**typen**
+
+### **Informatikrevision**
+
+ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller Aspekte von automatisierten, informationsverarbeitenden Systemen \(oder Teilen davon\) umfasst; inklusive der damit zusammen- hängenden nicht-automatisierten Prozesse und ihrer Schnittstellen.
+
+=&gt; siehe auch Cremeschnittenmodell 
+
+
 
 ### Externe vs. Interne Revision
 
