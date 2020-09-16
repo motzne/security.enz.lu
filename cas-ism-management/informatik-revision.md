@@ -91,7 +91,7 @@ Um sich optimal auf eine Überprüfung \(Revision/Audit\) jeglicher Art vorzuber
 * offene Kommunikation
 * Ehrlichkeit
 * uneingeschränkte Bekanntgabe relevanter Fakten
-* Dokumentation 
+* **Dokumentation**  \(Sobald Kontrolle durch. Unterschrift, Datum, Screenshot \)
 * Nachvollziehbarkeit \(Prüfspur\) -&gt; Nachweis
 
 ## Typischen Revisions- Anforderungen an das IKS
