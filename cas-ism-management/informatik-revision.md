@@ -1,13 +1,5 @@
 # Informatik - Revision
 
-**Lernziele:**
-
-* die Aufgaben der Revision beschreiben
-* die typischen Revisions- Anforderungen an das IKS kennen
-* sich optimal auf Überprüfungen \(Revisionen, Audits\) jeglicher Art vorbereiten
-
-
-
 * **Durchführung unabhängiger Prüfung**
 * Bestätigung von Sachverhalten \(„**Assurance**“ bzw. „re-assurance“ in Verbindung mit dem Internen Kontrollsystem \(IKS\)\) als auch in einschlägiger Beratung \(„**Consulting**“\) in Organisationsfragen 
 * Es gibt Interne / Externe Revision \(siehe Kapitel unten\)
@@ -101,6 +93,10 @@ Um sich optimal auf eine Überprüfung \(Revision/Audit\) jeglicher Art vorzuber
 * uneingeschränkte Bekanntgabe relevanter Fakten
 * Dokumentation 
 * Nachvollziehbarkeit \(Prüfspur\) -&gt; Nachweis
+
+## Typischen Revisions- Anforderungen an das IKS
+
+
 
 ## Revisions**typen**
 
