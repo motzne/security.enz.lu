@@ -100,7 +100,7 @@ Geplanter Einsatz von
     * Haftungs-Argumente
     * Nutzenargumente
   * **Wichtig:** Es gibt kein eindeutiges richtig oder falsch, sondern mehr oder weniger sinnvolle Lösungen von vermeintlichen Problemen
-  * Schlüsselwörter:
+  * **Schlüsselwörter**: Mein Projekt ... 
     * schafft .. fördert .. stärkt .. sorgt für .. erleichtert .. erweitert .. spart .. bringt ein ..
 
       ermöglicht .. verhindert .. sichert .. schützt vor .. befreit von .. erhöht .. erniedrigt .. verbessert 

@@ -5,10 +5,9 @@
 * [ ] Revision: / Daniela Fragen
   * [ ] Prüfung vorbereiten, was ist wichtig
   * [ ] Anforderung an IKS
-  * [ ] Kontrollziele Beispiele
-  * [ ] 
+  * [ ] Kontrollziele Beispiele LUKB ?
 * [ ] Revision: Kapitel 2 + 3 nochmals lesen
-* [ ] Themen von IST nach oben schieben, alles an einem sauberen Ort
+* [ ] Recht: Antworten Masi einordnen
 
 ![](.gitbook/assets/image%20%28213%29.png)
 
