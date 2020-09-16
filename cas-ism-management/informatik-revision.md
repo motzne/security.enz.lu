@@ -27,10 +27,14 @@
   * SOA - Statement of Applicability; Definition welcher der 114 Kontrollen wirklich angewendet werden
   * Stage 1 \(Voraudit\) und Stage 2 Audit \(Zertifizierung\)
 
-**Frameworks**
+**Frameworks** \(siehe IKS Frameworks\)
 
 * COSO: Organisation, welche Revisionen "unterstützt" \(Ethisches Handel / Wirksamkeit\)
 * Cobit: Generisches Framework für ein Kontrollsystem innerhalb der IT \(Siehe unten\)
+
+**Organigram**
+
+![Bsp. Organigramm WIR-Bank 2016](../.gitbook/assets/image%20%28222%29.png)
 
 ## Aufgaben der Revision
 

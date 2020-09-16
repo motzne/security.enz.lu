@@ -20,7 +20,7 @@
 
 ## IKS vs. Risiko-Management
 
-![](../.gitbook/assets/image%20%28222%29.png)
+![](../.gitbook/assets/image%20%28223%29.png)
 
 ## Regulatorische Anforderungen
 
