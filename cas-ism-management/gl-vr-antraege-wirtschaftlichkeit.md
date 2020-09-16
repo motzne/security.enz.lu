@@ -162,3 +162,131 @@ Geplanter Einsatz von
 
 
 
+## Exponenten im Projekt
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Wer</th>
+      <th style="text-align:left">Verantwortung</th>
+      <th style="text-align:left">Interessen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Anwender/ Mitarbeiter</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Den Regeln entsprechend verhalten</li>
+          <li>PW nicht weitergegeben</li>
+          <li>Aware arbeiten</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>M&#xF6;glichst einfach</li>
+          <li>Effiziente und zuverla&#x308;ssige IT Services</li>
+          <li>
+            <p>Mo&#x308;glichst geringfu&#x308;gige Einschra&#x308;nkungen seitens der</p>
+            <p>Informationssicherheit</p>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">VR</td>
+      <td style="text-align:left">&#xFC;bergeordnete Verantwortung der Risiken</td>
+      <td style="text-align:left">Massnahmen m&#xF6;glichst g&#xFC;nstig und zwecksm&#xE4;ssig</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">GL</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Einhaltung von Gesetzen, Vorschriften, Regulatorien und branchen&#xFC;blichen
+            Standards</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Effiziente und zuverl&#xE4;ssige IT Services</li>
+          <li>Angemessene Priorisierung und Umsetzung derInformationssicherheit</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kunden (Patienten)</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Sichere Handhabung der eigenen Daten; insbesondere der besonders sch&#xFC;tzenswerten
+            Gesundheitsdaten</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Lieferanten</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Einhaltung von Richtlinien, Policies und Vertr&#xE4;gen</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Sichere Anbindung und Schnittstellen zu den Informationssystemen des Spitals</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Sätze Argumentation
+
+```text
+1. These / Behauptung
+---
+Man kann davon ausgehen ....
+Weiterhin ist zu beachten ...
+Außerdem ist festzustellen ...
+Bedenkenswert ist auch ...
+Allerdings sollte man auch sehen ...
+Auch wenn man bedenken muss, ist doch ...
+
+2. Begründing
+---
+Bkönnte sich zurückführen lassen auf ...
+basiert auf ...
+resultiert aus ...
+unzweifelhaft ist ...
+ein Grund dafür liegt in der Tatsache, dass ...
+findet seine Begründung in ...
+
+3. Beispiele
+---
+hier wird deutlich, dass ...
+Folgendes kann meione Aussagen untermauern ...
+zur Veranschaulichung sei genannt / dient ...
+als Beispiel sei genannt ...
+ein Indikator dafür ist ....
+dies und jenes lässt sich am Beispiel darlegen ...
+lässt sich darlegen an ...
+
+4. Fazit
+---
+so ist nachzuvollziehen ...
+Der Meinung kann ich nicht zustimmen ...
+Lässt sich darlegen an ...
+dies und jendes lässt sich am Beispiel darlegen ...
+Dementsprechend muss ich davon ausgehen ...
+Deshalb kann ich mich der Auffassung anschließen, dass ...
+Dem Gesagten möchte ich widersprechen ...
+Die Behauptung zweifle ich an ...
+Die Zahlen und Fakten beweisen das Gegenteil von ...
+Deswegen kann ich der Behauptung zustimmen ...
+Ich bin mit der Behauptung nicht einvestanden ...
+Die Bedenken kann ich teilen ...
+Auch der Experte XY führt an ....
+Dem Gesagten stimme ich zu 
+```
+
+
+
