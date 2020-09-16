@@ -24,7 +24,7 @@
 
   „Die interne Kontrolle \(Synonym internes Kontrollsystem\) umfasst die **Gesamtheit der Kontrollstrukturen und -prozesse**, welche auf allen Ebenen des Instituts die Grundlage für die Erreichung der geschäftspolitischen Ziele und einen ordnungsgemässen Institutsbetrieb bilden. Dabei beinhaltet die interne Kontrolle **nicht nur** Aktivitäten der **nachträglichen Kontrolle, sondern auch** solche der **Planung und Steuerung**. Eine wirksame interne Kontrolle umfasst u. a. in die Arbeitsabläufe integrierte Kontrollaktivitäten, Prozesse für Risikomanagement und Einhaltung der anwendbaren Normen \(Compliance\), eine von der Risikobewirtschaftung **unabhängige Risikokontrolle sowie die Compliance-Funktion.** Die **interne Revision prüft** und beurteilt die interne Kontrolle und trägt dadurch zu deren laufenden Verbesserung bei.“
 
-![](../.gitbook/assets/image%20%28126%29.png)
+![Abgrenzung IKS](../.gitbook/assets/image%20%28126%29.png)
 
 ## IKS vs. Risiko-Management
 
@@ -34,12 +34,26 @@
 
 ## IKS vs. ISMS
 
-* Synergien
-  * 
-* Sinnvolle Verbindung
+* **Synergien**
+  * Somit ist ein **ISMS** ein Managementsystem, das der Geschäftsleitung durchaus als Führungs-instrument dienen kann und **starke Ähnlichkeiten mit dem IKS** hat. 
+  * Denn die **Kontrolle der Informationssicherheit** geht auch mit der regelmäßigen Untersuchung von Verfahren, Regeln und Prozessen einher.
+* **Sinnvolle Verbindung**
   * Ein **ISMS** zielt auf den Schutz der unternehmenseigenen Werte ab, konzentriert sich dabei aber ausschließlich auf die **Informationssicherheit**. 
   * Das **IKS** richtet den Blick eher auf **„das große Ganze“.**
-* \*\*\*\*
+* **Einsparungspotential**
+  * Dadurch, dass für beide Systeme entsprechende Prüfungen gemacht werden müssen, kann auf diese Art und Weise zumindest ein Teil der ISMS-Überprüfung durch die IKS-Prüfungen abgedeckt werden, da die Prüfungsinhalte zu großen Teilen deckungsgleich sind. Die IKS-Prüfungen selbst können sich zudem gut auf die Ergebnisse der Analysen des ISMS stützen, um so das Risiko bezüglich der Prozesse im Allgemeinen zu bewerten.
+* **Fazit**
+  * Ein funktionierendes **IKS** gilt als **Indiz** einer **guten Corporate Governance**. 
+  * Es kann zudem als **wichtiges Führungsinstrument** in einem Unternehmen dienen. 
+  * Ein ISMS definiert Regeln und Methoden, um die Informationssicherheit in einem Unternehmen oder in einer Organisation zu gewährleisten.
+  * **Beide Systeme kombinieren zahlreiche Vorteile**: 
+    * Sie liefern dem Management transparente und verlässliche Informationen über Prozesse und die Wirksamkeit interner Kontrollmaßnahmen bezüglich Sicherheit, Qualität und Effizienz. 
+    * Sie sollten daher ergänzend und nicht nebeneinander betrieben werden. 
+    * Auch können gut weitere Systeme integriert werden – wie etwa ein Qualitätssystem nach ISO 9001.
+
+\*\*\*\*
+
+=&gt; Details siehe PDF in Evernote
 
 ## Regulatorische Anforderungen
 
