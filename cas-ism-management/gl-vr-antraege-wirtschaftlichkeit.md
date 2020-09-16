@@ -6,7 +6,7 @@
 * Sicherheit ist immer **von finanziellen Mitteln** ausserhalb des Bereiches IT- Sicherheit **abhängig**.
 * IT-Sicherheit ist **komplex** und im Gegensatz zur physischen Sicherheit **abstrakt** und schwer verständlich.
 
-## Festellung
+## Feststellung
 
 * IT-Sicherheit **bringt** direkt **nicht mehr Umsatz / Gewinn** für die Unternehmung
 * Die **Investitionen fallen sofort** an und bedeuten auch dauernden Betrieb und Kosten
