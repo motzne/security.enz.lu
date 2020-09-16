@@ -1,7 +1,5 @@
 # Elektronische Signaturen
 
-
-
 ![](../.gitbook/assets/image%20%28157%29.png)
 
 1. Im ersten Schritt wird über die zu signierenden Daten ein Hashwert berechnet. \(Eine Hashfunktion ist eine kryptographische Operation, die eine Zeichenfolge beliebiger Länge auf eine Zeichenfolge fester Länge abbildet.\)
@@ -18,9 +16,7 @@
 6. ... das Zertifikat des Unterzeichners zum Zeitpunkt der Signatur gültig war.
 7. Ist dies der Fall, so konnte die Signatur als gültig validiert werden. Ansonsten ist die Signatur ungültig.
 
-**=&gt; Zentraler Punkt ist dabei nicht nur ob die Signatur stimmt, sondern auch  "WER hat diese Signatur erstellt?"**
-
-
+**=&gt; Zentraler Punkt ist dabei nicht nur ob die Signatur stimmt, sondern auch "WER hat diese Signatur erstellt?"**
 
 ## **Gesetze, Verordnungen und technische Vorschriften**
 
@@ -100,8 +96,6 @@ Schlussfolgerung:
 * In den übrigen Fällen können sich die Vertragsparteien auf das zu verwendende Zertifikat einigen \(«fortgeschrittenes Zertifikat»1\) oder sonst ein Zertifikat\).
 * In der Regel werden «fortgeschrittene Zertifikate» verwendet, wenn keine qualifizierten Zertifikate notwendig sind \(sie sind je nach Herausgeber günstiger, bieten auch ein hohes Mass an Sicherheit und können in den verschiedensten Bereichen angewendet werden\)
 
-
-
 ## Haftung
 
 <table>
@@ -123,22 +117,19 @@ Schlussfolgerung:
       <td style="text-align:left">ZertES</td>
       <td style="text-align:left">
         <p>Art. 17: Anbieter: Swisscom, Bund</p>
-        <p></p>
         <p>Art. 18: KPMG: Anerkennt Anbieter (oben)</p>
       </td>
     </tr>
   </tbody>
 </table>
 
-Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
+Warum Beweislast-Umkehrung? Erhöht den Druck auf die gesamten Stakeholder:
 
 ![](../.gitbook/assets/image%20%28144%29.png)
 
 ## Kaskade von elektronischen Signaturen / Zertifikate
 
 ![](../.gitbook/assets/image%20%28143%29.png)
-
-
 
 <table>
   <thead>
@@ -165,23 +156,23 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
     </tr>
     <tr>
       <td style="text-align:left">Geregelte elektronische Signatur</td>
-      <td style="text-align:left">Gem&#xE4;ss Art. 2, <b>lit. c, </b>ZertES</td>
+      <td style="text-align:left">Gem&#xE4;ss Art. 2, <b>lit. c,</b> ZertES</td>
       <td style="text-align:left">Ist eine fortgeschrittene elektronische Signatur, die unter Verwendung
-        einer <b>sicheren Signaturerstellungseinheit </b>nach Artikel 6 erstellt
+        einer <b>sicheren Signaturerstellungseinheit</b> nach Artikel 6 erstellt
         wurde und auf einem <b>geregelten</b>, auf eine <b>nat&#xFC;rliche Person</b> ausgestellten
         und zum Zeitpunkt der Erzeugung der elektronischen Signatur g&#xFC;ltigen <b>Zertifikat</b> beruht.</td>
     </tr>
     <tr>
       <td style="text-align:left">Geregeltes elektronisches Siegel</td>
-      <td style="text-align:left">Gem&#xE4;ss Art. 2, <b>lit. d, </b>ZertES</td>
+      <td style="text-align:left">Gem&#xE4;ss Art. 2, <b>lit. d,</b> ZertES</td>
       <td style="text-align:left">Ist eine fortgeschrittene elektronische Signatur, die unter Verwendung
-        einer <b>sicheren Siegelerstellungseinheit </b>nach Artikel 6 erstellt wurde
+        einer <b>sicheren Siegelerstellungseinheit</b> nach Artikel 6 erstellt wurde
         und auf einem <b>geregelten</b>, auf eine <b>UID-Einheit1)</b> ausgestellten
         und zum Zeitpunkt der Erzeugung des elektronischen Siegels g&#xFC;ltigen <b>Zertifikat</b> beruht.</td>
     </tr>
     <tr>
       <td style="text-align:left">Qualifizierte elektronische Signatur</td>
-      <td style="text-align:left">Gem&#xE4;ss Art. 2, <b>lit. e, </b>ZertES</td>
+      <td style="text-align:left">Gem&#xE4;ss Art. 2, <b>lit. e,</b> ZertES</td>
       <td style="text-align:left">
         <p>Ist eine geregelte elektronische Signatur, die auf einem</p>
         <p><b>qualifizierten Zertifikat</b> beruht.</p>
@@ -190,12 +181,7 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
   </tbody>
 </table>
 
-  
-
-
 ![](../.gitbook/assets/image%20%28153%29.png)
-
-
 
 |  |  |  |
 | :--- | :--- | :--- |
@@ -208,8 +194,6 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
 * Private Schlüssel bleibt immer auf den Token
 * Öffentliche Schlüssel wird weiterverwendet und geteilt
 * Sign\(HASHWERT\) wird dem Token gesendet, die Berechnung mit privaten Schlüssel passiert auf dem TOKEN selber -&gt; Gibt Signatur zurück.
-
-
 
 ## UID-Einheiten
 
@@ -236,8 +220,6 @@ Warum Beweislast-Umkehrung?  Erhöht den Druck auf die gesamten Stakeholder:
   * SuisseID; für Authentification und als Qualified Signature
 * SwissID
   * Target: B2C \(nicht B2B\)
-
-
 
 ## Erstellung von qualifizierten Signaturen \(ab Folie 57\)
 

@@ -13,11 +13,11 @@ Tom Enz, [tomenz.ch](https://tomenz.ch) - Lucerne, Switzerland
 
 ### Credits
 
-Gewisser Inhalt, Grafiken und Screenshots stammen aus Vorlesungsunterlagen der Hochschule Luzern Informatik und ihrer Dozenten. 
+Gewisser Inhalt, Grafiken und Screenshots stammen aus Vorlesungsunterlagen der Hochschule Luzern Informatik und ihrer Dozenten.
 
 ### Lokale Installation
 
-Dieses Dokument wurde Hauptsächlich mit der Online-Lösung [GitBook](https://gitbook.com) geschrieben, jedoch können die darunterlegenden Markdown `.md`-Dateien auch auf einem Rechner lokal im Browser angezeigt werden.  Für den lokalen Gebrauch wurde die Seite für [Docsify](https://docsify.js.org/#/?id=docsify) optimiert.
+Dieses Dokument wurde Hauptsächlich mit der Online-Lösung [GitBook](https://gitbook.com) geschrieben, jedoch können die darunterlegenden Markdown `.md`-Dateien auch auf einem Rechner lokal im Browser angezeigt werden. Für den lokalen Gebrauch wurde die Seite für [Docsify](https://docsify.js.org/#/?id=docsify) optimiert.
 
 * Git
 * [NodeJS](https://nodejs.org)
@@ -30,5 +30,5 @@ cd security.enz.lu
 docsify serve .
 ```
 
-Es kann sein dass einige "neue" Funktionen von Gitbook.com  lokal nicht  unterstützt werden. Daher sollten Fehler auf der Console angezeigt werden, gilt es diese zu beheben resp. direkt in den Markdown-Dateien zu bereinigen.
+Es kann sein dass einige "neue" Funktionen von Gitbook.com lokal nicht unterstützt werden. Daher sollten Fehler auf der Console angezeigt werden, gilt es diese zu beheben resp. direkt in den Markdown-Dateien zu bereinigen.
 

@@ -30,7 +30,7 @@
   * Überwachung der Führungsstruktur und anordnen von notwendigen Anpassungen hinsichtlich Qualität und Informationssicherheit durch den Verwaltungsrat.
   * **Corporate Governance** \(grobe Definition\): Unternehmensführung im Interesse des Unternehmens, der Anteilseigner, des Kapitalmarktes, der Mitarbeiter und anderer Anspruchsgruppen.
   * **IT-Governance** ist die Verantwortlichkeit des Verwaltungsrats und der Geschäftsleitung
-    *  integraler Bestandteil der Corporate/Enterprise-Governance
+    * integraler Bestandteil der Corporate/Enterprise-Governance
     * besteht aus Führung, organisatorischen Strukturen und Prozessen, welche sicherstellen, dass die IT des Unternehmens die Unternehmens-Strategien und -Ziele aufrechterhält und ausbaut \[ITGI 2003a, S. 19\]
     * Die **IT-Governance** betrifft **zwei Verantwortlichkeiten**:
       * **IT muss Werte liefern** und das Geschäft ermöglichen sowie

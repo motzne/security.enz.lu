@@ -20,16 +20,16 @@
 | :--- | :--- | :--- |
 | 1 | Begriff Marke | Die Marke ist ein Zeichen, das geeignet ist, Waren oder Dienstleistungen eines Unternehmens von solchen anderer Unternehmen zu unterscheiden. |
 | 2 | Begriff | Was wird alles durch Copyright geschützt |
-| 3 | Werke Zweiter Hand \(z.B. Übersetzungen\) |  Geistige Schöpfungen mit individuellem Charakter, die unter Verwendung bestehender Werke so geschaffen werden, dass die verwendeten Werke in ihrem individuellen Charakter erkennbar bleiben, sind Werke zweiter Hand. |
+| 3 | Werke Zweiter Hand \(z.B. Übersetzungen\) | Geistige Schöpfungen mit individuellem Charakter, die unter Verwendung bestehender Werke so geschaffen werden, dass die verwendeten Werke in ihrem individuellen Charakter erkennbar bleiben, sind Werke zweiter Hand. |
 | 6 | Urheber | Urheber ist die natürliche Person, die das Werk geschaffen hat. |
 | 17 | Urheberrecht Computerprogramme | Wird in einem Arbeitsverhältnis bei Ausübung dienstlicher Tätigkeiten sowie in Erfüllung vertraglicher Pflichten ein Computerprogramm geschaffen, so ist der Arbeitgeber oder die Arbeitgeberin allein zur Ausübung der ausschliesslichen Verwendungsbefugnisse berechtigt. |
 | 9.2 | Erstveröffentlichung | Der Urheber hat das ausschliessliche Recht zu bestimmen, ob, wann, wie und unter welcher Urheberbezeichnung das eigene Werk erstmals veröffentlicht werden soll. |
 | 9.1 | Anerkennung | Der Urheber hat das ausschliessliche Recht am eigenen Werk und das Recht auf Anerkennung der Urheberschaft. |
 | 11 | Werkintegrität | Der Urheber hat das ausschliessliche Recht darüber zu bestimmen, was mit seinem Werk geschieht. |
 | 13.1 | Weitergabe von Werken | Der Eigentümer kann Werkexemplare ohne Erlaubnis des Urhebers Dritten überlassen. Falls entgeltlich, besteht Vergütungspflicht |
-| 13.2 | Ausnahme | Von Art. 13 sind Ausgeschlossen sind Bauwerke, Werke der angewandter Kunst, für welche keine Vergütungspflicht gilt.  |
+| 13.2 | Ausnahme | Von Art. 13 sind Ausgeschlossen sind Bauwerke, Werke der angewandter Kunst, für welche keine Vergütungspflicht gilt. |
 | 13.4 | Computerprogramme | Art. .13 findet keine Verwendung auf Computerprogramme |
-| 14 | Zutritts- und Ausstellungsrecht |  Wer ein Werkexemplar zu Eigentum hat oder besitzt, muss es dem Urheber oder der Urheberin so weit zugänglich machen, als dies zur Ausübung des Urheberrechts erforderlich ist und kein berechtigtes eigenes Interesse entgegensteht. |
+| 14 | Zutritts- und Ausstellungsrecht | Wer ein Werkexemplar zu Eigentum hat oder besitzt, muss es dem Urheber oder der Urheberin so weit zugänglich machen, als dies zur Ausübung des Urheberrechts erforderlich ist und kein berechtigtes eigenes Interesse entgegensteht. |
 | 15 | Schutz des Originalwerks vor Zerstörung | Falls nur noch ein Werkexemplar existiert, so darf dies nicht zerstört werden, ohne dem Urheber vorher die Rücknahme anzubieten. Es darf nicht mehr als der Materialpreis dafür verlangt werden |
 | 19.1 | Werksgebrauch zum Eigengebrauch | Für den persönlichen, edukativen oder geschäftsinternen Gebrauch dürfen veröffentliche Werke verwendet werden. |
 | 19.3 | Ausnahme | Die vollständige oder weitgehend vollständige Vervielfältigung von Werken ist nicht erlaubt. Ebenso sind Ton\(-Bild\) Aufnahmen von Vorträgen und Aufführungen nicht erlaubt. |
@@ -37,7 +37,7 @@
 | 67 | Urheberrechtsverletzung | Auf Antrag können Urheberrechtsverletzungen mit bis zu einem Jahr Freiheitsstrafe oder Geldstrafe bestraft werden |
 | 68 | Unterlassung Quellenangabe | Wer es vorsätzlich unterlässt, die benützen Quellen anzugeben, kann auf Antrag mit Busse bestraft werden |
 
-## Schutzdauer 
+## Schutzdauer
 
 * Generell: 70 Jahre nach Tod des Urhebers
 * Computerprogramme: 50 Jahre nach Tod des Urhebers
@@ -80,8 +80,6 @@
 * Auch eine originelle Kombination von an sich banalen Algorithmen kann urheberrechtlichen Schutz geniessen \(Sammelwerk \)
 * Subsidiär auch lauterkeitsrechtliche Softwareschutz \(UWG 5\)
 
-
-
 ### Immaterialgüterrecht im Arbeitsverhältnis
 
 * Wem gehören Immaterialgüterrechte, die im Arbeitsverhältnis entstehen?
@@ -95,6 +93,4 @@
 * Interoperabilität von Software  Entschlüsselung  URG 21
 
 ![](../.gitbook/assets/image%20%28216%29.png)
-
-
 

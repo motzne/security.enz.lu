@@ -1,7 +1,7 @@
 # Business Continuity Management
 
-**Unternehmensweiter Management-Ansatz** \(Policies und Standards\), mit dem sichergestellt werden soll, dass die **kritischen Geschäftsfunktionen** im Fall interner oder externer Krisenereignisse **aufrechterhalten** oder zeitgerecht wiederhergestellt werden können.   
-BCM umfasst damit die Phasen der Planung und Umsetzung sowie des Controllings und deckt das gesamte entsprechende Umfeld \(Bereiche, Prozesse, Techniken\) ab, welches erforderlich ist, um die Verfügbarkeit unternehmenskritischer Prozesse nach einem Ereignis unterbruchsfrei betreiben oder innerhalb definierter Zeitspannen wiederaufnehmen zu können. 
+**Unternehmensweiter Management-Ansatz** \(Policies und Standards\), mit dem sichergestellt werden soll, dass die **kritischen Geschäftsfunktionen** im Fall interner oder externer Krisenereignisse **aufrechterhalten** oder zeitgerecht wiederhergestellt werden können.  
+BCM umfasst damit die Phasen der Planung und Umsetzung sowie des Controllings und deckt das gesamte entsprechende Umfeld \(Bereiche, Prozesse, Techniken\) ab, welches erforderlich ist, um die Verfügbarkeit unternehmenskritischer Prozesse nach einem Ereignis unterbruchsfrei betreiben oder innerhalb definierter Zeitspannen wiederaufnehmen zu können.
 
 ## Ziel:
 
@@ -18,7 +18,7 @@ Sicherstellen des Geschäftsfortgangs:
 * Applikationen
 * Systeme/Netzwerke
 
-**=&gt;  Bei der Risikoanalyse geht man von Bottom-Up aus,  BCM ist Top Down der 5 wichtigsten Geschäftsprozesse**
+**=&gt; Bei der Risikoanalyse geht man von Bottom-Up aus, BCM ist Top Down der 5 wichtigsten Geschäftsprozesse**
 
 ## Auflistung möglicher Bedrohungen / Gefahren
 
@@ -188,8 +188,6 @@ Der Führungsrythmus kann mit folgenden 5 Schritten beschrieben werden:
 
 ![](../.gitbook/assets/image%20%28154%29.png)
 
-
-
 1. **Analyse Auftrag**
    1. Festlegung der Ereignisart \(worum handelt es sich?\)
    2. Grobbeurteilung der Schäden und Verluste
@@ -256,7 +254,7 @@ Einfache Anleitung zur Bewältigung des Notfalls Charakteristik:
 * Keine Aussagen im Stile von „No Comment“ o.ä.
 * Kommunikation ist Chefsache!
 
-## Aktivitäten: 
+## Aktivitäten:
 
 1. Definition und Festlegung des Umfangs des BCM 
 2. Verankerung des BCM in der Unternehmensorganisation
@@ -267,15 +265,11 @@ Einfache Anleitung zur Bewältigung des Notfalls Charakteristik:
 
 ### IT-Service Continuity Managements \(ITSCM\)
 
-Das IT-Service Continuity Management \(ITSCM\) ist ein Bestandteil des Business Continuity Management. Das primäre Ziel besteht in der Sicherstellung von relevanten Services im Falle von Krisen und Katastrophen. 
+Das IT-Service Continuity Management \(ITSCM\) ist ein Bestandteil des Business Continuity Management. Das primäre Ziel besteht in der Sicherstellung von relevanten Services im Falle von Krisen und Katastrophen.
 
 ITSCM stellt einerseits sicher, dass der Kunde im Katastrophenfall mit einem definierten Minimum an Services arbeiten kann und andererseits, dass die Services zur Unterstützung der Geschäftsprozesse nach einer Katastrophe in der vorgegebenen Zeit wiederhergestellt werden können. Diese müssen den Zielen in den SLAs entsprechend den Business-Anforderungen getestet und regelmässig überprüft werden. Aktivitäten:
 
-
-
 ![](../.gitbook/assets/image%20%2842%29.png)
-
-
 
 ## Prüfungsvorbereitung:
 
@@ -285,7 +279,7 @@ ITSCM stellt einerseits sicher, dass der Kunde im Katastrophenfall mit einem def
 | :--- | :--- |
 | Falscher Fokus | Fokus liegt nicht auf dem 5 wichtigsten Geschäftsprozesse und/oder es wurde nicht an alle Applikationen/Systeme gedacht |
 | Rollen | Rollen im Notfall sind nicht klar definiert, Personen nicht anwesend |
-| Handbuch | Viel zu detailliert/kompliziert resp. von den Verantwortlichen nie eingeübt.  |
+| Handbuch | Viel zu detailliert/kompliziert resp. von den Verantwortlichen nie eingeübt. |
 | Kommunikation | Es wurden komische resp. für aussenstehende falsche Aussagen kommuniziert. Eindruck von Chaos entstand |
 
 ### Definieren Sie «Sofortmassnahmen» und «vorbehaltene Entschlüsse». Was sind die Unterschiede?
@@ -306,8 +300,5 @@ ITSCM stellt einerseits sicher, dass der Kunde im Katastrophenfall mit einem def
 * Im wesentlichen Denkarbeit!!
 * **Lösungen sind nicht nur IT-bezogen, sondern kommen auch aus den Fachabteilungen**
 
-  
 Unterschied: Vorbehaltene Entschlüsse werden vorgängig definiert und werden zurückgehalten, Denkarbeit. Sofortmassnahmen sind mehr ad hoc und werden durch Stäbe im Ereignissfall erarbeitet
-
-
 

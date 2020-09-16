@@ -4,7 +4,7 @@
 * Ein ISMS ist ein als **kontinuierlicher Verbesserungsprozess etabliertes Informationssicherheits-Konzept und wahrt Vertraulichkeit, Integrität und Verfügbarkeit** 
 * Modell für den Aufbau, die Implementierung, den Betrieb, die Überwachung, den Unterhalt und die Verbesserung des Schutzes von Vermögenswerten und Informationen, um basierend auf einem Risiko- Assessment die Geschäftsziele zu erreichen
 
-  Siehe auch 27002 
+  Siehe auch 27002
 
 * Legt fest, **mit welchen Instrumenten und Methoden** das Management die auf Informationssicherheit ausgerichtete Aufgaben und Aktivitäten **nachvollziehbar lenkt.**
 * Besteht aus den **Komponenten**
@@ -131,10 +131,7 @@
       <td style="text-align:left">
         <ul>
           <li>Verbesserung</li>
-          <li>
-            <p>Schl&#xFC;sselfaktor zum Kontinuierlichen Verbesserungsprozess</p>
-            <p></p>
-          </li>
+          <li>Schl&#xFC;sselfaktor zum Kontinuierlichen Verbesserungsprozess</li>
         </ul>
       </td>
     </tr>
@@ -157,21 +154,17 @@
 * Mangelnde Kommunikation & Awareness - es muss ein Thema in der Unternehmung sein
 * Abstraktionsgrad
 
- 
-
 ### Kritische Erfolgsfaktoren:
 
 * Faktor Mensch nicht unterschätzen
 * Betroffene zu Beteiligte machen: Schinken - Käse Sandwich
-*  Andere Vorstellungen vorhanden: Auch berücksichtigen \(es gibt auch andere Sichten\)
+* Andere Vorstellungen vorhanden: Auch berücksichtigen \(es gibt auch andere Sichten\)
 * Nicht ein Extrazug fahren - nutzen von bestehenden Stellen \(Kommunikation, Verfahren, etc.\) - nicht ein eigener Zug für Informationssicherheit fahren
 * Wichtig im Voraus; Was soll das Tool auch können - meist kann es mehr
 * "Mut zur Lücke": Auch in Zusammenarbeit mit den Betroffenen
 * Slow Down - Take it Easy
   * Gegebene Tatsachen - welche nicht geändert werden können - auch hinnehmen
   * Gelassenheit
-
- 
 
 ## Breakout Sessions
 
@@ -184,13 +177,11 @@
 * 27002
   * Controls in Breite, nicht all zu tief - ein Rahmen \(Code of Practise\)
 
-
-
 #### Worin unterscheidet sich die BSI IT-Grundschutz- Methodik gegenüber der Vorgehensweise nach ISO/IEC 27001?
 
 * BSI: 
   * Compliance orientiert, Basis-Schutzbedarf
-  *  Empfehlung, Best-Practies für Implementierung - sehr Detailliert
+  * Empfehlung, Best-Practies für Implementierung - sehr Detailliert
 * 27001
   * kann zertifiziert werden
   * Management-System
@@ -203,10 +194,6 @@
   * Auf Hardware, Software bezogen
   * Zertifizierungen möglich
 
-[  
+[    
 ](https://cas-ism.enz.lu/)
-
-
-
-
 
