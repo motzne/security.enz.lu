@@ -1,13 +1,10 @@
 # Todo's
 
-* [ ] Themenübersicht ISM erstellen
 * [ ] Begriffe: Corporate Governance / IT Governance nochmals anschauen
-* [ ] Revision: / Daniela Fragen
-  * [ ] Prüfung vorbereiten, was ist wichtig
-  * [ ] Anforderung an IKS
-  * [ ] Kontrollziele Beispiele LUKB ?
-* [ ] Revision: Kapitel 2 + 3 nochmals lesen
 * [ ] Recht: Antworten Masi einordnen
+* [ ] Revision: Kapitel 2 + 3 nochmals lesen
+
+
 
 ![](.gitbook/assets/image%20%28213%29.png)
 
