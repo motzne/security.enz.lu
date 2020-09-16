@@ -1,6 +1,6 @@
 # Business Continuity Management
 
-Unternehmensweiter Management-Ansatz \(Policies und Standards\), mit dem sichergestellt werden soll, dass die kritischen Geschäftsfunktionen im Fall interner oder externer Krisenereignisse aufrechterhalten oder zeitgerecht wiederhergestellt werden können.   
+**Unternehmensweiter Management-Ansatz** \(Policies und Standards\), mit dem sichergestellt werden soll, dass die **kritischen Geschäftsfunktionen** im Fall interner oder externer Krisenereignisse **aufrechterhalten** oder zeitgerecht wiederhergestellt werden können.   
 BCM umfasst damit die Phasen der Planung und Umsetzung sowie des Controllings und deckt das gesamte entsprechende Umfeld \(Bereiche, Prozesse, Techniken\) ab, welches erforderlich ist, um die Verfügbarkeit unternehmenskritischer Prozesse nach einem Ereignis unterbruchsfrei betreiben oder innerhalb definierter Zeitspannen wiederaufnehmen zu können. 
 
 ## Ziel:

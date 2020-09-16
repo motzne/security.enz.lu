@@ -1,7 +1,7 @@
 # Planung, Aufbau und Betrieb eines ISMS
 
 * ISMS als **risikoorientiertes Lenkungssystem**
-* Ein ISMS ist ein als **kontinuierlicher Verbesserungsprozess etabliertes Informationssicherheits-Konzept.**
+* Ein ISMS ist ein als **kontinuierlicher Verbesserungsprozess etabliertes Informationssicherheits-Konzept und wahrt Vertraulichkeit, Integrität und Verfügbarkeit** 
 * Modell für den Aufbau, die Implementierung, den Betrieb, die Überwachung, den Unterhalt und die Verbesserung des Schutzes von Vermögenswerten und Informationen, um basierend auf einem Risiko- Assessment die Geschäftsziele zu erreichen
 
   Siehe auch 27002 
