@@ -69,6 +69,9 @@
 
 Committee of Sponsoring Organizations of the Treadway Commission \(COSO\)
 
+* Hilfstellung wie das Kontrollsystem im Unternehmen implementiert werden kann
+  * Welche 
+
 ![](../.gitbook/assets/image%20%28133%29.png)
 
 * COSO **Ziele**

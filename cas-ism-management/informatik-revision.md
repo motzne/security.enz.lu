@@ -15,11 +15,10 @@
 * **IKS \(Management-System\);** inkl. Massnahmen-Paket für die Gesamtheit aller im Unternehmen angewandten Massnahmen für um den Fortbestand der Unternehmung sicherzustellen
 * **Kontrollziel \(Sicherheitsanforderung\);** ist eine Aussage zum gewünschten Resultat \(Zweck\), das mit der Implementierung von Kontrollen in einer bestimmten Aktivität erreicht werden soll.
 * Scope: Umfang, Geltungs- oder Abdeckungsbereich \(bspw. Service / Prozess / Organisation \(F. 82\)
-* **Revision:** Prüfung = systematische Verifikation von Beweismitteln; Verifizieren ob Massnahmen korrekt \(**Design Effectiveness\)** und effektiv \(**Operating Effectiveness\) i**mplementiert sind
+* **Revision:** Prüfung = systematische Verifikation von Beweismitteln; Verifizieren ob Massnahmen korrekt \(**Design Effectiveness - richtig auf Papier\)** und effektiv \(**Operating Effectiveness - sind Sie implementiert und funktionieren Sie auch\) i**mplementiert sind
   * Trust but verify / durch unabhängige Stelle \(Frühwarnsystem\)
   * Soll/Ist-Vergleich - Wie gut sollte und ist das IKS wirklich?
-  * Haftet - Haftung des Abschlussprüfers
-  * **Ziel:** Aussage über Ordnungsmässigkeit der Buchführung und Rechnungslegung
+  * Haftet - Haftung des Abschlussprüfers ****
   * **Externe Revision in CH obligatorisch** gem. OR Art. 738: Existenz eines IKS zu prüfen & bestätigen \(nicht aber deren Wirksamkeit\)
   * Revisor \(sollten\) ethischen Grundsätzen folgen \(Charta\)
 * Zertifizierungs-Audit ISO27001 \(für ein ISMS\)
@@ -49,6 +48,10 @@
   * uneingeschränkte Bekanntgabe relevanter Fakten
   * Dokumentation 
   * Nachvollziehbarkeit \(Prüfspur\) -&gt; Nachweis
+* **Vorbereitung \(Revision / Audits\) jeglicher Art vorbereiten** 
+  * siehe auch Erwartungen
+  * Transparenz
+  * Kontrolle die bei mir implementiert sind kennen
 * **Revisoren sind ...**
   * sind neugierig von Beruf und durch Training
   * wurden ausgebildet, gründlich zu sein
