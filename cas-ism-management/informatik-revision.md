@@ -166,19 +166,13 @@ ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller 
 
 **Interne Revision**
 
-* “**freiwillig**” \(Bankengesetz, ...\) und \(in der Regel\) im Auftrag des VR
+* “**freiwillig**” Bsp. KMU  / Aber Achtung: Bsp. Bankengesetz  schreibt interne Revision vor\)
+* in der Regel im Auftrag des VR
 * Unterstützung des Verwaltungsrates
 * Überprüfung Geschäftsleitung
 * breites Tätigkeitsfeld
 
 ![](../.gitbook/assets/image%20%28225%29.png)
-
-
-
-### Unterschied Audit / Revision
-
-* Audit = externe Firma, die das Audit macht
-* Interne Revision = braucht es von gesetztes wegen. Machen aber auch Audits
 
 ## Prüfungen
 

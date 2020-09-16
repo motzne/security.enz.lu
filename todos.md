@@ -1,6 +1,6 @@
 # Todo's
 
-* [ ] Begriffe: Corporate Governance / IT Governance nochmals anschauen
+* [ ] Begriffe: Corporate Governance / IT Governance  / Compliance nochmals anschauen
 * [ ] Recht: Antworten Masi einordnen
 * [ ] Revision: Kapitel 2 + 3 nochmals lesen
 
