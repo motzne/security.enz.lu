@@ -1,11 +1,14 @@
 # Informatik - Revision
 
-* **Durchführung unabhängiger Prüfung**
+* Revision =
+  * **Nachvollziehen, Analysieren, Beurteilen**
+  * Untersuchung durch Unabhängige
+  * _Trust but verify_ 
 * Bestätigung von Sachverhalten \(„**Assurance**“ bzw. „re-assurance“ in Verbindung mit dem Internen Kontrollsystem \(IKS\)\) als auch in einschlägiger Beratung \(„**Consulting**“\) in Organisationsfragen 
 * Es gibt Interne / Externe Revision \(siehe Kapitel unten\)
   * Interne Revision ist in der 3rd Line of Defense \(siehe Infografik\)
 * Verifizieren ob Massnahmen korrekt \(**Design Effectiveness - richtig auf Papier\)** und effektiv \(**Operating Effectiveness - in Betrieb\)** implementiert sind und auch funktionieren
-* * Trust but verify / durch unabhängige Stelle \(Frühwarnsystem\)
+* * / durch unabhängige Stelle \(Frühwarnsystem\)
 * Soll/Ist-Vergleich - Wie gut sollte und ist das IKS wirklich?
 * Haftet - Haftung des Abschlussprüfers 
 * **Externe Revision in CH obligatorisch** gem. OR Art. 738: Existenz eines IKS zu prüfen & bestätigen
@@ -42,11 +45,16 @@ Erklärungen zur Grafik
   * sind die Konzepte, Verfahren, Praktiken und Organisationsstrukturen, welche eine angemessene Gewissheit verschaffen, dass die Geschäfts- ziele erreicht werden und dass unerwünschte Ereignisse verhindert oder erkannt und korrigiert werden
     * .…ist eine Massnahme, welche ein Risiko modifiziert.
     * =&gt; **Wichtiges Hauptziel: Risiken minimieren**
+* **Kontrollziel \(Sicherheitsanforderung\)**
+  * ist eine Aussage zum gewünschten Resultat \(Zweck\), das mit der Implementierung von Kontrollen in einer bestimmten Aktivität erreicht werden soll.
 * **IKS \(ist ein Management-System\);** 
   * inkl. Massnahmen-Paket für die Gesamtheit aller im Unternehmen angewandten Massnahmen  um den Fortbestand der Unternehmung sicherzustellen
   * "Overall" oder das grosse Ganze
-* **Kontrollziel \(Sicherheitsanforderung\)**
-  * ist eine Aussage zum gewünschten Resultat \(Zweck\), das mit der Implementierung von Kontrollen in einer bestimmten Aktivität erreicht werden soll.
+
+
+
+
+
 * **Scope**
   * Umfang, Geltungs- oder Abdeckungsbereich \(bspw. Service / Prozess / Organisation \(F. 8
 * **Prüfung**
@@ -96,7 +104,19 @@ Um sich optimal auf eine Überprüfung \(Revision/Audit\) jeglicher Art vorzuber
 
 ## Typischen Revisions- Anforderungen an das IKS
 
+* Greif- resp. fassbare Kontrolle
+* Übereinstimmung/Anlehnung an Risikomatrix
+* 4 Augen-Prinzip, wer die Kontrolle ausführt darf sie nicht selber kontrollieren
 
+Die üblichen Qualitätsanforderungen an ein IKS setzen ebenfalls implizit gewisse Massstäbe an die Ausgestaltung:
+
+* Nachvollziehbarkeit \(z.B. Dokumentation, klare Regelungen\)
+* Wirksamkeit \(z.B. Identifikation Risiken, Risikorelevanz\)
+* Effizienz \(z.B. MA kennen IKS, IKS ist in Unternehmensprozesse integriert, Kosten-Nutzenverhältnis\)
+
+
+
+![](../.gitbook/assets/image%20%28229%29.png)
 
 ## Revisions**typen**
 
@@ -126,7 +146,7 @@ Cremeschnitten-Modell
 
 ### Externe vs. Interne Revision
 
-**Externe Revision**
+**Externe Revision \(in der CH obligatorisch\)**
 
 * gesetzlich abgestützt
 * Wahl durch GV
@@ -134,6 +154,7 @@ Cremeschnitten-Modell
 * unterliegt Organhaftung
 * vorwiegend Abschlussprüfung
 * eingeschränkte oder ordentliche Revision?
+* **Externe Revision in CH obligatorisch** gem. OR Art. 738: Existenz eines IKS zu prüfen & bestätigen
 
 **Interne Revision**
 
@@ -141,6 +162,10 @@ Cremeschnitten-Modell
 * Unterstützung des Verwaltungsrates
 * Überprüfung Geschäftsleitung
 * breites Tätigkeitsfeld
+
+![](../.gitbook/assets/image%20%28225%29.png)
+
+
 
 ### Unterschied Audit / Revision
 

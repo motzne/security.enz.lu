@@ -8,6 +8,7 @@
 * **Verantwortung**
   * **Verwaltungsrat** ist verantwortlich, dass ein angemessenes **IKS vorhanden ist**. 
   * Die **Umsetzung** des IKS liegt **im** Aufgabenbereich des **Managements**.
+  * **Am Schluss haftet der Verwaltungsrat!**
 * **Regulationen**
   * Vorhanden - siehe Vorlesungsunterlagen
   * Aber keine Legal definition/detaillierte Vorgaben durch den Gesetzgeber
@@ -52,6 +53,14 @@
     * Für USA und Firmen welche in der USA an der Börse gehandelt werden
   * EU Pendant: EuroSOX
   * Bankenvorschrift Basel II
+
+
+
+Risikobereiche / Kontrolltypen / Hilfsmittel
+
+![](../.gitbook/assets/image%20%28227%29.png)
+
+
 
 ## Verantwortlichkeiten 
 
@@ -227,7 +236,7 @@ Geschichte COBIT wurde ursprünglich \(1996\) vom internationalen Verband der IT
 
 Grundsätzlich kann der Ablauf für Konzeption, Basisschulungen und Implementierung des IKS wie folgt beschrieben werden:
 
-![](../.gitbook/assets/image%20%28225%29.png)
+![](../.gitbook/assets/image%20%28228%29.png)
 
 ## Effektivität
 
