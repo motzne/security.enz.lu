@@ -12,7 +12,7 @@
 
 ## **Zentrale Übersicht**
 
-![](../.gitbook/assets/revision_iks_3linesofdefense.png)
+![](../.gitbook/assets/revision_iks_3linesofdefense-1-.png)
 
 Erklärungen zur Grafik
 
@@ -32,7 +32,7 @@ Erklärungen zur Grafik
 * **SONSTIGES**
   * Abschlussprüfer \(Bspw. Externe Revision\)
     * kann bei kleiner Firmen auch die Funktion der internen Revision übernehmen
-  * Regulierungsbehörde \(Bspw. FINMA, Bund\)
+  * Gesetzgeber \(Bspw. FINMA, Bund\)
 
 ## **Allgemeines**
 
@@ -104,7 +104,25 @@ Um sich optimal auf eine Überprüfung \(Revision/Audit\) jeglicher Art vorzuber
 
 ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller Aspekte von automatisierten, informationsverarbeitenden Systemen \(oder Teilen davon\) umfasst; inklusive der damit zusammen- hängenden nicht-automatisierten Prozesse und ihrer Schnittstellen.
 
+Cremeschnitten-Modell
+
 ![](../.gitbook/assets/image%20%28121%29.png)
+
+* Vier Schichten = vier vers. Prozess-Ebenen & Ressourcen
+  * Wesentliche **Geschäftsprozesse** - aufgeteilt in Teil-Prozesse \(manuell\)
+    * R: inhärente Risiken der Geschäftsprozesse \(Konkurs, Währungs-R, etc.\)
+    * C: Bonitätsprüfung bei Kreditvergabe, Absicherung Währungsrisiko bei Devisen-Transaktionen
+  *  Automatisierte Teile der **Geschäftsprozesse**, resp. die eigentlichen \(IT-\) Anwendungen
+    * R: im Zusammenhang mit SW; Funktionalität, Codierung, unvollständige Tests, SW-Personal
+    * C: Rollen&Workflows, Plausibilitätsprüfungen von Eingaben
+  * IT-**Basissysteme** \(DB, Core-Systeme\)
+    * R: administrative Zugriffe
+    * C: spez. C. von Informatik-Komponenten; Konfigurations- und Parametrierungskontrollen
+  * IT-**Infrastruktur** \(HW, Netzwerk\) und dessen bauliche Einrichtungen wie RZ
+    * R: Ausfall HW, unberechtiger Zugriff, Würmer/Viren, Elementarschäden; Überschwemmung
+    * C: spez. C. von technologieabhängigen C.; Zugriffsschutz, OS-Funktionen zur Überwachung
+* Auf jeder dieser Ebenen bestehen typische Risiken \(siehe oben "R: x"\)
+* … aber auch entsprechende Kontrollen \(Controls\) \(siehe oben "C: x"\) \(Script S. 14\)
 
 ### Externe vs. Interne Revision
 

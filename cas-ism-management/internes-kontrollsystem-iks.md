@@ -12,11 +12,13 @@
   * Vorhanden - siehe Vorlesungsunterlagen
   * Aber keine Legal definition/detaillierte Vorgaben durch den Gesetzgeber
   * Grund: Keine abstrakten IKS-Anforderungen, sondern Ausgestaltung abhängig vom jeweiligen Unternehmen
-  * 
 * **Ziele \(siehe Details unten "Umsetzung"\)**
   * KS muss überprüfbar sein \(Dokumentation, etc.\)
   * muss an Geschäftstätigkeit angepasst sein \(angemessene Controls\)
   * Mitarbeiter müssen IKS kennen \(Details siehe Folie 44/45\)
+* **IT** ist aus zwei Sichtweisen **sehr zentral für ein IKS**:
+  * Als Verursacherin zahlreicher Zwischenfälle
+  * Zur Verhinderung von Zwischenfälle
 * **Beispiel: Eidgenössische Finanzmarktaufsicht FINMA**
 
   „Die interne Kontrolle \(Synonym internes Kontrollsystem\) umfasst die **Gesamtheit der Kontrollstrukturen und -prozesse**, welche auf allen Ebenen des Instituts die Grundlage für die Erreichung der geschäftspolitischen Ziele und einen ordnungsgemässen Institutsbetrieb bilden. Dabei beinhaltet die interne Kontrolle **nicht nur** Aktivitäten der **nachträglichen Kontrolle, sondern auch** solche der **Planung und Steuerung**. Eine wirksame interne Kontrolle umfasst u. a. in die Arbeitsabläufe integrierte Kontrollaktivitäten, Prozesse für Risikomanagement und Einhaltung der anwendbaren Normen \(Compliance\), eine von der Risikobewirtschaftung **unabhängige Risikokontrolle sowie die Compliance-Funktion.** Die **interne Revision prüft** und beurteilt die interne Kontrolle und trägt dadurch zu deren laufenden Verbesserung bei.“
@@ -25,7 +27,18 @@
 
 ## IKS vs. Risiko-Management
 
+**Verzahnung zum Risikomanagement;** Teils überlappend, denn auch das IKS nimmt eine Risiko-Analyse \(vor allem der Geschäfts und Sub-Geschäftsprozesse\) vor. Denn ihre Aufgabe ist es, präventive und korrigierende Massnahmen \(Controls\) zu definieren, um die Unternehmensziele zu sichern ==&gt; IKS setzt genau dort Kontrollen ein, wo notwendig und sinnvoll, um ein R. zu minimieren
+
 ![](../.gitbook/assets/image%20%28223%29.png)
+
+## IKS vs. ISMS
+
+* Synergien
+  * 
+* Sinnvolle Verbindung
+  * Ein **ISMS** zielt auf den Schutz der unternehmenseigenen Werte ab, konzentriert sich dabei aber ausschließlich auf die **Informationssicherheit**. 
+  * Das **IKS** richtet den Blick eher auf **„das große Ganze“.**
+* \*\*\*\*
 
 ## Regulatorische Anforderungen
 
@@ -79,23 +92,100 @@ Committee of Sponsoring Organizations of the Treadway Commission \(COSO\)
 
 ![](../.gitbook/assets/image%20%28133%29.png)
 
-* COSO **Ziele**
-  * Geschäftstätigkeit \(operationelle Ziele\)
-  * Finanziellen Berichterstattung \(Richtigkeit, Existenz, Eintritt, ...\)
-  * Compliance
-* COSO **Komponenten**
-  * 1: Kontrollumfeld 
-    * Weiche und härte Faktoren \(Governance, Leitbilder\)
-  * 2: Risikobeurteilung
-    * Es geht immer eine Risikoabwägung / -einschätzung voraus
-  * 3: Kontrollmassnahmen
-    * Methoden und Massnahmen zur Erreichung festgelegten Ziele des IKS
-  * 4: Information und Kommunikation
-    * **Hoher Stellenwert i**m COSO-Rahmenwerk
-    * Ich muss sicherstellen, dass die relevanten Systeme funktionieren, korrekt platziert und verstanden werden - wie bspw. IKS, ISMS
-  * 5: Überwachung
-    * Einhaltung IKS, Erkennung von Anpassungsbedarf
-    * Kontrollen können ganz nahe am Prozess gemacht werden \(bspw. 4-Augen\), weiter Weg via Kontroll-Stellen \(Appliance, etc.\) - ganz abhängig von der Grösse und dem entsprechenden Control \(Gewaltentrennung, etc.\)
+
+
+#### Erklärung der COSO Übersichtsgrafik oben:
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Dimension</th>
+      <th style="text-align:left">T&#xE4;tigkeiten</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p><b>Ziele<br /></b>erste Dimension</p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li><b>Gescha&#x308;ftsta&#x308;tigkeit</b> 
+            <ul>
+              <li>&#xAD; Sicherstellung sicherer, effektiver und effizienter Abl&#xE4;ufe
+                (operationelle Ziele)</li>
+            </ul>
+          </li>
+          <li><b>Finanziellen Berichterstattung</b>
+            <ul>
+              <li>Gew&#xE4;hrleistung einer zuverl&#xE4;ssigen Finanzberichterstattung (Richtigkeit,
+                Existenz, Eintritt, ...)</li>
+            </ul>
+          </li>
+          <li><b>Compliance</b>
+            <ul>
+              <li>Sicherung der Einhaltung von Gesetzen und Vorschriften</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Gesch&#xE4;ftsbereiche</b> zweite Dimension</td>
+      <td style="text-align:left">
+        <ul>
+          <li>
+            <p>Die zweite Dimension stellt dar, dass das Interne Kontrollsystem <b>s&#xE4;mtliche Unternehmensbereiche umfasst</b> und
+              daher in seiner Ausgestaltung in einer einzelnen Funktion, in der Abteilung,
+              im Gesch&#xE4;ftsbereich</p>
+            <p>und schliesslich unternehmensweit vorhanden sein muss.</p>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p><b>5 Komponenten<br /></b>dritte Dimension</p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>1: <b>Kontrollumfeld</b> 
+            <ul>
+              <li>Weiche und h&#xE4;rte Faktoren (Governance, Leitbilder)</li>
+            </ul>
+          </li>
+          <li>2: <b>Risikobeurteilung</b>
+            <ul>
+              <li>Es geht immer eine Risikoabw&#xE4;gung / -einsch&#xE4;tzung voraus</li>
+            </ul>
+          </li>
+          <li>3: <b>Kontrollmassnahmen</b>
+            <ul>
+              <li>Methoden und Massnahmen zur Erreichung festgelegten Ziele des IKS</li>
+            </ul>
+          </li>
+          <li>4: <b>Information und Kommunikation</b>
+            <ul>
+              <li><b>Hoher Stellenwert i</b>m COSO-Rahmenwerk</li>
+              <li>Ich muss sicherstellen, dass die relevanten Systeme funktionieren, korrekt
+                platziert und verstanden werden - wie bspw. IKS, ISMS</li>
+            </ul>
+          </li>
+          <li>5: <b>U&#x308;berwachung</b>
+            <ul>
+              <li>Einhaltung IKS, Erkennung von Anpassungsbedarf</li>
+              <li>Kontrollen k&#xF6;nnen ganz nahe am Prozess gemacht werden (bspw. 4-Augen),
+                weiter Weg via Kontroll-Stellen (Appliance, etc.) - ganz abh&#xE4;ngig
+                von der Gr&#xF6;sse und dem entsprechenden Control (Gewaltentrennung, etc.)</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### COBIT
 
@@ -134,6 +224,10 @@ Geschichte COBIT wurde ursprünglich \(1996\) vom internationalen Verband der IT
    1. Unternehmenskultur
 
 
+
+Grundsätzlich kann der Ablauf für Konzeption, Basisschulungen und Implementierung des IKS wie folgt beschrieben werden:
+
+![](../.gitbook/assets/image%20%28225%29.png)
 
 ## Effektivität
 
@@ -186,12 +280,5 @@ Beispiel: Sie möchten den Umsatzerlös in den nächsten 6 Monaten um 15 % steig
 
 
 
-## IKS vs. ISMS
-
-* Synergien
-  * 
-* Sinnvolle Verbindung
-  * Ein **ISMS** zielt auf den Schutz der unternehmenseigenen Werte ab, konzentriert sich dabei aber ausschließlich auf die **Informationssicherheit**. 
-  * Das **IKS** richtet den Blick eher auf **„das große Ganze“.**
-* \*\*\*\*
+\*\*\*\*
 
