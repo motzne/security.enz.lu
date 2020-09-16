@@ -6,9 +6,9 @@
 * die typischen Revisions- Anforderungen an das IKS kennen
 * sich optimal auf Über- prüfungen \(Revisionen, Audits\) jeglicher Art vorbereiten
 
-## **Zentrale Aussagen**
+## **Zentrales**
 
-**Begriffe**
+### **Begriffe**
 
 * **Kontrollen \(Sicherheitsmassnahme\);** sind die Konzepte, Verfahren, Praktiken und Organisationsstrukturen, welche eine angemessene Gewissheit verschaffen, dass die Geschäfts- ziele erreicht werden und dass unerwünschte Ereignisse verhindert oder erkannt und korrigiert werden
   * .…ist eine Massnahme, welche ein Risiko modifiziert.
@@ -27,10 +27,15 @@
   * SOA - Statement of Applicability; Definition welcher der 114 Kontrollen wirklich angewendet werden
   * Stage 1 \(Voraudit\) und Stage 2 Audit \(Zertifizierung\)
 
-**Frameworks**
+### **Frameworks**
 
 * COSO: Organisation, welche Revisionen "unterstützt" \(Ethisches Handel / Wirksamkeit\)
 * Cobit: Generisches Framework für ein Kontrollsystem innerhalb der IT \(Siehe unten\)
+
+### Unterschied Audit / Revision
+
+* Audit = externe Firma, die das Audit macht
+* Interne Revision = braucht es von gesetztes wegen. Machen aber auch Adits
 
 ## Aufgaben der Revision
 
@@ -52,15 +57,31 @@
   * wurden ausgebildet, gründlich zu sein
 * **Wenn Sie etwas ändern wollen, sind die Revisoren Ihre besten Freunde !**
 
+### \*\*\*\*
+
+
+
+
+
+![Cremeschnitten-Modell](../.gitbook/assets/image%20%28121%29.png)
+
+
+
+## Revisionsanforderungen an IKS
+
+Die üblichen Qualitätsanforderungen an ein IKS setzen ebenfalls implizit gewisse Massstäbe an die Ausgestaltung:
+
+* Nachvollziehbarkeit \(z.B. Dokumentation, klare Regelungen\)
+* Wirksamkeit \(z.B. Identifikation Risiken, Risikorelevanz\)
+* Effizienz \(z.B. MA kennen IKS, IKS ist in Unternehmensprozesse integriert, Kosten-Nutzenverhältnis\)
+
+![](../.gitbook/assets/image%20%28218%29.png)
+
+## Arten von Revision
+
 ### **Informatikrevision**
 
 ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller Aspekte von automatisierten, informationsverarbeitenden Systemen \(oder Teilen davon\) umfasst; inklusive der damit zusammen- hängenden nicht-automatisierten Prozesse und ihrer Schnittstellen.
-
-
-
-
-
-![](../.gitbook/assets/image%20%28121%29.png)
 
 ### 
 
@@ -82,12 +103,7 @@ ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller 
 * Überprüfung Geschäftsleitung
 * breites Tätigkeitsfeld
 
-### Unterschied Audit / Revision
-
-* Audit = externe Firma, die das Audit mache
-* Interne Revision = braucht es von gesetztes wegen. Machen aber auch Adits
-
-## Prüfungen
+## Prüfung
 
 ### Prüfungsplanung-/durchführung
 
@@ -126,7 +142,7 @@ Geschichte COBIT wurde ursprünglich \(1996\) vom internationalen Verband der IT
 
 ![](../.gitbook/assets/image%20%28217%29.png)
 
-![](../.gitbook/assets/image%20%28218%29.png)
+![](../.gitbook/assets/image%20%28220%29.png)
 
 
 

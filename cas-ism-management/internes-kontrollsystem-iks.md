@@ -14,6 +14,14 @@
 
 ![](../.gitbook/assets/image%20%28126%29.png)
 
+## IKS vs. Risiko-Management
+
+![](../.gitbook/assets/image%20%28219%29.png)
+
+
+
+
+
 ## Verantwortlichkeiten 
 
 ### Verwaltungsrat
