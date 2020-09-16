@@ -17,18 +17,18 @@ Gewisser Inhalt, Grafiken und Screenshots stammen aus Vorlesungsunterlagen der H
 
 ### Lokale Installation
 
-Dieses Dokument wurde Hauptsächlich mit der Online-Lösung [GitBook](https://gitbook.com) geschrieben, jedoch können die darunterlegenden Markdown `.md`-Dateien auch auf einem Rechner lokal im Browser angezeigt werden.
+Dieses Dokument wurde Hauptsächlich mit der Online-Lösung [GitBook](https://gitbook.com) geschrieben, jedoch können die darunterlegenden Markdown `.md`-Dateien auch auf einem Rechner lokal im Browser angezeigt werden.  Für den lokalen Gebrauch wurde die Seite für [Docsify](https://docsify.js.org/#/?id=docsify) optimiert.
 
 * Git
 * [NodeJS](https://nodejs.org)
 * Gitbash \(Windows\) / Terminal \(macOS\) 
 
 ```bash
-sudo npm install -g gitbook
+npm i docsify-cli -g  # Use sudo on macOS
 git clone https://github.com/motzne/security.enz.lu.git
 cd security.enz.lu
-gitbook serve .
+docsify serve .
 ```
 
-Einige "neue" Funktionen von Gitbook werden lokal nicht mehr unterstützt. Daher sollten Fehler auf der Console angezeigt werden, gilt es diese zu beheben resp. direkt in den Markdown-Dateien zu bereinigen.
+Es kann sein dass einige "neue" Funktionen von Gitbook.com  lokal nicht  unterstützt werden. Daher sollten Fehler auf der Console angezeigt werden, gilt es diese zu beheben resp. direkt in den Markdown-Dateien zu bereinigen.
 
