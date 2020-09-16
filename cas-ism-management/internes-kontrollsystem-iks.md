@@ -51,8 +51,6 @@
     * Sie sollten daher ergänzend und nicht nebeneinander betrieben werden. 
     * Auch können gut weitere Systeme integriert werden – wie etwa ein Qualitätssystem nach ISO 9001.
 
-\*\*\*\*
-
 =&gt; Details siehe PDF in Evernote
 
 ## Regulatorische Anforderungen
@@ -70,7 +68,7 @@
 
 
 
-Risikobereiche / Kontrolltypen / Hilfsmittel
+## Risikobereiche / Kontrolltypen / Hilfsmittel
 
 ![](../.gitbook/assets/image%20%28227%29.png)
 
