@@ -155,6 +155,8 @@ Lateral movement refers to the techniques cyber attackers use to move through a 
 
 ## Awareness Kampagne
 
+Kann durch die folgenden 4 Phasen beschrieben werden:
+
 ### **1. Planen**
 
 * **Zielsetzungen** / Rahmenbedingungen
@@ -286,6 +288,31 @@ Lateral movement refers to the techniques cyber attackers use to move through a 
   * Lessons Learned
 * Gegenüber Zielpublikum
   * Erfolgsmeldung
+
+
+
+## Gruppenarbeit Awareness-Kamapgne
+
+* **Golden Rules**
+  * Eigenverantwortung und Verhalten bei Vorfällen
+  * Sicherheit am Arbeitsplatz und Umgang mit Informationen
+  * Social Engineering und Umgang mit externen Personen
+  * Umgang mit Passwörtern, E-Mail, Internet und Cloud-Diensten
+  * Schutz vor Phishing und Ransomware
+  * Sicherheit unterwegs sowie Nutzung von WLAN, mobiler Geräte und Speichermedien
+  * Umgang mit Social Media
+* **Verbesserungen**
+  * Arbeitssicherheitsschulung bei Einführung neuer Mitarbeiter wird mit IT-Sicherheit erweitert
+  * Neues E-Learning für alle Mitarbeiter, bei Neuen Teil des Einführungsprogramm
+  * Klickrate der geplanten Phishing-Kampagnen beträgt maximal 20%, gemäss Carlos besser 15%
+* **Umfang der Kampagne**
+  * Big Bang, Bildschirmschoner "Du wurdest gehackt"
+  * Security Awareness Schulung
+  * Live-Hacking Event
+  * Intranet überarbeiten
+  * E-Learning
+  * Phishing Reporting \(über Outlook Add-In\)
+  * Phishing-Service
 
 
 
