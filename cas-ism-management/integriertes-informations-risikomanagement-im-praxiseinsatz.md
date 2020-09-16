@@ -1,21 +1,29 @@
 # Integriertes Informations-Risikomanagement im Praxiseinsatz
 
+## Zentrale Aussagen/Punkte:
 
+* **Risiko** Eintrittswahrscheinlichkeit \* Schadenshöhe \(Wirkung/Risiko auf Geschäftsprozess "hinten"\)
+* **Business-Impact-Analyse;** um zentrale Geschäftsprozesse zu lokalisieren und dessen Schwachstellen / Eintrittswahrscheinlichkeit-Analyse bei Bedrohen und Assets
+* Systemziele: Bei ISM meist: Vertraulichkeit, Integrität und Verfügbarkeit
+* **Risikomanagement-Prozess;** Grundsätze; Integraler Bestandteil sämtlicher Unternehmens-Aktivitäten, Strukturiertes Vorgehen zur Nachvollziehbarkeit, Ständige Verbesserung
+  * Integraler Bestandteil eines ISMS! \(2 Risiko-Arten; Über den ISMS-Prozess \(CISO/RM-Owner\) & im Prozess \(Asset-Owner\)\)
+  * Prozess-Vorgabe gem. ISO31000 & ISO27005
+  * Im Kontext der Unternehmung einordnen \(gibt noch viele weitere Punkte - siehe Folie 19\)
+  * Bewertung mit fixen Kriterien / Indikatoren **\(KPI\)** für Einschätzung
+* RM & Gesetzliche Vorgaben; Ist gem. OR Pflicht / Empfehlungen etc. von vers. Verbänden
+* **Schnittstellen**
+  * RM ist integraler Teil aller Unternehmens-Aktivitäten
+  * Corporate Risk Management / Report
+  * zu Corporate \(IS\) Governance und Corporate Compliance \(um langfristiger Überlebensfähigkeit sowie innerer und äusserer Regelbefolgung\)
+* **Corporate Governance:** Corporate Governance \(CG\) bezeichnet sämtliche Grundsätze und Regeln, mit deren Hilfe die Strukturen und das Verhalten der obersten Führungskräfte gesteuert und überwacht werden können. \(siehe auch weiter unten\)
+* **Compliance**: Einhaltung von gesetzlichen Vorschriften, Standards und internen Regelungen im Unternehmen \(siehe auch weiter unten\)
+* **ISO 27005:**
+  * Risiko-Management Prozess-Beschreibung
+  * bietet Richtlinien für das Risikomanagement der Informationssicherheit in einer Organisation
+  * Jedoch keine spezifischen Methoden --&gt; Aufgabe der Org. einen geeigneten Ansatz zu definieren
+  * Er beschreibt den Risko-Mangagement Prozess und dessen Aktivitäten; Kontext, Risk-Assessment, Risk-Treatment, Risk-Acceptance, Risk-Communication, Risk-Monitoring&-Review
 
-### Indikatoren / Kennzahlen:
-
-* **vorlaufend:**
-  * Alle zwei Wochen Ergebnisse der Abklärungen, Massnahmen und Verbesserungen an den regulä- ren Geschäftsleitungssitzungen und vierteljährlich vor dem Verwaltungsrat berichten;
-  * Anzahl beseitigter Schwachstellen im Verhältnis zur ermittelten Gesamtzahl von Schwachstellen
-* **nachlaufend:**
-  * Anzahl Kündigungen von Kunden, die aufgrund von Informationssicherheitsproblemen erfolgt sind
-    * Häufigkeit und Dauer der von Kunden reklamierten Betriebsunterbrechungen und Ausfälle.
-
-![](../.gitbook/assets/image%20%28116%29.png)
-
-![](../.gitbook/assets/image%20%28112%29.png)
-
-### Differenzieren der Begriffe
+## Differenzieren der Begriffe
 
 * **Governance**
   * Verlangen einer Informationssicherheitsstrategie durch den Verwaltungsrat;
@@ -48,4 +56,19 @@
 * **Informationssicherheits-Risikomanagement**
   * Aufbau und betreiben des Informationssicherheits-Prozesses als Subprozess des Unternehmens- Risikomanagementprozesses.
   * Beim Informationssicherheits-Risikomanagementprozess werden diejenigen Risiken identifiziert, beurteilt und behandelt, welche die Informationssicherheit \(z.B. Verletzung der Vertraulichkeit, Integrität und Verfügbarkeit von Informationen\) betreffen. Die Informationsrisiken können sowohl in „Gefässen“ der Informationstechnologie \(IT\), als auch in nichttechnologischen „Erscheinungs- formen“ existieren \(z.B. Handnotizen auf Papier.
+
+## Indikatoren / Kennzahlen:
+
+* **vorlaufend:**
+  * Alle zwei Wochen Ergebnisse der Abklärungen, Massnahmen und Verbesserungen an den regulä- ren Geschäftsleitungssitzungen und vierteljährlich vor dem Verwaltungsrat berichten;
+  * Anzahl beseitigter Schwachstellen im Verhältnis zur ermittelten Gesamtzahl von Schwachstellen
+* **nachlaufend:**
+  * Anzahl Kündigungen von Kunden, die aufgrund von Informationssicherheitsproblemen erfolgt sind
+    * Häufigkeit und Dauer der von Kunden reklamierten Betriebsunterbrechungen und Ausfälle.
+
+![](../.gitbook/assets/image%20%28116%29.png)
+
+![](../.gitbook/assets/image%20%28112%29.png)
+
+* \*\*\*\*
 
