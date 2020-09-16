@@ -4,11 +4,13 @@
   * **Nachvollziehen, Analysieren, Beurteilen**
   * Untersuchung durch Unabhängige
   * _Trust but verify_ 
+* Auftraggeber
+  * Verwaltungsrat \(für intern und extern\)
 * Bestätigung von Sachverhalten \(„**Assurance**“ bzw. „re-assurance“ in Verbindung mit dem Internen Kontrollsystem \(IKS\)\) als auch in einschlägiger Beratung \(„**Consulting**“\) in Organisationsfragen 
 * Es gibt Interne / Externe Revision \(siehe Kapitel unten\)
   * Interne Revision ist in der 3rd Line of Defense \(siehe Infografik\)
 * Verifizieren ob Massnahmen korrekt \(**Design Effectiveness - richtig auf Papier\)** und effektiv \(**Operating Effectiveness - in Betrieb\)** implementiert sind und auch funktionieren
-* * / durch unabhängige Stelle \(Frühwarnsystem\)
+* / durch unabhängige Stelle \(Frühwarnsystem\)
 * Soll/Ist-Vergleich - Wie gut sollte und ist das IKS wirklich?
 * Haftet - Haftung des Abschlussprüfers 
 * **Externe Revision in CH obligatorisch** gem. OR Art. 738: Existenz eines IKS zu prüfen & bestätigen
