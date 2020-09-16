@@ -237,3 +237,11 @@ Schutz der Operationen, datenbezogen
 
 
 
+
+
+## SoA /  Statement of Applicability
+
+Statement of Applicability – dokumentierte Erklärung über die relevanten sowie anwendbaren Kontrollziele und Maßnahmen im ISMS der Organisation.
+
+
+
