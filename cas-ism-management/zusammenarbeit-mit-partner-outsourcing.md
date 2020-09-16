@@ -36,7 +36,7 @@
   <thead>
     <tr>
       <th style="text-align:left">Gebiet</th>
-      <th style="text-align:left">Begr&#xFC;dung</th>
+      <th style="text-align:left">Begr&#xFC;ndung</th>
     </tr>
   </thead>
   <tbody>
@@ -105,7 +105,66 @@
 
 ## Risiken
 
+* Entscheidend ist die Güterabwägung zwischen Gründen / Chancen und Risiken / Gefahren
+  * Es gibt **viele gute Gründe** die **für Outsourcing** sprechen
+  * Es gibt **Risiken die ernst genommen werden müssen**
+  * Es gibt **kein Patentrezept**; jeder Outsourcing Entscheid muss individuell analysiert und entschieden werden
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Gebiet</th>
+      <th style="text-align:left">Begr&#xFC;ndung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Management Sicht</td>
+      <td style="text-align:left">
+        <p>&#x2022; Abha&#x308;ngigkeit vom Outsourcing-Anbieter</p>
+        <p>&#x2022; Langfristigkeit der Bindung</p>
+        <p>&#x2022; Allenfalls Beteiligung</p>
+        <p>&#x2022; Wiederaufbau von Know-how nach gescheitertem Outsourcing-Projekt</p>
+        <p>&#x2022; Fehlende Na&#x308;he zum Outsourcing-Anbieter (ra&#x308;umlich,
+          informativ)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Kosten</td>
+      <td style="text-align:left">
+        <p>&#x2022; Hohe Anbahnungskosten (Kosten der Initialisierung, z.B. Vertragsverhandlungen)</p>
+        <p>&#x2022; Hohe Umstellungskosten (Switching-Costs &amp; Lock-in effect)</p>
+        <p>&#x2022; Erho&#x308;hte Kommunikations- und Koordinationskosten</p>
+        <p>&#x2022; Risiken der vertraglichen Preisfixierung (z.B. bei</p>
+        <p>Nichterreichung der Volumen)</p>
+        <p>&#x2022; Verfehlen der erwarteten Kostensenkungen</p>
+        <p>&#x2022; Fehlende Transparenz / Unkontrollierbarkeit der vom Outsourcing-Anbieter
+          verlangten Preise</p>
+        <p>&#x2022; Kontrolle der Preisentwicklung</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Technologie</td>
+      <td style="text-align:left">
+        <p>&#x2022; Starre Bindung an die Technologie des Outsourcing- Anbieters</p>
+        <p>&#x2022; Gefahr einer zu grossen Standardisierung, Verlust der Individualita&#x308;t</p>
+        <p>&#x2022; Problematische Gewa&#x308;hrleistung des Datenschutzes vertraulicher
+          Daten</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Personal</td>
+      <td style="text-align:left">
+        <p>&#x2022; Kulturunterschiede zwischen Outsourcing-Anbieter und -Nehmer</p>
+        <p>&#x2022; Verlust von Schlu&#x308;sselpersonen und deren Know-how</p>
+        <p>&#x2022; Die im Unternehmen verbleibenden Restaufgaben schaffen keine
+          ausreichende Motivation mehr fu&#x308;r das verbleibende Personal</p>
+        <p>&#x2022; Widerstand des Personals gegenu&#x308;ber grundlegenden Vera&#x308;nderungen</p>
+        <p>&#x2022; Personalprobleme in der Umstellungs- und U&#x308;bergangsphase</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
@@ -117,9 +176,10 @@
 
 
 
-### **ITO**
+### **ITO \(IT-Infrastruktur-Outsourcing\)**
 
-* Beim IT-Infrastruktur-Outsourcing übernimmt der Outsourcing- Provider den Betrieb und die Wartung der IT-Systeme seines Kunden. Diese Form wird am häufigsten praktiziert. Die IT-Infrastruktur kann unter anderem folgende Hardware- und Softwarekomponenten umfassen:
+* Beim IT-Infrastruktur-Outsourcing übernimmt der Outsourcing- Provider den Betrieb und die Wartung der IT-Systeme seines Kunden. Diese **Form wird am häufigsten praktiziert.** 
+* Die IT-Infrastruktur kann unter anderem **folgende Hardware- und Softwarekomponenten** umfassen:
   * Netzwerke und deren Komponenten
   * Zentral und dezentral betriebene Server
   * Einzelne Arbeitsstationen wie Desktops, Printer, Scanner, etc.
