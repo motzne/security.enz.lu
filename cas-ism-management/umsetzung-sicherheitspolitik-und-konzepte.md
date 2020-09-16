@@ -15,16 +15,14 @@
 * Thema Klassifizierung / Assessment-Management
 * Abweichungen festlegen: wer darf mit Abweichungen umgehen, unter welchen Umständen
 
-
-
 ## Die Sicherheit wird für die Sicherstellung der Geschäftsprozesse **immer wichtiger**
 
 ![](../.gitbook/assets/image%20%28139%29.png)
 
-## Einflussfaktoren auf ein Security Framework ****
+## Einflussfaktoren auf ein Security Framework _\*\*_
 
 * **Von Aussen**
-  *  Gesetzliche Vorgaben: BAKOM \(Swisscom\), FINMA \(Banken\), etc.
+  * Gesetzliche Vorgaben: BAKOM \(Swisscom\), FINMA \(Banken\), etc.
   * Gesellschaft: Soziale Ungleichgewichte in der Bevölkerung
     * Hintergrund zu Hause, etc. -&gt; Einfluss auf die Arbeitsmethodik, etc.
   * Wirtschaft: Druck aus der Wirtschaft; Lizenzmodell - KMU ist in der Verhandlung mit MS relativ gebunden - Druck irgendwas zu tun
@@ -42,13 +40,11 @@
 * Sourcing
 * Risikobereitschaft ermitteln
 * Trends/Ausrichtungen/Wandel der Anforderungen an die Security beachten
-*  Geschäftsnutzen des Security Management Systems erheben
+* Geschäftsnutzen des Security Management Systems erheben
 
 ### Regulatorische Einflussfaktoren
 
 ![](../.gitbook/assets/image%20%28130%29.png)
-
-
 
 ### Sourcing Sicherheitsleistungen
 
@@ -85,28 +81,14 @@
 * Ist das Thema Klassifizierung festgelegt und sind Assessments definiert? 
 * Ist der Umgang mit Abweichungen festgelegt? 
 * Grundsätzliches:
-
-  - Umfang des Dokumentes
-
-  - Klassifikation des Dokumentes
-
-  - Inhaltliche Zusätze notwendig \(z.B. aufgrund spezieller Unternehmung\)?
-
-  - Zielpublikum: Wer soll das Dokument lesen und verstehen?
-
-  - Erarbeitung: Wer soll alles an dem Dokument mitarbeiten?
-
-  - Genehmigungsunterschrift auf dem Dokument?
-
-
+  * Umfang des Dokumentes
+  * Klassifikation des Dokumentes
+  * Inhaltliche Zusätze notwendig \(z.B. aufgrund spezieller Unternehmung\)?
+  * Zielpublikum: Wer soll das Dokument lesen und verstehen?
+  * Erarbeitung: Wer soll alles an dem Dokument mitarbeiten?
+  * Genehmigungsunterschrift auf dem Dokument?
 
 ## Internes Kontrollsystem \(IKS\) - Definition \(Folie 14\)
 
 ![](../.gitbook/assets/image006.png)
-
-
-
-
-
-
 

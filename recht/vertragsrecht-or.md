@@ -2,9 +2,9 @@
 
 ## Voraussetzungen
 
-### Vertragsfähigkeit 
+### Vertragsfähigkeit
 
-Vertragsfähig = Handlungsfähig ZGB 13 := Urteilsfähig ZGB 16 + Mündig ZGB 14 
+Vertragsfähig = Handlungsfähig ZGB 13 := Urteilsfähig ZGB 16 + Mündig ZGB 14
 
 * **Urteilsfähigkeit**: Fähigkeit die Auswirkungen einer Handlung zu erkennen \(situativ\) 
 * **Mündigkeit**: wer 18 Lebensjahr vollendet hat und nicht bevormundet ist 
@@ -17,9 +17,9 @@ Vertragsfähig = Handlungsfähig ZGB 13 := Urteilsfähig ZGB 16 + Mündig ZGB 14
   * Prokurist ppa Darf alle Geschäfte im Namen der Unternehmung tätigen, ausgenommen Verkauf oder Belastung von Grundstücken. Eintrag im HR. 
   * VR, Direktor, Geschäftsführer: Darf alles. Eintrag im HR.
 
-### Vertrag 
+### Vertrag
 
-Allgemein gilt Formfreiheit OR 11 
+Allgemein gilt Formfreiheit OR 11
 
 #### Formvorschriften
 
@@ -37,7 +37,7 @@ Allgemein gilt Formfreiheit OR 11
 * **Fax, E-Mail:** formfreie Verträge 
 * **Digitale Signaturen:** momentan formfrei, später einfache Schriftlichkeit
 
-### Vertragsinhalt OR 20 
+### Vertragsinhalt OR 20
 
 * Allgemein Inhaltsfreiheit mit Ausnahme von:
   * Unmöglichen Leistungen
@@ -48,9 +48,9 @@ Allgemein gilt Formfreiheit OR 11
 
 ## Vertragsabschluss OR 1
 
-Konsens 
+Konsens
 
-### Phase 1: Antrag \(Offerte\) 
+### Phase 1: Antrag \(Offerte\)
 
 Anbieter ist gebunden, ausser Vorbehalt, Preislisten, Tarifversand, Kataloge... OR 7 II Auslage der Ware mit Preisschildern sind Anträge -
 
@@ -61,7 +61,7 @@ Anbieter ist gebunden, ausser Vorbehalt, Preislisten, Tarifversand, Kataloge... 
 * Antrag unter Abwesenden OR 5 Erlischt wenn nicht innerhalb der Frist, in welcher eine Antwort erwartet werden kann, akzeptiert wurde \(ca. 7 Tage\) 
 * Ca Preise heisst juristisch +/- 10% 
 
-### Phase 2: Akzept \(Annahme\) 
+### Phase 2: Akzept \(Annahme\)
 
 * Ein mit der Offerte **übereinstimmendes** Akzept 
   * Einteilung Veträge:
@@ -84,11 +84,9 @@ Anbieter ist gebunden, ausser Vorbehalt, Preislisten, Tarifversand, Kataloge... 
     * Abzahlungsverträgen OR 226 c innerhalb 5 Tagen
     * Haustürgeschäften OR 40 a schriftlich innerhalb von 7 Tagen, wenn &gt; 100.-
 
+### AGBs
 
-
-### AGBs 
-
-Wann werden sie Bestandteil des Vertrages? 
+Wann werden sie Bestandteil des Vertrages?
 
 * **Schriftliche Übernahme**: Durch Unterschrift auf AGBs oder unterhalb eines Verweises auf AGBs. 
 * **Stillschweigende Übernahm**e: Bei geschäftserfahrenen Parteien
@@ -97,19 +95,15 @@ Wann werden sie Bestandteil des Vertrages?
 * **Unklarheitsregel**: Unklare Regelungen gehen zu Lasten des AGB-Erstellers 
 * **Ungewöhnlichkeitsregel**: AGB nicht bindend wenn diese ungewöhnliche Regelungen enthalten 
 * **Spez. Abmachungen**: Haben Vorrang vor den AGBs. Motto “Individuelles vor Allgemeinem
-*  **Art. 8 Lauterkeitsgesetz \(UWG\)**
+* **Art. 8 Lauterkeitsgesetz \(UWG\)**
 
   Unlauter handelt, wer allgemeine Geschäftsbedingungen verwendet, die in Treu und Glauben verletzender Weise zum Nachteil der Konsumentinnen und Konsumenten ein erhebliches und ungerechtfertigtes Missverhältnis zwischen den vertraglichen Rechten und den vertraglichen Pflichten vorsehen.
 
-
-
-
-
 ### Letter of Intent, Non-Disclosure und Non-Use-Agreement
 
-*   **Letter of Intent \(LoI\)**
+* **Letter of Intent \(LoI\)**
   * Dt. **Absichtserklärung**
-  *  i.d.R. in Hinblick auf Abschluss eines Hauptvertrages abgeschlossen
+  * i.d.R. in Hinblick auf Abschluss eines Hauptvertrages abgeschlossen
 * **Non-Disclosure Agreement \(NDA\)**
   * Dt. **Geheimhaltungserklärung**
   * Versprechen, Informationen, die die Dritten nicht bekannt sind, gegenüber diesen nicht zu offenbaren
@@ -119,11 +113,7 @@ Wann werden sie Bestandteil des Vertrages?
   * NDA reicht i.d.R. nicht!
   * Verbietet Verpflichtetem nicht nur geheime Informationen Dritten zu offenbaren \(NDA\), sondern auch diese selbst und unautorisiert durch den Eigentümer zu nutzen oder Dritte im Nutzen zu unterstützen.
 
-
-
 ![](../.gitbook/assets/image%20%28167%29.png)
-
-
 
 ### Typisierung von Verträgen in digitalen Projekten
 
@@ -150,8 +140,6 @@ Wann werden sie Bestandteil des Vertrages?
 * Abgrenzung der Verantwortlichkeiten  Mängelhaftung  Haftung
 * Projekt-Controlling  Milestones, Budget
 * weitere siehe Vorlesungsunterlagen
-
-
 
 ## Lizenzvertrag
 
@@ -192,7 +180,7 @@ Wann werden sie Bestandteil des Vertrages?
 
       verzichtet zudem darauf, das Recht selbst zu nutzen.
 
-      - Risiko für Lizenzgeber, wenn Lizenznehmer nicht reüssiert!  Mindestgebühr
+      * Risiko für Lizenzgeber, wenn Lizenznehmer nicht reüssiert!  Mindestgebühr
 * Recht zur Unterlizenzierung
   * Nur gegeben, wenn Lizenzgeber das Recht explizit einräumt.
   * Wenn nichts vereinbart  Zweckübertragungstheorie
@@ -227,7 +215,7 @@ Wann werden sie Bestandteil des Vertrages?
   * Werkvertrag  Arbeiten mit Erfolg, z.B. Entwicklung von Software
 * **Eigenheiten Mietvertrag**
 
-  - Aufrechterhaltung der Gebrauchsfähigkeit des Vertragsgegenstandes \(OR 256\)
+  * Aufrechterhaltung der Gebrauchsfähigkeit des Vertragsgegenstandes \(OR 256\)
 
    abweichende Vereinbarungen nur im Individualvertrag, nicht AGB!
 
@@ -241,12 +229,12 @@ Wann werden sie Bestandteil des Vertrages?
 
   Aufrechterhaltung der vertragsgemässen Nutzung dienen, z.B. neue Funktionen
 
-  - Untermiete grundsätzlich nur mit Zustimmung des Vermieters \(OR 262\) Mieter haftet Vermieter dafür, dass Untermieter Cloud nicht anders
+  * Untermiete grundsätzlich nur mit Zustimmung des Vermieters \(OR 262\) Mieter haftet Vermieter dafür, dass Untermieter Cloud nicht anders
 
   gebraucht, als es ihm selbst gestattet ist.
 
 * **Haftung aus Mietvertrag \(OR 259e\)**
-  * -  Hat der Mieter durch den Mangel Schaden erlitten, so muss ihm der Vermieter dafür Ersatz leisten, wenn er nicht beweist, dass ihn kein Verschulden trifft  Exkulpation  Beweislastumkehr
+  * * Hat der Mieter durch den Mangel Schaden erlitten, so muss ihm der Vermieter dafür Ersatz leisten, wenn er nicht beweist, dass ihn kein Verschulden trifft  Exkulpation  Beweislastumkehr
 * **Checkliste Cloudvertrag** 
   * -&gt; siehe PDF
 
@@ -255,14 +243,9 @@ Wann werden sie Bestandteil des Vertrages?
 * Smart: engl. klug, schlau
 * Smart Contracts sind insofern schlau, als sie sich selbst ausführen bzw. verwalten können  Autonomie  keine Intermediäre
 * Rechtliche Problemfelder
-
-  - Selbstdurchsetzung
-
-  - UnveränderbarkeitBlockchain-Orakel
-
-  - Zeitliche Unbeschränktheit
-
-
+  * Selbstdurchsetzung
+  * UnveränderbarkeitBlockchain-Orakel
+  * Zeitliche Unbeschränktheit
 
 ## Eskalationsverfahren
 
@@ -279,12 +262,6 @@ Wann werden sie Bestandteil des Vertrages?
   * Mediation  unabhängiger Dritter hilft den Parteien bei der Lösungsfindung
   * SchiedsgerichtPrivatgericht
 
-
-
-
-
-
-
 ## Weitere Hilfestellungen
 
 ### Angebot und Annahme
@@ -294,7 +271,7 @@ Wann werden sie Bestandteil des Vertrages?
 
   ganz spontan. In vielen Fällen macht die eine Partei ein Angebot \(Offerte, Art. 3 ff.\). Ist die andere Vertragspartei damit einverstanden, erklärt es, das Angebot anzunehmen \(Akzept\). Damit kommt der Vertrag zustande.
 
-* Befristung von Offerten: 
+* Befristung von Offerten:
 * **Konsens**: gegenseitige übereinstimmende Willensäusserung
 * **Natürlicher Konsens:** Die Parteien haben sich tatsächlich richtig verstanden und der wirkliche
 
@@ -310,8 +287,6 @@ Wann werden sie Bestandteil des Vertrages?
 
   besondere Form ist nur dann erforderlich, wenn dies vom Gesetz ausdrücklich so verlangt wird, z.B. bei der Schenkung \(Art. 243 Abs. 1 OR\) oder Vertrag über Grundstückkauf \(Art. 216 Abs. 1 OR\)
 
-
-
 ![](../.gitbook/assets/image%20%28164%29.png)
 
 ![](../.gitbook/assets/image%20%28165%29.png)
@@ -320,12 +295,8 @@ Wann werden sie Bestandteil des Vertrages?
 
 ![](../.gitbook/assets/image%20%28197%29.png)
 
-
-
-###   ZGB Art. 2: Grundsatz: "Treu und Glaube" - Handbremse / Aspirin der Juristen
+### ZGB Art. 2: Grundsatz: "Treu und Glaube" - Handbremse / Aspirin der Juristen
 
 * Kann immer angewendet werden - auch wenn kein Argument mehr vorhanden ist
 * Und immer hin; es ist ein Artikel aus dem ZGB
-
-
 

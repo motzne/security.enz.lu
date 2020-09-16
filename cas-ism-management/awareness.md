@@ -123,7 +123,6 @@
         <p>&#x2022; Bauunternehmen: z.B. Informationen zu erstellten Bauwerken (Industrieanlagen,
           Tunnel, Kraftwerke)</p>
         <p>&#x2022; Verwaltung, z.B. Informationen &#xFC;ber Unternehmen, Privatpersonen</p>
-        <p></p>
         <p>2. <b>Schulung</b> der Mitarbeitenden</p>
         <p>&#x2022; Fallbeispiele aufzeigen</p>
         <p>&#x2022; Konkrete Abwehrmassnahmen definieren</p>
@@ -150,7 +149,6 @@
 
 ![](../.gitbook/assets/image%20%28115%29.png)
 
-  
 Lateral movement refers to the techniques cyber attackers use to move through a network as they search for the data and assets that are ultimately the target of their attack campaigns.
 
 ## Awareness Kampagne
@@ -279,7 +277,7 @@ Kann durch die folgenden 4 Phasen beschrieben werden:
   * Wettbewerbsresultate 
   * Angriff \(Social Engineering / Phishing Mail\)
 
-###  4. Reporting
+### 4. Reporting
 
 * Gegenüber Auftraggeber
   * Vorgehen
@@ -288,8 +286,6 @@ Kann durch die folgenden 4 Phasen beschrieben werden:
   * Lessons Learned
 * Gegenüber Zielpublikum
   * Erfolgsmeldung
-
-
 
 ## Gruppenarbeit Awareness-Kamapgne
 
@@ -313,6 +309,4 @@ Kann durch die folgenden 4 Phasen beschrieben werden:
   * E-Learning
   * Phishing Reporting \(über Outlook Add-In\)
   * Phishing-Service
-
-
 

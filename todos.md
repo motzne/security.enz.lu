@@ -5,17 +5,11 @@
 * [ ] Revision: Evt. Daniela noch Fragen, wichtigste Punkte?
 * [ ] Themen von IST nach oben schieben, alles an einem sauberen Ort
 
-
-
 ![](.gitbook/assets/image%20%28213%29.png)
 
 ![](.gitbook/assets/image%20%28214%29.png)
 
-
-
-
-
-### Firmenname
+## Firmenname
 
 * 08 - Innovationsschutz
   * Firmenname
@@ -26,9 +20,3 @@
     * Nur Registrar
     * Kein Schutz, First Come First serve
 * 
-
-
-
-
-
-

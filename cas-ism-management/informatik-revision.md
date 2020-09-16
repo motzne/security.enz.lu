@@ -40,13 +40,11 @@
 * das mit einer derartigen Schwachstelle verknüpfte **Risiko belegen**;
 * das Management **bezüglich** der zu implementierenden **Massnahmen beraten**
 * **Erwartungen**
-
   * offene Kommunikation
   * Ehrlichkeit
   * uneingeschränkte Bekanntgabe relevanter Fakten
   * Dokumentation 
   * Nachvollziehbarkeit \(Prüfspur\) -&gt; Nachweis
-
 * **Revisoren sind ...**
   * sind neugierig von Beruf und durch Training
   * wurden ausgebildet, gründlich zu sein
@@ -56,13 +54,7 @@
 
 ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller Aspekte von automatisierten, informationsverarbeitenden Systemen \(oder Teilen davon\) umfasst; inklusive der damit zusammen- hängenden nicht-automatisierten Prozesse und ihrer Schnittstellen.
 
-
-
-
-
 ![](../.gitbook/assets/image%20%28121%29.png)
-
-### 
 
 ### Externe vs. Interne Revision
 
@@ -95,38 +87,17 @@ Typisches Vorgehen gemäss CISA
 
 ![](../.gitbook/assets/image%20%28129%29.png)
 
-  
 **Definition Revision, Verifikation, Beweis**
 
 ![](../.gitbook/assets/image%20%28123%29.png)
 
-
-
 ### **Minimalanforderungen an Dokumentation wichtiger Kontrollen**
 
 ![](../.gitbook/assets/image%20%28120%29.png)
-
-## COBIT 
-
-Control Objectives for Information and Related Technology \(COBIT\)   
-  
-=&gt; Generisches Framework für ein Kontrollsystem innerhalb der IT
-
-Geschichte COBIT wurde ursprünglich \(1996\) vom internationalen Verband der IT-Prüfer \(Information Systems Audit and Control Association, ISACA\) entwickelt. COBIT hat sich von einem Werkzeug für IT-Prüfer \(Auditoren\) zu einem Werkzeug für die Steuerung der IT aus Unternehmenssicht entwickelt und wird unter anderem auch als Modell zur Sicherstellung der Einhaltung gesetzlicher Anforderungen \(Compliance\) eingesetzt. Dies fördert die IT-Industrialisierung.
-
-### Was ist COBIT und was ist es nicht
-
-![](../.gitbook/assets/image%20%28183%29.png)
-
-![](../.gitbook/assets/image%20%28192%29.png)
-
-
 
 ## IKS Takeaways \(von Retos Notizen\)
 
 ![](../.gitbook/assets/image%20%28217%29.png)
 
 ![](../.gitbook/assets/image%20%28218%29.png)
-
-
 
