@@ -2,12 +2,17 @@
 
 ## **Definition & Ziele** 
 
-* Vielzahl von Interpretationen des Begriffes „InternesKontrollsystem“, keine allgemein gültige Definition, jedoch sehr ähnliche Grundstrukturen oder Interpretationsansätze
+* **Vielzahl von Interpretationen des Begriffes** „Internes Kontrollsystem“, keine allgemein gültige Definition, jedoch sehr ähnliche Grundstrukturen oder Interpretationsansätze
 * Das IKS ist ein **Managementinstrument** zur systematischen Sicherstellung der Zielerreichung und umfasst alle dafür planmässig angeordneten **technischen und organisatorischen** Methoden und Massnahmen.
+* Mehr "Overall" oder das grosse Ganze im Vergleich zum ISMS 
+* **Verantwortung**
+  * **Verwaltungsrat** ist verantwortlich, dass ein angemessenes **IKS vorhanden ist**. 
+  * Die **Umsetzung** des IKS liegt **im** Aufgabenbereich des **Managements**.
 * **Regulationen**
   * Vorhanden - siehe Vorlesungsunterlagen
   * Aber keine Legal definition/detaillierte Vorgaben durch den Gesetzgeber
   * Grund: Keine abstrakten IKS-Anforderungen, sondern Ausgestaltung abhängig vom jeweiligen Unternehmen
+  * 
 * **Ziele \(siehe Details unten "Umsetzung"\)**
   * KS muss überprüfbar sein \(Dokumentation, etc.\)
   * muss an Geschäftstätigkeit angepasst sein \(angemessene Controls\)
@@ -178,4 +183,15 @@ Beispiel: Sie möchten den Umsatzerlös in den nächsten 6 Monaten um 15 % steig
 * Es wird überprüft, ob der Umsatzerlös nach einem halben Jahr um 15 % gestiegen ist.
 * Dieser KPI wird monatlich überprüft.
 * Die Visualisierung eines Abgleichs zwischen KPIs und Zielen zeigt Abb. 1.
+
+
+
+## IKS vs. ISMS
+
+* Synergien
+  * 
+* Sinnvolle Verbindung
+  * Ein **ISMS** zielt auf den Schutz der unternehmenseigenen Werte ab, konzentriert sich dabei aber ausschließlich auf die **Informationssicherheit**. 
+  * Das **IKS** richtet den Blick eher auf **„das große Ganze“.**
+* \*\*\*\*
 

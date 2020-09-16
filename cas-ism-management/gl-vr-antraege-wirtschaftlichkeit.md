@@ -195,8 +195,16 @@ Geplanter Einsatz von
     </tr>
     <tr>
       <td style="text-align:left">VR</td>
-      <td style="text-align:left">&#xFC;bergeordnete Verantwortung der Risiken</td>
-      <td style="text-align:left">Massnahmen m&#xF6;glichst g&#xFC;nstig und zwecksm&#xE4;ssig</td>
+      <td style="text-align:left">
+        <ul>
+          <li>&#xFC;bergeordnete Verantwortung der Risiken</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Massnahmen m&#xF6;glichst g&#xFC;nstig und zwecksm&#xE4;ssig</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">GL</td>
@@ -210,6 +218,20 @@ Geplanter Einsatz von
         <ul>
           <li>Effiziente und zuverl&#xE4;ssige IT Services</li>
           <li>Angemessene Priorisierung und Umsetzung derInformationssicherheit</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">CIO</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Sicherstellen &#xDC;bergang von Projekt in Betrieb</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Einhaltung von Budget</li>
+          <li>Projekt Termingerecht fertig</li>
         </ul>
       </td>
     </tr>
@@ -233,6 +255,23 @@ Geplanter Einsatz von
       <td style="text-align:left">
         <ul>
           <li>Sichere Anbindung und Schnittstellen zu den Informationssystemen des Spitals</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Rechtsdienst (DPO)</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Vertr&#xE4;ge pr&#xFC;fen</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Einhaltung von Datenschutzgesetzen (DSG , DSGVO , etc.)</li>
+          <li>Einhaltung von Gesetzen, Vorschriften, Regulatorien und branchen&#xFC;blichen
+            Standards</li>
+          <li>Schutz von personenbezogen Daten; insbesondere der besonders sch&#xFC;tzenswerten
+            Gesundheitsdaten</li>
         </ul>
       </td>
     </tr>

@@ -4,34 +4,81 @@
 
 * die Aufgaben der Revision beschreiben
 * die typischen Revisions- Anforderungen an das IKS kennen
-* sich optimal auf Über- prüfungen \(Revisionen, Audits\) jeglicher Art vorbereiten
+* sich optimal auf Überprüfungen \(Revisionen, Audits\) jeglicher Art vorbereiten
 
-## **Zentrale Aussagen**
 
-**Begriffe**
 
-* **Kontrollen \(Sicherheitsmassnahme\);** sind die Konzepte, Verfahren, Praktiken und Organisationsstrukturen, welche eine angemessene Gewissheit verschaffen, dass die Geschäfts- ziele erreicht werden und dass unerwünschte Ereignisse verhindert oder erkannt und korrigiert werden
-  * .…ist eine Massnahme, welche ein Risiko modifiziert.
-* **IKS \(Management-System\);** inkl. Massnahmen-Paket für die Gesamtheit aller im Unternehmen angewandten Massnahmen für um den Fortbestand der Unternehmung sicherzustellen
-* **Kontrollziel \(Sicherheitsanforderung\);** ist eine Aussage zum gewünschten Resultat \(Zweck\), das mit der Implementierung von Kontrollen in einer bestimmten Aktivität erreicht werden soll.
-* Scope: Umfang, Geltungs- oder Abdeckungsbereich \(bspw. Service / Prozess / Organisation \(F. 82\)
-* **Revision:** Prüfung = systematische Verifikation von Beweismitteln; Verifizieren ob Massnahmen korrekt \(**Design Effectiveness - richtig auf Papier\)** und effektiv \(**Operating Effectiveness - sind Sie implementiert und funktionieren Sie auch\) i**mplementiert sind
-  * Trust but verify / durch unabhängige Stelle \(Frühwarnsystem\)
-  * Soll/Ist-Vergleich - Wie gut sollte und ist das IKS wirklich?
-  * Haftet - Haftung des Abschlussprüfers ****
-  * **Externe Revision in CH obligatorisch** gem. OR Art. 738: Existenz eines IKS zu prüfen & bestätigen \(nicht aber deren Wirksamkeit\)
-  * Revisor \(sollten\) ethischen Grundsätzen folgen \(Charta\)
-* Zertifizierungs-Audit ISO27001 \(für ein ISMS\)
+* **Durchführung unabhängiger Prüfung**
+* Bestätigung von Sachverhalten \(„**Assurance**“ bzw. „re-assurance“ in Verbindung mit dem Internen Kontrollsystem \(IKS\)\) als auch in einschlägiger Beratung \(„**Consulting**“\) in Organisationsfragen 
+* Es gibt Interne / Externe Revision \(siehe Kapitel unten\)
+  * Interne Revision ist in der 3rd Line of Defense \(siehe Infografik\)
+* Verifizieren ob Massnahmen korrekt \(**Design Effectiveness - richtig auf Papier\)** und effektiv \(**Operating Effectiveness - in Betrieb\)** implementiert sind und auch funktionieren
+* * Trust but verify / durch unabhängige Stelle \(Frühwarnsystem\)
+* Soll/Ist-Vergleich - Wie gut sollte und ist das IKS wirklich?
+* Haftet - Haftung des Abschlussprüfers 
+* **Externe Revision in CH obligatorisch** gem. OR Art. 738: Existenz eines IKS zu prüfen & bestätigen
+
+## **Zentrale Übersicht**
+
+![](../.gitbook/assets/revision_iks_3linesofdefense.png)
+
+Erklärungen zur Grafik
+
+* **ORANGE**
+  * 3 Lines of Defense
+    1. Management, Operative Kontrollen
+    2. Risikomangement, Compliance, IT Security
+    3. Interne Revision
+* **ROT**
+  * Risk **Ownership**: Risiken ist direkt im Prozess durch das operative Management zu begegnen,
+  * Risk **Control**: Kontrolle und Unterstützung der Risikosteuerungs­maßnahmen durch Risikomanagementfunktionen,
+  * Risk **Assurance**: Überwachung und Prüfung des Risiko­managementsystems, so dass der Aufsichtsrat seine Entscheidungen auf unabhängige und damit verlässliche Informationen abstützen kann.
+* **GRÜN**
+  * Aufgaben des Risikomanagements im Ordnungsrahmen
+* **VIOLETT**
+  * Risiko sollte je tiefer die Linie immer mehr abnehmen
+* **SONSTIGES**
+  * Abschlussprüfer \(Bspw. Externe Revision\)
+    * kann bei kleiner Firmen auch die Funktion der internen Revision übernehmen
+  * Regulierungsbehörde \(Bspw. FINMA, Bund\)
+
+## **Allgemeines**
+
+### **Begriffe**
+
+* **Kontrollen \(Sicherheitsmassnahme\);** 
+  * sind die Konzepte, Verfahren, Praktiken und Organisationsstrukturen, welche eine angemessene Gewissheit verschaffen, dass die Geschäfts- ziele erreicht werden und dass unerwünschte Ereignisse verhindert oder erkannt und korrigiert werden
+    * .…ist eine Massnahme, welche ein Risiko modifiziert.
+    * =&gt; **Wichtiges Hauptziel: Risiken minimieren**
+* **IKS \(ist ein Management-System\);** 
+  * inkl. Massnahmen-Paket für die Gesamtheit aller im Unternehmen angewandten Massnahmen  um den Fortbestand der Unternehmung sicherzustellen
+  * "Overall" oder das grosse Ganze
+* **Kontrollziel \(Sicherheitsanforderung\)**
+  * ist eine Aussage zum gewünschten Resultat \(Zweck\), das mit der Implementierung von Kontrollen in einer bestimmten Aktivität erreicht werden soll.
+* **Scope**
+  * Umfang, Geltungs- oder Abdeckungsbereich \(bspw. Service / Prozess / Organisation \(F. 8
+* **Prüfung**
+  * systematische Verifikation von Beweismitteln;
+* **Zertifizierungs-Audit ISO27001** \(für ein ISMS\)
   * Zertifiziert wird nur ein bestimmter Teil \(==&gt; Scope\) - zentral: Compliance; Einhaltung der Vorschriften
   * SOA - Statement of Applicability; Definition welcher der 114 Kontrollen wirklich angewendet werden
   * Stage 1 \(Voraudit\) und Stage 2 Audit \(Zertifizierung\)
+* **Revisoren ...**
+  * sind neugierig von Beruf und durch Training
+  * wurden ausgebildet, gründlich zu sein
+  * \(sollten\) ethischen Grundsätzen folgen \(Charta\)
+  * Wenn Sie etwas ändern wollen, sind die Revisoren Ihre besten Freunde !
 
-**Frameworks** \(siehe IKS Frameworks\)
+### **Frameworks** \(siehe IKS Frameworks\)
 
 * COSO: Organisation, welche Revisionen "unterstützt" \(Ethisches Handel / Wirksamkeit\)
-* Cobit: Generisches Framework für ein Kontrollsystem innerhalb der IT \(Siehe unten\)
+* Cobit: Generisches Framework für ein Kontrollsystem innerhalb der IT
 
-**Organigram**
+### **Organigramm**
+
+* unabhängig agierende Stabsstelle für organisationsinterne Prüfungen und einschlägige Beratertätigkeit.
+* Unabhängigkeit ist sehr wichtig
+* Direkter Draht zum VR, Bsp. GL macht ein Seich
 
 ![Bsp. Organigramm WIR-Bank 2016](../.gitbook/assets/image%20%28222%29.png)
 
@@ -42,20 +89,20 @@
 * identifizieren, **wo** in diesen Kontrollen signifikante **Schwachstellen bestehen;**
 * das mit einer derartigen Schwachstelle verknüpfte **Risiko belegen**;
 * das Management **bezüglich** der zu implementierenden **Massnahmen beraten**
-* **Erwartungen**
-  * offene Kommunikation
-  * Ehrlichkeit
-  * uneingeschränkte Bekanntgabe relevanter Fakten
-  * Dokumentation 
-  * Nachvollziehbarkeit \(Prüfspur\) -&gt; Nachweis
-* **Vorbereitung \(Revision / Audits\) jeglicher Art vorbereiten** 
-  * siehe auch Erwartungen
-  * Transparenz
-  * Kontrolle die bei mir implementiert sind kennen
-* **Revisoren sind ...**
-  * sind neugierig von Beruf und durch Training
-  * wurden ausgebildet, gründlich zu sein
-* **Wenn Sie etwas ändern wollen, sind die Revisoren Ihre besten Freunde !**
+
+## **Erwartungen der Revision an die Zusammenarbeit**
+
+Um sich optimal auf eine Überprüfung \(Revision/Audit\) jeglicher Art vorzubereiten, ergeben sich folgende Punkte wichtig:
+
+* Transparenz
+* Kontrollen die bei mir implementiert sind kennen
+* offene Kommunikation
+* Ehrlichkeit
+* uneingeschränkte Bekanntgabe relevanter Fakten
+* Dokumentation 
+* Nachvollziehbarkeit \(Prüfspur\) -&gt; Nachweis
+
+## Revisions**typen**
 
 ### **Informatikrevision**
 
@@ -76,15 +123,15 @@ ist definiert als jede Revision, welche die Überprüfung und Beurteilung aller 
 
 **Interne Revision**
 
-* “freiwillig” \(Bankengesetz, ...\) u \(in der Regel\) im Auftrag des
+* “**freiwillig**” \(Bankengesetz, ...\) und \(in der Regel\) im Auftrag des VR
 * Unterstützung des Verwaltungsrates
 * Überprüfung Geschäftsleitung
 * breites Tätigkeitsfeld
 
 ### Unterschied Audit / Revision
 
-* Audit = externe Firma, die das Audit mache
-* Interne Revision = braucht es von gesetztes wegen. Machen aber auch Adits
+* Audit = externe Firma, die das Audit macht
+* Interne Revision = braucht es von gesetztes wegen. Machen aber auch Audits
 
 ## Prüfungen
 
