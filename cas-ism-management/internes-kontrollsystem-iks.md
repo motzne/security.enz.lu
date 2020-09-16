@@ -152,6 +152,8 @@ Geschichte COBIT wurde ursprünglich \(1996\) vom internationalen Verband der IT
 
 ![](../.gitbook/assets/image%20%28125%29.png)
 
+## Raster nach ISO 27004
+
 ![](../.gitbook/assets/image%20%28141%29.png)
 
 ### KPI erstellen
