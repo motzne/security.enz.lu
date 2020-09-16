@@ -1,13 +1,41 @@
 # Umsetzung Sicherheitspolitik und Konzepte
 
+**IS / ICT Security Policy:** Als oberstes Objekt \(siehe Folie 38-40\). Dabei sollen die folgende Punkte \(**fett** markiert\) herausgehen:
+
+* **Sehr zentral ist der Wille der GL** - soll im Dokument festgehalten werden
+* Definition von Sicherheits-Ziele: Was will genau erreicht werden, für welche Assets
+* **Awareness** verankern: Wichtig, dass die Konzernleitung ein zentraler Punkt ist und die Schulung der MA zentral ist
+* Verankerungen von **Rahmenbedingungen**: Wesentliche Gesetzlichen-Grundlagen, Policy der Unternehmen \(Code of practise\) =&gt; wichtig zum Fokussieren der Ziele
+* **Geltungsbereich** der Policy: Wie weit soll sie reichen
+* **Schutzobjekte** festlegen: Aggregierte Ebene wo definiert ist, was zu den zentralen Schutzobjekten / Werte gilt
+  * Vier fünf zentralsten Punkte erwähnen
+* Verhältnismässigkeit / Wirtschaftlichkeit: Chancen-Risiko-Mgmt
+  * Auch zu überlegen, ob Risiken eingegangen werden, um evtl. an einem anderen Ort eine Change zu ermöglichen - nahe am Risk-Management
+* **Verantwortlichkeiten**: Die wesentlichen Rollen sollen geregelt werden
+* Thema Klassifizierung / Assessment-Management
+* Abweichungen festlegen: wer darf mit Abweichungen umgehen, unter welchen Umständen
+
+
+
 ## Die Sicherheit wird für die Sicherstellung der Geschäftsprozesse **immer wichtiger**
 
 ![](../.gitbook/assets/image%20%28139%29.png)
 
 ## Einflussfaktoren auf ein Security Framework ****
 
-* Von Aussen
-* Von Innen
+* **Von Aussen**
+  *  Gesetzliche Vorgaben: BAKOM \(Swisscom\), FINMA \(Banken\), etc.
+  * Gesellschaft: Soziale Ungleichgewichte in der Bevölkerung
+    * Hintergrund zu Hause, etc. -&gt; Einfluss auf die Arbeitsmethodik, etc.
+  * Wirtschaft: Druck aus der Wirtschaft; Lizenzmodell - KMU ist in der Verhandlung mit MS relativ gebunden - Druck irgendwas zu tun
+  * Kunde \(Wirtschaftlich / Gesellschaftlich\): Wie aktuell mit der Pandemie; grosser Einfluss auf die Unternehmung
+* **Von Innen**
+  * Akzeptanz der Mitarbeiter gegenüber Policy / Vorgaben
+  * Geschäftsprozesse und dessen Abhängigkeiten
+  * Unternehmensstrategien & Divisions-Strategie
+  * Wirkung auf Partner und Töchter
+    * Zukauf von Firmen
+    * Tochter unabhängig gest
 * Regulatorische Einflussfaktoren
 * Internes Kontrollsystem
 * Markt- und Technolgieumfeld \(Trends im Business, Auswirkungen auf ICT Security\)
@@ -72,9 +100,9 @@
 
 
 
+## Internes Kontrollsystem \(IKS\) - Definition \(Folie 14\)
 
-
-
+![](../.gitbook/assets/image006.png)
 
 
 
