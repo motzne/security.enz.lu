@@ -4,6 +4,10 @@
     --sidebar-width: 22rem;
 }
 
+#table-of-contents {
+    display: none;
+}
+
 .sidebar-nav>h2>a>span {
     display: block;
     margin: var(--sidebar-nav-strong-margin);
