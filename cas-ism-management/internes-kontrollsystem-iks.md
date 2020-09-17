@@ -278,7 +278,7 @@ Grundsätzlich kann der Ablauf für Konzeption, Basisschulungen und Implementier
 
 ![](../.gitbook/assets/image%20%28141%29.png)
 
-![](../.gitbook/assets/image%20%28230%29.png)
+![](../.gitbook/assets/image%20%28232%29.png)
 
 ### KPI erstellen
 

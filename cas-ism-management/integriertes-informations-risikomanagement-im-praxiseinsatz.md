@@ -70,5 +70,13 @@
 
 ![](../.gitbook/assets/image%20%28112%29.png)
 
-* \*\*\*\*
+## Beispiele von KPI \(Key Peformance Indikatoren\)
+
+* Kennzahlen Capacity Management
+* Kennzahlen Availability Management
+* Kennzahlen Information Security Management
+
+![](../.gitbook/assets/image%20%28230%29.png)
+
+![](../.gitbook/assets/image%20%28231%29.png)
 
