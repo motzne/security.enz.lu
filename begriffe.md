@@ -215,23 +215,25 @@ Schutz der Operationen, datenbezogen
 
 ## Governance vs. Corporate Governance vs. IT Governance vs. IS Governance vs. Compliance
 
-* Governance:
+* **Governance**:
   * Zusammengefasst: Führung und Kontrolle
   * Verbreiteter Begriff, jedoch nicht offiziell definiert
   * _Alle Regeln_
-* Corporate Governance
+* **Corporate Governance**
   * deutsch: Grundsätze der Unternehmensführung
   * Corporate Governance ist das System von **Regeln**, **Praktiken** und **Prozessen**, durch das ein Unternehmen geleitet und kontrolliert wird
+  * Code of Conduct \(Geschenkli annehmen\)
   * Corporate Governance ≠ Management
-* IT Governance
+* **IT Governance**
   * _Governance im Bezug auf IT_
   * Eingebettet in Corporate Governance \(siehe Grafik unten\)
   * Informationsverarbeitende und -lagernde \(technischen oder nicht-technischen\) Systeme, die die Schutzziele Vertraulichkeit, Verfügbarkeit und Integrität sicherstellen
-* IS Security Governance
+* **Information Security Governance**
   * Nicht nur in IT , sondern auch noch Teil in Corporate Governance \(z.B. Papierakten\) - geht darüber hinaus \(sieh Grafik unten\)
   * Führung, Organisationsstrukturen und Prozesse zur Sicherstellung der Unterstützung der Unternehmensstrategie und -ziele in Bezug auf Information Security
-* Compliance
+* **Compliance**
   * Effektives Implementieren, Umsetzen der definierten internen und externen Richtlinien, wie wird es explizit umgesetzt
+  * Mit Gesetz compliant sein
 
 ![](.gitbook/assets/image%20%28132%29.png)
 
