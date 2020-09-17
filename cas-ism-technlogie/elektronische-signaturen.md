@@ -20,13 +20,13 @@
 
 ## **Gesetze, Verordnungen und technische Vorschriften**
 
-* Bundesgesetz über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(ZertES\)**
+* **Bundesgesetz** über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(ZertES\)**
   * Art. 6 Anforderungen an die Signaturherstellungseinheiten
   * Art. 7 Anforderungen an alle geregelten Zertifikate
   * Art. 8 Zusätzliche Anforderungen an qualifizierte Zertifikate
   * Art. 9 Anforderungen an die Aussteller geregelter Zertifikaten
   * Art. 17 & Art. 18 - Haftung der Anbieterin von Zertifizierungsdiensten
-* Verordnung über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(VZertES\)**
+* **Verordnung** über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(VZertES\)**
   * Art. 5 Ausstellung geregelter Zertifikate
   * Art. 7 Befreiung von der Pflicht des persönlichen Erscheinens --&gt; Online
 * Technische und administrative Vorschriften über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(TAV\)**
@@ -92,7 +92,8 @@
 
 Schlussfolgerung:
 
-* Dort wo die eigenhändige Unterschrift gefordert wird, muss eine qualifizierte elektronische Signatur auf der Basis eines qualifizierten Zertifikats einer anerkannten Anbieterin von Zertifizierungsdiensten gesetzt werden.
+* **!!! Nur qualifizierte elektronische Signaturen, die mit einem qualifizierten Zeitstempel verbunden sind, sind der eigenhändigen Unterschrift gleichgestellt \(Art. 14 Abs. 2bis OR\).** 
+* Insbesondere muss diese von einer **anerkannten Anbieterin von Zertifizierungsdiensten ausgestellt** worden sein.
 * In den übrigen Fällen können sich die Vertragsparteien auf das zu verwendende Zertifikat einigen \(«fortgeschrittenes Zertifikat»1\) oder sonst ein Zertifikat\).
 * In der Regel werden «fortgeschrittene Zertifikate» verwendet, wenn keine qualifizierten Zertifikate notwendig sind \(sie sind je nach Herausgeber günstiger, bieten auch ein hohes Mass an Sicherheit und können in den verschiedensten Bereichen angewendet werden\)
 

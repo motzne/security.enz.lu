@@ -7,11 +7,13 @@ SOC  = Security Operations Center
 SIEM = Security Information and Event Management
 
 * Begriffe sind nicht 100% klar definiert
-* Gruppe von IT Sicherheitsspezialisten, die Ihre Organisation bei Aufklärung und Auflösung von IT Sicherheitsvorfälle unterstützen
+* Recht im Internet grundsätzlich analog der realen Welt - Durchsetzung aber schwierig
+* Der Internet-Untergrund ist eine dienstleistungsorientierte Marktwirtschaft
 * **CERT**
+  * * Eine **Gruppe von IT Sicherheitsspezialisten**, die bei Organisationen bei der Aufklärung von Auflösung von IT Sicherheitsvorfällen unterstützen
   * Definiton in Organigramm
-  * Kompetenzen festhalten
-  * Abgrenzung: 
+  * **Kompetenzen des CERTS festhalten**
+  * **Abgrenzung**: 
     * Was macht das unternehmen selber?
     * Was wird als Service eingekauft \(Bspw. SOC bei Swisscom\)
     * Was sind andere Partner \(govCERT, SWITCH\) und wie ist das Zusammenspiel?
@@ -45,7 +47,24 @@ SIEM = Security Information and Event Management
 *  **Lessons Learned**
   * Nach Vorfall: Was ist schief gelaufen? Wie kann man es in Zukunft besser machen?
 
-### Tätigkeitsfelder
+## Kernaussagen
+
+* Spionage ist nach wie vor nicht verboten
+  * es gibt einzelne Verbote
+  * Telefonie aus Botschaften nach Hause
+* Grenzen zwischen Akteuren verschwimmen \(non state actor, state actor\) 
+  * - patriotische Machenschaften
+* FIRST als Organisation für CERTs \(weltweit\)
+* CERT Netzwerk - Grenzüberschreitende Koordination, da Hacks nicht vom Nachbar kommen
+* Ressourcen: Am Ende
+
+ 
+
+
+
+
+
+## Tätigkeitsfelder CERT / PSIRT
 
 | CERT  Computer Emergency Response Team Services | PSIRT  Product Security Incident Response Team Services |
 | :--- | :--- |
@@ -106,6 +125,8 @@ Teil des Incident Managements ist das Incident Handling
 ![](../.gitbook/assets/image%20%28194%29.png)
 
 ## GFCE 5 Step Plan
+
+GFCE = Global Forum on Cyber Expertise
 
 1. Strategie
 2. Charta und Business plan
