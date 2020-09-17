@@ -272,9 +272,13 @@ Grundsätzlich kann der Ablauf für Konzeption, Basisschulungen und Implementier
 
 ![](../.gitbook/assets/image%20%28125%29.png)
 
-## Raster nach ISO 27004 \(Anhang B\)
+## Raster nach ISO 27004 
+
+-&gt; siehe ISO 2004 / Anhang B / Seite 19
 
 ![](../.gitbook/assets/image%20%28141%29.png)
+
+![](../.gitbook/assets/image%20%28230%29.png)
 
 ### KPI erstellen
 
@@ -298,6 +302,10 @@ Beispiel: Sie möchten den Umsatzerlös in den nächsten 6 Monaten um 15 % steig
 * Es wird überprüft, ob der Umsatzerlös nach einem halben Jahr um 15 % gestiegen ist.
 * Dieser KPI wird monatlich überprüft.
 * Die Visualisierung eines Abgleichs zwischen KPIs und Zielen zeigt Abb. 1.
+
+
+
+
 
 
 
