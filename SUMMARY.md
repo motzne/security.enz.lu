@@ -20,6 +20,12 @@
 
 ## Recht
 
+* [Urheberrechtsgesetz \(URG\)](recht/urheberrechtsgesetz-urg.md)
+* [Datenschutzgesetz \(DSG\)](recht/datenschutzgesetz-dsg.md)
+* [Vertragsrecht \(OR\)](recht/vertragsrecht-or.md)
+* [Strafgesetzbuch \(StGB\)](recht/strafgesetzbuch-stgb.md)
+* [Corporate Governance](recht/corporate-governance.md)
+* [Liability / Haftung in digitalen Projekten](recht/haftung-in-digitalen-projekten.md)
 * [Zusammenfassung IS-T](recht/zusammenfassung.md)
 * [Mindmap Digilaw](recht/mindmap-digilaw/README.md)
   * [04 Veträge in digitalen Projekten](recht/mindmap-digilaw/04-vetraege-in-digitalen-projekten.md)
@@ -27,12 +33,6 @@
   * [09 Haftung in digitalen Projekten](recht/mindmap-digilaw/09-haftung-in-digitalen-projekten.md)
   * [10 Digital Crimes](recht/mindmap-digilaw/10-digital-crimes.md)
   * [11 Dispute Resolution und der Rechtsdurchsetzung](recht/mindmap-digilaw/11-dispute-resolution-und-der-rechtsdurchsetzung.md)
-* [Urheberrechtsgesetz \(URG\)](recht/urheberrechtsgesetz-urg.md)
-* [Datenschutzgesetz \(DSG\)](recht/datenschutzgesetz-dsg.md)
-* [Strafgesetzbuch \(StGB\)](recht/strafgesetzbuch-stgb.md)
-* [Vertragsrecht \(OR\)](recht/vertragsrecht-or.md)
-* [Corporate Governance](recht/corporate-governance.md)
-* [Liability / Haftung in digitalen Projekten](recht/haftung-in-digitalen-projekten.md)
 * [Weitere Gesetzestexte](recht/gesetzestexte.md)
 
 ## CAS-ISM: Technologie <a id="cas-ism-technlogie"></a>
