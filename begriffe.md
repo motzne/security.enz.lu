@@ -1,7 +1,5 @@
 # Begriffe
 
-![](.gitbook/assets/image%20%28113%29.png)
-
 <table>
   <thead>
     <tr>
@@ -106,6 +104,8 @@
     </tr>
   </tbody>
 </table>
+
+![](.gitbook/assets/image%20%28113%29.png)
 
 ## Information
 
