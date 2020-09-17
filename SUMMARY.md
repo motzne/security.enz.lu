@@ -18,6 +18,13 @@
 * [Business Continuity Management](cas-ism-management/business-continuity-management.md)
 * [Zusammenarbeit mit Partner / Outsourcing](cas-ism-management/zusammenarbeit-mit-partner-outsourcing.md)
 
+## CAS-ISM: Technologie <a id="cas-ism-technlogie"></a>
+
+* [Identity and Access Management](cas-ism-technlogie/identity-and-access-management.md)
+* [CERTs in Theorie und Praxis](cas-ism-technlogie/certs-in-theorie-und-praxis.md)
+* [Endpoint-Security](cas-ism-technlogie/endpoint-security-1.md)
+* [Elektronische Signaturen](cas-ism-technlogie/elektronische-signaturen.md)
+
 ## Recht
 
 * [Urheberrechtsgesetz \(URG\)](recht/urheberrechtsgesetz-urg.md)
@@ -34,13 +41,6 @@
   * [10 Digital Crimes](recht/mindmap-digilaw/10-digital-crimes.md)
   * [11 Dispute Resolution und der Rechtsdurchsetzung](recht/mindmap-digilaw/11-dispute-resolution-und-der-rechtsdurchsetzung.md)
 * [Weitere Gesetzestexte](recht/gesetzestexte.md)
-
-## CAS-ISM: Technologie <a id="cas-ism-technlogie"></a>
-
-* [Identity and Access Management](cas-ism-technlogie/identity-and-access-management.md)
-* [CERTs in Theorie und Praxis](cas-ism-technlogie/certs-in-theorie-und-praxis.md)
-* [Endpoint-Security](cas-ism-technlogie/endpoint-security-1.md)
-* [Elektronische Signaturen](cas-ism-technlogie/elektronische-signaturen.md)
 
 ## CAS-IST: Management
 
