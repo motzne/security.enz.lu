@@ -146,7 +146,6 @@ Geplanter Einsatz von
   * Projektkosten / Gestehungskosten
   * Laufende Gesamt-Kosten Kosten / Nutzen-Betrachtung
 * **Kosten / Nutzen-Betrachtung**
-  * **Projektnutzen**
   * **Projektnutzen – laufende Gesamtkosten = „Projekt-Gewinn“**
 
 ![](../.gitbook/assets/image%20%28146%29.png)
