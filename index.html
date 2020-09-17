@@ -29,7 +29,7 @@
     <script>
       window.$docsify = {
         name: "security.enz.lu",
-        repo: "",
+        repo: "motzne/security.enz.lu",
         maxLevel: 3,
         loadSidebar: "SUMMARY.md",
         toc: {
@@ -37,6 +37,17 @@
           headings: "h2, h3, h4",
           title: " ",
         },
+        search: {
+          maxAge: 86400000, // Expiration time, the default one day
+          paths: "auto",
+          placeholder: "Search...",
+          noData: "No Results!",
+          // Headline depth, 1 - 6
+          depth: 6,
+          hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        },
+        auto2top: true,
+        depth: 4,
       };
     </script>
     <!--- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
