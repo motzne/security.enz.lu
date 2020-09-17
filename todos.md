@@ -1,9 +1,5 @@
 # Todo's
 
-* [ ] Begriffe: Corporate Governance / IT Governance  / Compliance nochmals anschauen
-* [ ] Recht: Antworten Masi einordnen
-* [ ] Revision: Kapitel 2 + 3 nochmals lesen
-
 
 
 ![](.gitbook/assets/image%20%28213%29.png)
