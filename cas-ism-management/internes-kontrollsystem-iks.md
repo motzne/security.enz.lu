@@ -272,7 +272,7 @@ Grundsätzlich kann der Ablauf für Konzeption, Basisschulungen und Implementier
 
 ![](../.gitbook/assets/image%20%28125%29.png)
 
-## Raster nach ISO 27004
+## Raster nach ISO 27004 \(Anhang B\)
 
 ![](../.gitbook/assets/image%20%28141%29.png)
 
