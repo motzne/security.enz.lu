@@ -17,7 +17,7 @@
 | [Kryptologie](themenuebersicht.md#t-kryptologie-josef-schuler) | [Josef Schuler](themenuebersicht.md#t-kryptologie-josef-schuler) | T |
 | [Rechtsaspekte für Systemverantwortliche](themenuebersicht.md#r-rechtsaspekte-fuer-systemverantwortliche-ursula-uttinger) | [Ursula Uttinger](themenuebersicht.md#r-rechtsaspekte-fuer-systemverantwortliche-ursula-uttinger) | R |
 | [Network Defence](themenuebersicht.md#t-network-defence-peter-infanger) | [Peter Infanger](themenuebersicht.md#t-network-defence-peter-infanger) | T |
-| [Physische Sicherheit / Grundlagen Brandschutz](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md) | [Markus Spinnler](cas-ist-technologie/physische-sicherheit-grundlagen-brandschutz.md) | T |
+| [Physische Sicherheit / Grundlagen Brandschutz](cas-ism-management/physische-sicherheit-grundlagen-brandschutz.md) | [Markus Spinnler](cas-ism-management/physische-sicherheit-grundlagen-brandschutz.md) | T |
 | ~~IT-Sicherheitsarchitektur~~ | ~~Markus Pfister~~ | ~~T~~ |
 | ~~Awareness - Theorie~~ | ~~Carlos Rieder~~ | M |
 
