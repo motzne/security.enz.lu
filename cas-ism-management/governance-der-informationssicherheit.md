@@ -93,7 +93,7 @@ Extern Faktoren:
 
 Intern:
 
-* Firmenstategie
+* Firmenstrategie
 * Organisation
 * Prozesse
 * Personen
