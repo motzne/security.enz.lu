@@ -2,6 +2,8 @@
 
 
 
+
+
 * Uber-Case: Juristisch Interessant: Maschine und nicht mehr der Mensch. Verschuldungshaftung nimmt ab, Produktehaftung wird höher. System hat ein Mangel
 
 ## Allgemeines zur Haftung
@@ -197,4 +199,12 @@ Risiko = Eintretenswahrscheinlichkeit \* mögliches Schadenausmass
 ## Gesetzesartikel
 
 ![](../.gitbook/assets/image%20%28172%29.png)
+
+
+
+
+
+## Postauto-Fall \(von Guido\)
+
+![](../.gitbook/assets/download.jpeg)
 
