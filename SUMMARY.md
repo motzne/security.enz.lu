@@ -4,6 +4,11 @@
 * [Begriffe](begriffe.md)
 * [Todo's](todos.md)
 
+## CAS-ISA: Technologie
+
+* [Admin / TODO](cas-isa-technologie/admin-todo.md)
+* [Security Intelligence](cas-isa-technologie/security-intelligence.md)
+
 ## CAS-ISM: Mgmt <a id="cas-ism-management"></a>
 
 * [Planung, Aufbau und Betrieb eines ISMS](cas-ism-management/planung-aufbau-und-betrieb-eines-isms.md)
