@@ -62,7 +62,16 @@
 * Art. 24 URG: Sicherungskopie
 * Art. 29 URG: **Schutzdauer** von 50 Jahren
 
-### Immaterialgüterrechtlicher Schutz von Software
+## Immaterialgüterrecht
+
+Vier Punkte
+
+1. Immaterialgüterrecht an sich \(Marke, Patent, Urheberrecht, Design\)
+2. Schutzvoraussetzungen 
+3. Registrierung \(alle, ausser URG\)
+4. Schutzdauer
+
+## Immaterialgüterrechtlicher Schutz von Software
 
 * In Europa grundsätzlich kein Patent auf reine Software
 * Patentierbar ist jedoch in Hardware implementierte Software  «Schall und Rauch»  z.B. Antiblockiersystem \(ABS\)
@@ -80,7 +89,7 @@
 * Auch eine originelle Kombination von an sich banalen Algorithmen kann urheberrechtlichen Schutz geniessen \(Sammelwerk \)
 * Subsidiär auch lauterkeitsrechtliche Softwareschutz \(UWG 5\)
 
-### Immaterialgüterrecht im Arbeitsverhältnis
+## Immaterialgüterrecht im Arbeitsverhältnis
 
 * Wem gehören Immaterialgüterrechte, die im Arbeitsverhältnis entstehen?
   * Generell
@@ -93,4 +102,6 @@
 * Interoperabilität von Software  Entschlüsselung  URG 21
 
 ![](../.gitbook/assets/image%20%28216%29.png)
+
+![](../.gitbook/assets/image%20%28240%29.png)
 
