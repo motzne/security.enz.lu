@@ -6,7 +6,6 @@
 
 ## CAS-ISA: Technologie
 
-* [Admin / TODO](cas-isa-technologie/admin-todo.md)
 * [🔴 Security Intelligence](cas-isa-technologie/security-intelligence.md)
 * [🔴 Sicherheit industrieller Anlagen und kritischer Infrastrukturen](cas-isa-technologie/sicherheit-industrieller-anlagen-und-kritischer-infrastrukturen.md)
 * [🔴 Web Application Security Advanced](cas-isa-technologie/web-application-security-advanced.md)
