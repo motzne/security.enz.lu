@@ -239,7 +239,7 @@ Dazu gehören:
     * Wird in einem Arbeitsverhältnis **bei Ausübung dienstlicher Tätigkeiten** sowie **in Erfüllung vertraglicher Pflichten** ein Computerprogramm geschaffen, so ist der Arbeitgeber oder die Arbeitgeberin allein zur Ausübung der ausschliesslichen Verwendungsbefugnisse berechtigt.
 * Interoperabilität von Software  Entschlüsselung  URG 21
 
-### On Shoes Case
+### On Shoe Case
 
 ![](../.gitbook/assets/image%20%28216%29.png)
 
