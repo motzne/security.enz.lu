@@ -1,0 +1,2 @@
+# 🔴 Juristischer Softwareschutz \(Urheberrecht\)
+

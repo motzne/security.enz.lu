@@ -1,4 +1,4 @@
-# Security Intelligence
+# 🔴 Security Intelligence
 
 SOC  = Security Operations Center  
 SIEM = Security Information and Event Management  

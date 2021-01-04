@@ -7,7 +7,29 @@
 ## CAS-ISA: Technologie
 
 * [Admin / TODO](cas-isa-technologie/admin-todo.md)
-* [Security Intelligence](cas-isa-technologie/security-intelligence.md)
+* [🔴 Security Intelligence](cas-isa-technologie/security-intelligence.md)
+* [🔴 Sicherheit industrieller Anlagen und kritischer Infrastrukturen](cas-isa-technologie/sicherheit-industrieller-anlagen-und-kritischer-infrastrukturen.md)
+* [🔴 Web Application Security Advanced](cas-isa-technologie/web-application-security-advanced.md)
+* [🔴 Digital Forensics & eDiscovery](cas-isa-technologie/digital-forensics-and-ediscovery.md)
+* [🔴 Internet of Things](cas-isa-technologie/internet-of-things.md)
+* [🔴 Cloud Security](cas-isa-technologie/cloud-security.md)
+* [Cloud Security: Labor](cas-isa-technologie/cloud-security-labor.md)
+* [IT-Security Lab](cas-isa-technologie/it-security-lab.md)
+
+## CAS-ISA: Management
+
+* [🔴 Cultural Diversity](cas-isa-management/cultural-diversity.md)
+* [🔴 Cyber Security Framework \(NIST\)](cas-isa-management/cyber-security-framework-nist.md)
+* [🔴 Forensic Readiness](cas-isa-management/forensic-readiness.md)
+* [🔴 Cyber-Defence der Schweiz und der Armee](cas-isa-management/cyber-defence-der-schweiz-und-der-armee.md)
+* [🔴 Informationsmanagement in der Information Security](cas-isa-management/informationsmanagement-in-der-information-security.md)
+
+## CAS-ISA: Recht
+
+* [🔴 Records Management / Archivierung](cas-isa-recht/records-management-archivierung.md)
+* [🔴 Juristischer Softwareschutz \(Urheberrecht\)](cas-isa-recht/juristischer-softwareschutz-urheberrecht.md)
+* [Urheberrechtsgesetz \(URG\)](cas-isa-recht/urheberrechtsgesetz-urg.md)
+* [🔴 Beweisbarkeit / Strafrechtliche Aspekte der IT-Forensik](cas-isa-recht/beweisbarkeit-strafrechtliche-aspekte-der-it-forensik.md)
 
 ## CAS-ISM: Mgmt <a id="cas-ism-management"></a>
 
@@ -32,7 +54,6 @@
 
 ## Recht
 
-* [Urheberrechtsgesetz \(URG\)](recht/urheberrechtsgesetz-urg.md)
 * [Datenschutzgesetz \(DSG\)](recht/datenschutzgesetz-dsg.md)
 * [Vertragsrecht \(OR\)](recht/vertragsrecht-or.md)
 * [Strafgesetzbuch \(StGB\)](recht/strafgesetzbuch-stgb.md)
