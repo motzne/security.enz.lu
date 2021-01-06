@@ -24,7 +24,7 @@
 
 ## CAS-ISA: Recht
 
-* [🔴 Records Management / Archivierung](cas-isa-recht/records-management-archivierung.md)
+* [Records Management / Archivierung](cas-isa-recht/records-management-archivierung.md)
 * [🔴 Juristischer Softwareschutz \(Urheberrecht\)](cas-isa-recht/juristischer-softwareschutz-urheberrecht.md)
 * [Urheberrechtsgesetz \(URG\)](cas-isa-recht/urheberrechtsgesetz-urg.md)
 * [🔴 Beweisbarkeit / Strafrechtliche Aspekte der IT-Forensik](cas-isa-recht/beweisbarkeit-strafrechtliche-aspekte-der-it-forensik.md)
