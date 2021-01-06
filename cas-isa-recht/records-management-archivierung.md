@@ -14,7 +14,7 @@ Siehe Anhang der
 
 Siehe Anhang
 
-![](../.gitbook/assets/image%20%28268%29.png)
+![](../.gitbook/assets/image%20%28270%29.png)
 
 ![](../.gitbook/assets/image%20%28264%29.png)
 
@@ -184,17 +184,17 @@ Siehe Anhang
     * Nicht abstreitbarkeit des **Versands**
       * kann der Versand nachgewiesen werden?
 
-![](../.gitbook/assets/image%20%28266%29.png)
+![](../.gitbook/assets/image%20%28267%29.png)
 
 ###  Generierung und Übermittlung E-Rechnung
 
-![](../.gitbook/assets/image%20%28267%29.png)
+![](../.gitbook/assets/image%20%28269%29.png)
 
 
 
 ### Empfang einer E-Rechnung
 
-![](../.gitbook/assets/image%20%28265%29.png)
+![](../.gitbook/assets/image%20%28266%29.png)
 
 * Beim Empfang einer E-Rechnung muss geprüft werden
   * mit einer gültigen Signatur versehen
@@ -230,7 +230,7 @@ Siehe Anhang
   * 716 OR 
   * 716a OR
 
-![](../.gitbook/assets/image%20%28269%29.png)
+![](../.gitbook/assets/image%20%28271%29.png)
 
 
 

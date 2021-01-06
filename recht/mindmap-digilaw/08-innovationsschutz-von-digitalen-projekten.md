@@ -1,6 +1,6 @@
 # 08 Innovationsschutz von digitalen Projekten
 
-## Die Idee
+## Die Zündende Idee
 
 * Vier Immaterialgüterrecht
   * Marke
@@ -16,10 +16,20 @@
 * möglichst alle vier Immaterialgüterrecht
 * Rechte sind _"Sand im Getriebe"_ der Konkurrenz
 
-## Innovationsschutz
+## Innovationsschutz = Investitionsschutz
 
 * ist Investitionsschutz
 * Der Schutz von geistigem Eigentum ist eben ein Investitionsschutz für Unternehmen
+
+## Immaterialgüterrecht ist Wirtschaftsfaktor 
+
+* 30,7 Prozent bzw. 1,3 Millionen der Stellen in der Schweiz werden direkt durch schutzrechtsintensive Wirtschaftszweige geschaffen
+* Beitrag dieser Branchen ans Bruttoinlandprodukt \(BIP\) der Schweiz beträgt 41,3%
+  * Markenschutz: 34.4 %
+  * Patentschutz: 21.1 %
+  * Designschutz: 19.6 %
+  * Urheberrechtsschutz: 6.5 % **=&gt; Software**
+  * Übrige: 18.4 % → Sortenschutz, geografische Angaben =&gt; Basler Läckerli, Wilisauer Ringli
 
 ## Urheberrecht
 
