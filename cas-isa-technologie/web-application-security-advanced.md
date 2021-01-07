@@ -1,4 +1,4 @@
-# 🔴 Web Application Security Advanced
+# Web Application Security Advanced
 
 ![](../.gitbook/assets/image%20%28287%29.png)
 

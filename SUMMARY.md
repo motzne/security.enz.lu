@@ -8,7 +8,7 @@
 
 * [Security Intelligence](cas-isa-technologie/security-intelligence.md)
 * [Sicherheit industrieller Anlagen und kritischer Infrastrukturen](cas-isa-technologie/sicherheit-industrieller-anlagen-und-kritischer-infrastrukturen.md)
-* [🔴 Web Application Security Advanced](cas-isa-technologie/web-application-security-advanced.md)
+* [Web Application Security Advanced](cas-isa-technologie/web-application-security-advanced.md)
 * [🔴 Digital Forensics & eDiscovery](cas-isa-technologie/digital-forensics-and-ediscovery.md)
 * [🔴 Internet of Things](cas-isa-technologie/internet-of-things.md)
 * [🔴 Cloud Security](cas-isa-technologie/cloud-security.md)
