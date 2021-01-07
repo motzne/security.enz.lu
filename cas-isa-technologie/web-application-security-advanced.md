@@ -149,7 +149,7 @@
 
 ## SOP \(Same Origin Policy\)
 
-![](../.gitbook/assets/image%20%28310%29.png)
+![](../.gitbook/assets/image%20%28311%29.png)
 
 * Essentielles Sicherheitsfeature vom Browser
 * Separiert Ressourcen von verschiedenen Origins
@@ -182,9 +182,9 @@
 
 ## CORS \(Cross Origin Resource Sharing\)
 
-![](../.gitbook/assets/image%20%28316%29.png)
+![](../.gitbook/assets/image%20%28317%29.png)
 
-![](../.gitbook/assets/image%20%28314%29.png)
+![](../.gitbook/assets/image%20%28316%29.png)
 
 
 
@@ -310,7 +310,7 @@ default-src 'none'; object-src 'self'; media-src 'self' https://unblu.cloud; con
 
 ## SameSite
 
-![](../.gitbook/assets/image%20%28312%29.png)
+![](../.gitbook/assets/image%20%28313%29.png)
 
 * = Schutz vor Request Forgery
 * verhindert das Browser Cookie mitsendet, wenn Request von Drittseite initiert wird
@@ -380,13 +380,34 @@ Types of shells
 
 ![Bind Shell](../.gitbook/assets/image%20%28279%29.png)
 
-![Reverse Shell](../.gitbook/assets/image%20%28319%29.png)
+![Reverse Shell](../.gitbook/assets/image%20%28320%29.png)
 
-## JSON Hijacking
+## JSON Hijacking \(JSONP\)
 
 ![](../.gitbook/assets/image%20%28304%29.png)
 
+![](../.gitbook/assets/image%20%28309%29.png)
+
+* **JSONP** = JavaScript Object Notation with **Padding**
+
+  * Technique used to circumvent the Same-Origin Policy when transferring data with AJAX across
+
+    different domains
+
+  * Browsers do not enforce SOP on the HTML &lt;script&gt; tag
+  * Padding refers to characters around the JSON payload, e.g.
+    * `callback({employees: [{“firstName”: “John”, “lastName”: “Doe”}, ...]})`
+
+  \`\`
+
+* **Mitigation**
+  * Use Anti XSRF-Tokens
+  * Begin the JSON-Response with an infinite loop:
+  * DO NOT USE JSONP!
+
+## Cyber Chef 
+
+{% embed url="https://gchq.github.io/CyberChef/" %}
 
 
-## Cyber Chef \(CORS\)
 

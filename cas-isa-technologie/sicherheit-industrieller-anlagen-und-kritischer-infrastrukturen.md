@@ -76,7 +76,7 @@ Architektur
 
 ![](../.gitbook/assets/image%20%28291%29.png)
 
-![Controller in der Prozessautomatisierung](../.gitbook/assets/image%20%28320%29.png)
+![Controller in der Prozessautomatisierung](../.gitbook/assets/image%20%28321%29.png)
 
 
 
@@ -190,9 +190,9 @@ Architektur
   </tbody>
 </table>
 
-![Unterschiede Priorit&#xE4;ten](../.gitbook/assets/image%20%28318%29.png)
+![Unterschiede Priorit&#xE4;ten](../.gitbook/assets/image%20%28319%29.png)
 
-![Target Security Level bestimmt verbleibendes Risiko](../.gitbook/assets/image%20%28311%29.png)
+![Target Security Level bestimmt verbleibendes Risiko](../.gitbook/assets/image%20%28312%29.png)
 
 ## Cyber Security in kritischen Infrastrukturen
 
@@ -424,7 +424,7 @@ Architektur
 
 ![ISO/IEC 62443](../.gitbook/assets/image%20%28306%29.png)
 
-![ISO/IEC 62443 &#x2013; 7 Hauptrichtlinien](../.gitbook/assets/image%20%28317%29.png)
+![ISO/IEC 62443 &#x2013; 7 Hauptrichtlinien](../.gitbook/assets/image%20%28318%29.png)
 
 #### Umsetzung von ISO/IEC 62443 
 
@@ -554,7 +554,7 @@ Architektur
 
 ## Geräte Assessments \(Beispiel/Gruppenarbeit\)
 
-![](../.gitbook/assets/image%20%28309%29.png)
+![](../.gitbook/assets/image%20%28310%29.png)
 
 ## Data Privacy als neue Herausforderung im industriellen Umfeld - Wohin geht der Trend?
 
