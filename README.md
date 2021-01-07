@@ -2,10 +2,11 @@
 
 ## Information Security
 
-Dies ist eine persönliche Themensammlung und Zusammenfassung des behandelten Stoffs im Bereich IT Security der Studiengänge:
+Dies ist eine persönliche Themensammlung und Zusammenfassung des behandelten Stoffs im Bereich Information und Cyber Security der Studiengänge:
 
 * [CAS Information Security Technology der Hochschule Luzern](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-technology/).  
 * [CAS Information Security Management der Hochschule Luzern.  ](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-management/)
+* [CAS Information Security Advanced der Hochschule Luzern.  ](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-advanced/)
 
 ### Author
 
@@ -13,7 +14,7 @@ Tom Enz, [tomenz.ch](https://tomenz.ch) - Lucerne, Switzerland
 
 ### Credits
 
-Gewisser Inhalt, Grafiken und Screenshots stammen aus Vorlesungsunterlagen der Hochschule Luzern Informatik und ihrer Dozenten.
+Inhalt, Grafiken und Screenshots stammen aus Vorlesungsunterlagen der Hochschule Luzern Informatik, ihrer Dozenten und wurden mit persönlichen Notizen/Kommentaren ergänzt.
 
 ### Lokale Installation
 
@@ -24,7 +25,7 @@ Dieses Dokument wurde Hauptsächlich mit der Online-Lösung [GitBook](https://gi
 * Gitbash \(Windows\) / Terminal \(macOS\) 
 
 ```bash
-npm i docsify-cli -g  # Use sudo on macOS
+npm i -g docsify-cli  # Use sudo on macOS
 git clone https://github.com/motzne/security.enz.lu.git
 cd security.enz.lu
 docsify serve .
