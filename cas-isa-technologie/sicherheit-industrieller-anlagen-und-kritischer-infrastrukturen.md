@@ -1,4 +1,4 @@
-# 🔴 Sicherheit industrieller Anlagen und kritischer Infrastrukturen
+# Sicherheit industrieller Anlagen und kritischer Infrastrukturen
 
 ## IT Aspekte von kritischen Infrastrukturen
 
