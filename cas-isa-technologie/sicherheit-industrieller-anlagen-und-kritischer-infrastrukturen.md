@@ -66,17 +66,17 @@
   </tbody>
 </table>
 
-![](../.gitbook/assets/image%20%28287%29.png)
+![](../.gitbook/assets/image%20%28288%29.png)
 
 Architektur
 
-![Purdue Enterprise Reference Architecture \(PERA\)](../.gitbook/assets/image%20%28284%29.png)
+![Purdue Enterprise Reference Architecture \(PERA\)](../.gitbook/assets/image%20%28285%29.png)
 
-![Purduemodell / Schichten-Modell](../.gitbook/assets/image%20%28292%29.png)
+![Purduemodell / Schichten-Modell](../.gitbook/assets/image%20%28294%29.png)
 
-![](../.gitbook/assets/image%20%28286%29.png)
+![](../.gitbook/assets/image%20%28287%29.png)
 
-![Controller in der Prozessautomatisierung](../.gitbook/assets/image%20%28310%29.png)
+![Controller in der Prozessautomatisierung](../.gitbook/assets/image%20%28313%29.png)
 
 
 
@@ -190,15 +190,15 @@ Architektur
   </tbody>
 </table>
 
-![Unterschiede Priorit&#xE4;ten](../.gitbook/assets/image%20%28309%29.png)
+![Unterschiede Priorit&#xE4;ten](../.gitbook/assets/image%20%28312%29.png)
 
-![Target Security Level bestimmt verbleibendes Risiko](../.gitbook/assets/image%20%28303%29.png)
+![Target Security Level bestimmt verbleibendes Risiko](../.gitbook/assets/image%20%28305%29.png)
 
 ## Cyber Security in kritischen Infrastrukturen
 
 ### Puzzle-Teile
 
-![](../.gitbook/assets/image%20%28300%29.png)
+![](../.gitbook/assets/image%20%28302%29.png)
 
 <table>
   <thead>
@@ -420,11 +420,11 @@ Architektur
 
 ![](../.gitbook/assets/image%20%28277%29.png)
 
-![](../.gitbook/assets/image%20%28285%29.png)
+![](../.gitbook/assets/image%20%28286%29.png)
 
-![ISO/IEC 62443](../.gitbook/assets/image%20%28298%29.png)
+![ISO/IEC 62443](../.gitbook/assets/image%20%28300%29.png)
 
-![ISO/IEC 62443 &#x2013; 7 Hauptrichtlinien](../.gitbook/assets/image%20%28308%29.png)
+![ISO/IEC 62443 &#x2013; 7 Hauptrichtlinien](../.gitbook/assets/image%20%28311%29.png)
 
 #### Umsetzung von ISO/IEC 62443 
 
@@ -457,7 +457,7 @@ Architektur
 
 ### Forschungsgebiete
 
-![](../.gitbook/assets/image%20%28288%29.png)
+![](../.gitbook/assets/image%20%28289%29.png)
 
 ![](../.gitbook/assets/image%20%28273%29.png)
 
@@ -477,7 +477,7 @@ Architektur
 
 ### SDH Kommunikationsnnetzwerke
 
-![](../.gitbook/assets/image%20%28295%29.png)
+![](../.gitbook/assets/image%20%28297%29.png)
 
 #### Mögliche Angriffstechniken auf SDH Glasfaser
 
@@ -554,7 +554,7 @@ Architektur
 
 ## Geräte Assessments \(Beispiel/Gruppenarbeit\)
 
-![](../.gitbook/assets/image%20%28301%29.png)
+![](../.gitbook/assets/image%20%28303%29.png)
 
 ## Data Privacy als neue Herausforderung im industriellen Umfeld - Wohin geht der Trend?
 
@@ -570,7 +570,7 @@ Architektur
 * Viele interessante Ansätze um Vertraulichkeit ohne FHE zu garantieren
   * CryptDB, Monomi...
 
-![](../.gitbook/assets/image%20%28294%29.png)
+![](../.gitbook/assets/image%20%28296%29.png)
 
 ## Block Chains in der Industrie
 

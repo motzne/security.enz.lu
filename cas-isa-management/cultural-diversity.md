@@ -7,11 +7,11 @@
   * be always **prepared**: the best way to persuade the Swiss is to always have the facts to support your point of view.
 * Es gibt nicht "DIE" Kultur.. sondern verschiedene
 
-![](../.gitbook/assets/image%20%28293%29.png)
+![](../.gitbook/assets/image%20%28295%29.png)
 
 
 
-![The iceberg model. Culture is just like it. \(Visible / Not Visible\)](../.gitbook/assets/image%20%28297%29.png)
+![The iceberg model. Culture is just like it. \(Visible / Not Visible\)](../.gitbook/assets/image%20%28299%29.png)
 
 ## 7 Dimensionen
 
@@ -96,5 +96,5 @@
 
 Areas to improve your cultural competence
 
-![Areas to improve your cultural competence](../.gitbook/assets/image%20%28289%29.png)
+![Areas to improve your cultural competence](../.gitbook/assets/image%20%28290%29.png)
 

@@ -4,7 +4,7 @@
 
 ## OWASP Top 10
 
-![](../.gitbook/assets/image%20%28291%29.png)
+![](../.gitbook/assets/image%20%28293%29.png)
 
 <table>
   <thead>
@@ -33,7 +33,7 @@
         von Fehlermeldungen</td>
       <td style="text-align:left">
         <ul>
-          <li>TLS, Kerberos, Client Certs,</li>
+          <li>TLS, Kerberos, Client Certs</li>
           <li>Fehlermeldungen &#xAB;anonymisieren&#xBB;</li>
         </ul>
       </td>
@@ -149,31 +149,82 @@
 
 ## SOP \(Same Origin Policy\)
 
-![](../.gitbook/assets/image%20%28302%29.png)
+![](../.gitbook/assets/image%20%28304%29.png)
 
-* 3 Kriterien
-  * HOST \(www.hslu.ch\)
-  * PROTO \(http / https\)
-  * PORT \(443\)
-* 
+* Essentielles Sicherheitsfeature vom Browser
+* Separiert Ressourcen von verschiedenen Origins
+* Exceptions:
+  * Cookies \(Port + Schema ignoriert\)
+    * =&gt;  Lösung: Secure cookie flag!
+  * Web Sockets
 
+### **3 Kriterien \(Origin Determination Rule\)**
+
+* HOST \(www.hslu.ch\)
+* PROTOCOL \(http / https\)
+* PORT \(443\)
+
+![](../.gitbook/assets/image%20%28284%29.png)
+
+### **Best Practices / Lösung**
+
+* To load 3rd party data don‘t use the &lt;script src="..."&gt; tag
+* **Host** third-party scripts by **yourself** or **trust the source**
+* **Separate** critical / non-critical applications **into different subdomains**
+  *  E.g. http://app1.mybank.com / http://app2.mybank.com
+* Use mechanisms like **CORS to bypass** the Same Origin Policy in a controlled way
+
+
+
+![](../.gitbook/assets/image%20%28309%29.png)
+
+![](../.gitbook/assets/image%20%28292%29.png)
 
 ## CORS \(Cross Origin Resource Sharing\)
 
-![](../.gitbook/assets/image%20%28307%29.png)
+![](../.gitbook/assets/image%20%28310%29.png)
 
-![](../.gitbook/assets/image%20%28306%29.png)
+![](../.gitbook/assets/image%20%28308%29.png)
 
 
 
+* CORS ist ein Mechanismus um die SOP zu “bypassen” 
 * Websockets sind nicht CORS unterstellt!! 
 * -ACAO HTTP Response Header = `Access-Control-Allow-Origin`
 * **Mitigation** = Das sicherste ist nicht setzen, daher auf der WAF bie Response Actions nicht drin. Access Control Allow Origin Policy
 * OPTIONS-Request = Policy mit Preflight-Request holen
-* Cookies = `Access-Control-Allow-Credentials`: true \(Policy on Top um Cookies auzulesen\)
+* Cookies = `Access-Control-Allow-Credentials`: true \(Policy on Top um Cookies auszulesen\)
 * Es gibt die Server die Access Control Allow Origin reflektieren
+* **CORS Attack Scenarios \(mit &lt;reflected origin&gt;\)**
+  * Stealing Data
+  * CSRF the easy way
+
+### HTTP Response Header Möglichkeiten
+
+```bash
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Origin: https://www.bar.com
+
+# CORS directives that confirm all requested violations
+Access-Control-Allow-Methods: POST, GET, OPTIONS 
+Access-Control-Allow-Headers: X-COMPASS, content-type 
+
+# How long the preflight request may be cached in seconds (here 24 hours)
+Access-Control-Max-Age: 86400
+
+# The server allows access to this resource with credentials, so the browser will make the response available to the calling script
+Access-Control-Allow-Credentials: true
+```
+
+### Flowchart Simple vs. Preflight Request
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Flowchart_showing_Simple_and_Preflight_XHR.svg)
 
 
+
+### CORS einschalten
+
+{% embed url="https://enable-cors.org/server.html" %}
 
 ## CSP \(Content Security Policy\)
 
@@ -214,7 +265,7 @@ default-src 'none'; object-src 'self'; media-src 'self' https://unblu.cloud; con
 
 ## SameSite
 
-![](../.gitbook/assets/image%20%28304%29.png)
+![](../.gitbook/assets/image%20%28306%29.png)
 
 * = Schutz vor Request Forgery
 * verhindert das Browser Cookie mitsendet, wenn Request von Drittseite initiert wird
@@ -227,7 +278,7 @@ default-src 'none'; object-src 'self'; media-src 'self' https://unblu.cloud; con
 
 ## JSON Hijacking
 
-![](../.gitbook/assets/image%20%28296%29.png)
+![](../.gitbook/assets/image%20%28298%29.png)
 
 
 
