@@ -1,10 +1,10 @@
 # 🔴 Web Application Security Advanced
 
-![](../.gitbook/assets/image%20%28283%29.png)
+![](../.gitbook/assets/image%20%28287%29.png)
 
 ## OWASP Top 10
 
-![](../.gitbook/assets/image%20%28293%29.png)
+![](../.gitbook/assets/image%20%28299%29.png)
 
 <table>
   <thead>
@@ -149,7 +149,7 @@
 
 ## SOP \(Same Origin Policy\)
 
-![](../.gitbook/assets/image%20%28304%29.png)
+![](../.gitbook/assets/image%20%28310%29.png)
 
 * Essentielles Sicherheitsfeature vom Browser
 * Separiert Ressourcen von verschiedenen Origins
@@ -164,7 +164,7 @@
 * PROTOCOL \(http / https\)
 * PORT \(443\)
 
-![](../.gitbook/assets/image%20%28284%29.png)
+![](../.gitbook/assets/image%20%28288%29.png)
 
 ### **Best Practices / Lösung**
 
@@ -176,15 +176,15 @@
 
 
 
-![](../.gitbook/assets/image%20%28309%29.png)
+![](../.gitbook/assets/image%20%28315%29.png)
 
-![](../.gitbook/assets/image%20%28292%29.png)
+![](../.gitbook/assets/image%20%28298%29.png)
 
 ## CORS \(Cross Origin Resource Sharing\)
 
-![](../.gitbook/assets/image%20%28310%29.png)
+![](../.gitbook/assets/image%20%28316%29.png)
 
-![](../.gitbook/assets/image%20%28308%29.png)
+![](../.gitbook/assets/image%20%28314%29.png)
 
 
 
@@ -228,57 +228,165 @@ Access-Control-Allow-Credentials: true
 
 ## CSP \(Content Security Policy\)
 
-![](../.gitbook/assets/image%20%28276%29.png)
+![](../.gitbook/assets/image%20%28278%29.png)
 
-![](../.gitbook/assets/image%20%28274%29.png)
+![](../.gitbook/assets/image%20%28275%29.png)
 
-* = Browser Firewall
-* HTTP Response Header = `Content-Security-Policy`
-* Einstellungen:
-  * Default
-  * Script
-  * Style
-  * Image
-  * Font
-  * Connect
-  * Media
-  * Object
-  * Frame
-  * Report
+* = **Browser Firewall**
+* Allows granular control over which resources can or can’t be included from which origin
+* **Security Advantages of CSP**
+  * **Prevents XSS** and “Clickjacking” by **controlling** the domains **from which Javascript can be loaded**, blocking the ability for exploits to force the loading of malicious Javascript
+  * **Prevents link injection**
+  * **Prevents** XSS by controlling domains from which the browser is allowed to **load images, CSS and more ...**
+* 2 Varianten um den Browser zu informieren:
+  * HTTP Response Header = `Content-Security-Policy`
+  * HTML Tag = `<meta http-equiv="Content-Security-Policy">`
+  * asda
 
+### CSP setzen
+
+#### Einstellungsmöglichkeiten:
+
+* Default \(default-src\) 
+* Script \(JavaScript inclusion\)
+* Style
+* Image
+* Font
+* Connect \(XMLHttpRequests \(AJAX\) requests, Web Sockets and EventSources\)
+* Media \(sources of audio and video \(e.g. &lt;audio&gt; or &lt;video&gt;\)
+* Object
+* Frame
+* Report
+
+#### Format:
+
+```bash
+script-src <source> <source> <source> ...;
+```
+
+Possible &lt;source&gt; values are:
+
+|  |  |
+| :--- | :--- |
+| Host / IP | ~~`http://*.example.com, mail.example.com:443, https://80.133.7.2`~~ |
+| Schema | `http:, https:, data:, mediastream:, blob:, filesystem:` |
+| 'self': | Allows inclusion from the website’s own origin \(according to SOP\) |
+| 'unsafe-inline': | Allows inline resources, such as inline `<script>` elements |
+| 'unsafe-eval' | Allows the use of `eval()` and similar "text-to-Javascript" methods |
+| 'none' | 'none': |
+| Nonce: | Cryptographic nonce \(number used once\) associated with a specific script |
+| Hash | Hash computed over the content of a specific script |
+
+{% code title="Beispiele" %}
 ```bash
 Content-Security-Policy: default-src 'self'; img-src *; object-src media1.example.com media2.example.com *.cdn.example.com; script-src trustedscripts.example.com
 
 # Beispiel www.lukb.ch
 default-src 'none'; object-src 'self'; media-src 'self' https://unblu.cloud; connect-src 'self' https://unblu.cloud wss://unblu.cloud https://hlg.tokbox.com https://anvil.opentok.com https://config.opentok.com https://api-enterprise.opentok.com wss://*.tokbox.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://maps.googleapis.com https://www.google-analytics.com https://tagmanager.google.com https://www.googletagmanager.com https://optimize.google.com https://connect.facebook.net/en_US/fbevents.js https://unblu.cloud https://static.opentok.com; frame-src 'self' https://bid.g.doubleclick.net https://www.wuestpartner.com https://nubes.simplex.tv https://mw.weaver.ch https://optimize.google.com; style-src 'self' 'unsafe-inline' blob: https://fonts.googleapis.com https://tagmanager.google.com https://www.googletagmanager.com https://optimize.google.com https://unblu.cloud; img-src 'self' data: https://www.google.com https://www.google.com/ads/ga-audiences https://www.google.ch/ads/ga-audiences https://stats.g.doubleclick.net https://www.google-analytics.com https://khms0.googleapis.com https://khms1.googleapis.com https://www.yourmoney.ch https://tagmanager.google.com https://www.googletagmanager.com https://maps.googleapis.com https://maps.gstatic.com https://optimize.google.com https://googleads.g.doubleclick.net https://unblu.cloud; font-src 'self' data: https://fonts.googleapis.com https://fonts.gstatic.com https://unblu.cloud;
 ```
+{% endcode %}
+
+### CSP Reporting
+
+* CSP supports a reporting directive for debugging and monitoring
+
+![](../.gitbook/assets/image%20%28293%29.png)
+
+![](../.gitbook/assets/image%20%28282%29.png)
 
 
 
 ### CSP Generator
 
-![](../.gitbook/assets/image%20%28282%29.png)
+![](../.gitbook/assets/image%20%28286%29.png)
 
 {% embed url="https://www.cspisawesome.com/" %}
+
+### CSP Evaluator
+
+{% embed url="https://csp-evaluator.withgoogle.com/" %}
 
 
 
 ## SameSite
 
-![](../.gitbook/assets/image%20%28306%29.png)
+![](../.gitbook/assets/image%20%28312%29.png)
 
 * = Schutz vor Request Forgery
 * verhindert das Browser Cookie mitsendet, wenn Request von Drittseite initiert wird
-* 
-## Cyber Chef \(CORS\)
+* The main goal is mitigate the risk of cross-origin information leakage.
+* Mögliche Werte:
+  * Strict
+  * LAX
 
-## Reverse Shell 
+```bash
+Set-Cookie: jsessionid=asdiifiwiaifiai; secure; HttpOnly, SameSite=Strict
+Set-Cookie: jsessionid=asdiifiwiaifiai; secure; HttpOnly, SameSite=Lax
+```
 
+### Strict vs. LAX
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Value</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Strict</td>
+      <td style="text-align:left">
+        <p>The strict value will prevent the cookie from being sent by the browser
+          to the target site in all cross-site browsing context, even when following
+          a regular link. For example, for a GitHub-like website this would mean
+          that if a logged-in user follows a link to a private GitHub project posted
+          on a corporate discussion forum or email, GitHub will not receive the session
+          cookie and the user will not be able to access the project.</p>
+        <p>A bank website however most likely doesn&apos;t want to allow any transactional
+          pages to be linked from external sites so the strict flag would be most
+          appropriate here.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Lax</td>
+      <td style="text-align:left">The default lax value provides a reasonable balance between security and
+        usability for websites that want to maintain user&apos;s logged-in session
+        after the user arrives from an external link. In the above GitHub scenario,
+        the session cookie would be allowed when following a regular link from
+        an external website while blocking it in CSRF-prone request methods (e.g.
+        POST).</td>
+    </tr>
+  </tbody>
+</table>
+
+![](../.gitbook/assets/image%20%28273%29.png)
+
+## 
+
+## Reverse Shell  / Remote Code Execution
+
+* RCE = Remote Code Execution
+* Ability to trigger arbitrary code execution over a network.
+* **How to get RCE?**
+  * Command Injection
+  * File Upload \(Upload a PHP file to a webserver\)
+  * SQL Injections can sometimes be used to get RCE
+  * Buffer Overflow \(write own instructions into the process memory and execute it\)
+
+Types of shells
+
+![Web Shell](../.gitbook/assets/image%20%28295%29.png)
+
+![Bind Shell](../.gitbook/assets/image%20%28279%29.png)
+
+![Reverse Shell](../.gitbook/assets/image%20%28319%29.png)
 
 ## JSON Hijacking
 
-![](../.gitbook/assets/image%20%28298%29.png)
+![](../.gitbook/assets/image%20%28304%29.png)
 
 
+
+## Cyber Chef \(CORS\)
 
