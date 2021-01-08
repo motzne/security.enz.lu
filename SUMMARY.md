@@ -13,6 +13,7 @@
 * [🔴 Internet of Things](cas-isa-technologie/internet-of-things.md)
 * [🔴 Cloud Security](cas-isa-technologie/cloud-security.md)
 * [IT-Security Lab](cas-isa-technologie/it-security-lab.md)
+* [Immersive Labs](cas-isa-technologie/immersive-labs.md)
 
 ## CAS-ISA: Management
 
