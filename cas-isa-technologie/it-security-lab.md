@@ -38,7 +38,7 @@ nmap -sV --script=banner 192.168.0.5
 
 ### Cross Site Scripting \(XSS\)
 
-![](../.gitbook/assets/image%20%28341%29.png)
+![](../.gitbook/assets/image%20%28344%29.png)
 
 ```text
 # URL / Question 4
@@ -51,9 +51,9 @@ http://10.102.10.178/purchase?id=%3Cscript%3Econsole.log(%22R3fLect3d!%22);%3C/s
 * Globi hat Foto mit Boarding-Pass Code auf Instagram gestellt
 * Analysieren
 
-![](../.gitbook/assets/image%20%28333%29.png)
+![](../.gitbook/assets/image%20%28334%29.png)
 
-![](../.gitbook/assets/image%20%28327%29.png)
+![](../.gitbook/assets/image%20%28328%29.png)
 
 ```text
 M1MURPHY/DADE         REF NCRH2A LDNNYCIML6060 117Y034C2650 100
@@ -67,7 +67,7 @@ SSI LDN-NYC VEGETARIAN    OSI 30KG, ECONOMY
 
 * Dateien / Bilder auf Metadaten und Inhalt untersuchen
 
-![](../.gitbook/assets/image%20%28339%29.png)
+![](../.gitbook/assets/image%20%28342%29.png)
 
 ### Timestomp
 
@@ -83,7 +83,7 @@ Attackers need to hide their tracks and any prints that they may leave during an
 
 ![](../.gitbook/assets/image%20%28325%29.png)
 
-![](../.gitbook/assets/image%20%28330%29.png)
+![](../.gitbook/assets/image%20%28331%29.png)
 
 ### Hydra Brute Force
 
@@ -210,7 +210,7 @@ pa55w0rd!
 
 ```
 
-![](../.gitbook/assets/image%20%28343%29.png)
+![](../.gitbook/assets/image%20%28346%29.png)
 
 ```text
 root@john:~# john -help
@@ -325,7 +325,7 @@ nmap -sV -v -p- [IP Address]
 
 #### Question 1-2
 
-![](../.gitbook/assets/image%20%28335%29.png)
+![](../.gitbook/assets/image%20%28336%29.png)
 
 ```text
 root@iml-kali:~# nmap 10.102.3.47 --top-ports 1000
@@ -444,7 +444,7 @@ Nmap done: 1 IP address (1 host up) scanned in 157.72 seconds
 
 #### Question 4-5
 
-![](../.gitbook/assets/image%20%28336%29.png)
+![](../.gitbook/assets/image%20%28337%29.png)
 
 ```bash
 root@iml-kali:~# nmap -help
@@ -569,7 +569,7 @@ SEE THE MAN PAGE (https://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
 
 #### n 6-8
 
-![](../.gitbook/assets/image%20%28328%29.png)
+![](../.gitbook/assets/image%20%28329%29.png)
 
 ```bash
 root@iml-kali:~# nmap -sV -v -p 103 --script=banner 10.102.3.47
@@ -649,9 +649,9 @@ authority  = user@example.com:443
 http://<target-ip>/view/?photo=../../etc/token
 ```
 
-![](../.gitbook/assets/image%20%28332%29.png)
+![](../.gitbook/assets/image%20%28333%29.png)
 
-![](../.gitbook/assets/image%20%28329%29.png)
+![](../.gitbook/assets/image%20%28330%29.png)
 
 ### SQL-Injection
 
@@ -680,9 +680,9 @@ input' UNION SELECT 1,group_concat(column_name, 0x0a),3,4,5 FROM information_sch
 
 #### Übungen
 
-![](../.gitbook/assets/image%20%28338%29.png)
+![](../.gitbook/assets/image%20%28341%29.png)
 
-![](../.gitbook/assets/image%20%28331%29.png)
+![](../.gitbook/assets/image%20%28332%29.png)
 
 ```sql
 
@@ -861,7 +861,7 @@ Options:
 
   To develop security analyst skills, you’ll need to interpret results from captured network packets. Capturing network packets can be done using command line tools \(tcpdump, tshark\) as well as popular GUI tools \(notably Wireshark\).  
 
-![](../.gitbook/assets/image%20%28340%29.png)
+![](../.gitbook/assets/image%20%28343%29.png)
 
 ```sql
 ip.addr == 172.21.2.116
@@ -870,9 +870,23 @@ ip.addr == 172.21.2.116
 http contains google.com
 ```
 
-![](../.gitbook/assets/image%20%28346%29.png)
+![](../.gitbook/assets/image%20%28349%29.png)
 
-![](../.gitbook/assets/image%20%28345%29.png)
+![](../.gitbook/assets/image%20%28348%29.png)
 
 ![](../.gitbook/assets/image%20%28323%29.png)
+
+
+
+### Burp Suite Basics: Introduction
+
+* Quick Summary
+
+  Burp Suite is an industry standard suite of tools for web application penetration testing. The framework contains a number of tools used for identifying vulnerabilities and attack vectors within web applications. This lab will introduce you to the basics of Burp Suite, including the proxy intercept tool.
+
+![](../.gitbook/assets/image%20%28327%29.png)
+
+![](../.gitbook/assets/image%20%28339%29.png)
+
+![](../.gitbook/assets/image%20%28340%29.png)
 
