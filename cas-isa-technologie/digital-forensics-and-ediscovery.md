@@ -1,4 +1,4 @@
-# 🔴 Digital Forensics & eDiscovery
+# Digital Forensics & eDiscovery
 
 ## Überblick – Chronologischer Ablauf
 
