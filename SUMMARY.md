@@ -19,7 +19,7 @@
 
 * [Cultural Diversity](cas-isa-management/cultural-diversity.md)
 * [🔴 Cyber Security Framework \(NIST\)](cas-isa-management/cyber-security-framework-nist.md)
-* [🔴 Forensic Readiness](cas-isa-management/forensic-readiness.md)
+* [Forensic Readiness](cas-isa-management/forensic-readiness.md)
 * [🔴 Cyber-Defence der Schweiz und der Armee](cas-isa-management/cyber-defence-der-schweiz-und-der-armee.md)
 * [🔴 Informationsmanagement in der Information Security](cas-isa-management/informationsmanagement-in-der-information-security.md)
 

@@ -2,7 +2,7 @@
 
 ## Überblick – Chronologischer Ablauf
 
-![](../.gitbook/assets/image%20%28359%29.png)
+![](../.gitbook/assets/image%20%28361%29.png)
 
 * **Cybercrime** \(Delikte, Phänomene\)
   * Akteure \(digitale Identitäten, reale Personen\)
@@ -61,11 +61,11 @@
   * Opfer und Tatort verändern Täter
     * Hinterlassene Spur am Täter
 
-![](../.gitbook/assets/image%20%28358%29.png)
+![](../.gitbook/assets/image%20%28360%29.png)
 
 
 
-### Begriffe der digitalen Forensik
+### Begriffe
 
 <table>
   <thead>
@@ -232,15 +232,21 @@
   </tbody>
 </table>
 
+### Vorgehen wenn Vorfall ereignet
 
+1. Prio: Sicherung der Spurenlage
+2. Prio: Wiederherstllung des Normalzustands
+3. Prio: Aufarbeitung des Geschehens anhan der gesicherten Spuren
 
-### Grundlagen der forensischen Arbeit
-
-#### Was also tun, wenn sich ein Vorfall ereignet?
-
-Prioliste
+  
+  
+Ist die Reihenfolge anders, werden entweder die Spuren zerstört \( \)  oder der Zeitverlust ist zu hoch, es entsteht wirtschaftlicher Schaden
 
 ![Prioliste](../.gitbook/assets/image%20%28351%29.png)
+
+#### 
+
+### Grundlagen der forensischen Arbeit
 
 #### Aufgabenteilung im betrieblichen Umfeld
 
@@ -336,7 +342,7 @@ Prioliste
 
 #### Erzeuger und logische Spuren: Wer oder was hinterlässt welche Spuren?
 
-![](../.gitbook/assets/image%20%28357%29.png)
+![](../.gitbook/assets/image%20%28359%29.png)
 
 ### 7 Grundsätze der IT-Forensik \(Spielregeln\)
 
@@ -394,7 +400,7 @@ Prioliste
 
 
 
-### Hautphasen Forensik-Prozess 
+### 4 Hautphasen Forensik-Prozess 
 
 * Es gibt Zahlreiche Prozessmodelle in der Literatur, z.B.
   * Investigative Process Model, in 11 Phasen, Casey 2004
@@ -403,7 +409,7 @@ Prioliste
 
 #### Vereinfachtes Modell - vier Hauptphasen \(NIST\)
 
-![](../.gitbook/assets/image%20%28356%29.png)
+![](../.gitbook/assets/image%20%28358%29.png)
 
 
 
@@ -618,7 +624,7 @@ Prioliste
 
 
 
-![](../.gitbook/assets/image%20%28354%29.png)
+![](../.gitbook/assets/image%20%28356%29.png)
 
 *  * e-Evidence \(Electronic Evidence\)
     * Teil der ESI, welche in rechtlichen Verfahren zur Beweisführung verwendet wird
@@ -630,7 +636,7 @@ Prioliste
 
 Phasen des eDiscovery-Prozess anhand des EDRM Modells
 
-![](../.gitbook/assets/image%20%28355%29.png)
+![](../.gitbook/assets/image%20%28357%29.png)
 
 <table>
   <thead>
