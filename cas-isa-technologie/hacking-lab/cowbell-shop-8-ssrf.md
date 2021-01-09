@@ -18,19 +18,19 @@ https://portswigger.net/web-security/ssrf
 
 Step 1\) Inspect the not correct loaded image
 
-![](../../.gitbook/assets/image%20%28363%29.png)
+![](../../.gitbook/assets/image%20%28365%29.png)
 
 Step 2\) Added a post in the community with `title`, `text` and `url` = `http://localhost:8765/file001.jpg`
 
-![](../../.gitbook/assets/image%20%28364%29.png)
+![](../../.gitbook/assets/image%20%28366%29.png)
 
 Step 3\) Add another post with different file url
 
-![](../../.gitbook/assets/image%20%28374%29.png)
+![](../../.gitbook/assets/image%20%28377%29.png)
 
 Step 4 \) Explore EXIF Data of "Top Secret" image
 
-![](../../.gitbook/assets/image%20%28369%29.png)
+![](../../.gitbook/assets/image%20%28371%29.png)
 
 ### Explain mitigation \(remedy\)
 

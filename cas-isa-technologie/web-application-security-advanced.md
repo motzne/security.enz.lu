@@ -222,6 +222,28 @@ Access-Control-Allow-Credentials: true
 
 
 
+#### Simple Request: 
+
+Some requests don’t trigger a [CORS preflight](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#Preflighted_requests). Those are called _“simple requests”_ in this article, though the [Fetch](https://fetch.spec.whatwg.org/) spec \(which defines CORS\) doesn’t use that term. A “simple request” is one that **meets all the following conditions**:
+
+* One of the allowed methods:
+  * [`GET`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET)
+  * [`HEAD`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD)
+  * [`POST`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
+* Apart from the headers automatically set by the user agent \(for example, [`Connection`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection), [`User-Agent`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent), or [the other headers defined in the Fetch spec as a “forbidden header name”](https://fetch.spec.whatwg.org/#forbidden-header-name)\), the only headers which are allowed to be manually set are [those which the Fetch spec defines as a “CORS-safelisted request-header”](https://fetch.spec.whatwg.org/#cors-safelisted-request-header), which are:
+  * [`Accept`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept)
+  * [`Accept-Language`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language)
+  * [`Content-Language`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Language)
+  * [`Content-Type`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type) \(but note the additional requirements below\)
+
+
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS\#simple\_requests" %}
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS\#preflighted\_requests" %}
+
+
+
 ### CORS einschalten
 
 {% embed url="https://enable-cors.org/server.html" %}
