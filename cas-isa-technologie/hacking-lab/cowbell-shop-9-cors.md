@@ -73,13 +73,13 @@ Step 2\) Change `change_me.html ,` add the URL and open the URL `https://7bc7e2f
 ```
 {% endcode %}
 
-![](../../.gitbook/assets/image%20%28368%29.png)
+![](../../.gitbook/assets/image%20%28369%29.png)
 
 Step 3\) See in the DevTools that the HTTP Response header from `/api/product` has the following:
 
 `Access-Control-Allow-Origin: *` 
 
-![](../../.gitbook/assets/image%20%28370%29.png)
+![](../../.gitbook/assets/image%20%28371%29.png)
 
 
 
