@@ -64,7 +64,7 @@ Step 6\) Pass the attackers url `https://16dfe2ff-d02a-4a24-8d06-21e07055a9af.id
 
 Step 8\) check in the Request Catcher logs the flag received from the victim
 
-![](../../.gitbook/assets/image%20%28379%29.png)
+![](../../.gitbook/assets/image%20%28380%29.png)
 
 
 

@@ -26,7 +26,7 @@ Step 2\) Added a post in the community with `title`, `text` and `url` = `http://
 
 Step 3\) Add another post with different file url
 
-![](../../.gitbook/assets/image%20%28380%29.png)
+![](../../.gitbook/assets/image%20%28381%29.png)
 
 Step 4 \) Explore EXIF Data of "Top Secret" image
 
