@@ -191,7 +191,7 @@
 * CORS ist ein Mechanismus um die SOP zu “bypassen” 
 * Websockets sind nicht CORS unterstellt!! 
 * -ACAO HTTP Response Header = `Access-Control-Allow-Origin`
-* **Mitigation** = Das sicherste ist nicht setzen, daher auf der WAF bie Response Actions nicht drin. Access Control Allow Origin Policy
+* **Mitigation** = Das sicherste ist nicht setzen, daher auf der WAF bei Response Actions nicht drin. Access Control Allow Origin Policy
 * OPTIONS-Request = Policy mit Preflight-Request holen
 * Cookies = `Access-Control-Allow-Credentials`: true \(Policy on Top um Cookies auszulesen\)
 * Es gibt die Server die Access Control Allow Origin reflektieren
