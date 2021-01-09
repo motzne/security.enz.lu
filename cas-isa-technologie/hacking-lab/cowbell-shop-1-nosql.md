@@ -22,12 +22,12 @@ password: {"$ne": null}
 
 ```
 
-![](../../.gitbook/assets/image%20%28364%29.png)
+![](../../.gitbook/assets/image%20%28365%29.png)
 
 * Step 2\) Click "Login" Button
 * Step 3\) The `POST`-Request is sent and the server returns a JSON with the users token. 
 
-![](../../.gitbook/assets/image%20%28362%29.png)
+![](../../.gitbook/assets/image%20%28363%29.png)
 
 ### Explain mitigation \(remedy\)
 

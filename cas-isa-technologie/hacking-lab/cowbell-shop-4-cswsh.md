@@ -58,13 +58,13 @@ Step 5\) Open webshop in new Incognito Tab and login in as the attacker
 Step 6\) Pass the attackers url `https://16dfe2ff-d02a-4a24-8d06-21e07055a9af.idocker.vuln.land/change_me.html`  to the victim. Victim opens the url and gets the following output:  
 
 
-![](../../.gitbook/assets/image%20%28365%29.png)
-
 ![](../../.gitbook/assets/image%20%28366%29.png)
+
+![](../../.gitbook/assets/image%20%28367%29.png)
 
 Step 8\) check in the Request Catcher logs the flag received from the victim
 
-![](../../.gitbook/assets/image%20%28367%29.png)
+![](../../.gitbook/assets/image%20%28368%29.png)
 
 
 
