@@ -13,7 +13,7 @@ NoSQL Injection Vulnerability in the new Cowbell Shop.
 
 ### Explain your attack. \(exploit, screenshot, hacking journal\) 
 
-* NoSQL Inection / Exploit in the login form
+* NoSQL Injection / Exploit in the login form
 
 ```text
 username: {"$ne": null}
