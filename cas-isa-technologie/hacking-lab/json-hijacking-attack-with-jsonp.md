@@ -23,7 +23,7 @@ This challenge is about JSON \(JSONP\) hijacking. By doing such an attack you sh
 
 Step 1\) Use old cowbell shop, buy some bells
 
-![](../../.gitbook/assets/image%20%28366%29.png)
+![](../../.gitbook/assets/image%20%28367%29.png)
 
 Step 2\) Use Theia Web IDE and change the change\_me.html to the following:
 
@@ -91,11 +91,11 @@ var ref = obj;
 
 Step 3\) Send attacker URL to the victim
 
-![](../../.gitbook/assets/image%20%28379%29.png)
+![](../../.gitbook/assets/image%20%28381%29.png)
 
 Step 4\) 
 
-![](../../.gitbook/assets/image%20%28373%29.png)
+![](../../.gitbook/assets/image%20%28374%29.png)
 
 Step 5\) 
 
