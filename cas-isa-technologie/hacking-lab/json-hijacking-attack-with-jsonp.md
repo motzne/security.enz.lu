@@ -139,3 +139,13 @@ The attacker is defining the `invoke` method before `script src` an URL from the
 
 
 
+## Lösung HL
+
+
+
+* kein JSONP einsetzen!
+* Use SameSite
+* Use anti-XSRF on webserver. Only allow downloading JSON objects with valid anti-XSRF token.
+* Insert invalid or problematic JavaScript at the start of the response \(e.g while\(1\);\).
+* Only allow POST requests for JSON objects.
+

@@ -110,3 +110,27 @@ No, the servers HTTP Response header was set to `Access-Control-Allow-Origin: *`
 
 =&gt; See mitigation above
 
+
+
+## Lösung HL
+
+
+
+```text
+super cooles pdf. vielen dank
+
+alles ok
+
+hier noch meine notizen zur challenge
+
+If you want to expose your API to the public but only for certain customers, you can set the headers properly just for them. Otherwise you should be careful and not set this header to allow everyone to read from your site.
+
+Fixed Code in Backend app
+
+Copied to clipboard
+const cors = require('cors'); 
+const app = express(); 
+const corsOptions = { origin: 'http://example.com', optionsSuccessStatus: 200 } 
+app.use(cors(corsOptions));
+```
+

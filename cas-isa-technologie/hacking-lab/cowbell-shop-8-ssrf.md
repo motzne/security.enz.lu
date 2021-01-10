@@ -43,5 +43,9 @@ Step 4 \) Explore EXIF Data of "Top Secret" image
 
 
 
+## Lösung HL
+
+Always check the user input on the server side and sanitize it as much as possible, which is typically very hard to achieve for every possible scenario imaginable. \(Just think of encoded IP’s and stuff like that\) A better advice is to not make requests on behalf of the user at all. Let the application use the user’s browser to retrieve data. Another possibility is to use a white list of allowed domains and protocols from where the web server can fetch remote information.
+
 
 

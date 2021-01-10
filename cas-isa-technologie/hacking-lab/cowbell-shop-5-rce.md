@@ -132,3 +132,25 @@ Flag  = `3c7790ce-996f-4192-835b-619415f6bf7c`
 
 
 
+## Lösung HL 
+
+```text
+eval() is evil
+
+Do not use the eval() function. If you really need it then be sure you escaped and validated the input you enter in this function. Do not run the webserver as root or antoher user with much privileges and use other server hardening tactics. If someone is able to exploit this vulnerability, a non-root user process can not do as much harmful things as the root user.
+
+Fixed Code in Backend Service:
+
+Copied to clipboard
+const querystring = require("querystring");
+function getFromTo(from, range, callback) {
+  let fromResult = querystring.escape(from);
+  let toResult = eval(fromResult + " + " + querystring.escape(range));
+  let result = { from: fromResult, to: toResult };
+  return callback(
+    null,
+    ResponseUtil.createSuccessResponse(result, "Parameters accepted.")
+  );
+}
+```
+

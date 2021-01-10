@@ -91,3 +91,23 @@ The access to the `/extractedData` target site from the `origin` is not allowed,
 
 See above \(CSRF-Tokens with validation on server\)
 
+
+
+
+
+## Lösung HL
+
+
+
+```text
+Use session-individual random tokens (like CSRF-Tokens) on the handshake request and verify them on the server.
+
+Copied to clipboard
+const io = require('socket.io') (server, {
+    origins: ['{DOCKER_ADDRESS}'],
+    transports: ['websocket']
+});
+
+oder auch SameSite, weil das gilt auch für WS
+```
+

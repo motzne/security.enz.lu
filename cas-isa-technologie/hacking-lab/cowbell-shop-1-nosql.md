@@ -100,3 +100,11 @@ function login(username, password, callback) {
 ```
 {% endcode %}
 
+## Lösung HL
+
+
+
+```text
+Validate or escape your input before you are using it in a MongoDB query. One option is to use the mongo-sanitize module.
+```
+
