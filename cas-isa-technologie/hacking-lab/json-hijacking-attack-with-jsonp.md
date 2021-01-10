@@ -91,11 +91,11 @@ var ref = obj;
 
 Step 3\) Send attacker URL to the victim
 
-![](../../.gitbook/assets/image%20%28381%29.png)
+![](../../.gitbook/assets/image%20%28384%29.png)
 
 Step 4\) 
 
-![](../../.gitbook/assets/image%20%28374%29.png)
+![](../../.gitbook/assets/image%20%28375%29.png)
 
 Step 5\) 
 

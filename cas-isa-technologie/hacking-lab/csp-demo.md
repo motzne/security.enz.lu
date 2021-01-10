@@ -23,7 +23,7 @@ Step 1\)  Test a XSS example without CSP
 <script>alert("XSS  / Hello Ivan 😎")</script>
 ```
 
-![](../../.gitbook/assets/image%20%28375%29.png)
+![](../../.gitbook/assets/image%20%28376%29.png)
 
 Step 2\) Add  default-src 'self' to the CSP-Ruleset
 
