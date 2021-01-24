@@ -274,12 +274,12 @@ Mehr siehe hier "uebersicht-artikel-computerkriminalitaet"
   * Überwachung mit technischen Überwachungsgeräten, Art. 280 StPO
   * Bestandesdatenabfragen, technische Auskünfte \(nicht genehmigungspflichtig\)
 * **Datentypen**
-  * **Bestandesdaten** sind Teilnehmerauskünfte umfassen die die Zuordnung einer dynamischen IP-Adresse mit Zeitstempel zu einem Anschluss einer identifizierbaren Person \(Abonnent des Anschlusses im Zeitpunkt der Anfrage\) bzw. auch einer Mobiltelefonnummer zu einem Abonnenten.
-  * **Randdaten** umfassen Informationen, wann und mit welchen Personen oder Anschlüssen die überwachte Person über den Post- oder Fernmeldeverkehr Verbindung hat oder gehabt hat sowie Verkehrs- und Rechnungsdaten \(Art. 273 Abs. 1 lit. a und b StPO\), namentlich auch Login-Daten, die Login-IP \(mit Zeitstempel\) oder die IP-History.
+  * **Bestandesdaten** sind Teilnehmerauskünfte umfassen die die Zuordnung einer dynamischen **IP-Adresse** mit Zeitstempel zu einem Anschluss einer identifizierbaren Person \(Abonnent des Anschlusses im Zeitpunkt der Anfrage\) bzw. auch einer **Mobiltelefonnummer** zu einem Abonnenten.
+  * **Randdaten** umfassen Informationen, **wann und mit welchen Personen oder Anschlüssen die überwachte Person** über den Post- oder Fernmeldeverkehr **Verbindung hat oder gehabt hat** sowie Verkehrs- und Rechnungsdaten \(Art. 273 Abs. 1 lit. a und b StPO\), namentlich auch Login-Daten, die Login-IP \(mit Zeitstempel\) oder die IP-History.
   * **Inhaltsdaten** sind sämtliche Kommunikationsdaten, namentlich Inhalte von Kommunikationsgefässen wie E-Mail, SMS, Chat, Telefonie, Voice-Chat oder VoiP \(Voice over IP; Skype, Viber etc.\), mündlich oder schriftlich, welche von einem Menschen hergestellt oder geäussert und die Mitteilung einer Botschaft beinhalten.
-* Datenzustände
-  * In storage: Am Speicherort gelagert \(Edition, Durchsuchung\). Lokal oder dezentral gelagert
-  * * In Traffic: Während dem Übermittlungsvorgang; geschützt durch Fernmeldegeheimnis \(Art. 13 Abs. 1 BV, Art. 43 FMG\)  
+* **Datenzustände**
+  * In **storage**: Am Speicherort gelagert \(Edition, Durchsuchung\). Lokal oder dezentral gelagert
+  * * In **Traffic**: Während dem Übermittlungsvorgang; geschützt durch Fernmeldegeheimnis \(Art. 13 Abs. 1 BV, Art. 43 FMG\)  
 
 ![](../.gitbook/assets/image%20%28392%29.png)
 
