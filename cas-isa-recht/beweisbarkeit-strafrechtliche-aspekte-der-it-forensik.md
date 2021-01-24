@@ -7,11 +7,11 @@
 * PolG =  Polizeigesetz 
 * StPO = [Strafprozessverordnung](https://www.fedlex.admin.ch/eli/cc/2010/267/de)
 
-![](../.gitbook/assets/image%20%28394%29.png)
+![](../.gitbook/assets/image%20%28396%29.png)
 
 ### 
 
-![](../.gitbook/assets/image%20%28396%29.png)
+![](../.gitbook/assets/image%20%28398%29.png)
 
 
 
@@ -25,7 +25,7 @@
 
 ### Public Private Partnership \(PPP\)
 
-![](../.gitbook/assets/image%20%28392%29.png)
+![](../.gitbook/assets/image%20%28393%29.png)
 
 #### Do's und Dont's
 
@@ -164,7 +164,7 @@
 
 ![Anzeigen ja/nein ?](../.gitbook/assets/image%20%28390%29.png)
 
-![](../.gitbook/assets/image%20%28393%29.png)
+![](../.gitbook/assets/image%20%28394%29.png)
 
   
 
@@ -176,7 +176,7 @@
   
 
 
-![](../.gitbook/assets/image%20%28395%29.png)
+![](../.gitbook/assets/image%20%28397%29.png)
 
 
 
@@ -191,24 +191,22 @@ _Mit Schreiben vom 4. September 2012 erstattete A. Anzeige gegen B. wegen ... un
 
 _Am Donnerstag, 30. August 2012, habe B. in einer Medienmitteilung erstmals zugestanden, dass ein Mitarbeiter am 28. September 2011 versucht habe, die Sicherheitsvorkehrungen der Webseite von A. zu prüfen._
 
-![](../.gitbook/assets/image%20%28391%29.png)
+![](../.gitbook/assets/image%20%28392%29.png)
 
 * Einstellung wegen Art. 143bis StGB \(unrechtmässiges Eindringen in eine Datenverarbeitungsanlage\)
 * Strafbehfel wegen Art. 144bis StGB \(Datenbeschädigung\) mit anschliessender Beschwerde und staatsanwaltlichem Vergleich \(Rückzug Strafantrag gegen Schandenersatz\)
 
 
 
-\_\_
+### StGB  = Strafgesetzbesuch
 
+Mehr siehe hier "uebersicht-artikel-computerkriminalitaet" 
 
+{% page-ref page="../recht/strafgesetzbuch-stgb.md" %}
 
+![](../.gitbook/assets/image%20%28395%29.png)
 
-
-
-
- StGB  = Strafgesetzbesuch
-
-Mehr siehe hier 
+![](../.gitbook/assets/image%20%28391%29.png)
 
 
 
