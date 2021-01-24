@@ -12,9 +12,7 @@
   * Offizialdelikt: vom Staat von Amtes wegen, via Polizei oder jemand Anzeige
   * Antragdelikt:  Oper mittels Strafantrag
 
-
-
-{% file src="../.gitbook/assets/stgb \(1\).pdf" caption="Schweizerische Strafgesetztbuch \(StGB\)" %}
+{% embed url="https://www.fedlex.admin.ch/eli/cc/54/757\_781\_799/de" caption="Schweizer Strafgesetzbuch StGB / fedlex.admin.ch" %}
 
 ## Übersicht Artikel Computerkriminalität
 
@@ -32,11 +30,16 @@
       <td style="text-align:left">143</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Unbefugte Datenbeschaffung</td>
-      <td style="text-align:left">Wer in Absicht, sich oder einen andern unrechtm&#xE4;ssig zu bereichern,
-        sich oder einen andern elektronisch oder in vergliehcbarer Weise gespeicherte
-        oder &#xFC;bermittelte Daten beschafft, die nicht f&#xFC;r ihn bestimmt
-        und gegen seinen unbefugten Zugriff besonders gesichert sind, wird mit
-        Freiheitsstrafe bis zu 5 Jahren oder Geldstrafe bestraft</td>
+      <td style="text-align:left">
+        <p><code>1.</code> Wer in Absicht, sich oder einen andern unrechtm&#xE4;ssig
+          zu bereichern, sich oder einen andern elektronisch oder in vergliehcbarer
+          Weise gespeicherte oder &#xFC;bermittelte Daten beschafft, die nicht f&#xFC;r
+          ihn bestimmt und gegen seinen unbefugten Zugriff besonders gesichert sind,
+          wird mit Freiheitsstrafe bis zu 5 Jahren oder Geldstrafe bestraft</p>
+        <p>
+          <br /><code>2. </code>Die unbefugten Datenbeschaffung zum Nachteil des Angeh&#xF6;rigen
+          oder Familiengenossen wird nur auf Antrag verfolgt</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">143bis</td>
@@ -60,7 +63,28 @@
       <td style="text-align:left">144bis</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Datenbesch&#xE4;digung (Computersabotage):</td>
-      <td style="text-align:left">Sachbesch&#xE4;digung an Daten</td>
+      <td style="text-align:left">
+        <p>Sachbesch&#xE4;digung an Daten</p>
+        <p>
+          <br /><code>1.</code> Wer unbefugt elektronisch oder in vergleichbarer Weise
+          gespeicher&#xAD;te oder &#xFC;bermittelte Daten ver&#xE4;ndert, l&#xF6;scht
+          oder unbrauchbar macht, wird, auf Antrag, mit Frei&#xAD;heitsstrafe bis
+          zu drei Jahren oder Geldstrafe bestraft.</p>
+        <p></p>
+        <p>Hat der T&#xE4;ter einen grossen Schaden verursacht, so kann auf Freiheitsstrafe
+          von einem Jahr bis zu f&#xFC;nf Jahren erkannt werden. Die Tat wird von
+          Amtes wegen verfolgt.</p>
+        <p></p>
+        <p><code>2. </code> Wer Programme, von denen er weiss oder annehmen muss,
+          dass sie zu den in Ziffer 1 genannten Zwecken verwendet werden sollen,
+          her&#xAD;stellt, einf&#xFC;hrt, in Verkehr bringt, anpreist, anbietet oder
+          sonst wie zug&#xE4;nglich macht oder zu ihrer Herstellung Anleitung gibt,
+          wird mit Frei&#xAD;heitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.</p>
+        <p></p>
+        <p>Handelt der T&#xE4;ter gewerbsm&#xE4;ssig, so kann auf Freiheitsstrafe
+          von einem Jahr bis zu f&#xFC;nf Jahren erkannt werden.</p>
+        <p></p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">147</td>
