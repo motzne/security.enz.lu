@@ -7,11 +7,11 @@
 * PolG =  Polizeigesetz 
 * StPO = [Strafprozessverordnung](https://www.fedlex.admin.ch/eli/cc/2010/267/de)
 
-![](../.gitbook/assets/image%20%28396%29.png)
+![](../.gitbook/assets/image%20%28403%29.png)
 
 ### 
 
-![](../.gitbook/assets/image%20%28398%29.png)
+![](../.gitbook/assets/image%20%28407%29.png)
 
 
 
@@ -25,7 +25,7 @@
 
 ### Public Private Partnership \(PPP\)
 
-![](../.gitbook/assets/image%20%28393%29.png)
+![](../.gitbook/assets/image%20%28395%29.png)
 
 #### Do's und Dont's
 
@@ -164,7 +164,7 @@
 
 ![Anzeigen ja/nein ?](../.gitbook/assets/image%20%28390%29.png)
 
-![](../.gitbook/assets/image%20%28394%29.png)
+![](../.gitbook/assets/image%20%28401%29.png)
 
   
 
@@ -176,7 +176,7 @@
   
 
 
-![](../.gitbook/assets/image%20%28397%29.png)
+![](../.gitbook/assets/image%20%28404%29.png)
 
 
 
@@ -191,7 +191,7 @@ _Mit Schreiben vom 4. September 2012 erstattete A. Anzeige gegen B. wegen ... un
 
 _Am Donnerstag, 30. August 2012, habe B. in einer Medienmitteilung erstmals zugestanden, dass ein Mitarbeiter am 28. September 2011 versucht habe, die Sicherheitsvorkehrungen der Webseite von A. zu prüfen._
 
-![](../.gitbook/assets/image%20%28392%29.png)
+![](../.gitbook/assets/image%20%28394%29.png)
 
 * Einstellung wegen Art. 143bis StGB \(unrechtmässiges Eindringen in eine Datenverarbeitungsanlage\)
 * Strafbehfel wegen Art. 144bis StGB \(Datenbeschädigung\) mit anschliessender Beschwerde und staatsanwaltlichem Vergleich \(Rückzug Strafantrag gegen Schandenersatz\)
@@ -204,7 +204,7 @@ Mehr siehe hier "uebersicht-artikel-computerkriminalitaet"
 
 {% page-ref page="../recht/strafgesetzbuch-stgb.md" %}
 
-![](../.gitbook/assets/image%20%28395%29.png)
+![](../.gitbook/assets/image%20%28402%29.png)
 
 ![](../.gitbook/assets/image%20%28391%29.png)
 
@@ -214,15 +214,133 @@ Mehr siehe hier "uebersicht-artikel-computerkriminalitaet"
 
 ## Beweisrecht
 
-Beweismittelkatalog \(Voraussetzungen, Einsatzmöglichkeiten und- Grenzen\)
+### Grundlagen Beweisrecht
 
-Illustration der einzelnen Institute mit Anwendungsbeispielen
+* Unschuldsvermutung
+* Art. 113 StGB / Stellung = Beschultigte Person muss sich nicht selbst belasten
+* Art 343 StPO / Beweisabnahme
 
-Wo sind die Daten \(Data in storage, Data in traffic\) 
+![](../.gitbook/assets/image%20%28396%29.png)
+
+### Elektronische Beweise
+
+* Freie Beweiswürdigung, in dubio pro reo, Art. 10 Abs. 2/3 StPO
+* **Anforderungen an Beweismittel**
+  * Unveränderbarkeit, Nachvollziehbarkeit, Beweiseignung, Beweiszweck, Glaubhaftigkeit, Glaubwürdigkeit \(Bspw. Urkunden im Sinne von Art. 110 Abs. 4 StGB\),
+  * BGE 6B\_130/2012 vom 22.10.2012; Fälschung von E-Mails ist Urkundenfälschung
+
+![](../.gitbook/assets/image%20%28406%29.png)
 
 
+
+### Beweiserhebung
+
+* **Grundsätze**
+  * Folterverbot, Art. 3 EMRK
+  * Miranda warning; Informationspflicht betr. Aussageverweigerung, nemo tenetur, und Erhebung Beweismittel
+  * Rechtliches Gehör, Art. 29 Abs. 2 BV
+* Absolute Verwertungsverbote, Art. 140 StPO
+* Relatives Beweisverwertungsverbot, Art. 141 StPO
+* «Fuit of poisonous Tree», Art. 141 Abs. 4 StPO
+
+![](../.gitbook/assets/image%20%28393%29.png)
+
+![](../.gitbook/assets/image%20%28405%29.png)
+
+### Beweismittelkatalog \(Voraussetzungen, Einsatzmöglichkeiten und- Grenzen\)
+
+* Hausdurchsuchung/Durchsuchung, Art. 244ff. StPO
+* Beschlagnahme
+  * Grundsatz Art. 263 StPO
+  * Grundsatz Art. 246 
+  * 
+
+![](../.gitbook/assets/image%20%28399%29.png)
+
+#### Geheime Überwachungsmassnahmen, Art. 269ff. StPO
+
+* **Voraussetzungen**, Grenzen
+  * Dringender Tatverdacht
+  * Katalogtat
+  * Proportionalität
+  * Subsidiarität
+  * Drittanschlussproblematik
+  * Genehmigung Zwangsmassnahmengericht
+  * Mitteilungspflicht
+  * Genehmigungspflicht Zufallsfunde
+* **Überwachungstypen**
+  * Echtzeitüberwachung, Art. 269ff. StPO
+  * Rückwirkende Überwachung, Art. 273 StPO
+  * Überwachung mit technischen Überwachungsgeräten, Art. 280 StPO
+  * Bestandesdatenabfragen, technische Auskünfte \(nicht genehmigungspflichtig\)
+* **Datentypen**
+  * **Bestandesdaten** sind Teilnehmerauskünfte umfassen die die Zuordnung einer dynamischen IP-Adresse mit Zeitstempel zu einem Anschluss einer identifizierbaren Person \(Abonnent des Anschlusses im Zeitpunkt der Anfrage\) bzw. auch einer Mobiltelefonnummer zu einem Abonnenten.
+  * **Randdaten** umfassen Informationen, wann und mit welchen Personen oder Anschlüssen die überwachte Person über den Post- oder Fernmeldeverkehr Verbindung hat oder gehabt hat sowie Verkehrs- und Rechnungsdaten \(Art. 273 Abs. 1 lit. a und b StPO\), namentlich auch Login-Daten, die Login-IP \(mit Zeitstempel\) oder die IP-History.
+  * **Inhaltsdaten** sind sämtliche Kommunikationsdaten, namentlich Inhalte von Kommunikationsgefässen wie E-Mail, SMS, Chat, Telefonie, Voice-Chat oder VoiP \(Voice over IP; Skype, Viber etc.\), mündlich oder schriftlich, welche von einem Menschen hergestellt oder geäussert und die Mitteilung einer Botschaft beinhalten.
+* Datenzustände
+  * In storage: Am Speicherort gelagert \(Edition, Durchsuchung\). Lokal oder dezentral gelagert
+  * * In Traffic: Während dem Übermittlungsvorgang; geschützt durch Fernmeldegeheimnis \(Art. 13 Abs. 1 BV, Art. 43 FMG\)  
+
+![](../.gitbook/assets/image%20%28392%29.png)
+
+![](../.gitbook/assets/image%20%28408%29.png)
+
+
+
+![](../.gitbook/assets/image%20%28400%29.png)
+
+![](../.gitbook/assets/image%20%28398%29.png)
+
+### Lawful-Interception 2.0 "Tricks und Lifehacks"
+
+* **Problem:**
+  * Kommunikation ist heute meist anonymisiert und verschlüsselt \(P2P\)
+  * ISS kann keine verschlüsselte Kommunikation ausleiten
+* **Innovationen Kompetenzzentrum Cybercrime**
+  * **Wifi-Sniffing:** Man-in-the-Middle bei Wifi-Netzwerken. ZMG OG 2016: Echtzeitüberwachung i.S.v. Art. 269ff. StPO
+  * **Hack-the-Hacker:** Kapern der Infrastruktur der ZP; ZMG OG 2018: Überwachung mit technischen Überwachungsgeräten i.S.v. Art. 280 StPO
+  * **Überwachung eines aktivierten Mobiltelefon-GPS-Geräts**; ZMG OG 2017: Überwachung mit technischen Überwachungsgeräten i.S.v. Art. 280 StPO
+  * **Installation eines Hardware-Keyloggers;** ZMG OG 2020:
+
+    Überwachung mit technischen Überwachungsgeräten i.S.v. Art. 280 StPO
+
+  * **Installation eines Software-Keyloggers;** BGER 2020
+
+    \(entgegen ZMG OG\):
+
+  * **Überwachung mit technischen Überwachungsgeräten** i.S.v. Art. 280 StPO
+  * **Spiegelung von Online-Accounts:** ZMG OG 2016: Echtzeitüberwachung i.S.v. Art. 269ff. StPO
+  * **Überwachung mehrerer Postbriefkästen:** ZMG OG 2018: Echtzeitüberwachung i.S.v. Art. 269ff. StPO
 
 ## Datenerhebung im Ausland
 
-Grundzüge der Rechtshilfe
+* Art. 3 StGB: **Territorialitätsprinzip**
+
+  1 Diesem Gesetz ist unterworfen, wer in der Schweiz ein Verbrechen oder Vergehen begeht.
+
+* Art. 299 StGB: **Verletzung fremder Gebietshoheit**
+
+  1. Wer die Gebietshoheit eines fremden Staates verletzt, insbesondere durch unerlaubte Vornahme von Amtshandlungen auf dem fremden Staatsgebiete...
+
+* Art. 140 **Verbotene Beweiserhebungsmethoden**
+
+  1 Zwangsmittel, Gewaltanwendung, Drohungen, Versprechungen, Täuschungen und Mittel, welche die Denkfähigkeit oder die Willensfreiheit einer Person beeinträchtigen können, sind bei der Beweiserhebung untersagt.
+
+  2 Solche Methoden sind auch dann unzulässig, wenn die betroffene Person ihrer Anwendung zustimmt.
+
+* Art. 141 **Verwertbarkeit rechtswidrig erlangter Beweise**
+
+  1 Beweise, die in Verletzung von Artikel 140 erhoben wurden, sind in keinem Falle verwertbar. Dasselbe gilt, wenn dieses Gesetz einen Beweis als unverwertbar bezeichnet.
+
+  2 Beweise, die Strafbehörden in strafbarer Weise oder unter Verletzung von Gültigkeitsvorschriften erhoben haben, dürfen nicht verwertet werden, es sei denn, ihre Verwertung sei zur Aufklärung schwerer Straftaten unerlässlich.
+
+  3 Beweise, bei deren Erhebung Ordnungsvorschriften verletzt worden sind, sind verwertbar.
+
+![](../.gitbook/assets/image%20%28397%29.png)
+
+
+
+
+
+
 
