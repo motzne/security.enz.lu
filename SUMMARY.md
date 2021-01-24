@@ -35,7 +35,7 @@
 
 * [Records Management / Archivierung](cas-isa-recht/records-management-archivierung.md)
 * [Juristischer Softwareschutz \(Urheberrecht\)](cas-isa-recht/juristischer-softwareschutz-urheberrecht.md)
-* [🔴 Beweisbarkeit / Strafrechtliche Aspekte der IT-Forensik](cas-isa-recht/beweisbarkeit-strafrechtliche-aspekte-der-it-forensik.md)
+* [Beweisbarkeit / Strafrechtliche Aspekte der IT-Forensik](cas-isa-recht/beweisbarkeit-strafrechtliche-aspekte-der-it-forensik.md)
 
 ## CAS-ISM: Mgmt <a id="cas-ism-management"></a>
 

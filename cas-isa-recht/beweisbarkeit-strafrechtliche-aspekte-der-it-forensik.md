@@ -1,4 +1,4 @@
-# 🔴 Beweisbarkeit / Strafrechtliche Aspekte der IT-Forensik
+# Beweisbarkeit / Strafrechtliche Aspekte der IT-Forensik
 
 ## Grundlagen Strafprozess
 
