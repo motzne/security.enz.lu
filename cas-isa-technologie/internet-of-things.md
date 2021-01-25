@@ -8,7 +8,7 @@
   * Smart Parking
   * Smart Health
   * Smart Shopping
-* 
+
 ## Architekturen von IoT-Systemen
 
 * OT =  Operational Technology / Betriebstechnik = OT der Einsatz von Computern zur Überwachung oder Änderung des physikalischen Zustands eines Systems, 
