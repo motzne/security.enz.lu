@@ -14,7 +14,7 @@
 
 ### Verlagerung der Daten ins Open Net
 
-![](../.gitbook/assets/image%20%28425%29.png)
+![](../.gitbook/assets/image%20%28427%29.png)
 
 * **Technische Aufklärung** dient in erster Linie dazu, technologische Überraschungen zu verhindern. Die Kenntnis der Eigenschaften und Fähigkeiten feindlicher Waffen ermöglicht es den Nationen, wirksame Gegenmaßnahmen für diese zu entwickeln
 * **MASINT** \(englisch measurement and signature intelligence\) ist eine nachrichtendienstliche Methode zur Informationsgewinnung. Sie besteht in der Erfassung und Auswertung unbeabsichtigter Emissionen der Aufklärungsobjekte. Dabei kann es sich beispielsweise um elektromagnetische Abstrahlungen, Schall oder chemische Spuren handeln.
@@ -88,11 +88,11 @@
 
 ### Akteure, Bedrohungskategorien \(B1-B5\) und Fähigkeiten
 
-![](../.gitbook/assets/image%20%28424%29.png)
+![](../.gitbook/assets/image%20%28426%29.png)
 
 
 
-![](../.gitbook/assets/image%20%28429%29.png)
+![](../.gitbook/assets/image%20%28431%29.png)
 
 
 
@@ -115,15 +115,15 @@
 
 ![](../.gitbook/assets/image%20%28416%29.png)
 
-![](../.gitbook/assets/image%20%28441%29.png)
+![](../.gitbook/assets/image%20%28444%29.png)
 
-![](../.gitbook/assets/image%20%28448%29.png)
+![](../.gitbook/assets/image%20%28452%29.png)
 
-![](../.gitbook/assets/image%20%28435%29.png)
+![](../.gitbook/assets/image%20%28437%29.png)
 
 ![](../.gitbook/assets/image%20%28421%29.png)
 
-![](../.gitbook/assets/image%20%28433%29.png)
+![](../.gitbook/assets/image%20%28435%29.png)
 
 ### Herausforderungen zur Abwehr
 
@@ -150,13 +150,13 @@ CKF = Cyberkriegsführung
 
 
 
-![](../.gitbook/assets/image%20%28434%29.png)
+![](../.gitbook/assets/image%20%28436%29.png)
 
 ### Positionierung der Armee
 
 Verteidigung des Landes = Schutz, Abwehr und Kampf im Cyber-Raum. Unterstützung ziviler Behörden
 
-![](../.gitbook/assets/image%20%28432%29.png)
+![](../.gitbook/assets/image%20%28434%29.png)
 
 
 
@@ -167,7 +167,7 @@ Verteidigung des Landes = Schutz, Abwehr und Kampf im Cyber-Raum. Unterstützung
 
 ![](../.gitbook/assets/image%20%28419%29.png)
 
-![](../.gitbook/assets/image%20%28444%29.png)
+![](../.gitbook/assets/image%20%28447%29.png)
 
 
 
@@ -179,13 +179,13 @@ Verteidigung des Landes = Schutz, Abwehr und Kampf im Cyber-Raum. Unterstützung
 * Specialist "milCERT" \(Militärisches Computer Emergency Response Team\)
 * Spezialst CNO \(Computer Network Operations\)
 * 
-![](../.gitbook/assets/image%20%28430%29.png)
+![](../.gitbook/assets/image%20%28432%29.png)
 
 
 
 ## 7 goldene Regeln
 
-![](../.gitbook/assets/image%20%28426%29.png)
+![](../.gitbook/assets/image%20%28428%29.png)
 
  Truppe =&gt; keine Namen, Einteilungen, Funktion, Rolle   
  Ort =&gt; keine Ortsangaben \(Metadaten, Adressen\)  
@@ -197,7 +197,7 @@ Verteidigung des Landes = Schutz, Abwehr und Kampf im Cyber-Raum. Unterstützung
 
 
 
-![](../.gitbook/assets/image%20%28439%29.png)
+![](../.gitbook/assets/image%20%28442%29.png)
 
   
 

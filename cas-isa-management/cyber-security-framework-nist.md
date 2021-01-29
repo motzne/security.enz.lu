@@ -102,7 +102,8 @@ Eine Reihe von Aktivitäten, Ergebnissen und informativen Hinweisen. Enthält 
           von Cyber- Risiken f&#xFC;r Systeme, Anwendungen, Verm&#xF6;gens- werten
           und F&#xE4;higkeiten.</p>
         <p></p>
-        <p>Beispiele von Kategorien innerhalb der Funktion: - Asset Management</p>
+        <p>Beispiele von Kategorien innerhalb der Funktion:</p>
+        <p>- Asset Management</p>
         <p>- Unternehmensumfeld</p>
         <p>- Governance</p>
         <p>- Risikobewertung</p>
@@ -115,7 +116,8 @@ Eine Reihe von Aktivitäten, Ergebnissen und informativen Hinweisen. Enthält 
         <p>Entwicklung und Einf&#xFC;hrung geeigneter Schutz- und Kontrollmassnahmen,
           um die Bereitstellung kritischer Dienste zu gew&#xE4;hrleisten.</p>
         <p></p>
-        <p>Beispiele von Kategorien innerhalb der Funktion: - Access Control</p>
+        <p>Beispiele von Kategorien innerhalb der Funktion:</p>
+        <p>- Access Control</p>
         <p>- Sensibilisierung und Schulung</p>
         <p>- Datensicherheit</p>
         <p>- Informationsprozesse bzgl. Schutz und Verfahren - Wartung</p>
