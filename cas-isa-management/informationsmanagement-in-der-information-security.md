@@ -22,5 +22,5 @@ Beste Unterteilung in:
 
 ![](../.gitbook/assets/image%20%28417%29.png)
 
-
+![Unterschied Governance, Management, Betrieb](../.gitbook/assets/image%20%28443%29.png)
 
