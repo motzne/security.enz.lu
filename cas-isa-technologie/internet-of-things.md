@@ -13,11 +13,11 @@
 
 * OT =  Operational Technology / Betriebstechnik = OT der Einsatz von Computern zur Überwachung oder Änderung des physikalischen Zustands eines Systems, 
 
-![Charakterisierung von OT- und IT-Netzwerken](../.gitbook/assets/image%20%28433%29.png)
+![Charakterisierung von OT- und IT-Netzwerken](../.gitbook/assets/image%20%28436%29.png)
 
 ### Architektonische Herausforderungen
 
-![Neue Herausforderungen des IoT f&#xFC;r Architekturen](../.gitbook/assets/image%20%28431%29.png)
+![Neue Herausforderungen des IoT f&#xFC;r Architekturen](../.gitbook/assets/image%20%28433%29.png)
 
 
 
@@ -29,7 +29,7 @@
   * sie teilen das IoT in Schichten auf
   * dass die IoT-Endpunkte mit einem Netzwerk verbunden sind
 * 
-![Vereinfachte Architektur strukturiert das IoT in zwei Pfeiler](../.gitbook/assets/image%20%28420%29.png)
+![Vereinfachte Architektur strukturiert das IoT in zwei Pfeiler](../.gitbook/assets/image%20%28422%29.png)
 
 ### Core IoT Functional Stack
 
@@ -175,7 +175,7 @@
 
 ### Publish-Subscribe-Pattern
 
-![](../.gitbook/assets/image%20%28413%29.png)
+![](../.gitbook/assets/image%20%28414%29.png)
 
 
 
@@ -221,7 +221,7 @@
 * LoRaWAN = Long Range Wide Area Network
 * LPWAN = Low Power Wide Area Network 
 
-![](../.gitbook/assets/image%20%28436%29.png)
+![](../.gitbook/assets/image%20%28441%29.png)
 
 #### LoRaWAN device classes
 
