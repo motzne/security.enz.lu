@@ -14,7 +14,7 @@
 
 ### Verlagerung der Daten ins Open Net
 
-![](../.gitbook/assets/image%20%28436%29.png)
+![](../.gitbook/assets/image%20%28448%29.png)
 
 * **Technische Aufklärung** dient in erster Linie dazu, technologische Überraschungen zu verhindern. Die Kenntnis der Eigenschaften und Fähigkeiten feindlicher Waffen ermöglicht es den Nationen, wirksame Gegenmaßnahmen für diese zu entwickeln
 * **MASINT** \(englisch measurement and signature intelligence\) ist eine nachrichtendienstliche Methode zur Informationsgewinnung. Sie besteht in der Erfassung und Auswertung unbeabsichtigter Emissionen der Aufklärungsobjekte. Dabei kann es sich beispielsweise um elektromagnetische Abstrahlungen, Schall oder chemische Spuren handeln.
@@ -74,7 +74,7 @@
 
 
 
-![](../.gitbook/assets/image%20%28431%29.png)
+![](../.gitbook/assets/image%20%28443%29.png)
 
 
 
@@ -82,17 +82,17 @@
 
 ## Grundlagen Cyber-Raum
 
-![](../.gitbook/assets/image%20%28423%29.png)
+![](../.gitbook/assets/image%20%28431%29.png)
 
 
 
 ### Akteure, Bedrohungskategorien \(B1-B5\) und Fähigkeiten
 
-![](../.gitbook/assets/image%20%28435%29.png)
+![](../.gitbook/assets/image%20%28447%29.png)
 
 
 
-![](../.gitbook/assets/image%20%28441%29.png)
+![](../.gitbook/assets/image%20%28456%29.png)
 
 
 
@@ -113,17 +113,17 @@
 * 
 ![](../.gitbook/assets/image%20%28410%29.png)
 
-![](../.gitbook/assets/image%20%28420%29.png)
+![](../.gitbook/assets/image%20%28428%29.png)
 
-![](../.gitbook/assets/image%20%28455%29.png)
+![](../.gitbook/assets/image%20%28477%29.png)
 
-![](../.gitbook/assets/image%20%28465%29.png)
+![](../.gitbook/assets/image%20%28490%29.png)
 
-![](../.gitbook/assets/image%20%28447%29.png)
+![](../.gitbook/assets/image%20%28463%29.png)
 
-![](../.gitbook/assets/image%20%28430%29.png)
+![](../.gitbook/assets/image%20%28442%29.png)
 
-![](../.gitbook/assets/image%20%28445%29.png)
+![](../.gitbook/assets/image%20%28461%29.png)
 
 ### Herausforderungen zur Abwehr
 
@@ -141,7 +141,7 @@ Im Cyber-Raum gibt es keine Risiko-Verhinderung sondern Risiko-Minderung.
 
 ## Cyber-Strategie der Schweiz, der Armee und andere
 
-![](../.gitbook/assets/image%20%28429%29.png)
+![](../.gitbook/assets/image%20%28441%29.png)
 
 
 
@@ -150,13 +150,13 @@ CKF = Cyberkriegsführung
 
 
 
-![](../.gitbook/assets/image%20%28446%29.png)
+![](../.gitbook/assets/image%20%28462%29.png)
 
 ### Positionierung der Armee
 
 Verteidigung des Landes = Schutz, Abwehr und Kampf im Cyber-Raum. Unterstützung ziviler Behörden
 
-![](../.gitbook/assets/image%20%28444%29.png)
+![](../.gitbook/assets/image%20%28460%29.png)
 
 
 
@@ -165,9 +165,9 @@ Verteidigung des Landes = Schutz, Abwehr und Kampf im Cyber-Raum. Unterstützung
 * MG = Militärgesetz
 * NDG = Nachrichtendienstgesetz,
 
-![](../.gitbook/assets/image%20%28427%29.png)
+![](../.gitbook/assets/image%20%28439%29.png)
 
-![](../.gitbook/assets/image%20%28458%29.png)
+![](../.gitbook/assets/image%20%28480%29.png)
 
 
 
@@ -179,13 +179,13 @@ Verteidigung des Landes = Schutz, Abwehr und Kampf im Cyber-Raum. Unterstützung
 * Specialist "milCERT" \(Militärisches Computer Emergency Response Team\)
 * Spezialst CNO \(Computer Network Operations\)
 * 
-![](../.gitbook/assets/image%20%28442%29.png)
+![](../.gitbook/assets/image%20%28457%29.png)
 
 
 
 ## 7 goldene Regeln
 
-![](../.gitbook/assets/image%20%28437%29.png)
+![](../.gitbook/assets/image%20%28450%29.png)
 
  Truppe =&gt; keine Namen, Einteilungen, Funktion, Rolle   
  Ort =&gt; keine Ortsangaben \(Metadaten, Adressen\)  
@@ -197,7 +197,7 @@ Verteidigung des Landes = Schutz, Abwehr und Kampf im Cyber-Raum. Unterstützung
 
 
 
-![](../.gitbook/assets/image%20%28452%29.png)
+![](../.gitbook/assets/image%20%28473%29.png)
 
   
 

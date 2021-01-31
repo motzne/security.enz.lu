@@ -1,7 +1,5 @@
 # 🔴 Cloud Security
 
-
-
 * Cloud bedeutet
   * geteilten Pool
   * Ressourcen-pooling
@@ -10,8 +8,6 @@
   * geringere Serviceprovider-Interaktion
 * Unterschied zur traditionellen Virtualisierung =  Self Service
 * CSA = Cloud Security Alliance
-
-
 
 ## Vorteile der Cloud 
 
@@ -37,15 +33,15 @@ Die Nutzung von Cloud Services gleicht in vielem dem klassischen Outsourcing, ab
 
  
 
-![](../.gitbook/assets/image%20%28454%29.png)
+![](../.gitbook/assets/image%20%28476%29.png)
 
 ## Top Threats 
 
-![](../.gitbook/assets/image%20%28424%29.png)
+![](../.gitbook/assets/image%20%28432%29.png)
 
 ## NIST Modell
 
-![](../.gitbook/assets/image%20%28421%29.png)
+![](../.gitbook/assets/image%20%28429%29.png)
 
 ### Essentails Characteristics
 
@@ -91,15 +87,13 @@ Die Nutzung von Cloud Services gleicht in vielem dem klassischen Outsourcing, ab
   </tbody>
 </table>
 
-
-
 ### Service Models
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">Begriffe</th>
+      <th style="text-align:left">Beschreibung</th>
     </tr>
   </thead>
   <tbody>
@@ -116,68 +110,221 @@ Die Nutzung von Cloud Services gleicht in vielem dem klassischen Outsourcing, ab
     </tr>
     <tr>
       <td style="text-align:left">Platform as a Service (PaaS)</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>und bietet dem Kunden auf der Plattform standardisierte Schnittstellen
+            an, die von Diensten des Kunden genutzt werden</li>
+          <li>
+            <p>Der Kunde hat keinen Zugriff auf die darunterlegenden Schichten (Betriebssystem,
+              Hardware)</p>
+            <p></p>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Software as a Service (SaaS)</p>
+        <p></p>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Der Verbraucher nutzt die Anwendungen des Anbieters</li>
+          <li>Keine Verwaltung der darunterlegenden Cloud-Infrastruktur</li>
+          <li>
+            <p>Kann Fragen aufwerfen</p>
+            <p>wie z.B. Log Management, Verschl&#xFC;sselung der Daten etc</p>
+          </li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
 
-
-
-
-
-• 
-
-
-
-
-
-• Software as a Service \(SaaS\)
-
-
-
-![Service Modelle: Beispiele aus der Praxis](../.gitbook/assets/image%20%28428%29.png)
+![Service Modelle: Beispiele aus der Praxis](../.gitbook/assets/image%20%28440%29.png)
 
 
 
 
 
-![Beispiel: Pizza as a Service](../.gitbook/assets/image%20%28467%29.png)
+![Beispiel: Pizza as a Service](../.gitbook/assets/image%20%28494%29.png)
 
 
 
-Development Models
+### Development Models
+
+NIST unterscheidet in 4 Bereitstellungsmodelle
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Begriffe</th>
+      <th style="text-align:left">Beschreibung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Private Cloud</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Cloud-Infrastruktur <b>nur f&#xFC;r eine Institution </b>betrieben</li>
+          <li>selbst oder einem Dritten</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Public Cloud</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Services von der <b>Allgemeinheit</b> oder einer <b>gro&#xDF;en Gruppe</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Community Cloud</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Infrastruktur von <b>mehreren Institutionen </b>geteilt, die &#xE4;hnliche
+            Interessen haben</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Hybrid Cloud</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Private-Cloud mit Public-Cloud.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+![](../.gitbook/assets/image%20%28481%29.png)
 
 
 
+## Preismodelle \(CapEx vs. OpEx\)
+
+Capital expenditures \(CapEx\) vs. Operating expenses \(OpEx\) 
 
 
 
+![](../.gitbook/assets/image%20%28449%29.png)
 
 
 
+## Shared responsibilites
+
+![](../.gitbook/assets/image%20%28424%29.png)
 
 
 
+## Risk und Governance
+
+![Risk und Governance - Best Practise von CSA](../.gitbook/assets/image%20%28489%29.png)
+
+![Vertr&#xE4;ge &amp; gemeinsame Verantwortlichen](../.gitbook/assets/image%20%28459%29.png)
+
+![](../.gitbook/assets/image%20%28421%29.png)
 
 
 
+Standards die zum empfehlen sind:
+
+* The **CSA Cloud Controls Matrix**
+* The **NIST** General Access Control Guidance for Cloud Systems \(NIST Special Publication 800-210\), which includes conceptual models, reference architectures, and a controls framework
+* ISO/IECFDIS27017Informationtechnology– Security techniques – Code of practice for information security controls based on ISO/IEC 27002 for cloud services.
+
+### Cloud Control Matrix
+
+* von CSA = Cloud Security Alliance
+* **Ziel**
+  * **Bewertung interner Projekte als auch von Anbietern verwendet werden**
+  * **Liste der Cloud-Sicherheitsanforderungen** 
+* 133 Cloud Security Controls
+* Aligniert zu verschiedenen frameworks/regulatory requirements
+* 14 verschiedene Domänen
+*  CCM = **WAS**? Guidance = **WIE** \(CCM sagt Ihnen «was» Sie tun müssen, während die Guidance Ihnen sagt, «wie» Sie es tun müssen\)
 
 
 
+  \*\*\*\*
+
+## Compliance und Audit
+
+* Definition **Compliance** \(für hier und jetzt ☺\):
+  * Compliance-management ist ein Werkzeug der Governance - das
+
+    heisst:
+
+    * Es zeigt auf wie eine Organisation Ihre externe \(aber auch interne\) Gesetzes-Anforderungen misst, verbessert und beweist.
+* Definition **Audit** \(für hier und jetzt ☺\):
+  * Audits und Assessments sind ein Werkzeug der Compliance - das
+
+    heisst:
+
+    * Es sind Mechanismen um die Compliance mit internen und externen Anforderungen zu dokumentieren.
+    * Diese beinhalten \(nebst der Bestätigung was alles ‘compliant’ ist\) i.d.R. eine Liste mit identifizierten Risiken, Probleme und Empfehlungen.
+
+![](../.gitbook/assets/image%20%28488%29.png)
+
+![Best practice: Securing the Management Plane](../.gitbook/assets/image%20%28464%29.png)
+
+## Data Security
+
+![](../.gitbook/assets/image%20%28414%29.png)
+
+![](../.gitbook/assets/image%20%28493%29.png)
 
 
 
-Cloud Security
+![](../.gitbook/assets/image%20%28465%29.png)
 
-Cloud Security Lernziele
+![](../.gitbook/assets/image%20%28437%29.png)
 
-* Die Teilnehmer kennen die wichtigsten Begriffe im Bereich des Cloud Computing und verstehen deren Bedeutung
-* Die Teilnehmer können technische Aspekte im Bereich der Cloud Security beurteilen und deren Vor- und Nachteile priorisieren
-* Die Teilnehmer können Security Herausforderungen und Chancen bei der Einführung von Cloud-Konzepten beurteilen
-* Die Teilnehmer kennen Grundsätze zum Schutz der Cloud  \(z B Monitoring\) und können Strategien im Bereich
-* Die Teilnehmer können Cloud-Konzepte in bestehende Operations \(wie z.B. den Incident Response Prozess\) einbetten und eine aktive Rolle als Berater in diesen Projekten übernehmen
+## DevOps
+
+![](../.gitbook/assets/image%20%28433%29.png)
+
+![DevOps = Tools, Prozesse and People](../.gitbook/assets/image%20%28435%29.png)
+
+![DevOps is not... ](../.gitbook/assets/image%20%28423%29.png)
+
+### DevSecOps
+
+![DevSecOps](../.gitbook/assets/image%20%28420%29.png)
+
+![](../.gitbook/assets/image%20%28470%29.png)
+
+### Application Security
+
+![SAST, DAST; IAST, RASP](../.gitbook/assets/image%20%28438%29.png)
+
+![SAST vs. DAST](../.gitbook/assets/image%20%28452%29.png)
+
+![SAST; DAST, IAST, RASP](../.gitbook/assets/image%20%28475%29.png)
+
+## IAM
+
+![](../.gitbook/assets/image%20%28419%29.png)
 
 
+
+## Zusammenfassung
+
+![](../.gitbook/assets/image%20%28491%29.png)
+
+![](../.gitbook/assets/image%20%28416%29.png)
+
+![](../.gitbook/assets/image%20%28471%29.png)
+
+![](../.gitbook/assets/image%20%28467%29.png)
+
+![](../.gitbook/assets/image%20%28454%29.png)
+
+![](../.gitbook/assets/image%20%28413%29.png)
 
 
 
