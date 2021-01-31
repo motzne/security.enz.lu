@@ -2,11 +2,23 @@
 
 ## Zusammenfassung
 
-![](../.gitbook/assets/image%20%28434%29.png)
+![](../.gitbook/assets/image%20%28438%29.png)
 
 ![](../.gitbook/assets/image%20%28412%29.png)
 
 ![](../.gitbook/assets/image%20%28409%29.png)
+
+![](../.gitbook/assets/image%20%28425%29.png)
+
+
+
+![](../.gitbook/assets/image%20%28461%29.png)
+
+![](../.gitbook/assets/image%20%28466%29.png)
+
+![](../.gitbook/assets/image%20%28419%29.png)
+
+![](../.gitbook/assets/image%20%28460%29.png)
 
 ![](../.gitbook/assets/image%20%28422%29.png)
 
@@ -14,27 +26,15 @@
 
 ![](../.gitbook/assets/image%20%28456%29.png)
 
-![](../.gitbook/assets/image%20%28461%29.png)
+![4 zentrale Fragestellungen \(Stakeholder, Ziel, Lebenszyklus, Best Practice\)](../.gitbook/assets/image%20%28417%29.png)
 
-![](../.gitbook/assets/image%20%28418%29.png)
-
-![](../.gitbook/assets/image%20%28455%29.png)
-
-![](../.gitbook/assets/image%20%28420%29.png)
-
-
-
-![](../.gitbook/assets/image%20%28451%29.png)
-
-![4 zentrale Fragestellungen \(Stakeholder, Ziel, Lebenszyklus, Best Practice\)](../.gitbook/assets/image%20%28416%29.png)
-
-![](../.gitbook/assets/image%20%28446%29.png)
+![](../.gitbook/assets/image%20%28450%29.png)
 
 ## Architektur
 
-![](../.gitbook/assets/image%20%28423%29.png)
+![](../.gitbook/assets/image%20%28426%29.png)
 
-![](../.gitbook/assets/image%20%28452%29.png)
+![](../.gitbook/assets/image%20%28457%29.png)
 
 Rahmenwerk / Raster ist wichtig in der Informations-Architektur.  
 Beste Unterteilung in:
@@ -50,7 +50,7 @@ Beste Unterteilung in:
 
 ## Governance & Management
 
-![Unterschied Governance, Management, Betrieb](../.gitbook/assets/image%20%28458%29.png)
+![Unterschied Governance, Management, Betrieb](../.gitbook/assets/image%20%28463%29.png)
 
 
 
@@ -71,33 +71,33 @@ Oberste Ebene in der Architekturgrafik
 
 ### Gesetze, Verordnungen, Verträge
 
-![](../.gitbook/assets/image%20%28435%29.png)
+![](../.gitbook/assets/image%20%28439%29.png)
 
 
 
 ### Organisation & Ressourcen 
 
-![](../.gitbook/assets/image%20%28439%29.png)
+![](../.gitbook/assets/image%20%28443%29.png)
 
  
 
 ### Reporting
 
-![](../.gitbook/assets/image%20%28444%29.png)
+![](../.gitbook/assets/image%20%28448%29.png)
 
 
 
 ## Kernprozesse
 
-![](../.gitbook/assets/image%20%28447%29.png)
+![](../.gitbook/assets/image%20%28451%29.png)
 
-![](../.gitbook/assets/image%20%28429%29.png)
+![](../.gitbook/assets/image%20%28433%29.png)
 
-![](../.gitbook/assets/image%20%28428%29.png)
+![](../.gitbook/assets/image%20%28432%29.png)
 
 
 
-![](../.gitbook/assets/image%20%28459%29.png)
+![](../.gitbook/assets/image%20%28464%29.png)
 
 Messen und Beurteilen sind 2 unterschiedliche Dinge
 
