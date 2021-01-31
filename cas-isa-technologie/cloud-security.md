@@ -1,4 +1,4 @@
-# 🔴 Cloud Security
+# Cloud Security
 
 * Cloud bedeutet
   * geteilten Pool
