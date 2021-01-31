@@ -308,7 +308,7 @@ Standards die zum empfehlen sind:
 
 ## IAM
 
-![](../.gitbook/assets/image%20%28419%29.png)
+![Cloud Security - IAM Zusammenfassung](../.gitbook/assets/image%20%28419%29.png)
 
 
 
