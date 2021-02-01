@@ -1,5 +1,7 @@
 # Internet of Things
 
+![](../.gitbook/assets/cas-is-a-4.png)
+
 ## Internet der Dinge
 
 * Das Internet der Dinge \(engl.: Internet of Things, IoT\) ist in aller Munde und auch in den Medien zunehmend ein Thema. Das IoT erweitert die bekannten Konzepte von „jederzeit“ \(**anytime**\) und „an jedem Ort“ \(**any place**\) zur Konnektivität von „allem“ \(**anything**\).

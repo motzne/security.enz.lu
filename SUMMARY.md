@@ -2,7 +2,7 @@
 
 * [Intro](README.md)
 * [Begriffe](begriffe.md)
-* [Todo's](todos.md)
+* [Todo](todos.md)
 
 ## CAS-ISA: Technologie
 
@@ -12,16 +12,6 @@
 * [Digital Forensics & eDiscovery](cas-isa-technologie/digital-forensics-and-ediscovery.md)
 * [Internet of Things](cas-isa-technologie/internet-of-things.md)
 * [Cloud Security](cas-isa-technologie/cloud-security.md)
-* [IT-Security Lab](cas-isa-technologie/it-security-lab.md)
-* [Hacking Lab](cas-isa-technologie/hacking-lab/README.md)
-  * [Cowbell Shop 1 - NOSQL](cas-isa-technologie/hacking-lab/cowbell-shop-1-nosql.md)
-  * [Cowbell Shop 4 - CSWSH](cas-isa-technologie/hacking-lab/cowbell-shop-4-cswsh.md)
-  * [Cowbell Shop 5 - RCE](cas-isa-technologie/hacking-lab/cowbell-shop-5-rce.md)
-  * [Cowbell Shop 8 - SSRF](cas-isa-technologie/hacking-lab/cowbell-shop-8-ssrf.md)
-  * [Cowbell Shop 9 - CORS](cas-isa-technologie/hacking-lab/cowbell-shop-9-cors.md)
-  * [CSP Demo](cas-isa-technologie/hacking-lab/csp-demo.md)
-  * [JSON Hijacking Attack with JSONP](cas-isa-technologie/hacking-lab/json-hijacking-attack-with-jsonp.md)
-* [Immersive Labs](cas-isa-technologie/immersive-labs.md)
 
 ## CAS-ISA: Management
 
@@ -36,6 +26,19 @@
 * [Records Management / Archivierung](cas-isa-recht/records-management-archivierung.md)
 * [Juristischer Softwareschutz \(Urheberrecht\)](cas-isa-recht/juristischer-softwareschutz-urheberrecht.md)
 * [Beweisbarkeit / Strafrechtliche Aspekte der IT-Forensik](cas-isa-recht/beweisbarkeit-strafrechtliche-aspekte-der-it-forensik.md)
+
+## Labor
+
+* [Immersive Labs](labor/immersive-labs.md)
+* [IT-Security Lab](labor/it-security-lab.md)
+* [Hacking Lab](labor/hacking-lab/README.md)
+  * [Cowbell Shop 1 - NOSQL](labor/hacking-lab/cowbell-shop-1-nosql.md)
+  * [Cowbell Shop 4 - CSWSH](labor/hacking-lab/cowbell-shop-4-cswsh.md)
+  * [Cowbell Shop 5 - RCE](labor/hacking-lab/cowbell-shop-5-rce.md)
+  * [Cowbell Shop 8 - SSRF](labor/hacking-lab/cowbell-shop-8-ssrf.md)
+  * [Cowbell Shop 9 - CORS](labor/hacking-lab/cowbell-shop-9-cors.md)
+  * [CSP Demo](labor/hacking-lab/csp-demo.md)
+  * [JSON Hijacking Attack with JSONP](labor/hacking-lab/json-hijacking-attack-with-jsonp.md)
 
 ## CAS-ISM: Mgmt <a id="cas-ism-management"></a>
 

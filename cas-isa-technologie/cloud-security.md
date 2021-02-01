@@ -1,5 +1,7 @@
 # Cloud Security
 
+![](../.gitbook/assets/cas-is-a-5.png)
+
 * Cloud bedeutet
   * geteilten Pool
   * Ressourcen-pooling
