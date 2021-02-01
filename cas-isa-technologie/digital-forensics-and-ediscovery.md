@@ -1,5 +1,7 @@
 # Digital Forensics & eDiscovery
 
+![](../.gitbook/assets/cas-is-a-3.png)
+
 ## Überblick – Chronologischer Ablauf
 
 ![](../.gitbook/assets/image%20%28361%29.png)
@@ -618,7 +620,7 @@ Ist die Reihenfolge anders, werden entweder die Spuren zerstört \( \)  oder der
 
       unstrukturierten Daten
 
-    * Lässt sich in den 3 Dimensionen Ort – Zeit – Custodian
+    * Lässt sich in den **3 Dimensionen Ort – Zeit – Custodian**
 
       aufspannen
 
