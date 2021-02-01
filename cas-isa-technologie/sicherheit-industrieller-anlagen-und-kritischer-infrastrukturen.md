@@ -1,5 +1,7 @@
 # Sicherheit industrieller Anlagen und kritischer Infrastrukturen
 
+![](../.gitbook/assets/cas-is-a-2.png)
+
 ## IT Aspekte von kritischen Infrastrukturen
 
 * Angriffe
@@ -90,8 +92,10 @@ Architektur
   <thead>
     <tr>
       <th style="text-align:left"></th>
-      <th style="text-align:left">Office IT</th>
-      <th style="text-align:left">Prozessleittechnik</th>
+      <th style="text-align:left"><b>Office IT</b>
+      </th>
+      <th style="text-align:left"><b>Prozessleittechnik</b>
+      </th>
     </tr>
   </thead>
   <tbody>

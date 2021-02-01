@@ -1,5 +1,7 @@
 # Security Intelligence
 
+![](../.gitbook/assets/cas-is-a-1.png)
+
 ## Security Intelligence
 
 * **Grund** für Security Intelligence
@@ -7,9 +9,9 @@
   * Sophisticated Attacks
 * **Hauptmerkmal** = Beschaffen von Informationen von **internen** Systemen einerseits, sowie von **externen Quellen** und das **analytische Zusammenführen dieser beiden Sichten** 
 * **Tätigkeiten**
-  * Gefahren zu erkennen \(Detect\),
-  * zu Bearbeiten \(Analyse\)
-  * entsprechend Abzuwehren \(Response\)
+  * Gefahren zu erkennen \(**Detect**\),
+  * zu Bearbeiten \(**Analyse**\)
+  * entsprechend Abzuwehren \(**Response**\)
   * ebenfalls oft Design von SOC/SIEM Use Cases
 
 ![](../.gitbook/assets/image%20%28247%29.png)
@@ -284,7 +286,7 @@ Rollen unterscheiden sich nicht durch den Namen, sondern durch dessen Zielsetzun
 
 ![SOC Rollen \(Beispiel\) IBM Security](../.gitbook/assets/image%20%28257%29.png)
 
-### SOC Betriebsmoddelle
+### SOC Betriebsmodelle
 
 ![](../.gitbook/assets/image%20%28246%29.png)
 
@@ -306,7 +308,7 @@ Rollen unterscheiden sich nicht durch den Namen, sondern durch dessen Zielsetzun
   * «Evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.».
 * Es gibt eine Vielzahl von Intelligence Informationen welche sich, je nach Quelle, unterscheiden lassen: 
 
-![](../.gitbook/assets/image%20%28245%29.png)
+![Vielzahl von Intelligence Informationen je nach Quelle](../.gitbook/assets/image%20%28245%29.png)
 
 ### Taktische-, Operative und Strategische Intelligence
 
@@ -334,7 +336,7 @@ Rollen unterscheiden sich nicht durch den Namen, sondern durch dessen Zielsetzun
       <td style="text-align:left"><b>Operational</b> Threat Intelligence</td>
       <td style="text-align:left">
         <ul>
-          <li>gr&#xF6;sseren Zusammenhang von einzelnen Ereignissen zu erkennen</li>
+          <li><b>gr&#xF6;sseren Zusammenhang</b> von einzelnen Ereignissen zu erkennen</li>
           <li>etwas weiteres (aber immer noch relativ spezifisches) Spektrum</li>
           <li>bedient in der Regel Incident Response Teams (IRT) oder auch Forensikspezialisten</li>
         </ul>
