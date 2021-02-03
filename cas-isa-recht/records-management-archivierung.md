@@ -34,7 +34,7 @@ Siehe Anhang
   * Art. 7  DSG / Datensicherheit
   * Art. 8 revDSG / Datensicherheit \(Neue Version\)
   * Art. 5 DSGVO
-* Was muss mann beachten im Bezug auf **Geschäftsdaten**?
+* Was muss man beachten im Bezug auf **Geschäftsdaten**?
   * Welche Daten werden gespeichert
   * Wie erfolgt die Bearbeitung \(digital oder physisch\) 
 * Macht ein **einheitliches oder dezentrales Sicherheitskonzept** Sinn? Bsp. HR, KUBU usw. Separat oder zentral
