@@ -506,7 +506,10 @@ Es gibt eine Vielzahl von Formate
   * Überschätzen der Fähigkeiten der eigenen Organisation
 * Grössten **Nutzen**
   * wenn es laufend ,auf die sich verändernde Situation, eingestellt wird.
-  * Grundlage dafür sind eine vorhandene Security Strategie, ein funktionierendes Risk Management und ein effektives Incident Management.
+  * Grundlage dafür sind 
+    * eine vorhandene Security Strategie
+    * ein funktionierendes Risk Management
+    * ein effektives Incident Management.
 
 ![](../.gitbook/assets/image%20%28248%29.png)
 
