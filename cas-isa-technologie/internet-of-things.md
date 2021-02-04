@@ -181,6 +181,19 @@
 
 
 
+So, in a nutshell, the major difference between these two patterns can be shown like this:![Image for post](https://miro.medium.com/max/60/1*NcicKEqwUaI8VEc-Ejk6Dg.jpeg?q=20)![Image for post](https://miro.medium.com/max/512/1*NcicKEqwUaI8VEc-Ejk6Dg.jpeg)Image source: [developers-club](http://developers-club.com/posts/270339/)
+
+Makes sense?
+
+Let’s list the differences in a summary:
+
+* In the observer pattern, the observers are aware of the `Subject`. The `Subject` maintains a record of the `Observers`. Whereas, in publisher-subscriber, publishers and subscribers don’t need to know each other. They simply communicate with the help of message queues or a broker.
+* In the publisher-subscriber pattern, components are loosely coupled as opposed to the observer ****pattern.
+* The observer pattern is mostly implemented _synchronously_, i.e. the `Subject` calls the appropriate method of all its observers when an event occurs. The publisher-subscriber pattern is mostly implemented _asynchronously_ \(using a message queue\).
+* The observer ****pattern needs to be implemented in a single-application address space. On the other hand, the publisher-subscriber pattern is more of a cross-application pattern.
+
+
+
 ### MQTT Protokol
 
 * MQTT \(Message Queuing Telemetry Transport\)
