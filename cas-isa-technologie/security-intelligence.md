@@ -146,6 +146,8 @@
   * Menschen
   * Prozessen
   * Technologie
+* **Aufbau** eines SOCs
+  * Nicht nur Technik  = sondern **Organisationsprojekt**
 * Gibt Empfehlung z.H. von Betrieb / Operation / GL ab
 * Klare Abgrenzungen und Kompetenzen in "Playbooks" festzuhalten
 * **Ziel** hat, sicherheitsrelevante Vorgänge zu  erkennen und durch geeignete Massnahmen zu verhindern
