@@ -1,6 +1,6 @@
-# Themenüberischt CAS IS-T
+# Themenüberischt
 
-## Modulinhalt
+## CAS IS-T\(echnologie\)
 
 | Thema | Dozent | Art |
 | :--- | :--- | :--- |
@@ -17,278 +17,56 @@
 | [Kryptologie](themenuebersicht.md#t-kryptologie-josef-schuler) | [Josef Schuler](themenuebersicht.md#t-kryptologie-josef-schuler) | T |
 | [Rechtsaspekte für Systemverantwortliche](themenuebersicht.md#r-rechtsaspekte-fuer-systemverantwortliche-ursula-uttinger) | [Ursula Uttinger](themenuebersicht.md#r-rechtsaspekte-fuer-systemverantwortliche-ursula-uttinger) | R |
 | [Network Defence](themenuebersicht.md#t-network-defence-peter-infanger) | [Peter Infanger](themenuebersicht.md#t-network-defence-peter-infanger) | T |
-| [Physische Sicherheit / Grundlagen Brandschutz](cas-ism-management/physische-sicherheit-grundlagen-brandschutz.md) | [Markus Spinnler](cas-ism-management/physische-sicherheit-grundlagen-brandschutz.md) | T |
+| [Physische Sicherheit / Grundlagen Brandschutz](managment/physische-sicherheit-grundlagen-brandschutz.md) | [Markus Spinnler](managment/physische-sicherheit-grundlagen-brandschutz.md) | T |
 | ~~IT-Sicherheitsarchitektur~~ | ~~Markus Pfister~~ | ~~T~~ |
 | ~~Awareness - Theorie~~ | ~~Carlos Rieder~~ | M |
 
-## M: Standards I / Tom Schmidt
+## CAS IS-M\(anagment\)
 
-* ISO 27001
-  * Beschreibung Information Security Management System \(ISMS\)
-  * Kreislauf/Prozess: Establish, Implement, Maintain, Improve
-  * Grundlage für ISO-Zertifizierungen
-  * Kontrollen sind zu implementieren
-* ISO 27002 
-  * "Best Practices"-Framework
-  * Hilfestellung für die Implementierung von Sicherheitskontrollen
-  * 14 Domänen, 35 Kontrollziele, 114 Kontrollen
-* Weitere ISO-Standards
-
-## M: Risikomanagement / Hans-Peter Königs
-
-* Praktisches Risikomodell
-* Begriffe \(auch engl.\)
-* RM-Prozess / ISO 27005
-  * Kontext festlegen
-  * Risiko identifizieren
-  * Risiko analysieren
-  * Risiko bewerten
-  * Risiko behandeln
-  * Kommunikation / Konsultation
-  * Überwachung / Überprüfung
-
-## M: Business Continuity Management / Peter E. Fischer
-
-* Ziel: Weiterbetrieb, Schaden minimieren, Recovery: Möglichst schnell ins Daily Business
-* Fokus: Wichtigste Geschäftsprozesse, Informationen, Applikationen, Systeme, Abhängigkeiten, Räume \(Tresor\)
-* Bedrohungen
-* Kritische Infrastrukturen
-* Business Impact Analyse
-* Organisation
-* Eskalation / Alarmierung
-* Notfallhandbuch / Notfallkommunikation
-
-## M: Standards II / Armand Portmann
-
-* Das IT-Grundschutz-Kompendium beinhaltet elementare Gefährdungen und sog. Bausteine.
-
-  Umfang der Ausgabe 2019: 
-
-  * 47 Gefährdungen 
-  * 94 Bausteine
-  * 840 Seiten.
-
-* Absicherungsarten: 
-  * Basisabsicherung \(einfach, KMU\)
-  * Kernabsicherung \(elementare Geschäftsprozesse, Ressourcen\)
-  * Standardabsicherung \(von BSI präferiert, vollständiger IT-Grundschutz-Vorgehensweise\)
-* Aufbau IT-Grundschutz Kompendium
-  * Bausteine
-  * Gefährdungen
-  * Massnahmen
-* Erstellen eins Sicherheitskonzepts:
-  * BSI-Standard 200-2: IT-Grundschutz-Methodik
-    * Konkretisiert die Darstellung des ISMS nach BSI-Standard 200-1
-    * Beschreibt detailliert den Aufbau und Betrieb eines ISMS in der Praxis
-      * Aufgaben des Informationssicherheitsmanagements
-      * Aufbau von Organisationsstrukturen für die
-
-        Informationssicherheit
-* BSI-Standards:
-  * BSI 100-1: Managementsysteme für Informationssicherheit  \(entspricht ISO 27001\)
-  * BSI 100-2: IT-Grundschutz-Vorgehensweise
-  * BSI 100-3: Risikoanalyse auf Basis von IT-Grundschutz
-  * BSI 100-4: Notfallmanagement
+|  |  |  |
+| :--- | :--- | :--- |
+| Planung, Aufbau und Betrieb eines ISMS | Rolf Brunner | M |
+| Innovationsschutz \(Urheberrecht\) | Ueli Grüter | R |
+| Integriertes Informations-Risikomanagement im Praxiseinsatz | Marcus Griesser | M |
+| Awareness  | Carlos Rieder | M |
+| Physische Sicherheit / Sicherheitsmassnahmen | Markus Spinnler | M |
+| Identity and Access Management | Max Meier | T |
+| Datenschutz | Ursula Uttinger | R |
+| Vertragsrecht | Ueli Grüter | R |
+| Umsetzung Sicherheitspolitik und Konzepte | Marcus Griesser | M |
+| \(Informatik-\)Revision | Peter Bitterli | M |
+| Governance der Informationssicherheit | Daniel Eugster | M |
+| Internes Kontrollsystem | Daniel Eugster | M |
+| Cybercrime \(Strafrecht\) & Surveillance | Ursula Uttinger | R |
+| GL/VR-Anträge; Wirtschaftlichkeit | Urs Zurfluh | M |
+| CERTs in Theorie und Praxis | Serge Droz | T |
+| Business Continuity Management II | Peter E. Fischer | M |
+| Endpoint-Security | Daniel Walther | T |
+| Zusammenarbeit mit Partnern / Outsourcing | Patrick Münch | M |
+| Governance and Liability | Ueli Grüter | R |
+| Elektronische Signaturen | Armand Portmann | T |
 
 
 
-## T: Grundlagen Computer-Security / Sebastian Obermeier
+## CAS IS-A\(dvanced\)
 
-* IT-Schutzziele aus technischer Sicht
-  * Vertraulichkeit, Integrität, Verfügbarkeit
-* Bewertung von Sicherheit
-  * Orange Book
-  * Common Criteria
-* Tests
-  * Pen-Tests
-  * Security-Test
-  * Open Source Security Testing Methodology Manual \(OSSTMM\)
-    * Handbuch für Security Testing
-* Authentifizierung
-  * Entropie von Passwörter
-  * Hashes
-* Autorisierung
-  * DAC, RBAC, SRBAC, MAC
-  * Multi Layer
-  * RBAC
-* Architektur
-  * Client-Server, Terminal-Server, Multitier, Cloud-Computing, Virtualisierung
-
-## T:  Hacking\#Cracking\#Malware / Slavo Greminger
-
-* Begriffe \(Malware, Web Based Attacks, Web Application Attacks, Phishing, ...\)
-* Botnetze
-  * Bot = infizierter Rechner oder Device
-  * C&C / C2 = Command and Control Server
-  * Gebraucht für: Spam-versand, Phishing, Sniffen, DDoS
-* DoS
-  * Booters
-  * DDoS \(Ping / SYN-Flood\)
-* Buffer-Overflows \(Überschreiben von reservierten Speicher, damit kann Schadsoftware eingefügt werden\)
-* Malware
-  * Begriffe: Virus, Wurm, Trojaner
-  * Betrüger brauchen: 
-    * Öffentliche Server  = Stehlen von Informationen, Updates/Konfigurationen zu aktivieren
-    * Mechanimus für = Persistenz, Antiviren-Lösungen umgehen
-  * Funktionen \(DoS, Ransomware, Spam-Enginge, Backdoor\)
-  * Netzwerk \(Fastflux, Domains für Bots, Domain Generating Algorithmus \(P2P, Blockchain-Domains, TOR/I2P\)\)
-
-## M: Sicherheitspolitik und Konzepte / Armand Portmann
-
-*  Begriffe nicht einheitlich angewendet
-* "Policy" ist pro Firma anders definiert
-* Sicherheitspyramide / TopDown Approach
-  * Informationssicherheitspolitik \(ISP\)  \(Warum?\)
-  * Informationssicherhetitskonzepte \(ISK\) \(Was?\)
-  * Regelwerk \(Wie?\)
-* Ebenen
-
-  * Strategisch \(Ziele, Generelle Ausrichtung, Organe\)
-  * Taktisch \(Funktionalitäten, Betriebskonzepte, Bestimmung von Massnahmen\)
-  * Operativ \(Richtlinien, Umsetzung der Massnahmen\)
-
-## T: Physische Sicherheit / Grundlagen Brandschutz / Markus Spinnler
-
-* Begriffe 
-  * Safety
-  * Security
-* Sicherheitsplanung
-* Gefahrenkatalog
-  * 60% Mensch / 40% Technik
-* Überwachungsarten \(Perimeter, Physisch, Raum, Objekt, Überfall\)
-* Brandschutz
-
-
-
-## T: Network Defence / Peter Infanger
-
-* Einführung
-  * Protokoll / Definition
-  * Schichtenmodell 
-  * Angriffsflächen Netzwerk
-  * Schwachstellen des Internets
-  * IP
-    * Paket
-    * Adressierung IPv4
-    * Adressaufteilung
-    * Spezielle Adressen \(Broadcast, Loopback\)
-  * Paket-Forwarding \(Ablauf\)
-* Protokollanalyse
-  * Analysatoren
-    * Software \(Wireshark\)
-    * Hardware \(Mobile, WLAN\)
-    * Probleme \(Performance, zu viele Daten\)
-    * Einsatzgebiet, wo richtig messen. zum Teil nur Subnetze möglich, Analysatoren an mehrere stellen Daten sammeln und integrieren.
-  * Statistiken/Performance
-    * Auswertungen z.B. aus Lasttests
-    * Basismetriken, abweichen erkannt
-    * Wenn Daten weiter auf Gefahren analysiert werden spricht man oft auch von Intrusion Detection Systemen \(IDS\)
-* Netzwerksicherheit im Internet
-  * Routing
-    * Autonome Systeme \(AS\), unterteilt in 3 Klassen \(einzeln, Provider, Transit\)
-    * BGP
-      * TCP, Port 179
-      * Ohne Sicherheitsmechanismen entwickelt
-      * BGP Policy Routing \(durch Netzbetreiber festgelegt\)
-      * Angriffe: Announcment von falschen Routen, De-Aggregration
-  * IP Hijacking
-  * Serviceverfügbarkeit \(DoS\)
-    * UDP Packet Storm
-    * TCP Syn Flooding
-    * Ping-Flooding
-  * DNS
-    * Abfragen
-    * Angriffe
-      * DNS Spoofing / Cache Poisoning:  Umleiten von Datenverkehr zum Angreifer
-      * DNS Amplification Attack:  Verstärkung 
-    * Abwehrmassnahmen
-      * DNSsec
-        * Nimmt sich 2 Problemenen an:
-          * Integrität
-          * Authentizität
-        * DNS-Daten digital signiert
-        * Problem: Letzte Meile von DNS zum Client bleibt ungesichert
-      * DoT \(DNS over TLS\) + DoH \(DNS over HTTPS\)
-* Perimeter
-  * Firewall
-    * Packet Filters \(mit Access Control Lists\)
-      * Einfache Regeln
-      * Paketinhalt wird nicht kontrolliert
-      * Schwierige Konfiguration
-    * Stateful Inspection FW
-      * Paketfilter mit Intelligenz
-    * Application Layer Gateways \(OSI 5. Schicht\)
-      * Relativ sicher im Vergleich zu Paketfilter
-  * Web Application Firewalls
-    * Viel Know-How und Konfiguration nötig
-    * Sichere Variante
-  * Moderne  Firewalls
-    * Nicht mehr so teuer
-    * Software basiert
-      * Oft schon im OS
-      * Zusätzliche Programme
-  * DMZ Zone
-    * Webserver nie ins Interne Netz
-  * FW Betrieb und Wartung
-* IPv6
-
-  * mehr Adressen benötigt
-  * 128 Bit lang \(8 Gruppen a je 4 HEX-Zahlen\) 
-    * 64 Bit Net/Subnet Prefix \(aka. Header\)
-
-      64 Bit Interface ID
-  * Typen:
-    * Unicast \(One to one, für einzelnes Interface\)
-    * Multicast \(One to many\) 
-    * Anycast \(One to nearest, \)
-  * IPv6 / DHCP
-    * verschiedene Varianten
-  * IPv6 / NAT
-    * NAT wird nicht mehr gebraucht, nur für IPv4
-  * Beispiele von Adressen
-
-## R: Rechtsaspekte für Systemverantwortliche / Ursula Uttinger
-
-* Verfahren
-  * Zivilprozess
-  * Strafverfahren
-  * Verwaltungverfahren
-* Gewaltenteilung \(Legislative, Executive, Judikative\)
-* Öffentliches Recht / Privates Recht
-* Datenschutz \(DSG\)
-* Urheberrecht \(URG\)
-* Strafgesetzbuch \(StGB\)
-
-## T: Kryptologie / Josef Schuler
-
-* Begriffe \(Kryptographie, Kryptoanalyse\)
-* Verfahren:
-  * Asymetrisch
-  * Symmetrisch
-* Hash-Funktionen
-* Funktionsprinzipien von Algorithmen
-
-  * Blockchiffre 
-  * Stromchiffre
-
-## T: Zertifikatsbasierende Anwendungen und PKI / Armand Portmann
-
-* Symmetrische Verschlüsselung
-* Asymmetrische Verschlüsselung
-* Email signieren und verschlüsseln \(immer in dieser Reihenfolge\)
-* Publikation öffentlicher Schlüssel \(CA\)
-* Zertifikatsklassen
-  * Class 1 \(wenig Sicherheit, Comodo, Lets Encrypt\) , Class 2, Class3, Qualified, Extendend Validation Certificate \(Banken\)
-* Revokationslisten \(CRL\)
-
-## T: Web Application Security/OWASP TOP 10  / Ivan Bütler
-
-* Empfehlungen
-* Attack Pyramide \(und Mitigation\)
-* Cookies \(6 Werte erklärt\)
-* OWASP-Top10
-
-
+|  |  |  |
+| :--- | :--- | :--- |
+| Security Intelligence | Reto Zeidler | T |
+| Records Management / Archivierung | Marcel Griesinger | R |
+| Sicherheit industrieller Anlagen und kritischer Infrastrukturen | Sebastian Obermeier | T |
+| Security Intelligence | Reto Zeidler | T |
+| Juristischer Softwareschutz \(Urheberrecht\) | Ueli Grüter | R |
+| Cultural Diversity | Helmut Kaufmann | M |
+| Web Application Security Advanced | Ivan Bütler | T |
+| Digital Forensics & eDiscovery | Maurizio Tuccillo | T |
+| Cyber Security Framework \(NIST\) | Markus Limacher | M |
+| Internet of Things | Andreas Rumsch | T |
+| Forensic Readiness | Maurizio Tuccillo | M |
+| Cloud Security | Dario Tizianel | T |
+| Beweisbarkeit / Strafrechtliche Aspekte der IT-Forensik | Stephan Walder  | R |
+| Cyber-Defence der Schweiz und der Armee | Thomas Bögli | M |
+| Informationsmanagement in der Information Security | Peter Bitterli | M |
 
 
 

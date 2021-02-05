@@ -1,4 +1,4 @@
-# Begriffe
+# Generelle Begriffe
 
 <table>
   <thead>

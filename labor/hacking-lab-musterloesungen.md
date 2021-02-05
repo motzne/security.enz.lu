@@ -1,4 +1,4 @@
-# Hacking-Lab: Musterlösung
+# Hacking-Lab I: Musterlösung
 
 ## Intro Challenge ZAP Proxy \(5\)
 

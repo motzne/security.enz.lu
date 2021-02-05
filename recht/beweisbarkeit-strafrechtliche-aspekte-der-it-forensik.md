@@ -204,7 +204,7 @@ _Am Donnerstag, 30. August 2012, habe B. in einer Medienmitteilung erstmals zuge
 
 Mehr siehe hier "uebersicht-artikel-computerkriminalitaet" 
 
-{% page-ref page="../recht/strafgesetzbuch-stgb.md" %}
+{% page-ref page="strafgesetzbuch-stgb.md" %}
 
 ![](../.gitbook/assets/image%20%28402%29.png)
 
