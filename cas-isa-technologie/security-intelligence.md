@@ -26,7 +26,7 @@
     * Deceive
     * Destroy
 * **Implementierung** in der Praxis ist ein **komplexes Unterfangen, mehr organisatorisches Projekt.**
-* Drei Bereiche die Massgeblich zur **Funktion** beitragen:
+* **Drei Bereiche** die Massgeblich zur **Funktion** beitragen:
   * Security Operation Center \(SOC \), 
   * die Cyber Threat Intelligence \(CTI\)
   * sowie das Security Information und Event Management \(SIEM \).
