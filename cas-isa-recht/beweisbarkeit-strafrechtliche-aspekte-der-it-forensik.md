@@ -1,5 +1,7 @@
 # Beweisbarkeit / Strafrechtliche Aspekte der IT-Forensik
 
+![](../.gitbook/assets/image%20%28496%29.png)
+
 ## Grundlagen Strafprozess
 
 ### Grundlagen Cybercrime Strafverfolgung
