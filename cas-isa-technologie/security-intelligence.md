@@ -304,11 +304,11 @@ Rollen unterscheiden sich nicht durch den Namen, sondern durch dessen Zielsetzun
 
 ## Cyber Threat Intelligence \(CTI\)
 
-* Analyse ist dabei der entscheidende Faktor. Ohne Analyse bleiben Informationen einfache Daten ohne Kontext.
+* **Analyse** ist dabei der entscheidende Faktor. Ohne Analyse bleiben Informationen einfache Daten ohne Kontext.
 * Verbindung der Daten zu meinen jeweiligen Absichten \(Kontext\) wird daraus Intelligence
 * Definition von Cyber Threat Intelligence \(z.B. nach Gartner\)
   * «Evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.».
-* Es gibt eine Vielzahl von Intelligence Informationen welche sich, je nach Quelle, unterscheiden lassen: 
+* Es gibt eine **Vielzahl von** Intelligence **Informationen** welche sich, je **nach Quelle, unterscheiden** lassen: 
 
 ![Vielzahl von Intelligence Informationen je nach Quelle](../.gitbook/assets/image%20%28245%29.png)
 
