@@ -142,7 +142,7 @@
 
   Gemeinsam haben Sie aber: Prozesse, Menschen, Technologien erwähnen alle 
 
-* Gemeinsam und Wichtig. **Besteht immer aus:**
+* Gemeinsam und Wichtig - **Besteht immer aus:**
   * Menschen
   * Prozessen
   * Technologie
