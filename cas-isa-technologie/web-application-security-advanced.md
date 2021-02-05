@@ -334,9 +334,9 @@ default-src 'none'; object-src 'self'; media-src 'self' https://unblu.cloud; con
 
 ![](../.gitbook/assets/image%20%28313%29.png)
 
-* = Schutz vor Request Forgery
-* verhindert das Browser Cookie mitsendet, wenn Request von Drittseite initiert wird
-* The main goal is mitigate the risk of cross-origin information leakage.
+* = **Schutz vor Request Forgery**
+* verhindert das **Browser Cookie mitsendet, wenn Request von Drittseite** initiert wird
+* The main goal is **mitigate** the risk of **cross-origin information leakage**.
 * Mögliche Werte:
   * Strict
   * LAX
@@ -359,7 +359,7 @@ Set-Cookie: jsessionid=asdiifiwiaifiai; secure; HttpOnly, SameSite=Lax
     <tr>
       <td style="text-align:left">Strict</td>
       <td style="text-align:left">
-        <p>The strict value will prevent the cookie from being sent by the browser
+        <p>The strict value will <b>prevent the cookie</b> from being sent by the browser
           to the target site in all cross-site browsing context, even when following
           a regular link. For example, for a GitHub-like website this would mean
           that if a logged-in user follows a link to a private GitHub project posted
@@ -372,12 +372,11 @@ Set-Cookie: jsessionid=asdiifiwiaifiai; secure; HttpOnly, SameSite=Lax
     </tr>
     <tr>
       <td style="text-align:left">Lax</td>
-      <td style="text-align:left">The default lax value provides a reasonable balance between security and
-        usability for websites that want to maintain user&apos;s logged-in session
-        after the user arrives from an external link. In the above GitHub scenario,
-        the session cookie would be allowed when following a regular link from
-        an external website while blocking it in CSRF-prone request methods (e.g.
-        POST).</td>
+      <td style="text-align:left">The default lax value provides a reasonable <b>balance between security and usability </b>for
+        websites that want to maintain user&apos;s logged-in session after the
+        user arrives from an external link. In the above GitHub scenario, the session
+        cookie would be allowed when following a regular link from an external
+        website while blocking it in CSRF-prone request methods (e.g. POST).</td>
     </tr>
   </tbody>
 </table>
