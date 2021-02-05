@@ -2,7 +2,7 @@
 
 * [Intro](README.md)
 * [Begriffe](begriffe.md)
-* [Todo](todos.md)
+* [🚧 Todo](todos.md)
 
 ## CAS-ISA: Technologie
 
