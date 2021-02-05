@@ -1,4 +1,4 @@
-# 🟠 Cyber Security Framework \(NIST\)
+# Cyber Security Framework \(NIST\)
 
 ## **Standards**
 
