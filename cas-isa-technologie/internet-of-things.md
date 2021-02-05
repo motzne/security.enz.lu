@@ -110,6 +110,9 @@
           <li><b>Network Transport</b>
           </li>
           <li><b>IoT Network Management</b>
+            <ul>
+              <li>MQTT</li>
+            </ul>
           </li>
         </ul>
         <p></p>
