@@ -24,6 +24,6 @@
   max-height: 100px;
 }
 
-.sidebar-nav > h2 {
+.sidebar-nav > h2 > a > span {
   font-weight: 800;
 }
