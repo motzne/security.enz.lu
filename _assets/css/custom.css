@@ -23,3 +23,7 @@
 .app-name-link > img {
   max-height: 100px;
 }
+
+.sidebar-nav > h2 {
+  font-weight: 800;
+}
