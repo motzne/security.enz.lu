@@ -1,9 +1,9 @@
 :root {
   --base-font-size: 16px;
-  --theme-color: #ff6347;
+  --theme-color: #83d39e;
   --sidebar-width: 22rem;
 }
-
+/*
 #table-of-contents {
   display: none;
 }
@@ -19,4 +19,4 @@
   font-size: var(--sidebar-nav-strong-font-size);
   font-weight: var(--sidebar-nav-strong-font-weight);
   text-transform: var(--sidebar-nav-strong-text-transform);
-}
+}*/
