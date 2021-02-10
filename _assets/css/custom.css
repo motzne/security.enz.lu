@@ -20,3 +20,6 @@
   font-weight: var(--sidebar-nav-strong-font-weight);
   text-transform: var(--sidebar-nav-strong-text-transform);
 }*/
+.app-name-link > img {
+  max-height: 100px;
+}
