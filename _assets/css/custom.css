@@ -1,22 +1,22 @@
 :root {
-    --base-font-size: 14px;
-    --theme-color: #ff6347;
-    --sidebar-width: 22rem;
+  --base-font-size: 16px;
+  --theme-color: #ff6347;
+  --sidebar-width: 22rem;
 }
 
 #table-of-contents {
-    display: none;
+  display: none;
 }
 
-.sidebar-nav>h2>a>span {
-    display: block;
-    margin: var(--sidebar-nav-strong-margin);
-    padding: var(--sidebar-nav-strong-padding);
-    border-width: var(--sidebar-nav-strong-border-width, 0);
-    border-style: solid;
-    border-color: var(--sidebar-nav-strong-border-color);
-    color: var(--sidebar-nav-strong-color);
-    font-size: var(--sidebar-nav-strong-font-size);
-    font-weight: var(--sidebar-nav-strong-font-weight);
-    text-transform: var(--sidebar-nav-strong-text-transform);
+.sidebar-nav > h2 > a > span {
+  display: block;
+  margin: var(--sidebar-nav-strong-margin);
+  padding: var(--sidebar-nav-strong-padding);
+  border-width: var(--sidebar-nav-strong-border-width, 0);
+  border-style: solid;
+  border-color: var(--sidebar-nav-strong-border-color);
+  color: var(--sidebar-nav-strong-color);
+  font-size: var(--sidebar-nav-strong-font-size);
+  font-weight: var(--sidebar-nav-strong-font-weight);
+  text-transform: var(--sidebar-nav-strong-text-transform);
 }
