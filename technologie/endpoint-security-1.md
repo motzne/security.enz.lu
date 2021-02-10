@@ -4,40 +4,35 @@ Zusammengefasst was es braucht in der Endpoint Security
 
 ![Summary](../.gitbook/assets/image%20%28208%29.png)
 
-*  Governance: Wo Entscheidungen von Unternehmungsleitung getreffen werden \(=&gt; Strategie\)
-  * Mehrheitlich Security Governance
-* User Awareness: Damit die MA den Umstand kennen und wissen was sie können/sollen/müssen machen
-  * Endbenutzer sind oft der erste Schritt im Rahmen eines erfolgreichen Antriff \(bspw. CEO Fraud mit Transaktionen\)
-
-
+- Governance: Wo Entscheidungen von Unternehmungsleitung getreffen werden \(=&gt; Strategie\)
+- Mehrheitlich Security Governance
+- User Awareness: Damit die MA den Umstand kennen und wissen was sie können/sollen/müssen machen
+  - Endbenutzer sind oft der erste Schritt im Rahmen eines erfolgreichen Antriff \(bspw. CEO Fraud mit Transaktionen\)
 
 ## Cyber Kill Chain
 
 ![](../.gitbook/assets/image%20%28210%29.png)
 
-
-
 ### Aktuell 2020
 
-* „Erzwungene“ Digitalisierung
-* IoT Attacken
-* Im speziellen OT \(Operational Technology\) und Hausautomation
-* Ransomware
-* CyberSecurity Fachkräfte
-* Phishing
-* Third-Party Risks \(Supply Chain Security\)
-* DDos - Distributed Denial of Service attacks
-* Cryptojacking
-* Application Security
-* Cloud Security and Incidents
-
-
+- „Erzwungene“ Digitalisierung
+- IoT Attacken
+- Im speziellen OT \(Operational Technology\) und Hausautomation
+- Ransomware
+- CyberSecurity Fachkräfte
+- Phishing
+- Third-Party Risks \(Supply Chain Security\)
+- DDos - Distributed Denial of Service attacks
+- Cryptojacking
+- Application Security
+- Cloud Security and Incidents
 
 ## Data Security \(e.g.AV, AntiMalware, DLP, Encryption\)
 
-* **Malware = malicious software**
-  * Viren, Würmer, Trojaner, Rootkits, Backdoors, Spyware, Ransomware / Cryptolocker, usw.
-  * **Payload** kann:
+- **Malware = malicious software**
+
+  - Viren, Würmer, Trojaner, Rootkits, Backdoors, Spyware, Ransomware / Cryptolocker, usw.
+  - **Payload** kann:
 
     - Carry out a denial of service attack - Crash the machine
 
@@ -49,7 +44,8 @@ Zusammengefasst was es braucht in der Endpoint Security
 
     - ... vieles mehr
 
-  * **Virenarten** gibt es:   
+  - **Virenarten** gibt es:
+
     - Bootviren
 
     - Dateiviren
@@ -58,10 +54,11 @@ Zusammengefasst was es braucht in der Endpoint Security
 
     - Scriptviren
 
-    - Mischformen   
+    - Mischformen
     - Registry viren
 
-  * **Schutzmechanismen** verwenden Viren:   
+  - **Schutzmechanismen** verwenden Viren:
+
     - Stealth
 
     - Encryption
@@ -71,13 +68,14 @@ Zusammengefasst was es braucht in der Endpoint Security
     - Metamorph
 
     - Retro
-* **Ransomware**
+
+- **Ransomware**
 
   - Encryption Ransomware \(Verschlüsselung\)
 
   - Non-Encryption Ransomware \(Erpessrung bspw. Pornographie\)
 
-* **Rootkits**
+- **Rootkits**
 
   - User-Mode \(Ring 3\)
 
@@ -89,10 +87,11 @@ Zusammengefasst was es braucht in der Endpoint Security
 
   - Firmware and hardware \(Ring -1\)
 
-* **Fileless Malware** 
-  * Malware wird nur im Speicher \(RAM\) ausgeführt
-  * Es gibt keine direkten Spuren auf dem Filesystem
-  * Vorgehen \(Beispiel\):
+- **Fileless Malware**
+
+  - Malware wird nur im Speicher \(RAM\) ausgeführt
+  - Es gibt keine direkten Spuren auf dem Filesystem
+  - Vorgehen \(Beispiel\):
 
     - Phishing/SPAM E-Mail
 
@@ -104,40 +103,38 @@ Zusammengefasst was es braucht in der Endpoint Security
 
     Speicher ausgeführt
 
-![Rootkits \(Ringe\)](../.gitbook/assets/image%20%28211%29.png)
-
-  
-
+![Rootkits (Ringe)](../.gitbook/assets/image%20%28211%29.png)
 
 ### Anti Malware Programm
 
-*  **Details** eines Anti Malware Programm
-  * Echtzeitscan Engine
-  * Manual Scan Engine
-  * Online Scanner
-  * Inline Scanner \(z.B. Proxies\)
-* **Funktionsweise** eines Anti Malware Scanners:
-  * Signaturen
-    * Pattern-matching mit allen bekannten Signaturen \(Reaktiv\)
-  * Heuristik
-    * Analyse der vorhandenen Merkmale \(Proaktiv\)
-    * z.B. Erstellung von Alternate Data Streams
-  * Sandbox
-    * Ausführung vom Code in einem „sicheren“ Umfeld inkl. der Analyse des Verhaltens.
-  * Verhaltensanalyse
-    * Der Code wird auf dem Live System ausgeführt und
+- **Details** eines Anti Malware Programm
+- Echtzeitscan Engine
+- Manual Scan Engine
+- Online Scanner
+- Inline Scanner \(z.B. Proxies\)
+- **Funktionsweise** eines Anti Malware Scanners:
+
+  - Signaturen
+    - Pattern-matching mit allen bekannten Signaturen \(Reaktiv\)
+  - Heuristik
+    - Analyse der vorhandenen Merkmale \(Proaktiv\)
+    - z.B. Erstellung von Alternate Data Streams
+  - Sandbox
+    - Ausführung vom Code in einem „sicheren“ Umfeld inkl. der Analyse des Verhaltens.
+  - Verhaltensanalyse
+
+    - Der Code wird auf dem Live System ausgeführt und
 
       anhand des Verhaltens und statistischer Werte analysiert \(-&gt; HIDS/HIPS\)
-* Weitere existierende Schutzmechanismen: 
-  * SecureBoot \(UEFI\)
-  * Nur signierte Bootloader werden ausgeführt 
-  * Thunderstrike, HD Firmware attacks etc.
+
+- Weitere existierende Schutzmechanismen:
+  - SecureBoot \(UEFI\)
+  - Nur signierte Bootloader werden ausgeführt
+  - Thunderstrike, HD Firmware attacks etc.
 
 ![](../.gitbook/assets/image%20%28215%29.png)
 
 ![](../.gitbook/assets/image%20%28204%29.png)
-
-
 
 <table>
   <thead>
@@ -190,15 +187,13 @@ Zusammengefasst was es braucht in der Endpoint Security
   </tbody>
 </table>
 
-
-
 ### APT - Advanced Persistent Threat
 
-* Targeted and organized attack
+- Targeted and organized attack
 
   - STUXNET, Swiss Company etc.
 
-* **Empfehlungen für den APT „Schutz“   
+- **Empfehlungen für den APT „Schutz“  
   -** Application-Whitelisting
 
   - Keine Admin-rechte für Standard-User Accounts
@@ -219,81 +214,78 @@ Zusammengefasst was es braucht in der Endpoint Security
 
   - Zentraler Internet-Proxy \(mit Server Whitelisting\)
 
+### DLP
 
-
-### DLP 
-
-* Data && \(Loss \|\| Leakage\) && \(Prevention \|\| Protection\)
-* **Funktionalität** eines DLP Systems sind:
-  * Logging der Zugriffe auf Dateien usw.
-  * Awareness schaffen, z. B. durch ein Popup - Möglichkeiten zum Blocken von Aktionen
-  * Durchsetzung des 4-Augen Prinzips
-  * Alerting
-* **Techniken**
-  * Pattern-Matching
-  * Access Control
-  * Daten Klassifizierung
-  * Blocken von Schnittstellen und Funktionen \(z.B. USB, PrintScreen\)
-* **Architekturen**
-  * Agent-Based
-  * Gateway
-  * Identity Access Management
-    * Ein striktes und funktionierendes IAM unterstützt DLP Lösungen.
-    * Cloud-based directories vereinfachen Anbindung Drittpersonen
-  * Information Rights Management
-    * Den Zugriff zu den Daten wird mittels IRM klar geregelt und kontrolliert, egal wo die Daten sich befinden.
+- Data && \(Loss \|\| Leakage\) && \(Prevention \|\| Protection\)
+- **Funktionalität** eines DLP Systems sind:
+  - Logging der Zugriffe auf Dateien usw.
+  - Awareness schaffen, z. B. durch ein Popup - Möglichkeiten zum Blocken von Aktionen
+  - Durchsetzung des 4-Augen Prinzips
+  - Alerting
+- **Techniken**
+  - Pattern-Matching
+  - Access Control
+  - Daten Klassifizierung
+  - Blocken von Schnittstellen und Funktionen \(z.B. USB, PrintScreen\)
+- **Architekturen**
+  - Agent-Based
+  - Gateway
+  - Identity Access Management
+    - Ein striktes und funktionierendes IAM unterstützt DLP Lösungen.
+    - Cloud-based directories vereinfachen Anbindung Drittpersonen
+  - Information Rights Management
+    - Den Zugriff zu den Daten wird mittels IRM klar geregelt und kontrolliert, egal wo die Daten sich befinden.
 
 ### Data Encryption
 
 Zum Schutz der Daten auf den mobilen Endpoints \(vorallem bei Laptops\) können folgende Massnahmen ergriffen werden:
 
-* **Full Disk Encryption**
-  * Authentifizierung bei der Disk Encryption
-    * Username / Password
-    * Smartcard mit PIN
-    * Biometric authentication \(z.B. Fingerprint\)
-    * Dongle
-    * TPM \(Trusted Platform Module\) - inkl. Sealing
-* **File System Encryption**
-  * Nur teile von der Harddisk werden verschlüsselt
-  * Sperrung der Daten auch im laufenden Betrieb
-* Weisungen für die Benutzung von Laptops und Firmen- Daten
-* **Attacken**
-  * Cold Boot
-    * RAM auf -50 Grad
-    * Fast keine Lösung dafür
-  * FireWire DMA
-    * hat Direktzugriff
-
-
+- **Full Disk Encryption**
+  - Authentifizierung bei der Disk Encryption
+    - Username / Password
+    - Smartcard mit PIN
+    - Biometric authentication \(z.B. Fingerprint\)
+    - Dongle
+    - TPM \(Trusted Platform Module\) - inkl. Sealing
+- **File System Encryption**
+  - Nur teile von der Harddisk werden verschlüsselt
+  - Sperrung der Daten auch im laufenden Betrieb
+- Weisungen für die Benutzung von Laptops und Firmen- Daten
+- **Attacken**
+  - Cold Boot
+    - RAM auf -50 Grad
+    - Fast keine Lösung dafür
+  - FireWire DMA
+    - hat Direktzugriff
 
 ## Network Security \(e.g. Personal FW/NAC\)
 
-* **Personal FW**
-  * Schutz der Endpoints gegen unerlaubte Verbindungen \(Intern und Extern\)
-  * Grund-Funktionalität: Stealth Modus, Traffic Filtering \(Inbound und Outbound\), Zentrales \(Rule\) Management
+- **Personal FW**
+  - Schutz der Endpoints gegen unerlaubte Verbindungen \(Intern und Extern\)
+  - Grund-Funktionalität: Stealth Modus, Traffic Filtering \(Inbound und Outbound\), Zentrales \(Rule\) Management
 
-### **NAC**
+### NAC
 
-* Network Access Control \(NAC\)
-  * Technologie welche die Authentifizierung/Autorisierung der Clients an einem Netzwerk sicherstellt und durchführt
-* Network Admission Control \(NAC\)
-  * Nebst der Authentifizierung/Autorisierung der Clients werden diese auch auf deren Richtlinienkonformität geprüft. Um die Clients wiederherzustellen existiert eine Quarantäne Funktion \(meist VLAN\)
-* **Aufgaben**
-  * **Discovery** \(Wer und welche Geräte greifen auf das Netzwerk zu\)
-  * **Authentication** \(Nur berechtigte Personen sollen Zugriff aufs Netzwerk
+- Network Access Control \(NAC\)
+  - Technologie welche die Authentifizierung/Autorisierung der Clients an einem Netzwerk sicherstellt und durchführt
+- Network Admission Control \(NAC\)
+  - Nebst der Authentifizierung/Autorisierung der Clients werden diese auch auf deren Richtlinienkonformität geprüft. Um die Clients wiederherzustellen existiert eine Quarantäne Funktion \(meist VLAN\)
+- **Aufgaben**
+
+  - **Discovery** \(Wer und welche Geräte greifen auf das Netzwerk zu\)
+  - **Authentication** \(Nur berechtigte Personen sollen Zugriff aufs Netzwerk
 
     kriegen\)
 
-  * **Compliance** \(Alle Geräte sollen die geforderten
+  - **Compliance** \(Alle Geräte sollen die geforderten
 
-    Sicherheitsanforderungen erfüllen\) 
+    Sicherheitsanforderungen erfüllen\)
 
-  * **Enforcement** \(Nicht erwünschte Geräte soll der Zugriff verweigert
+  - **Enforcement** \(Nicht erwünschte Geräte soll der Zugriff verweigert
 
-    werden\) 
+    werden\)
 
-  * **Traceability** \(Alle Aktionen sollen protokolliert werden\)
+  - **Traceability** \(Alle Aktionen sollen protokolliert werden\)
 
 Stärken
 
@@ -403,16 +395,14 @@ Stärken
   </tbody>
 </table>
 
-
-
 ## Mobile EndPoint Security
 
-* Angriffe
-  * Sämtliche Mobile Clients sind „Freiwild“
-  * Vielfach werden/können die mobilen Geräte nicht komplett von der Security erfasst und gesichert werden
-    * z.B. Patching, AV Clients usw.
-  * Weisungen betreffend dem Speichern der Daten auf mobilen Geräten werden vielfach ignoriert
-  * Anstieg von Ransomware auf Mobile Devices
+- Angriffe
+  - Sämtliche Mobile Clients sind „Freiwild“
+  - Vielfach werden/können die mobilen Geräte nicht komplett von der Security erfasst und gesichert werden
+    - z.B. Patching, AV Clients usw.
+  - Weisungen betreffend dem Speichern der Daten auf mobilen Geräten werden vielfach ignoriert
+  - Anstieg von Ransomware auf Mobile Devices
 
 ### Mobile Phones Angriffe
 
@@ -456,27 +446,25 @@ Stärken
   </tbody>
 </table>
 
-
-
 ### „BYOD“ - Bring your own Device
 
 #### Herausforderungen:
 
-* Strategie muss definiert werden \(vom Management\)
-* Trennung von privaten und geschäftlichen Daten
-* Unkontrollierte Devices und Services \(e.g. Cloud services\)
-* Rechtliche Herausforderungen \(z.B. bei Kündigung\)
-* Enterprise und Private Apps
+- Strategie muss definiert werden \(vom Management\)
+- Trennung von privaten und geschäftlichen Daten
+- Unkontrollierte Devices und Services \(e.g. Cloud services\)
+- Rechtliche Herausforderungen \(z.B. bei Kündigung\)
+- Enterprise und Private Apps
 
 #### Grundfunktionalität einer BYOD Lösung
 
-* Überprüfung der Compliance
-* Remote Wipe
-* Policy Enforcement:
-  * Verbindungsprofilen
-  * VPN Profilen
-  * Settings
-  * Applikationsverteilung
+- Überprüfung der Compliance
+- Remote Wipe
+- Policy Enforcement:
+  - Verbindungsprofilen
+  - VPN Profilen
+  - Settings
+  - Applikationsverteilung
 
 <table>
   <thead>
@@ -543,79 +531,75 @@ Stärken
   </tbody>
 </table>
 
-
-
 ## Wireless LAN Security
 
-* **Technologien und Gefahren**
-  * SSID - einziges Erkennungsmerkmal \(Reto's Netzwerk\) - bei gleichen Namen können bei Clients zu Problemen führen
-  * Wardriving: Sammlung von Netzwerken auf GPS Karten
-  * Mobile Clients sind meist schlechter geschützt
-* **Angriffsvektoren**
-  * RF Jamming
-    * Ausstrahlen von Funksignalen auf derselben Frequenz \(z.B. 2.4GHz\) mit einer höheren Leistung
-  * Denial-of-Service
-    * -Deauthentication Denial-of- Service
+- **Technologien und Gefahren**
+  - SSID - einziges Erkennungsmerkmal \(Reto's Netzwerk\) - bei gleichen Namen können bei Clients zu Problemen führen
+  - Wardriving: Sammlung von Netzwerken auf GPS Karten
+  - Mobile Clients sind meist schlechter geschützt
+- **Angriffsvektoren**
+
+  - RF Jamming
+    - Ausstrahlen von Funksignalen auf derselben Frequenz \(z.B. 2.4GHz\) mit einer höheren Leistung
+  - Denial-of-Service
+
+    - -Deauthentication Denial-of- Service
 
       -Angreifer fälscht „deauth“ Pakete
 
       -Client wird sich vom WLAN trennen
 
       -Client versucht sich mit dem WLAN neu zu verbinden
-  * Man-in-the-Middle
-  * Evil-Twin
-  * Rouge Devices
-  * Authentifikation
-  * **Verschlüsselung**
-    * **WPA3**
-      * Mitte 2018 publiziert 
-      * **Rückwärtskompatibel** zu WPA2 Geräten
-      * **192bit Verschlüsselung**
-      * CNSA \(Commercial National Security Algorithm\) -48bit Initialisierungsvektor
-      * Simultaneous Authentication of Equals \(SAE\) mittels Dragonfly Protokoll
-      * Verhinderung von Bruteforce/Dictionary Attacken
-      * Opportunistic Wireless Encryption \(OWE\) -Verschlüsselung von HotSpot Traffic
 
-
+  - Man-in-the-Middle
+  - Evil-Twin
+  - Rouge Devices
+  - Authentifikation
+  - **Verschlüsselung**
+    - **WPA3**
+      - Mitte 2018 publiziert
+      - **Rückwärtskompatibel** zu WPA2 Geräten
+      - **192bit Verschlüsselung**
+      - CNSA \(Commercial National Security Algorithm\) -48bit Initialisierungsvektor
+      - Simultaneous Authentication of Equals \(SAE\) mittels Dragonfly Protokoll
+      - Verhinderung von Bruteforce/Dictionary Attacken
+      - Opportunistic Wireless Encryption \(OWE\) -Verschlüsselung von HotSpot Traffic
 
 ## Bluetooth Security
 
-* Für kleine Ad-Hoc Netzwerke \(Piconetze\) - für den kleinen Rahmen von max 7 Clients und einem Master
-* Funktionsweise
-  * **2 Modelle** unterteilt werden:
-    * **No Security:** Keine Sicherheit wird verwendet
-    * **Service/Device Level Security:** Authentication, Authorization und die optionale Verschlüsselung werden initiiert sobald eine L2CAP \(Logical Link Control and Adaptation Protocol\) Verbindungsanfrage gemacht wurde.
-* **Angriffe**
-  * Datenversand
-  * Datenklau \(Telefonbuch auslesen, SMS/MMS lesen, Telefonate führen und SMS schreiben\)
-  * KNOB \(Key Negotiation of Bluetooth\) Angriff
-  * Sweyntooth holes
+- Für kleine Ad-Hoc Netzwerke \(Piconetze\) - für den kleinen Rahmen von max 7 Clients und einem Master
+- Funktionsweise
+  - **2 Modelle** unterteilt werden:
+    - **No Security:** Keine Sicherheit wird verwendet
+    - **Service/Device Level Security:** Authentication, Authorization und die optionale Verschlüsselung werden initiiert sobald eine L2CAP \(Logical Link Control and Adaptation Protocol\) Verbindungsanfrage gemacht wurde.
+- **Angriffe**
+  - Datenversand
+  - Datenklau \(Telefonbuch auslesen, SMS/MMS lesen, Telefonate führen und SMS schreiben\)
+  - KNOB \(Key Negotiation of Bluetooth\) Angriff
+  - Sweyntooth holes
 
 ## NFC / RFID Security
 
 - RFID = Radio Frequency Identification
 
 * NFC = Near Field Communication
-  * NFC ist ein Subset von RFID
-  * Gibt ein Transponder, Reader und Middleware
-  * Verschiedenste Einsatzgebiete: Zutrittsysteme, Inventar, etc.
+  - NFC ist ein Subset von RFID
+  - Gibt ein Transponder, Reader und Middleware
+  - Verschiedenste Einsatzgebiete: Zutrittsysteme, Inventar, etc.
 
 ### Risiken
 
-* Kontaktlose Bezahlung
-* Verlust der Privatsphäre
-* Skimming \(Kopieren des Tags\)
-* Industrie-Spionage \(Wie viel Produziert der Mitbewerber\)
-* Fehlende Authentifizierung
-* Side-Channel Attacken
+- Kontaktlose Bezahlung
+- Verlust der Privatsphäre
+- Skimming \(Kopieren des Tags\)
+- Industrie-Spionage \(Wie viel Produziert der Mitbewerber\)
+- Fehlende Authentifizierung
+- Side-Channel Attacken
 
 ### Schutz
 
-* Zerstörung vom RFID Tag nach dem Kauf
-* Faradayscher Käfig
-* Aktives jamming
-* NFC sicher konfigurieren oder jeweils ausschalten
-* - Verwendung von 2-Faktor Technologien
-
-
-
+- Zerstörung vom RFID Tag nach dem Kauf
+- Faradayscher Käfig
+- Aktives jamming
+- NFC sicher konfigurieren oder jeweils ausschalten
+- - Verwendung von 2-Faktor Technologien

@@ -109,83 +109,81 @@
 
 ## Information
 
-* Verknüpfung von Daten in Form von Zahlen, Worten, Fakten zu interpretierbaren Zusammenhängen. Dadurch entsteht Wissen.
-* Mit Hilfe von Interpretationsvorschriften aus Daten gewonnen
-  * Einfache Interpretationsvorschrift: ASCII Code; Daten ungeschützt
-  * Komplexe Interpretationsvorschrift: Verschlüsselung; Daten geschützt
+- Verknüpfung von Daten in Form von Zahlen, Worten, Fakten zu interpretierbaren Zusammenhängen. Dadurch entsteht Wissen.
+- Mit Hilfe von Interpretationsvorschriften aus Daten gewonnen
+  - Einfache Interpretationsvorschrift: ASCII Code; Daten ungeschützt
+  - Komplexe Interpretationsvorschrift: Verschlüsselung; Daten geschützt
 
 ## Grundziele der Informationssicherheit
 
-#### **Vertraulichkeit**
+#### Vertraulichkeit
 
-* Informationen können nicht durch unautorisierte Personen, Instanzen oder Prozesse eingesehen werden.
-* Sicherstellung, dass Informationen nur von dazu autorisiereten Personen \(oder allgemeiner: Subjekten\) gelesen werden können
+- Informationen können nicht durch unautorisierte Personen, Instanzen oder Prozesse eingesehen werden.
+- Sicherstellung, dass Informationen nur von dazu autorisiereten Personen \(oder allgemeiner: Subjekten\) gelesen werden können
 
 **Integrität**
 
-* Daten oder Systeme können nicht unautorisiert manipuliert werden. 
-* Sicherstellung der Korrektheit und Vollständigkeit von Informationen und Verarbeitungsmethoden.
+- Daten oder Systeme können nicht unautorisiert manipuliert werden.
+- Sicherstellung der Korrektheit und Vollständigkeit von Informationen und Verarbeitungsmethoden.
 
 **Verfügbarkeit**
 
-* Funktionalität von Soft- und Hardware kann nicht unbefugterweise beeinträchtigt werden.
-* Sicherstellung, dass Benutzer \(oder allgmeiner: Subjekte\) Zugriff auf Informationen/Systeme haben
+- Funktionalität von Soft- und Hardware kann nicht unbefugterweise beeinträchtigt werden.
+- Sicherstellung, dass Benutzer \(oder allgmeiner: Subjekte\) Zugriff auf Informationen/Systeme haben
 
 **Verbindlichkeit**
 
-* Alle Aktionen einer Instanz können eindeutig zugeordnet und nicht geleugnet werden.
+- Alle Aktionen einer Instanz können eindeutig zugeordnet und nicht geleugnet werden.
 
 ## Identität / Authentizität
 
-**Identität**   
-****Bezogen auf Wesen bezeichnet Identität zumeist die Selbigkeit dieses bestimmten Wesens
+**Identität**  
+\*\*\*\*Bezogen auf Wesen bezeichnet Identität zumeist die Selbigkeit dieses bestimmten Wesens
 
-**Authentizität**   
+**Authentizität**  
 Sichere Zuordnung einer Information zum Sender und der Nachweis, dass die Information nach dem Versand nicht mehr verändert wurde.
 
 ## Betriebssicherheit
 
-* konsistente und gewünschte Funktionen und Verhalten der Daten und Systeme kann sichergestellt werden.
-* Voraussetzung für Integrität und Verbindlichkeit
+- konsistente und gewünschte Funktionen und Verhalten der Daten und Systeme kann sichergestellt werden.
+- Voraussetzung für Integrität und Verbindlichkeit
 
 ## Risiko
 
-* Negative Abweichung von einem erwarteten Zustand bezogen auf ein sicherheitsrelevantes Objekt in einem Zielsystem durch ein gefährdendes Ereignis mit verschiedenen wahrscheinlichen Ausprägungen.
-* Eintretenswahrscheinlichkeit und negative Zielabweichung kann bewertet werden
-* Korrelation zwischen Sicherheit und Risiko
+- Negative Abweichung von einem erwarteten Zustand bezogen auf ein sicherheitsrelevantes Objekt in einem Zielsystem durch ein gefährdendes Ereignis mit verschiedenen wahrscheinlichen Ausprägungen.
+- Eintretenswahrscheinlichkeit und negative Zielabweichung kann bewertet werden
+- Korrelation zwischen Sicherheit und Risiko
 
 ## Informationssicherheit
 
-* Mehr als nur das Sicherstellen von Computerdaten: Sicherung der längerfristigen Geschäftstätigkeiten und Schutz des Wissens der MA
-* Sicherheit in der Verarbeitung von Information
-* Dient dem Schutz von Information
-* Unabhängig von Medium
+- Mehr als nur das Sicherstellen von Computerdaten: Sicherung der längerfristigen Geschäftstätigkeiten und Schutz des Wissens der MA
+- Sicherheit in der Verarbeitung von Information
+- Dient dem Schutz von Information
+- Unabhängig von Medium
 
 ## IT-Sicherheit / ICT-Sicherheit
 
-* Schutz der Information in ICT Systemen
-* Medium sind ausschliesslich ICT Systeme
+- Schutz der Information in ICT Systemen
+- Medium sind ausschliesslich ICT Systeme
 
 ## Datensicherheit / Datenschutz
 
-**Datensicherheit**   
+**Datensicherheit**  
 Schutz der Daten und Datenträger
 
-**Datenschutz**   
+**Datenschutz**  
 Schutz der Persönlichkeit und der Grundrechte von Personen, über die Daten bearbeitet werden.
 
 ## Zutritts-, Zugangs- und Zugriffskontrolle
 
-**Zutrittskontrolle**   
+**Zutrittskontrolle**  
 Schutz des physischen Systems, gerätebezogen
 
-**Zugangskontrolle**   
+**Zugangskontrolle**  
 Schutz des logischen Systems, personenbezogen
 
-**Zugriffskontrolle**   
+**Zugriffskontrolle**  
 Schutz der Operationen, datenbezogen
-
-
 
 ## Modul Integriertes Informations-Risikomanagement im Praxiseinsatz
 
@@ -201,49 +199,38 @@ Schutz der Operationen, datenbezogen
 **Key Risk Indikatoren \(KRI\)**  
  geben Auskunft über bestimmte Aspekte des Risikos; sie können u.a. mittels negierter Performance-Parametern gebildet werden.
 
-
-
 ## Safety vs. Security
 
-| Safety | Security |
-| :--- | :--- |
+| Safety                                                                                                                                                                                                                                                                                                                                                                   | Security                                                                                                                                                                                                                                                                                                                                                                                                            |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Safety befasst sich mit vorbeugenden Massnahmen gegen den Eintritt von Ereignissen \(Vorfällen, Unfällen und anderen unerwünschten Zuständen\), die ihren Ursprung in nichtbeabsichtigten menschlichen und / oder technischen Unzulänglichkeiten haben, sowie mit der Begrenzung oder Beherrschung solcher Vorfälle und mit allgemeinen Problemen der Arbeitssicherheit. | Security befasst sich mit vorbeugenden Massnahmen gegen den Eintritt von Ereignissen \(Handlungen, Delikten und anderen unerwünschten Zuständen\), die durch Personen in böswilliger Absicht gegen Unternehmen oder Organisationen \(Mitarbeiter, Eigentum im weitesten Sinne oder guter Ruf\) begangen werden, sowie mit der Begrenzung oder Beherrschung solcher Vorfälle und des daraus resultierenden Schadens. |
 
 ![](.gitbook/assets/image%20%28135%29.png)
 
-
-
 ## Governance vs. Corporate Governance vs. IT Governance vs. IS Governance vs. Compliance
 
-* **Governance**:
-  * Zusammengefasst: Führung und Kontrolle
-  * Verbreiteter Begriff, jedoch nicht offiziell definiert
-  * _Alle Regeln_
-* **Corporate Governance**
-  * deutsch: Grundsätze der Unternehmensführung
-  * Corporate Governance ist das System von **Regeln**, **Praktiken** und **Prozessen**, durch das ein Unternehmen geleitet und kontrolliert wird
-  * Code of Conduct \(Geschenkli annehmen\)
-  * Corporate Governance ≠ Management
-* **IT Governance**
-  * _Governance im Bezug auf IT_
-  * Eingebettet in Corporate Governance \(siehe Grafik unten\)
-  * Informationsverarbeitende und -lagernde \(technischen oder nicht-technischen\) Systeme, die die Schutzziele Vertraulichkeit, Verfügbarkeit und Integrität sicherstellen
-* **Information Security Governance**
-  * Nicht nur in IT , sondern auch noch Teil in Corporate Governance \(z.B. Papierakten\) - geht darüber hinaus \(sieh Grafik unten\)
-  * Führung, Organisationsstrukturen und Prozesse zur Sicherstellung der Unterstützung der Unternehmensstrategie und -ziele in Bezug auf Information Security
-* **Compliance**
-  * Effektives Implementieren, Umsetzen der definierten internen und externen Richtlinien, wie wird es explizit umgesetzt
-  * Mit Gesetz compliant sein
+- **Governance**:
+  - Zusammengefasst: Führung und Kontrolle
+  - Verbreiteter Begriff, jedoch nicht offiziell definiert
+  - _Alle Regeln_
+- **Corporate Governance**
+  - deutsch: Grundsätze der Unternehmensführung
+  - Corporate Governance ist das System von **Regeln**, **Praktiken** und **Prozessen**, durch das ein Unternehmen geleitet und kontrolliert wird
+  - Code of Conduct \(Geschenkli annehmen\)
+  - Corporate Governance ≠ Management
+- **IT Governance**
+  - _Governance im Bezug auf IT_
+  - Eingebettet in Corporate Governance \(siehe Grafik unten\)
+  - Informationsverarbeitende und -lagernde \(technischen oder nicht-technischen\) Systeme, die die Schutzziele Vertraulichkeit, Verfügbarkeit und Integrität sicherstellen
+- **Information Security Governance**
+  - Nicht nur in IT , sondern auch noch Teil in Corporate Governance \(z.B. Papierakten\) - geht darüber hinaus \(sieh Grafik unten\)
+  - Führung, Organisationsstrukturen und Prozesse zur Sicherstellung der Unterstützung der Unternehmensstrategie und -ziele in Bezug auf Information Security
+- **Compliance**
+  - Effektives Implementieren, Umsetzen der definierten internen und externen Richtlinien, wie wird es explizit umgesetzt
+  - Mit Gesetz compliant sein
 
 ![](.gitbook/assets/image%20%28132%29.png)
 
-
-
-
-
-## SoA /  Statement of Applicability
+## SoA / Statement of Applicability
 
 Statement of Applicability – dokumentierte Erklärung über die relevanten sowie anwendbaren Kontrollziele und Maßnahmen im ISMS der Organisation.
-
-
-

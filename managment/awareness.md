@@ -1,37 +1,37 @@
 # Awareness
 
-* Der Mensch ist das schwächste Glied in der Kette!!
-* **Begriff Awareness**
-  * Sensibilisieren
-  * Bewusstsein schaffen
-  * Motivation
-  * Verständnis
-* **Risiken**
-  * Identitätsdiebstahl
-  * Social Engineering =&gt; z.B. Spionage
-  * CEO Fraud
-* **Massnahmen**
-  * Schulung
-  * Phishing
-  * Weisungen
-  * Vorbild \(Beispiel Fussball\)
-  * Kontrollen
-* **Awareness-Vorlagen sind zu finden in...**
-  * 27002 / 7.2.2 Sensibilisierung, Aus- und Weiterbildung zur Informationssicherheit
-  * BSI ORP.3: Sensibilisierung und Schulung
-    * Zielsetzung
-    * Gefährdungslage
-    * Anforderungen
-* **Mittel**
-  * Wifi Pinapple
-  * USB Rubberducky
-  * Man in the middle
-  * Phishing
-  * Screengrab
+- Der Mensch ist das schwächste Glied in der Kette!!
+- **Begriff Awareness**
+  - Sensibilisieren
+  - Bewusstsein schaffen
+  - Motivation
+  - Verständnis
+- **Risiken**
+  - Identitätsdiebstahl
+  - Social Engineering =&gt; z.B. Spionage
+  - CEO Fraud
+- **Massnahmen**
+  - Schulung
+  - Phishing
+  - Weisungen
+  - Vorbild \(Beispiel Fussball\)
+  - Kontrollen
+- **Awareness-Vorlagen sind zu finden in...**
+  - 27002 / 7.2.2 Sensibilisierung, Aus- und Weiterbildung zur Informationssicherheit
+  - BSI ORP.3: Sensibilisierung und Schulung
+    - Zielsetzung
+    - Gefährdungslage
+    - Anforderungen
+- **Mittel**
+  - Wifi Pinapple
+  - USB Rubberducky
+  - Man in the middle
+  - Phishing
+  - Screengrab
 
 ### XMV \(Xonde Menschen Verstand\):
 
-* Der Ausdruck gesunder Menschenverstand bedeutet den einfachen, erfahrungsbezogenen und allgemein geteilten Verstand des Menschen bzw. dessen natürliches Urteilsvermögen.
+- Der Ausdruck gesunder Menschenverstand bedeutet den einfachen, erfahrungsbezogenen und allgemein geteilten Verstand des Menschen bzw. dessen natürliches Urteilsvermögen.
 
 ## Social Engineering
 
@@ -155,62 +155,62 @@ Lateral movement refers to the techniques cyber attackers use to move through a 
 
 Kann durch die folgenden 4 Phasen beschrieben werden:
 
-### **1. Planen**
+### 1. Planen
 
-* **Zielsetzungen** / Rahmenbedingungen
+- **Zielsetzungen** / Rahmenbedingungen
 
   =&gt; Konkrete Formulierung des zu erreichenden Ziels ist zwingend nötig - mitunter als Basis der Erfolgsmessung
 
-  * Vorgaben vom Auftraggeber
-    * Auftrag
-    * Ressourcen
-    * Zeiten
-    * Ziele
-  * Mängel aus Audit-Bericht
-  * Workshop mit relevanten Akteuren
+  - Vorgaben vom Auftraggeber
+    - Auftrag
+    - Ressourcen
+    - Zeiten
+    - Ziele
+  - Mängel aus Audit-Bericht
+  - Workshop mit relevanten Akteuren
 
-* **Konzept**
-  * Zielgruppen
-  * Rahmenbedingungen \(z.B. Vorgaben, zeitliche Verfügbarkeit des Zielpublikums\)
-  * Inhalte/Themen Zielpublikum wählen
-    * Mgmt \(Verantwortung des Mgmt, Z.B. Review von Access Rights\)
-    * Azubi \(Wanderprister\)
-    * Mitarbeitende \(Bezug zum Privaten\)
-  * Medium /  Kommunikations-Art, -Mittel, -Medien
-  * Erfolgskontrolle \(Messmethode, Reporting\)
-  * Kosten
-* **Kampagne**
-  * Marke Informationssicherheit
-    * Logo
-    * Gesicht CISO
-  * Kampagne Drehbuch
-    * Pilotgruppe
-  * Basis anlegen
-    * Reglemente anpassen
-    * Intranet
-    * Glossar
-* **Auftakt** \(Interesse / Aufmerksamkeit wecken\)
-  * Massnahmen für den Kampagnenstart
-    * Veranstaltungen
-    * InfoEmail
-    * Poster / Plakate / Comics
-    * Headline in Hauszeitung
-    * OnePager/Broschüre
-    * Aufsteller für den Arbeitsplatz
-    * Phishing Angriff
-    * Start an Aktualität ausrichten \(Hohe Medien Präsenz eines Vorfalls nutzen\)
-* **Erfolgreich Phishen**
-  * Köder
-    * natürliche Neugier der Opfer ansprechen
-    * Post vom Anwalt- Masche
-    * Kreditkarten/Bankkonto Sperrung androhen
-  * Gefühl der Dringlichkeit
-    * Angebot limitieren
-    * Gefahr, wenn nicht sofort gehandelt wird
-  * Imitieren vertrauenswürdige Marken
-    * Link beschriften
-    * Komplexer Aufbau
-* **Meldung an MELANI und Provider**
+- **Konzept**
+  - Zielgruppen
+  - Rahmenbedingungen \(z.B. Vorgaben, zeitliche Verfügbarkeit des Zielpublikums\)
+  - Inhalte/Themen Zielpublikum wählen
+    - Mgmt \(Verantwortung des Mgmt, Z.B. Review von Access Rights\)
+    - Azubi \(Wanderprister\)
+    - Mitarbeitende \(Bezug zum Privaten\)
+  - Medium / Kommunikations-Art, -Mittel, -Medien
+  - Erfolgskontrolle \(Messmethode, Reporting\)
+  - Kosten
+- **Kampagne**
+  - Marke Informationssicherheit
+    - Logo
+    - Gesicht CISO
+  - Kampagne Drehbuch
+    - Pilotgruppe
+  - Basis anlegen
+    - Reglemente anpassen
+    - Intranet
+    - Glossar
+- **Auftakt** \(Interesse / Aufmerksamkeit wecken\)
+  - Massnahmen für den Kampagnenstart
+    - Veranstaltungen
+    - InfoEmail
+    - Poster / Plakate / Comics
+    - Headline in Hauszeitung
+    - OnePager/Broschüre
+    - Aufsteller für den Arbeitsplatz
+    - Phishing Angriff
+    - Start an Aktualität ausrichten \(Hohe Medien Präsenz eines Vorfalls nutzen\)
+- **Erfolgreich Phishen**
+  - Köder
+    - natürliche Neugier der Opfer ansprechen
+    - Post vom Anwalt- Masche
+    - Kreditkarten/Bankkonto Sperrung androhen
+  - Gefühl der Dringlichkeit
+    - Angebot limitieren
+    - Gefahr, wenn nicht sofort gehandelt wird
+  - Imitieren vertrauenswürdige Marken
+    - Link beschriften
+    - Komplexer Aufbau
+- **Meldung an MELANI und Provider**
 
   • 1 Woche im Voraus
 
@@ -218,95 +218,94 @@ Kann durch die folgenden 4 Phasen beschrieben werden:
 
   • Rückmeldungen allfällig eingegangener Meldung
 
-### **2. Umsetzen**
+### 2. Umsetzen
 
-* **Schulungen**
-  * Face2Face
-    * Vortrag
-    * Workshop
-    * Zeiten
-    * Ort / Räumlichkeiten • Gruppengrösse
-    * Fragerunde
-  * Online
-    * Medium
-      * Web Based Training WBT / Computer Based Training CBT
-      * Video
-      * Automatisierte Slideshow
-    * Inhalt
-      * StandardInhalte
-      * Individualisierte Inhalte
-      * Sprache
-    * Verbreitung
-  * Zielgruppen
-    * Management
-    * Mitarbeitende
-    * Auszubildende
-    * ICT Mitarbeitende
-    * Spezifische Gruppen
-  * Grundlagen \(z.B. Weisungen, Gesetze\)
-  * Schwergewichte definieren
-  * Rahmenbedingungen
-  * Qualitätskontrolle \(Teilnahme und Wissen\)
-* **Begleitende Massnahmen** zum Hochhalten der Aufmerksamkeit
-  * Aufmerksamkeit hoch halten
-  * Berichte in der Hauszeitung
-  * Newsletter / Video / Comics
-  * Feedback zu aktuellen Vorfällen
-  * Broschüre / Flyer / OnePager
-  * Bewerbung Awareness Trainings 
-  * Wettbewerb \(Auszeichnungen / Preise\)
-  * Plakate / Tablett Unterlagen
-* **Give Aways**
-  * Schreibtisch Unterlagen
-  * Notizblöcke / Schreibmittel
-  * Kleine Präsente mit Schutzwirkung
-    * RFID/NFC Protector
-    * Sonnencreme, Sonnenhut 
-    * Vitamine C
-  * Postkarten
-  * Spielkarten
+- **Schulungen**
+  - Face2Face
+    - Vortrag
+    - Workshop
+    - Zeiten
+    - Ort / Räumlichkeiten • Gruppengrösse
+    - Fragerunde
+  - Online
+    - Medium
+      - Web Based Training WBT / Computer Based Training CBT
+      - Video
+      - Automatisierte Slideshow
+    - Inhalt
+      - StandardInhalte
+      - Individualisierte Inhalte
+      - Sprache
+    - Verbreitung
+  - Zielgruppen
+    - Management
+    - Mitarbeitende
+    - Auszubildende
+    - ICT Mitarbeitende
+    - Spezifische Gruppen
+  - Grundlagen \(z.B. Weisungen, Gesetze\)
+  - Schwergewichte definieren
+  - Rahmenbedingungen
+  - Qualitätskontrolle \(Teilnahme und Wissen\)
+- **Begleitende Massnahmen** zum Hochhalten der Aufmerksamkeit
+  - Aufmerksamkeit hoch halten
+  - Berichte in der Hauszeitung
+  - Newsletter / Video / Comics
+  - Feedback zu aktuellen Vorfällen
+  - Broschüre / Flyer / OnePager
+  - Bewerbung Awareness Trainings
+  - Wettbewerb \(Auszeichnungen / Preise\)
+  - Plakate / Tablett Unterlagen
+- **Give Aways**
+  - Schreibtisch Unterlagen
+  - Notizblöcke / Schreibmittel
+  - Kleine Präsente mit Schutzwirkung
+    - RFID/NFC Protector
+    - Sonnencreme, Sonnenhut
+    - Vitamine C
+  - Postkarten
+  - Spielkarten
 
 ### 3. Messen
 
-* Return on Investment
-* Vor und nach Kampagne messen
-* Messgrössen
-  * Intranet Zugriffe
-  * Feedback aus Face to Face Schulung
-  * Auswertung Resultate Schulung
-  * Wettbewerbsresultate 
-  * Angriff \(Social Engineering / Phishing Mail\)
+- Return on Investment
+- Vor und nach Kampagne messen
+- Messgrössen
+  - Intranet Zugriffe
+  - Feedback aus Face to Face Schulung
+  - Auswertung Resultate Schulung
+  - Wettbewerbsresultate
+  - Angriff \(Social Engineering / Phishing Mail\)
 
 ### 4. Reporting
 
-* Gegenüber Auftraggeber
-  * Vorgehen
-  * Erkenntnisse,Messresultate
-  * Aufwand
-  * Lessons Learned
-* Gegenüber Zielpublikum
-  * Erfolgsmeldung
+- Gegenüber Auftraggeber
+  - Vorgehen
+  - Erkenntnisse,Messresultate
+  - Aufwand
+  - Lessons Learned
+- Gegenüber Zielpublikum
+  - Erfolgsmeldung
 
 ## Gruppenarbeit Awareness-Kamapgne
 
-* **Golden Rules**
-  * Eigenverantwortung und Verhalten bei Vorfällen
-  * Sicherheit am Arbeitsplatz und Umgang mit Informationen
-  * Social Engineering und Umgang mit externen Personen
-  * Umgang mit Passwörtern, E-Mail, Internet und Cloud-Diensten
-  * Schutz vor Phishing und Ransomware
-  * Sicherheit unterwegs sowie Nutzung von WLAN, mobiler Geräte und Speichermedien
-  * Umgang mit Social Media
-* **Verbesserungen**
-  * Arbeitssicherheitsschulung bei Einführung neuer Mitarbeiter wird mit IT-Sicherheit erweitert
-  * Neues E-Learning für alle Mitarbeiter, bei Neuen Teil des Einführungsprogramm
-  * Klickrate der geplanten Phishing-Kampagnen beträgt maximal 20%, gemäss Carlos besser 15%
-* **Umfang der Kampagne**
-  * Big Bang, Bildschirmschoner "Du wurdest gehackt"
-  * Security Awareness Schulung
-  * Live-Hacking Event
-  * Intranet überarbeiten
-  * E-Learning
-  * Phishing Reporting \(über Outlook Add-In\)
-  * Phishing-Service
-
+- **Golden Rules**
+  - Eigenverantwortung und Verhalten bei Vorfällen
+  - Sicherheit am Arbeitsplatz und Umgang mit Informationen
+  - Social Engineering und Umgang mit externen Personen
+  - Umgang mit Passwörtern, E-Mail, Internet und Cloud-Diensten
+  - Schutz vor Phishing und Ransomware
+  - Sicherheit unterwegs sowie Nutzung von WLAN, mobiler Geräte und Speichermedien
+  - Umgang mit Social Media
+- **Verbesserungen**
+  - Arbeitssicherheitsschulung bei Einführung neuer Mitarbeiter wird mit IT-Sicherheit erweitert
+  - Neues E-Learning für alle Mitarbeiter, bei Neuen Teil des Einführungsprogramm
+  - Klickrate der geplanten Phishing-Kampagnen beträgt maximal 20%, gemäss Carlos besser 15%
+- **Umfang der Kampagne**
+  - Big Bang, Bildschirmschoner "Du wurdest gehackt"
+  - Security Awareness Schulung
+  - Live-Hacking Event
+  - Intranet überarbeiten
+  - E-Learning
+  - Phishing Reporting \(über Outlook Add-In\)
+  - Phishing-Service

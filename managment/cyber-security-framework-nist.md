@@ -1,85 +1,82 @@
 # Cyber Security Framework \(NIST\)
 
-## **Standards**
+## Standards
 
-* NIST
-  * siehe unten
-* IKT Minimalstandard \(Bund Schweiz BWL\)
-  * Kein eigenständiger Standard, sondern basiert auf dem NIST Cyber Security Framework Core in reduziertem Umfang
-  * Wo sinnvoll, wurde er mit weiteren anerkannten Standards ergänzt
-  * Er soll einen einfachen Einstieg in die Thematik Cyber Security ermöglichen und trotzdem ein hohes Schutzniveau gewährleisten
-* ISO 2700x
-  * Einer der bekanntesten Sicherheitsstandards
-  * Ausgereiftes Framework, das sich auf die Informationssicherheit
+- NIST
+  - siehe unten
+- IKT Minimalstandard \(Bund Schweiz BWL\)
+  - Kein eigenständiger Standard, sondern basiert auf dem NIST Cyber Security Framework Core in reduziertem Umfang
+  - Wo sinnvoll, wurde er mit weiteren anerkannten Standards ergänzt
+  - Er soll einen einfachen Einstieg in die Thematik Cyber Security ermöglichen und trotzdem ein hohes Schutzniveau gewährleisten
+- ISO 2700x
+
+  - Einer der bekanntesten Sicherheitsstandards
+  - Ausgereiftes Framework, das sich auf die Informationssicherheit
 
     konzentriert
 
-  * Sehr umfassend und breit angelegt
-* BSI IT Grundschutz Kataloge
-* COBIT 5
-* ISA / IEC 62443
-* Cloud Security Alliance Controls Matrix
-* Cloud Standard
-* Spezifische Standards
-  * Datenschutz
-    * DSG
-    * EU-DSGVO
-    * ISO 27701
-  * Eidgenössisches Bundesgesetz über den Datenschutz \[www.edoeb.admin.ch\] Europäische Datenschutz Grundverordnung \[ec.europa.eu\]
+  - Sehr umfassend und breit angelegt
+
+- BSI IT Grundschutz Kataloge
+- COBIT 5
+- ISA / IEC 62443
+- Cloud Security Alliance Controls Matrix
+- Cloud Standard
+- Spezifische Standards
+
+  - Datenschutz
+    - DSG
+    - EU-DSGVO
+    - ISO 27701
+  - Eidgenössisches Bundesgesetz über den Datenschutz \[www.edoeb.admin.ch\] Europäische Datenschutz Grundverordnung \[ec.europa.eu\]
 
     Erweiterung zu ISO/IEC 27001 / 27002 für das Datenschutzmanagement
 
     Finanzbranche
 
-    * PCI DSS
-    * SWIFT
-    * FINMA RS
+    - PCI DSS
+    - SWIFT
+    - FINMA RS
 
-  * Umgang mit Kreditkarteninformationen \[www.pcisecuritystandards.org\] Sicherer Datenaustausch von Bankdaten \[www.swift.com\]
+  - Umgang mit Kreditkarteninformationen \[www.pcisecuritystandards.org\] Sicherer Datenaustausch von Bankdaten \[www.swift.com\]
 
     Richtlinien für den Schweizer Finanzmarkt \[www.finma.ch/de/dokumente\]
 
     Gesundheitsbranche
 
-    * HIPAA US-Gesetzgebung zum Schutz von Gesundheit und medizinischen Informationen \[www.hhs.gov/hipaa\]
+    - HIPAA US-Gesetzgebung zum Schutz von Gesundheit und medizinischen Informationen \[www.hhs.gov/hipaa\]
 
 ### NIST vs. 27002
 
 ![](../.gitbook/assets/image%20%28366%29.png)
 
+## NIST Cyber Security Framework \(CSF\)
 
-
-## **NIST Cyber Security Framework \(CSF\)** 
-
-* **N**ational **I**nstitute for **S**tandard and **T**echnology ist eine Regierungsbehörde der US Behörde • 2014 **Erste Version des Cyber Security Frameworks\(CSF\)** zum Schutz vor kritischen
+- **N**ational **I**nstitute for **S**tandard and **T**echnology ist eine Regierungsbehörde der US Behörde • 2014 **Erste Version des Cyber Security Frameworks\(CSF\)** zum Schutz vor kritischen
 
   Infrastrukturen
 
-* Das CSF besteht aus 3 Teilen, dem **Framework Core**, dem **Framework Profile** und den
+- Das CSF besteht aus 3 Teilen, dem **Framework Core**, dem **Framework Profile** und den
 
   **Implementation Tiers**
 
-* Wird sowohl von öffentlichen , wie auch privaten Organisationen angewendet
-* Insgesamt ist das **Dokument allgemein gehalten** und geht nicht allzu sehr in die Tiefe. So will das NIST sicherstellen, dass möglichst viele Einrichtungen mit verschiedenen Anforderungen von den Richtlinien profitieren.
-* «Tiers» im NIST CSF entspricht dem «Schutzniveau» im IKT Minimalstandard
-* Cyber ist ein Prefix. Alles, was mit dem «Internet» zu tun hat, fällt ebenfalls unter die Kategorie Cyber.
-* **Anwendbarkeit**: Das CSF eignet sich für Unternehmen aller...
-  * Grössen
-  * Branchen
-  * Reifegrade \(Maturity\)
-  * Es ist nicht nur für kritische Infrastrukturen!
+- Wird sowohl von öffentlichen , wie auch privaten Organisationen angewendet
+- Insgesamt ist das **Dokument allgemein gehalten** und geht nicht allzu sehr in die Tiefe. So will das NIST sicherstellen, dass möglichst viele Einrichtungen mit verschiedenen Anforderungen von den Richtlinien profitieren.
+- «Tiers» im NIST CSF entspricht dem «Schutzniveau» im IKT Minimalstandard
+- Cyber ist ein Prefix. Alles, was mit dem «Internet» zu tun hat, fällt ebenfalls unter die Kategorie Cyber.
+- **Anwendbarkeit**: Das CSF eignet sich für Unternehmen aller...
+  - Grössen
+  - Branchen
+  - Reifegrade \(Maturity\)
+  - Es ist nicht nur für kritische Infrastrukturen!
 
 ![](../.gitbook/assets/image%20%28238%29.png)
 
 {% embed url="https://www.nist.gov/cyberframework" %}
 
-
-
-
-
 ![](../.gitbook/assets/image%20%28382%29.png)
 
-## Aufbau  NIST CSF
+## Aufbau NIST CSF
 
 ### Core
 
@@ -166,28 +163,22 @@ Eine Reihe von Aktivitäten, Ergebnissen und informativen Hinweisen. Enthält 
   </tbody>
 </table>
 
-
-
 ### Profile
 
-**Legt fest, welche Industriestandards benötigt werden und welche Vorgehensweisen von ebendiesen vorgeschrieben werden. Dies soll einfach ermöglichen, weitere Verbesserungspunkt in den eigenen Prozessen festzustellen, um sich fortlaufend zu verbessern.** 
+**Legt fest, welche Industriestandards benötigt werden und welche Vorgehensweisen von ebendiesen vorgeschrieben werden. Dies soll einfach ermöglichen, weitere Verbesserungspunkt in den eigenen Prozessen festzustellen, um sich fortlaufend zu verbessern.**
 
 Beschreibt die Angleichung der Normen, Richtlinien und Praktiken zum Framework Core in einem bestimmten Implementierungsszenario. Profile können verwendet werden, um Möglichkeiten zur Verbesserung der Cybersicherheit durch den Soll- / Ist- Vergleich aufzuzeigen.
 
-* Massnahmen zur Verbesserung der Widerstandsfähigkeit im Bezug auf Cybersicherheit
-* **Gaps zwischen dem "Aktuellen Profil» \("Ist-Zustand"\) und dem "Zielprofil" \("Soll-Zustand"\)**
-* Profile verfolgen Ergebnisse sowie Verpflichtungen und Anforderungen an die Widerstandsfähigkeit des Unternehmens. Somit benötigt ein Unternehmen ein solides Verständnis der Sachverhalte, bevor es seine Cybersicherheitsziele umsetzen und erreichen kann.
-* Im Wesentlichen sind die Profile eine Möglichkeit um festzustellen, wo sich aktuell die Widerstandsfähigkeit im Bezug auf Cybersicherheit befindet und wo sie sein sollte.
-* Profile sind ein Hilfsmittel, um eine Roadmap sowie ein Budget zum Management der Resilienz bezüglich Cyberrisiken zu erstellen.
-* Ist ein Unternehmen besonders gross oder komplex, kann es mehrere Profile entwickeln, die bspw. jeweils auf ein Business Prozess oder ein Geschäftsfeld abgestimmt sind.
+- Massnahmen zur Verbesserung der Widerstandsfähigkeit im Bezug auf Cybersicherheit
+- **Gaps zwischen dem "Aktuellen Profil» \("Ist-Zustand"\) und dem "Zielprofil" \("Soll-Zustand"\)**
+- Profile verfolgen Ergebnisse sowie Verpflichtungen und Anforderungen an die Widerstandsfähigkeit des Unternehmens. Somit benötigt ein Unternehmen ein solides Verständnis der Sachverhalte, bevor es seine Cybersicherheitsziele umsetzen und erreichen kann.
+- Im Wesentlichen sind die Profile eine Möglichkeit um festzustellen, wo sich aktuell die Widerstandsfähigkeit im Bezug auf Cybersicherheit befindet und wo sie sein sollte.
+- Profile sind ein Hilfsmittel, um eine Roadmap sowie ein Budget zum Management der Resilienz bezüglich Cyberrisiken zu erstellen.
+- Ist ein Unternehmen besonders gross oder komplex, kann es mehrere Profile entwickeln, die bspw. jeweils auf ein Business Prozess oder ein Geschäftsfeld abgestimmt sind.
 
 #### Einflussfaktoren auf ein Profil
 
 ![](../.gitbook/assets/image%20%28378%29.png)
-
-
-
-
 
 ### Implementation Tiers:
 
@@ -203,29 +194,18 @@ Die vier Framework-Implementierungsebenen \(«Tiers»\) beschreiben den untersch
 
 ![](../.gitbook/assets/image%20%28374%29.png)
 
-## 
+##
 
 ## Cyber Kill Chain
 
 ![](../.gitbook/assets/image%20%28387%29.png)
 
-
-
 Bedienung NIST CSF
 
-
-
-NIST CSF / IKT Minimalstandard Selbsteinschätzung 
-
-
+NIST CSF / IKT Minimalstandard Selbsteinschätzung
 
 Umsetzungsziele \(Implementierungs-Tiers\) formulieren
 
-
-
 Umsetzungspläne bewirtschaften
 
-
-
- NIST CSF / IKT Minimalstandard Selbsteinschätzung kommunizieren
-
+NIST CSF / IKT Minimalstandard Selbsteinschätzung kommunizieren

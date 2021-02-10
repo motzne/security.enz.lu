@@ -2,18 +2,18 @@
 
 ![](../.gitbook/assets/image%20%28353%29.png)
 
-## **Motivation**
+## Motivation
 
-* Forensische Untersuchungen werden üblicherweise infolge kritischer Sicherheitsvorfälle \(mit potentiell kriminellem Hintergrund\) oder klar kriminellen Handlungen initiiert
-* Dazu werden meist auch digitale Informationen benötigt, welche üblicherweise im Rahmen einer Hausdurchsuchung erhoben werden
+- Forensische Untersuchungen werden üblicherweise infolge kritischer Sicherheitsvorfälle \(mit potentiell kriminellem Hintergrund\) oder klar kriminellen Handlungen initiiert
+- Dazu werden meist auch digitale Informationen benötigt, welche üblicherweise im Rahmen einer Hausdurchsuchung erhoben werden
 
-## **Zielsetzung**
+## Zielsetzung
 
-* Forensic Readiness nutzt die **Ruhe vor dem Sturm** um
-  * vorausschauend die **Qualität der digitalen Spurenlage zu optimieren**
-  * die **Ermittlungsprozesse organisatorisch** und **technisch** zu **planen**
+- Forensic Readiness nutzt die **Ruhe vor dem Sturm** um
+  - vorausschauend die **Qualität der digitalen Spurenlage zu optimieren**
+  - die **Ermittlungsprozesse organisatorisch** und **technisch** zu **planen**
 
-## **Begriffe**
+## Begriffe
 
 <table>
   <thead>
@@ -64,7 +64,7 @@
   </tbody>
 </table>
 
-## 10 Schritte zur to Forensic Readiness 
+## 10 Schritte zur to Forensic Readiness
 
 engl. 10 Steps to Forensic Readiness
 
@@ -255,6 +255,3 @@ engl. 10 Steps to Forensic Readiness
     </tr>
   </tbody>
 </table>
-
-
-

@@ -5,18 +5,18 @@ BCM umfasst damit die Phasen der Planung und Umsetzung sowie des Controllings un
 
 ## Ziel:
 
-* Geschäftsfortgang sicherstellen, Weiterbetrieb
-* Weitere Schäden verhindern
-* Recovery: Möglichst schnell ins Daily Business zurück
+- Geschäftsfortgang sicherstellen, Weiterbetrieb
+- Weitere Schäden verhindern
+- Recovery: Möglichst schnell ins Daily Business zurück
 
 ### Fokus:
 
 Sicherstellen des Geschäftsfortgangs:
 
-* Geschäftsprozesse
-* Informationen
-* Applikationen
-* Systeme/Netzwerke
+- Geschäftsprozesse
+- Informationen
+- Applikationen
+- Systeme/Netzwerke
 
 **=&gt; Bei der Risikoanalyse geht man von Bottom-Up aus, BCM ist Top Down der 5 wichtigsten Geschäftsprozesse**
 
@@ -106,38 +106,38 @@ Sicherstellen des Geschäftsfortgangs:
 
 ## Themen:
 
-* Prioritäten der Geschäftsprozesse festlegen
-* Notfall-Organisation
-* Alarmierung / Eskalation 
-* Notfallhandbuch
-* Notfallübung
-* Informationspolitik bei einem Vorfall
+- Prioritäten der Geschäftsprozesse festlegen
+- Notfall-Organisation
+- Alarmierung / Eskalation
+- Notfallhandbuch
+- Notfallübung
+- Informationspolitik bei einem Vorfall
 
 ### Sicht Informatik
 
 Welche Systeme sind nötig um die wichtigsten Geschäftsprozesse zu betreiben?
 
-* Liste der Applikationen
-* Liste der Systeme
-* Klären der Abhängigkeiten
-  * Applikation
-  * Systeme
-  * Netzwerke
-  * Räume inkl. Arbeitsplätze
+- Liste der Applikationen
+- Liste der Systeme
+- Klären der Abhängigkeiten
+  - Applikation
+  - Systeme
+  - Netzwerke
+  - Räume inkl. Arbeitsplätze
 
 ![](../.gitbook/assets/image%20%28150%29.png)
 
 ## Die grössten Fehler in Krisensituationen
 
-* Fehlende Akzeptanz des Ereignisses \(Das kann doch gar nicht sein! Ist es wirklich so schlimm? etc.\)
-* Meldewege sind oft unklar \(Zuständigkeiten, etc.\)
-* Die Funktionsträger sind trotz vorgängiger Notstandsübungen zu wenig auf ein mögliches Ereignis sensibilisiert
-* Mobiltelefone sind oft unbrauchbar  Netzüberlastung
-* Interventionskräfte sind nicht oder zu wenig bzgl. IT-Belange
+- Fehlende Akzeptanz des Ereignisses \(Das kann doch gar nicht sein! Ist es wirklich so schlimm? etc.\)
+- Meldewege sind oft unklar \(Zuständigkeiten, etc.\)
+- Die Funktionsträger sind trotz vorgängiger Notstandsübungen zu wenig auf ein mögliches Ereignis sensibilisiert
+- Mobiltelefone sind oft unbrauchbar  Netzüberlastung
+- Interventionskräfte sind nicht oder zu wenig bzgl. IT-Belange
 
   sensibilisiert
 
-* Die Presse und die Medien bedrängten Einsatzkräfte und Mitarbeitende
+- Die Presse und die Medien bedrängten Einsatzkräfte und Mitarbeitende
 
 ![](../.gitbook/assets/image%20%28155%29.png)
 
@@ -145,34 +145,34 @@ Welche Systeme sind nötig um die wichtigsten Geschäftsprozesse zu betreiben?
 
 ## Sofortmassnahmen
 
-* Massnahmen, um weiteren Schaden zu verhindern
-* Massnahmen, um das Schadensausmass zu reduzieren
-* Werden durch die jeweiligen Stäbe erarbeitet
-* Werden ad hoc definiert
+- Massnahmen, um weiteren Schaden zu verhindern
+- Massnahmen, um das Schadensausmass zu reduzieren
+- Werden durch die jeweiligen Stäbe erarbeitet
+- Werden ad hoc definiert
 
 ## Vorbehaltene Entschlüsse
 
-* Vorgängig erarbeitete Massnahmen für einen Fall X, resp. Y, ....
-* Werden im Notfall zur Unterstützung eingesetzt
-* Bilden Handlungs- und Entscheidungsspielraum
-* Gehören zur Notfallplanung
-* Im wesentlichen Denkarbeit!!
-* Lösungen sind nicht nur IT-bezogen, sondern kommen aus allen Fachabteilungen!
+- Vorgängig erarbeitete Massnahmen für einen Fall X, resp. Y, ....
+- Werden im Notfall zur Unterstützung eingesetzt
+- Bilden Handlungs- und Entscheidungsspielraum
+- Gehören zur Notfallplanung
+- Im wesentlichen Denkarbeit!!
+- Lösungen sind nicht nur IT-bezogen, sondern kommen aus allen Fachabteilungen!
 
 ### Beispiele
 
-* Ersatz Serverraum 
-* Standort mit entsprechender Versorgung
-* Beschaffung HW / Netzwerk
-* Prioritäten der Wiederinbetriebnahme
-* Mini-Office falls Geschäftsräume nicht mehr nutzbar
-* Personalbedarf \(Wer arbeitet im Minioffice\)
-* Definierte Räume \(Ansprechpartner, Zugänglichkeit, ...\)
-* Definierte Infrastruktur \(HW, SW, Kommuikation\)
-* Vorgehen Ausfall Telefonanlage
-* Ersatzlösung mit Mobiltelefonen • Vorbereitete SIM-Karten
-* Vorbereitete Nummernliste
-* Instruktionen für den Einsatz
+- Ersatz Serverraum
+- Standort mit entsprechender Versorgung
+- Beschaffung HW / Netzwerk
+- Prioritäten der Wiederinbetriebnahme
+- Mini-Office falls Geschäftsräume nicht mehr nutzbar
+- Personalbedarf \(Wer arbeitet im Minioffice\)
+- Definierte Räume \(Ansprechpartner, Zugänglichkeit, ...\)
+- Definierte Infrastruktur \(HW, SW, Kommuikation\)
+- Vorgehen Ausfall Telefonanlage
+- Ersatzlösung mit Mobiltelefonen • Vorbereitete SIM-Karten
+- Vorbereitete Nummernliste
+- Instruktionen für den Einsatz
 
 ## Kritische Infrastrukturen
 
@@ -224,44 +224,44 @@ Der Führungsrythmus kann mit folgenden 5 Schritten beschrieben werden:
 
 ## Notfallorganisation
 
-* Definition der Stäbe
-* Festlegen der Rollen
-* Pflichtenheft der einzelnen Aufgaben
-* Klären der Verantwortlichkeiten / Kompetenzen
-* Meldeweg
-* Definition der Entscheidungswege / Erreichbarkeit
-* Festlegen der Stellvertretung
+- Definition der Stäbe
+- Festlegen der Rollen
+- Pflichtenheft der einzelnen Aufgaben
+- Klären der Verantwortlichkeiten / Kompetenzen
+- Meldeweg
+- Definition der Entscheidungswege / Erreichbarkeit
+- Festlegen der Stellvertretung
 
 ### Notfallhandbuch
 
 Einfache Anleitung zur Bewältigung des Notfalls Charakteristik:
 
-* KISS \(Keep it stupid simple\)
-* Alarmierungsmatrix 
-* Checklistenartig
-* Auf das Wesentlichste konzentriert
-* Up to date \(Change Management\)
-* Eingeübt
-* Im Notfall verfügbar
+- KISS \(Keep it stupid simple\)
+- Alarmierungsmatrix
+- Checklistenartig
+- Auf das Wesentlichste konzentriert
+- Up to date \(Change Management\)
+- Eingeübt
+- Im Notfall verfügbar
 
 ### Umgang mit der Presse und den Medien
 
-* Sachlich \(keine Übertreibungen, Mutmassungen, etc.\)
-* Korrekt \(nur Fakten\)
-* Freundlich, zuvorkommend, vorbereitet
-* Medienleute sind Partner, nicht Feinde!
-* Nicht vertuschen, verweigern, etc.
-* Keine Aussagen im Stile von „No Comment“ o.ä.
-* Kommunikation ist Chefsache!
+- Sachlich \(keine Übertreibungen, Mutmassungen, etc.\)
+- Korrekt \(nur Fakten\)
+- Freundlich, zuvorkommend, vorbereitet
+- Medienleute sind Partner, nicht Feinde!
+- Nicht vertuschen, verweigern, etc.
+- Keine Aussagen im Stile von „No Comment“ o.ä.
+- Kommunikation ist Chefsache!
 
 ## Aktivitäten:
 
-1. Definition und Festlegung des Umfangs des BCM 
+1. Definition und Festlegung des Umfangs des BCM
 2. Verankerung des BCM in der Unternehmensorganisation
 3. Schaffung einer der Unternehmensorganisation angepassten Governance-Struktur
 4. Definition der BCM Rollen und Verantwortlichkeiten
 5. Definition von Krisenszenarien und deren Auswirkungen auf die Ressourcen des Unternehmens \(Planungsgrundlage\)
-6. Identifikation der geschäftskritischen Ressourcen und Prozesse sowie Analyse der Auswirkung von Ausfällen im Rahmen der Business Impact Analyse \(BIA\) 
+6. Identifikation der geschäftskritischen Ressourcen und Prozesse sowie Analyse der Auswirkung von Ausfällen im Rahmen der Business Impact Analyse \(BIA\)
 
 ### IT-Service Continuity Managements \(ITSCM\)
 
@@ -275,30 +275,29 @@ ITSCM stellt einerseits sicher, dass der Kunde im Katastrophenfall mit einem def
 
 ### Notfallvorsorge muss immer auf das eigene Unternehmen abgestimmt sein. Es gibt keine generischen oder allgemein gültigen Konzepte. Welches sind aus Ihrer Sicht oder Erfahrung oft angetroffene Schwächen in Notfallkonzepten und warum? Nennen Sie vier.
 
-| Schwäche | Beschreibung |
-| :--- | :--- |
+| Schwäche       | Beschreibung                                                                                                            |
+| :------------- | :---------------------------------------------------------------------------------------------------------------------- |
 | Falscher Fokus | Fokus liegt nicht auf dem 5 wichtigsten Geschäftsprozesse und/oder es wurde nicht an alle Applikationen/Systeme gedacht |
-| Rollen | Rollen im Notfall sind nicht klar definiert, Personen nicht anwesend |
-| Handbuch | Viel zu detailliert/kompliziert resp. von den Verantwortlichen nie eingeübt. |
-| Kommunikation | Es wurden komische resp. für aussenstehende falsche Aussagen kommuniziert. Eindruck von Chaos entstand |
+| Rollen         | Rollen im Notfall sind nicht klar definiert, Personen nicht anwesend                                                    |
+| Handbuch       | Viel zu detailliert/kompliziert resp. von den Verantwortlichen nie eingeübt.                                            |
+| Kommunikation  | Es wurden komische resp. für aussenstehende falsche Aussagen kommuniziert. Eindruck von Chaos entstand                  |
 
 ### Definieren Sie «Sofortmassnahmen» und «vorbehaltene Entschlüsse». Was sind die Unterschiede?
 
 #### Sofortmassnahmen:
 
-* Massnahmen um weiteren Schaden zu verhindern
-* Massnahmen zum das Schadensausmass zu reduzieren
-* Werden durch die jeweiligen Stäbe erarbeitet
-* Werden **ad hoc** definiert
+- Massnahmen um weiteren Schaden zu verhindern
+- Massnahmen zum das Schadensausmass zu reduzieren
+- Werden durch die jeweiligen Stäbe erarbeitet
+- Werden **ad hoc** definiert
 
-#### **Vorbehaltene Entschlüsse**
+#### Vorbehaltene Entschlüsse
 
-* **Vorgängig** erarbeitete Massnahmen für einen Fall X, resp. Y, ....
-* Werden im Notfall zur Unterstützung eingesetzt
-* Bilden Handlungs- und Entscheidungsspielraum
-* Gehören zur Notfallplanung
-* Im wesentlichen Denkarbeit!!
-* **Lösungen sind nicht nur IT-bezogen, sondern kommen auch aus den Fachabteilungen**
+- **Vorgängig** erarbeitete Massnahmen für einen Fall X, resp. Y, ....
+- Werden im Notfall zur Unterstützung eingesetzt
+- Bilden Handlungs- und Entscheidungsspielraum
+- Gehören zur Notfallplanung
+- Im wesentlichen Denkarbeit!!
+- **Lösungen sind nicht nur IT-bezogen, sondern kommen auch aus den Fachabteilungen**
 
 Unterschied: Vorbehaltene Entschlüsse werden vorgängig definiert und werden zurückgehalten, Denkarbeit. Sofortmassnahmen sind mehr ad hoc und werden durch Stäbe im Ereignissfall erarbeitet
-

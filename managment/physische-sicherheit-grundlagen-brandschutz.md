@@ -84,19 +84,19 @@
 
 ## Sicherheitsplanung
 
-### **Grundlagen**
+### Grundlagen
 
 **Schweiz**  
 Ordnung für Leistungen und Honorare der Maschinen- und der Elektroingenieure sowie der Fachingenieure für Gebäudeinstallationen \(SIA\)  
 **Deutschland**  
 Die Honorar Ordnung für Architekten und Ingenieure \(HOAI\)
 
-### **Ein Projektablauf kann in die folgenden 4 Hauptphasen \(SIA\) unterteilt werden:**
+### Ein Projektablauf kann in die folgenden 4 Hauptphasen \(SIA\) unterteilt werden:
 
-* Grundlagenermittlung / Sicherheitskonzept \(Teilleistung 0\)
-* Vorprojekt \(Teilleistungen 1 und 2\)
-* Projekt \(Teilleistungen 3 bis 9\)
-* Ausführung Teilleistungen 10 bis 15\)
+- Grundlagenermittlung / Sicherheitskonzept \(Teilleistung 0\)
+- Vorprojekt \(Teilleistungen 1 und 2\)
+- Projekt \(Teilleistungen 3 bis 9\)
+- Ausführung Teilleistungen 10 bis 15\)
 
 ![](../.gitbook/assets/image%20%28128%29.png)
 
@@ -221,15 +221,12 @@ Die Honorar Ordnung für Architekten und Ingenieure \(HOAI\)
    2. Materielle Werte: Sach- und Geldwerte, Kunstgegenstände, etc.
    3. Immaterielle Werte: physische und elektronische Informationsträger
 
-
-
 ## Einbruchmeldeanlagen
 
-### **Überwachungsarten**
+### Überwachungsarten
 
-* Perimeterüberwachung \(Zaun oder Fläche um das Haus\)
-* Peripherieüberwachung \(Fenster, Türen, usw.\)
-* Raumüberwachung \(im Raum drin\)
-* Objektüberwachung \(am Objekt, Bilderrahmen, Vitrine\)
-* Überfallmeldesysteme \(Alarmtaster, Geldscheinkontakt\)
-
+- Perimeterüberwachung \(Zaun oder Fläche um das Haus\)
+- Peripherieüberwachung \(Fenster, Türen, usw.\)
+- Raumüberwachung \(im Raum drin\)
+- Objektüberwachung \(am Objekt, Bilderrahmen, Vitrine\)
+- Überfallmeldesysteme \(Alarmtaster, Geldscheinkontakt\)

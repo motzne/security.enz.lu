@@ -18,22 +18,22 @@
 
 **=&gt; Zentraler Punkt ist dabei nicht nur ob die Signatur stimmt, sondern auch "WER hat diese Signatur erstellt?"**
 
-## **Gesetze, Verordnungen und technische Vorschriften**
+## Gesetze, Verordnungen und technische Vorschriften
 
-* **Bundesgesetz** über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(ZertES\)**
-  * Art. 6 Anforderungen an die Signaturherstellungseinheiten
-  * Art. 7 Anforderungen an alle geregelten Zertifikate
-  * Art. 8 Zusätzliche Anforderungen an qualifizierte Zertifikate
-  * Art. 9 Anforderungen an die Aussteller geregelter Zertifikaten
-  * Art. 17 & Art. 18 - Haftung der Anbieterin von Zertifizierungsdiensten
-* **Verordnung** über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(VZertES\)**
-  * Art. 5 Ausstellung geregelter Zertifikate
-  * Art. 7 Befreiung von der Pflicht des persönlichen Erscheinens --&gt; Online
-* Technische und administrative Vorschriften über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(TAV\)**
-* **OR \(Art. 14 Abs. 2bis\)**
-  * OR Art. 14 Abs. 2bis Unterschrift - Der eigenhändigen Unterschrift gleichgestellt … mit elektronische Signatur
-  * OR Art. 11 Formfreiheit - Form der Verträge grundsätzlich frei \(ausser wo Gesetzt vorgibt\)
-  * OR Art. 59a28 - Haftung für kryptografische Schlüssel
+- **Bundesgesetz** über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(ZertES\)**
+  - Art. 6 Anforderungen an die Signaturherstellungseinheiten
+  - Art. 7 Anforderungen an alle geregelten Zertifikate
+  - Art. 8 Zusätzliche Anforderungen an qualifizierte Zertifikate
+  - Art. 9 Anforderungen an die Aussteller geregelter Zertifikaten
+  - Art. 17 & Art. 18 - Haftung der Anbieterin von Zertifizierungsdiensten
+- **Verordnung** über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(VZertES\)**
+  - Art. 5 Ausstellung geregelter Zertifikate
+  - Art. 7 Befreiung von der Pflicht des persönlichen Erscheinens --&gt; Online
+- Technische und administrative Vorschriften über Zertifizierungsdienste im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate **\(TAV\)**
+- **OR \(Art. 14 Abs. 2bis\)**
+  - OR Art. 14 Abs. 2bis Unterschrift - Der eigenhändigen Unterschrift gleichgestellt … mit elektronische Signatur
+  - OR Art. 11 Formfreiheit - Form der Verträge grundsätzlich frei \(ausser wo Gesetzt vorgibt\)
+  - OR Art. 59a28 - Haftung für kryptografische Schlüssel
 
 ### Formvorschriften
 
@@ -88,14 +88,14 @@
   </tbody>
 </table>
 
-### **Gleichstellung mit der eigenhändigen Unterschrift \(OR Art. 14 Abs. 2bis\)**
+### Gleichstellung mit der eigenhändigen Unterschrift \(OR Art. 14 Abs. 2bis\)
 
 Schlussfolgerung:
 
-* **!!! Nur qualifizierte elektronische Signaturen, die mit einem qualifizierten Zeitstempel verbunden sind, sind der eigenhändigen Unterschrift gleichgestellt \(Art. 14 Abs. 2bis OR\).** 
-* Insbesondere muss diese von einer **anerkannten Anbieterin von Zertifizierungsdiensten ausgestellt** worden sein.
-* In den übrigen Fällen können sich die Vertragsparteien auf das zu verwendende Zertifikat einigen \(«fortgeschrittenes Zertifikat»1\) oder sonst ein Zertifikat\).
-* In der Regel werden «fortgeschrittene Zertifikate» verwendet, wenn keine qualifizierten Zertifikate notwendig sind \(sie sind je nach Herausgeber günstiger, bieten auch ein hohes Mass an Sicherheit und können in den verschiedensten Bereichen angewendet werden\)
+- **!!! Nur qualifizierte elektronische Signaturen, die mit einem qualifizierten Zeitstempel verbunden sind, sind der eigenhändigen Unterschrift gleichgestellt \(Art. 14 Abs. 2bis OR\).**
+- Insbesondere muss diese von einer **anerkannten Anbieterin von Zertifizierungsdiensten ausgestellt** worden sein.
+- In den übrigen Fällen können sich die Vertragsparteien auf das zu verwendende Zertifikat einigen \(«fortgeschrittenes Zertifikat»1\) oder sonst ein Zertifikat\).
+- In der Regel werden «fortgeschrittene Zertifikate» verwendet, wenn keine qualifizierten Zertifikate notwendig sind \(sie sind je nach Herausgeber günstiger, bieten auch ein hohes Mass an Sicherheit und können in den verschiedensten Bereichen angewendet werden\)
 
 ## Haftung
 
@@ -184,17 +184,17 @@ Warum Beweislast-Umkehrung? Erhöht den Druck auf die gesamten Stakeholder:
 
 ![](../.gitbook/assets/image%20%28153%29.png)
 
-|  |  |  |
-| :--- | :--- | :--- |
-| digitales Zertifikat | Art. 2, **lit. f.,** ZertES | digitale Bescheinigung, die den **öffentlichen Schlüssel seinem Inhaber zuordnet** |
-| geregeltes Zertifikat | Art. 2, **lit. g.,**  ZertES | digitales Zertifikat, das die **Anforderungen nach Art. 7** erfüllt und **von einer anerkannten Anbieterin** von Zertifizierungsdiensten **ausgestellt** wurde |
-| qualifiziertes Zertifikat | Art. 2, **lit. h,** ZertES | geregeltes Zertifikat das die **Anforderungen nach Art. 8** erfüllt |
+|                           |                             |                                                                                                                                                                |
+| :------------------------ | :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| digitales Zertifikat      | Art. 2, **lit. f.,** ZertES | digitale Bescheinigung, die den **öffentlichen Schlüssel seinem Inhaber zuordnet**                                                                             |
+| geregeltes Zertifikat     | Art. 2, **lit. g.,** ZertES | digitales Zertifikat, das die **Anforderungen nach Art. 7** erfüllt und **von einer anerkannten Anbieterin** von Zertifizierungsdiensten **ausgestellt** wurde |
+| qualifiziertes Zertifikat | Art. 2, **lit. h,** ZertES  | geregeltes Zertifikat das die **Anforderungen nach Art. 8** erfüllt                                                                                            |
 
-## **Anforderungen Signaturerstellungseinheit**
+## Anforderungen Signaturerstellungseinheit
 
-* Private Schlüssel bleibt immer auf den Token
-* Öffentliche Schlüssel wird weiterverwendet und geteilt
-* Sign\(HASHWERT\) wird dem Token gesendet, die Berechnung mit privaten Schlüssel passiert auf dem TOKEN selber -&gt; Gibt Signatur zurück.
+- Private Schlüssel bleibt immer auf den Token
+- Öffentliche Schlüssel wird weiterverwendet und geteilt
+- Sign\(HASHWERT\) wird dem Token gesendet, die Berechnung mit privaten Schlüssel passiert auf dem TOKEN selber -&gt; Gibt Signatur zurück.
 
 ## UID-Einheiten
 
@@ -202,44 +202,43 @@ Warum Beweislast-Umkehrung? Erhöht den Druck auf die gesamten Stakeholder:
 
 ## Anforderungen an die Aussteller von Zertifikaten \(ab Folie 38\)
 
-* Vorgaben gem. ZertES Art. 9
-  * "kann persönliche Erscheinen ersetzen" --&gt; Kamera mit ID \(analog E-Banking onboarding\)
-* Wer kann dann die Identität "prüfen";
-  * Gemeinden - sind gem. Quovadis für die Beglaubigung zuständig
-  * Post \(von Swisssign\)
-  * Zertifizierungsstelle selber - falls sie ein Office habe
+- Vorgaben gem. ZertES Art. 9
+  - "kann persönliche Erscheinen ersetzen" --&gt; Kamera mit ID \(analog E-Banking onboarding\)
+- Wer kann dann die Identität "prüfen";
+  - Gemeinden - sind gem. Quovadis für die Beglaubigung zuständig
+  - Post \(von Swisssign\)
+  - Zertifizierungsstelle selber - falls sie ein Office habe
 
 ### Anerkennung von Zertifizierungsstellen \(CSPs\):
 
-* KPNG ist in der CH die einzige Anerkennungsstelle
-  * Machen initiale Audits und jährliche Re-Certs bei welchen die Audits durchlaufen werden müssen
+- KPNG ist in der CH die einzige Anerkennungsstelle
+  - Machen initiale Audits und jährliche Re-Certs bei welchen die Audits durchlaufen werden müssen
 
 ## Ausblick: Markt
 
-* QuoVadis; inkl. Service \(Signing Service\)
-* SwissSign; bietet aktuell kein qualifiziertes Zertifikat mehr an
-  * SuisseID; für Authentification und als Qualified Signature
-* SwissID
-  * Target: B2C \(nicht B2B\)
+- QuoVadis; inkl. Service \(Signing Service\)
+- SwissSign; bietet aktuell kein qualifiziertes Zertifikat mehr an
+  - SuisseID; für Authentification und als Qualified Signature
+- SwissID
+  - Target: B2C \(nicht B2B\)
 
 ## Erstellung von qualifizierten Signaturen \(ab Folie 57\)
 
-* Verschiedenste Tools - Grundsatz: "what you see is what you sign"
-* In der CH gibt es keine Vorschriften / Vorgaben für die SWs \(im Gegensatz zur Deutschland\)
-* Zeitstempel ist gem. OR Art. 14 Abs. 2bis festgelegt:
+- Verschiedenste Tools - Grundsatz: "what you see is what you sign"
+- In der CH gibt es keine Vorschriften / Vorgaben für die SWs \(im Gegensatz zur Deutschland\)
+- Zeitstempel ist gem. OR Art. 14 Abs. 2bis festgelegt:
 
 ![](../.gitbook/assets/image%20%28207%29.png)
 
-* Dies führt dazu, dass das Dokument zwei Signaturen besitzt:
-  * **Signatur**; Das Dokument wurde von Person X signiert/unterzeichent
-  * **Zeitstempel**; Das Dokument wurde zu diesem Zeitpunkt signiert \(beglaubigter Zeitstempel\)
+- Dies führt dazu, dass das Dokument zwei Signaturen besitzt:
+  - **Signatur**; Das Dokument wurde von Person X signiert/unterzeichent
+  - **Zeitstempel**; Das Dokument wurde zu diesem Zeitpunkt signiert \(beglaubigter Zeitstempel\)
 
 ### Signing Services
 
-* Signaturerstellung in der Cloud
-* Seit August 2011 mit einer Änderung in VZertES möglich
-* Frage auf Folie 70: Nur der Hash-Wert wird in die Cloud geschickt zur Signierung \(Vertraulichkeit des Dokumentes ist damit sichergestellt\)
-* Schlüsselmaterial \(Private Key\) wird einmalig verwendet - danach weggeworfen \(Public Cert ist dem Dokument assigned\)
+- Signaturerstellung in der Cloud
+- Seit August 2011 mit einer Änderung in VZertES möglich
+- Frage auf Folie 70: Nur der Hash-Wert wird in die Cloud geschickt zur Signierung \(Vertraulichkeit des Dokumentes ist damit sichergestellt\)
+- Schlüsselmaterial \(Private Key\) wird einmalig verwendet - danach weggeworfen \(Public Cert ist dem Dokument assigned\)
 
 ![](../.gitbook/assets/image%20%28203%29.png)
-

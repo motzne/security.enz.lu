@@ -1,26 +1,26 @@
 # Internes Kontrollsystem \(IKS\)
 
-## **Definition & Ziele** 
+## Definition & Ziele
 
-* **Vielzahl von Interpretationen des Begriffes** „Internes Kontrollsystem“, keine allgemein gültige Definition, jedoch sehr ähnliche Grundstrukturen oder Interpretationsansätze
-* Das IKS ist ein **Managementinstrument** zur systematischen Sicherstellung der Zielerreichung und umfasst alle dafür planmässig angeordneten **technischen und organisatorischen** Methoden und Massnahmen.
-* Mehr "Overall" oder das grosse Ganze im Vergleich zum ISMS 
-* **Verantwortung**
-  * **Verwaltungsrat** ist verantwortlich, dass ein angemessenes **IKS vorhanden ist**. 
-  * Die **Umsetzung** des IKS liegt **im** Aufgabenbereich des **Managements**.
-  * **Am Schluss haftet der Verwaltungsrat!**
-* **Regulationen**
-  * Vorhanden - siehe Vorlesungsunterlagen
-  * Aber keine Legal definition/detaillierte Vorgaben durch den Gesetzgeber
-  * Grund: Keine abstrakten IKS-Anforderungen, sondern Ausgestaltung abhängig vom jeweiligen Unternehmen
-* **Ziele \(siehe Details unten "Umsetzung"\)**
-  * KS muss überprüfbar sein \(Dokumentation, etc.\)
-  * muss an Geschäftstätigkeit angepasst sein \(angemessene Controls\)
-  * Mitarbeiter müssen IKS kennen \(Details siehe Folie 44/45\)
-* **IT** ist aus zwei Sichtweisen **sehr zentral für ein IKS**:
-  * Als Verursacherin zahlreicher Zwischenfälle
-  * Zur Verhinderung von Zwischenfälle
-* **Beispiel: Eidgenössische Finanzmarktaufsicht FINMA**
+- **Vielzahl von Interpretationen des Begriffes** „Internes Kontrollsystem“, keine allgemein gültige Definition, jedoch sehr ähnliche Grundstrukturen oder Interpretationsansätze
+- Das IKS ist ein **Managementinstrument** zur systematischen Sicherstellung der Zielerreichung und umfasst alle dafür planmässig angeordneten **technischen und organisatorischen** Methoden und Massnahmen.
+- Mehr "Overall" oder das grosse Ganze im Vergleich zum ISMS
+- **Verantwortung**
+  - **Verwaltungsrat** ist verantwortlich, dass ein angemessenes **IKS vorhanden ist**.
+  - Die **Umsetzung** des IKS liegt **im** Aufgabenbereich des **Managements**.
+  - **Am Schluss haftet der Verwaltungsrat!**
+- **Regulationen**
+  - Vorhanden - siehe Vorlesungsunterlagen
+  - Aber keine Legal definition/detaillierte Vorgaben durch den Gesetzgeber
+  - Grund: Keine abstrakten IKS-Anforderungen, sondern Ausgestaltung abhängig vom jeweiligen Unternehmen
+- **Ziele \(siehe Details unten "Umsetzung"\)**
+  - KS muss überprüfbar sein \(Dokumentation, etc.\)
+  - muss an Geschäftstätigkeit angepasst sein \(angemessene Controls\)
+  - Mitarbeiter müssen IKS kennen \(Details siehe Folie 44/45\)
+- **IT** ist aus zwei Sichtweisen **sehr zentral für ein IKS**:
+  - Als Verursacherin zahlreicher Zwischenfälle
+  - Zur Verhinderung von Zwischenfälle
+- **Beispiel: Eidgenössische Finanzmarktaufsicht FINMA**
 
   „Die interne Kontrolle \(Synonym internes Kontrollsystem\) umfasst die **Gesamtheit der Kontrollstrukturen und -prozesse**, welche auf allen Ebenen des Instituts die Grundlage für die Erreichung der geschäftspolitischen Ziele und einen ordnungsgemässen Institutsbetrieb bilden. Dabei beinhaltet die interne Kontrolle **nicht nur** Aktivitäten der **nachträglichen Kontrolle, sondern auch** solche der **Planung und Steuerung**. Eine wirksame interne Kontrolle umfasst u. a. in die Arbeitsabläufe integrierte Kontrollaktivitäten, Prozesse für Risikomanagement und Einhaltung der anwendbaren Normen \(Compliance\), eine von der Risikobewirtschaftung **unabhängige Risikokontrolle sowie die Compliance-Funktion.** Die **interne Revision prüft** und beurteilt die interne Kontrolle und trägt dadurch zu deren laufenden Verbesserung bei.“
 
@@ -34,73 +34,69 @@
 
 ## IKS vs. ISMS
 
-* **Synergien**
-  * Somit ist ein **ISMS** ein Managementsystem, das der Geschäftsleitung durchaus als Führungs-instrument dienen kann und **starke Ähnlichkeiten mit dem IKS** hat. 
-  * Denn die **Kontrolle der Informationssicherheit** geht auch mit der regelmäßigen Untersuchung von Verfahren, Regeln und Prozessen einher.
-* **Sinnvolle Verbindung**
-  * Ein **ISMS** zielt auf den Schutz der unternehmenseigenen Werte ab, konzentriert sich dabei aber ausschließlich auf die **Informationssicherheit**. 
-  * Das **IKS** richtet den Blick eher auf **„das große Ganze“.**
-* **Einsparungspotential**
-  * Dadurch, dass für beide Systeme entsprechende Prüfungen gemacht werden müssen, kann auf diese Art und Weise zumindest ein Teil der ISMS-Überprüfung durch die IKS-Prüfungen abgedeckt werden, da die Prüfungsinhalte zu großen Teilen deckungsgleich sind. Die IKS-Prüfungen selbst können sich zudem gut auf die Ergebnisse der Analysen des ISMS stützen, um so das Risiko bezüglich der Prozesse im Allgemeinen zu bewerten.
-* **Fazit**
-  * Ein funktionierendes **IKS** gilt als **Indiz** einer **guten Corporate Governance**. 
-  * Es kann zudem als **wichtiges Führungsinstrument** in einem Unternehmen dienen. 
-  * Ein ISMS definiert Regeln und Methoden, um die Informationssicherheit in einem Unternehmen oder in einer Organisation zu gewährleisten.
-  * **Beide Systeme kombinieren zahlreiche Vorteile**: 
-    * Sie liefern dem Management transparente und verlässliche Informationen über Prozesse und die Wirksamkeit interner Kontrollmaßnahmen bezüglich Sicherheit, Qualität und Effizienz. 
-    * Sie sollten daher ergänzend und nicht nebeneinander betrieben werden. 
-    * Auch können gut weitere Systeme integriert werden – wie etwa ein Qualitätssystem nach ISO 9001.
+- **Synergien**
+  - Somit ist ein **ISMS** ein Managementsystem, das der Geschäftsleitung durchaus als Führungs-instrument dienen kann und **starke Ähnlichkeiten mit dem IKS** hat.
+  - Denn die **Kontrolle der Informationssicherheit** geht auch mit der regelmäßigen Untersuchung von Verfahren, Regeln und Prozessen einher.
+- **Sinnvolle Verbindung**
+  - Ein **ISMS** zielt auf den Schutz der unternehmenseigenen Werte ab, konzentriert sich dabei aber ausschließlich auf die **Informationssicherheit**.
+  - Das **IKS** richtet den Blick eher auf **„das große Ganze“.**
+- **Einsparungspotential**
+  - Dadurch, dass für beide Systeme entsprechende Prüfungen gemacht werden müssen, kann auf diese Art und Weise zumindest ein Teil der ISMS-Überprüfung durch die IKS-Prüfungen abgedeckt werden, da die Prüfungsinhalte zu großen Teilen deckungsgleich sind. Die IKS-Prüfungen selbst können sich zudem gut auf die Ergebnisse der Analysen des ISMS stützen, um so das Risiko bezüglich der Prozesse im Allgemeinen zu bewerten.
+- **Fazit**
+  - Ein funktionierendes **IKS** gilt als **Indiz** einer **guten Corporate Governance**.
+  - Es kann zudem als **wichtiges Führungsinstrument** in einem Unternehmen dienen.
+  - Ein ISMS definiert Regeln und Methoden, um die Informationssicherheit in einem Unternehmen oder in einer Organisation zu gewährleisten.
+  - **Beide Systeme kombinieren zahlreiche Vorteile**:
+    - Sie liefern dem Management transparente und verlässliche Informationen über Prozesse und die Wirksamkeit interner Kontrollmaßnahmen bezüglich Sicherheit, Qualität und Effizienz.
+    - Sie sollten daher ergänzend und nicht nebeneinander betrieben werden.
+    - Auch können gut weitere Systeme integriert werden – wie etwa ein Qualitätssystem nach ISO 9001.
 
 =&gt; Details siehe PDF in Evernote
 
 ## Regulatorische Anforderungen
 
-*  **National**
-  * Schweiz allgemein
-    * OR Art 728a: Ob ein IKS existiert
-    * OR Art 728b: muss im offiziellen Revisions-Bericht enthalten sein
-    * Im Gesetz stehen keine Details: Nicht was und wie… \(hat auch seine Überlegung; Grösse des Unternehmens\) =&gt; damit hat grundsätzlich die Revisionsstelle die "Macht", wie und was von einem IKS bei der eigenen Unternehmung vorhanden sein muss  \(wichtige Rolle\) =&gt; Empfehlung von Daniel: Mit der Revision Kontakt aufnehmen um dessen IKS-Erwartungen zu thematisieren
-* **International**
-  * Sarbanex-Oxlex Act: Entstanden auf Basis des Enron-Fall
-    * Für USA und Firmen welche in der USA an der Börse gehandelt werden
-  * EU Pendant: EuroSOX
-  * Bankenvorschrift Basel II
-
-
+- **National**
+- Schweiz allgemein
+  - OR Art 728a: Ob ein IKS existiert
+  - OR Art 728b: muss im offiziellen Revisions-Bericht enthalten sein
+  - Im Gesetz stehen keine Details: Nicht was und wie… \(hat auch seine Überlegung; Grösse des Unternehmens\) =&gt; damit hat grundsätzlich die Revisionsstelle die "Macht", wie und was von einem IKS bei der eigenen Unternehmung vorhanden sein muss \(wichtige Rolle\) =&gt; Empfehlung von Daniel: Mit der Revision Kontakt aufnehmen um dessen IKS-Erwartungen zu thematisieren
+- **International**
+  - Sarbanex-Oxlex Act: Entstanden auf Basis des Enron-Fall
+    - Für USA und Firmen welche in der USA an der Börse gehandelt werden
+  - EU Pendant: EuroSOX
+  - Bankenvorschrift Basel II
 
 ## Risikobereiche / Kontrolltypen / Hilfsmittel
 
 ![](../.gitbook/assets/image%20%28227%29.png)
 
-
-
-## Verantwortlichkeiten 
+## Verantwortlichkeiten
 
 ### Verwaltungsrat
 
-* Verantwortlichkeiten
-  * Strategischen Entscheidungen
-  * Sicherstellung des IKS durch die GL
-  * Angemessene Kontrolle der Wirksamkeit des IKS durch die GL
-* Kernaufgaben
-  * Überwachung der Wirksamkeit des IKS
-  * Regelung des Kontrollumfelds \(MA kennen & verstehen das IKS\)
-  * Regelung des Umgangs mit Interessenkonflikten
-  * Einrichtung und Überwachung der internen Revision
-  * Unabhängigkeit der VR-Mitglieder
-  * Einrichten eines dedizierten Audit Committee
+- Verantwortlichkeiten
+  - Strategischen Entscheidungen
+  - Sicherstellung des IKS durch die GL
+  - Angemessene Kontrolle der Wirksamkeit des IKS durch die GL
+- Kernaufgaben
+  - Überwachung der Wirksamkeit des IKS
+  - Regelung des Kontrollumfelds \(MA kennen & verstehen das IKS\)
+  - Regelung des Umgangs mit Interessenkonflikten
+  - Einrichtung und Überwachung der internen Revision
+  - Unabhängigkeit der VR-Mitglieder
+  - Einrichten eines dedizierten Audit Committee
 
 ### Geschäftsleitung
 
-* Verantwortlichkeiten
-  * Definition und Umsetzung der Governance für Informationssicherheit
-* Kernaufgaben
-  * Prozesse für Identifikation, Messung und Überwachung von Risiken
-  * Identifikation von Schlüsselkontrollen sowie deren Überwachung
-  * Organisationsstruktur \(AKV\) und Informationsflüsse
-  * Dokumentation und Überprüfbarkeit des IKS
-  * Sicherstellung der Erfüllung delegierter Aufgaben
-  * Periodische Berichterstattung an den VR über die Wirksamkeit des IKS
+- Verantwortlichkeiten
+  - Definition und Umsetzung der Governance für Informationssicherheit
+- Kernaufgaben
+  - Prozesse für Identifikation, Messung und Überwachung von Risiken
+  - Identifikation von Schlüsselkontrollen sowie deren Überwachung
+  - Organisationsstruktur \(AKV\) und Informationsflüsse
+  - Dokumentation und Überprüfbarkeit des IKS
+  - Sicherstellung der Erfüllung delegierter Aufgaben
+  - Periodische Berichterstattung an den VR über die Wirksamkeit des IKS
 
 ## Frameworks
 
@@ -108,12 +104,10 @@
 
 Committee of Sponsoring Organizations of the Treadway Commission \(COSO\)
 
-* Hilfstellung wie das Kontrollsystem im Unternehmen implementiert werden kann
-  * Welche 
+- Hilfstellung wie das Kontrollsystem im Unternehmen implementiert werden kann
+  - Welche
 
 ![](../.gitbook/assets/image%20%28133%29.png)
-
-
 
 #### Erklärung der COSO Übersichtsgrafik oben:
 
@@ -244,29 +238,28 @@ Geschichte COBIT wurde ursprünglich \(1996\) vom internationalen Verband der IT
 5. Es muss ein **Kontrollbewusstsein bei den Mitarbeitern existieren \[**COSO 1\]
    1. Unternehmenskultur
 
-
-
 Grundsätzlich kann der Ablauf für Konzeption, Basisschulungen und Implementierung des IKS wie folgt beschrieben werden:
 
 ![](../.gitbook/assets/image%20%28228%29.png)
 
 ## Effektivität
 
-* Key Risk Indicator = Wirksamkeit einer Massnahme **zahlenmässig festhalten,** um daraus einen Indikator zu ziehen
-  * Bspw. Mehrstufiger Virenschutz \(Vorne bei FW, Client, etc.\)
-    * Indikator Client: Wie viele Viren sind via FW bis zum Client gekommen
+- Key Risk Indicator = Wirksamkeit einer Massnahme **zahlenmässig festhalten,** um daraus einen Indikator zu ziehen
+
+  - Bspw. Mehrstufiger Virenschutz \(Vorne bei FW, Client, etc.\)
+
+    - Indikator Client: Wie viele Viren sind via FW bis zum Client gekommen
 
       \(Trend erkennbar; letzten Monat 3 - diesen Monat 9 -&gt; falscher Trend\)
-* ISO Standard definiert / Vorgaben um solche Key Risk Indicators zu erstellen
-* KPI sollen **auf ein Dashboard** kommen - je nach dem auch in GL, etc. 
+
+- ISO Standard definiert / Vorgaben um solche Key Risk Indicators zu erstellen
+- KPI sollen **auf ein Dashboard** kommen - je nach dem auch in GL, etc.
 
 ![](../.gitbook/assets/image%20%28122%29.png)
 
-
-
 ### Key Performance Indicators \(ISO 27004\)
 
-Beispiele für IT auch im Risikomgmt. 
+Beispiele für IT auch im Risikomgmt.
 
 ![](../.gitbook/assets/image%20%28137%29.png)
 
@@ -274,7 +267,7 @@ Beispiele für IT auch im Risikomgmt.
 
 ![](../.gitbook/assets/image%20%28125%29.png)
 
-## Raster nach ISO 27004 
+## Raster nach ISO 27004
 
 -&gt; siehe ISO 2004 / Anhang B / Seite 19
 
@@ -286,30 +279,23 @@ Beispiele für IT auch im Risikomgmt.
 
 Wenn Sie KPIs erstellen, beantworten Sie sich diese Fragen
 
-* Was ist das Ziel?
-* Warum ist das wichtig?
-* Wie messe ich den Fortschritt?
-* Wie kann ich das Ergebnis beeinflussen?
-* Wer ist verantwortlich für das Ergebnis?
-* Wie stelle ich fest, dass dieses Ziel erreicht ist?
-* Wie überprüfe ich den Fortschritt auf dem Weg zum Ziel?
+- Was ist das Ziel?
+- Warum ist das wichtig?
+- Wie messe ich den Fortschritt?
+- Wie kann ich das Ergebnis beeinflussen?
+- Wer ist verantwortlich für das Ergebnis?
+- Wie stelle ich fest, dass dieses Ziel erreicht ist?
+- Wie überprüfe ich den Fortschritt auf dem Weg zum Ziel?
 
 Beispiel: Sie möchten den Umsatzerlös in den nächsten 6 Monaten um 15 % steigern. Die Antworten auf obige Fragen lauten in diesem Fall:
 
-* Der Umsatzerlös soll sich um 15 % in den nächsten 6 Monaten erhöhen.
-* Das Geschäft wird profitabler, das bietet Raum für Investitionen.
-* Der Fortschritt wird gemessen am Umsatzerlös in Euro.
-* Das Ergebnis kann beeinflusst werden durch mehr Mitarbeiter sowie mehr Marketing und Werbung.
-* Der Chief Sales Officer \(CSO\) ist für dieses Ergebnis verantwortlich.
-* Es wird überprüft, ob der Umsatzerlös nach einem halben Jahr um 15 % gestiegen ist.
-* Dieser KPI wird monatlich überprüft.
-* Die Visualisierung eines Abgleichs zwischen KPIs und Zielen zeigt Abb. 1.
-
-
-
-
-
-
+- Der Umsatzerlös soll sich um 15 % in den nächsten 6 Monaten erhöhen.
+- Das Geschäft wird profitabler, das bietet Raum für Investitionen.
+- Der Fortschritt wird gemessen am Umsatzerlös in Euro.
+- Das Ergebnis kann beeinflusst werden durch mehr Mitarbeiter sowie mehr Marketing und Werbung.
+- Der Chief Sales Officer \(CSO\) ist für dieses Ergebnis verantwortlich.
+- Es wird überprüft, ob der Umsatzerlös nach einem halben Jahr um 15 % gestiegen ist.
+- Dieser KPI wird monatlich überprüft.
+- Die Visualisierung eines Abgleichs zwischen KPIs und Zielen zeigt Abb. 1.
 
 \*\*\*\*
-

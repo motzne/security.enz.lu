@@ -141,40 +141,32 @@
 
 {% embed url="https://wiki.owasp.org/images/9/90/OWASP\_Top\_10-2017\_de\_V1.0.pdf" %}
 
-
-
-
-
-
-
 ## SOP \(Same Origin Policy\)
 
 ![](../.gitbook/assets/image%20%28311%29.png)
 
-* Essentielles Sicherheitsfeature vom Browser
-* Separiert Ressourcen von verschiedenen Origins
-* Exceptions:
-  * Cookies \(Port + Schema ignoriert\)
-    * =&gt;  Lösung: Secure cookie flag!
-  * Web Sockets
+- Essentielles Sicherheitsfeature vom Browser
+- Separiert Ressourcen von verschiedenen Origins
+- Exceptions:
+  - Cookies \(Port + Schema ignoriert\)
+    - =&gt; Lösung: Secure cookie flag!
+  - Web Sockets
 
-### **3 Kriterien \(Origin Determination Rule\)**
+### 3 Kriterien \(Origin Determination Rule\)
 
-* HOST \(www.hslu.ch\)
-* PROTOCOL \(http / https\)
-* PORT \(443\)
+- HOST \(www.hslu.ch\)
+- PROTOCOL \(http / https\)
+- PORT \(443\)
 
 ![](../.gitbook/assets/image%20%28288%29.png)
 
-### **Best Practices / Lösung**
+### Best Practices / Lösung
 
-* To load 3rd party data don‘t use the &lt;script src="..."&gt; tag
-* **Host** third-party scripts by **yourself** or **trust the source**
-* **Separate** critical / non-critical applications **into different subdomains**
-  *  E.g. http://app1.mybank.com / http://app2.mybank.com
-* Use mechanisms like **CORS to bypass** the Same Origin Policy in a controlled way
-
-
+- To load 3rd party data don‘t use the &lt;script src="..."&gt; tag
+- **Host** third-party scripts by **yourself** or **trust the source**
+- **Separate** critical / non-critical applications **into different subdomains**
+  - E.g. http://app1.mybank.com / http://app2.mybank.com
+- Use mechanisms like **CORS to bypass** the Same Origin Policy in a controlled way
 
 ![](../.gitbook/assets/image%20%28315%29.png)
 
@@ -186,18 +178,16 @@
 
 ![](../.gitbook/assets/image%20%28316%29.png)
 
-
-
-* CORS ist ein Mechanismus um die SOP zu “bypassen” 
-* Websockets sind nicht CORS unterstellt!! 
-* -ACAO HTTP Response Header = `Access-Control-Allow-Origin`
-* **Mitigation** = Das sicherste ist nicht setzen, daher auf der WAF bei Response Actions nicht drin. Access Control Allow Origin Policy
-* OPTIONS-Request = Policy mit Preflight-Request holen
-* Cookies = `Access-Control-Allow-Credentials`: true \(Policy on Top um Cookies auszulesen\)
-* Es gibt die Server die Access Control Allow Origin reflektieren
-* **CORS Attack Scenarios \(mit &lt;reflected origin&gt;\)**
-  * Stealing Data
-  * CSRF the easy way
+- CORS ist ein Mechanismus um die SOP zu “bypassen”
+- Websockets sind nicht CORS unterstellt!!
+- -ACAO HTTP Response Header = `Access-Control-Allow-Origin`
+- **Mitigation** = Das sicherste ist nicht setzen, daher auf der WAF bei Response Actions nicht drin. Access Control Allow Origin Policy
+- OPTIONS-Request = Policy mit Preflight-Request holen
+- Cookies = `Access-Control-Allow-Credentials`: true \(Policy on Top um Cookies auszulesen\)
+- Es gibt die Server die Access Control Allow Origin reflektieren
+- **CORS Attack Scenarios \(mit &lt;reflected origin&gt;\)**
+  - Stealing Data
+  - CSRF the easy way
 
 ### HTTP Response Header Möglichkeiten
 
@@ -206,8 +196,8 @@ Access-Control-Allow-Origin: *
 Access-Control-Allow-Origin: https://www.bar.com
 
 # CORS directives that confirm all requested violations
-Access-Control-Allow-Methods: POST, GET, OPTIONS 
-Access-Control-Allow-Headers: X-COMPASS, content-type 
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Headers: X-COMPASS, content-type
 
 # How long the preflight request may be cached in seconds (here 24 hours)
 Access-Control-Max-Age: 86400
@@ -220,29 +210,23 @@ Access-Control-Allow-Credentials: true
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/ca/Flowchart_showing_Simple_and_Preflight_XHR.svg)
 
-
-
-#### Simple Request: 
+#### Simple Request:
 
 Some requests don’t trigger a [CORS preflight](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#Preflighted_requests). Those are called _“simple requests”_ in this article, though the [Fetch](https://fetch.spec.whatwg.org/) spec \(which defines CORS\) doesn’t use that term. A “simple request” is one that **meets all the following conditions**:
 
-* One of the allowed methods:
-  * [`GET`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET)
-  * [`HEAD`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD)
-  * [`POST`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
-* Apart from the headers automatically set by the user agent \(for example, [`Connection`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection), [`User-Agent`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent), or [the other headers defined in the Fetch spec as a “forbidden header name”](https://fetch.spec.whatwg.org/#forbidden-header-name)\), the only headers which are allowed to be manually set are [those which the Fetch spec defines as a “CORS-safelisted request-header”](https://fetch.spec.whatwg.org/#cors-safelisted-request-header), which are:
-  * [`Accept`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept)
-  * [`Accept-Language`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language)
-  * [`Content-Language`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Language)
-  * [`Content-Type`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type) \(but note the additional requirements below\)
-
-
+- One of the allowed methods:
+  - [`GET`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET)
+  - [`HEAD`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD)
+  - [`POST`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
+- Apart from the headers automatically set by the user agent \(for example, [`Connection`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Connection), [`User-Agent`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent), or [the other headers defined in the Fetch spec as a “forbidden header name”](https://fetch.spec.whatwg.org/#forbidden-header-name)\), the only headers which are allowed to be manually set are [those which the Fetch spec defines as a “CORS-safelisted request-header”](https://fetch.spec.whatwg.org/#cors-safelisted-request-header), which are:
+  - [`Accept`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept)
+  - [`Accept-Language`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language)
+  - [`Content-Language`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Language)
+  - [`Content-Type`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type) \(but note the additional requirements below\)
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS\#simple\_requests" %}
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS\#preflighted\_requests" %}
-
-
 
 ### CORS einschalten
 
@@ -254,31 +238,31 @@ Some requests don’t trigger a [CORS preflight](https://developer.mozilla.org/e
 
 ![](../.gitbook/assets/image%20%28275%29.png)
 
-* = **Browser Firewall**
-* Allows granular control over which resources can or can’t be included from which origin
-* **Security Advantages of CSP**
-  * **Prevents XSS** and “Clickjacking” by **controlling** the domains **from which Javascript can be loaded**, blocking the ability for exploits to force the loading of malicious Javascript
-  * **Prevents link injection**
-  * **Prevents** XSS by controlling domains from which the browser is allowed to **load images, CSS and more ...**
-* 2 Varianten um den Browser zu informieren:
-  * HTTP Response Header = `Content-Security-Policy`
-  * HTML Tag = `<meta http-equiv="Content-Security-Policy">`
-  * asda
+- = **Browser Firewall**
+- Allows granular control over which resources can or can’t be included from which origin
+- **Security Advantages of CSP**
+  - **Prevents XSS** and “Clickjacking” by **controlling** the domains **from which Javascript can be loaded**, blocking the ability for exploits to force the loading of malicious Javascript
+  - **Prevents link injection**
+  - **Prevents** XSS by controlling domains from which the browser is allowed to **load images, CSS and more ...**
+- 2 Varianten um den Browser zu informieren:
+  - HTTP Response Header = `Content-Security-Policy`
+  - HTML Tag = `<meta http-equiv="Content-Security-Policy">`
+  - asda
 
 ### CSP setzen
 
 #### Einstellungsmöglichkeiten:
 
-* Default \(default-src\) 
-* Script \(JavaScript inclusion\)
-* Style
-* Image
-* Font
-* Connect \(XMLHttpRequests \(AJAX\) requests, Web Sockets and EventSources\)
-* Media \(sources of audio and video \(e.g. &lt;audio&gt; or &lt;video&gt;\)
-* Object
-* Frame
-* Report
+- Default \(default-src\)
+- Script \(JavaScript inclusion\)
+- Style
+- Image
+- Font
+- Connect \(XMLHttpRequests \(AJAX\) requests, Web Sockets and EventSources\)
+- Media \(sources of audio and video \(e.g. &lt;audio&gt; or &lt;video&gt;\)
+- Object
+- Frame
+- Report
 
 #### Format:
 
@@ -288,35 +272,35 @@ script-src <source> <source> <source> ...;
 
 Possible &lt;source&gt; values are:
 
-|  |  |
-| :--- | :--- |
-| Host / IP | ~~`http://*.example.com, mail.example.com:443, https://80.133.7.2`~~ |
-| Schema | `http:, https:, data:, mediastream:, blob:, filesystem:` |
-| 'self': | Allows inclusion from the website’s own origin \(according to SOP\) |
-| 'unsafe-inline': | Allows inline resources, such as inline `<script>` elements |
-| 'unsafe-eval' | Allows the use of `eval()` and similar "text-to-Javascript" methods |
-| 'none' | 'none': |
-| Nonce: | Cryptographic nonce \(number used once\) associated with a specific script |
-| Hash | Hash computed over the content of a specific script |
+|                  |                                                                            |
+| :--------------- | :------------------------------------------------------------------------- |
+| Host / IP        | ~~`http://*.example.com, mail.example.com:443, https://80.133.7.2`~~       |
+| Schema           | `http:, https:, data:, mediastream:, blob:, filesystem:`                   |
+| 'self':          | Allows inclusion from the website’s own origin \(according to SOP\)        |
+| 'unsafe-inline': | Allows inline resources, such as inline `<script>` elements                |
+| 'unsafe-eval'    | Allows the use of `eval()` and similar "text-to-Javascript" methods        |
+| 'none'           | 'none':                                                                    |
+| Nonce:           | Cryptographic nonce \(number used once\) associated with a specific script |
+| Hash             | Hash computed over the content of a specific script                        |
 
 {% code title="Beispiele" %}
+
 ```bash
 Content-Security-Policy: default-src 'self'; img-src *; object-src media1.example.com media2.example.com *.cdn.example.com; script-src trustedscripts.example.com
 
 # Beispiel www.lukb.ch
 default-src 'none'; object-src 'self'; media-src 'self' https://unblu.cloud; connect-src 'self' https://unblu.cloud wss://unblu.cloud https://hlg.tokbox.com https://anvil.opentok.com https://config.opentok.com https://api-enterprise.opentok.com wss://*.tokbox.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://maps.googleapis.com https://www.google-analytics.com https://tagmanager.google.com https://www.googletagmanager.com https://optimize.google.com https://connect.facebook.net/en_US/fbevents.js https://unblu.cloud https://static.opentok.com; frame-src 'self' https://bid.g.doubleclick.net https://www.wuestpartner.com https://nubes.simplex.tv https://mw.weaver.ch https://optimize.google.com; style-src 'self' 'unsafe-inline' blob: https://fonts.googleapis.com https://tagmanager.google.com https://www.googletagmanager.com https://optimize.google.com https://unblu.cloud; img-src 'self' data: https://www.google.com https://www.google.com/ads/ga-audiences https://www.google.ch/ads/ga-audiences https://stats.g.doubleclick.net https://www.google-analytics.com https://khms0.googleapis.com https://khms1.googleapis.com https://www.yourmoney.ch https://tagmanager.google.com https://www.googletagmanager.com https://maps.googleapis.com https://maps.gstatic.com https://optimize.google.com https://googleads.g.doubleclick.net https://unblu.cloud; font-src 'self' data: https://fonts.googleapis.com https://fonts.gstatic.com https://unblu.cloud;
 ```
+
 {% endcode %}
 
 ### CSP Reporting
 
-* CSP supports a reporting directive for debugging and monitoring
+- CSP supports a reporting directive for debugging and monitoring
 
 ![](../.gitbook/assets/image%20%28293%29.png)
 
 ![](../.gitbook/assets/image%20%28282%29.png)
-
-
 
 ### CSP Generator
 
@@ -328,18 +312,16 @@ default-src 'none'; object-src 'self'; media-src 'self' https://unblu.cloud; con
 
 {% embed url="https://csp-evaluator.withgoogle.com/" %}
 
-
-
 ## SameSite
 
 ![](../.gitbook/assets/image%20%28313%29.png)
 
-* = **Schutz vor Request Forgery**
-* verhindert das **Browser Cookie mitsendet, wenn Request von Drittseite** initiert wird
-* The main goal is **mitigate** the risk of **cross-origin information leakage**.
-* Mögliche Werte:
-  * Strict
-  * LAX
+- = **Schutz vor Request Forgery**
+- verhindert das **Browser Cookie mitsendet, wenn Request von Drittseite** initiert wird
+- The main goal is **mitigate** the risk of **cross-origin information leakage**.
+- Mögliche Werte:
+  - Strict
+  - LAX
 
 ```bash
 Set-Cookie: jsessionid=asdiifiwiaifiai; secure; HttpOnly, SameSite=Strict
@@ -383,17 +365,17 @@ Set-Cookie: jsessionid=asdiifiwiaifiai; secure; HttpOnly, SameSite=Lax
 
 ![](../.gitbook/assets/image%20%28273%29.png)
 
-## 
+##
 
-## Reverse Shell  / Remote Code Execution
+## Reverse Shell / Remote Code Execution
 
-* RCE = Remote Code Execution
-* Ability to trigger arbitrary code execution over a network.
-* **How to get RCE?**
-  * Command Injection
-  * File Upload \(Upload a PHP file to a webserver\)
-  * SQL Injections can sometimes be used to get RCE
-  * Buffer Overflow \(write own instructions into the process memory and execute it\)
+- RCE = Remote Code Execution
+- Ability to trigger arbitrary code execution over a network.
+- **How to get RCE?**
+  - Command Injection
+  - File Upload \(Upload a PHP file to a webserver\)
+  - SQL Injections can sometimes be used to get RCE
+  - Buffer Overflow \(write own instructions into the process memory and execute it\)
 
 Types of shells
 
@@ -409,26 +391,23 @@ Types of shells
 
 ![](../.gitbook/assets/image%20%28309%29.png)
 
-* **JSONP** = JavaScript Object Notation with **Padding**
+- **JSONP** = JavaScript Object Notation with **Padding**
 
-  * Technique used to circumvent the Same-Origin Policy when transferring data with AJAX across
+  - Technique used to circumvent the Same-Origin Policy when transferring data with AJAX across
 
     different domains
 
-  * Browsers do not enforce SOP on the HTML &lt;script&gt; tag
-  * Padding refers to characters around the JSON payload, e.g.
-    * `callback({employees: [{“firstName”: “John”, “lastName”: “Doe”}, ...]})`
+  - Browsers do not enforce SOP on the HTML &lt;script&gt; tag
+  - Padding refers to characters around the JSON payload, e.g.
+    - `callback({employees: [{“firstName”: “John”, “lastName”: “Doe”}, ...]})`
 
   \`\`
 
-* **Mitigation**
-  * Use Anti XSRF-Tokens
-  * Begin the JSON-Response with an infinite loop:
-  * DO NOT USE JSONP!
+- **Mitigation**
+  - Use Anti XSRF-Tokens
+  - Begin the JSON-Response with an infinite loop:
+  - DO NOT USE JSONP!
 
-## Cyber Chef 
+## Cyber Chef
 
 {% embed url="https://gchq.github.io/CyberChef/" %}
-
-
-
