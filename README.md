@@ -4,9 +4,9 @@
 
 Dies ist eine persönliche Themensammlung und Zusammenfassung des behandelten Stoffs im Bereich Information und Cyber Security der Studiengänge:
 
-* [CAS Information Security Technology der Hochschule Luzern](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-technology/).  
-* [CAS Information Security Management der Hochschule Luzern.  ](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-management/)
-* [CAS Information Security Advanced der Hochschule Luzern.  ](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-advanced/)
+- [CAS Information Security Technology der Hochschule Luzern](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-technology/).
+- [CAS Information Security Management der Hochschule Luzern. ](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-management/)
+- [CAS Information Security Advanced der Hochschule Luzern. ](https://www.hslu.ch/de-ch/informatik/weiterbildung/information-security-and-privacy/cas-information-security-advanced/)
 
 ### Author
 
@@ -14,22 +14,4 @@ Tom Enz, [tomenz.ch](https://tomenz.ch) - Lucerne, Switzerland
 
 ### Credits
 
-Inhalt, Grafiken und Screenshots stammen aus Vorlesungsunterlagen der Hochschule Luzern Informatik, ihrer Dozenten und wurden mit persönlichen Notizen/Kommentaren ergänzt.
-
-### Lokale Installation
-
-Dieses Dokument wurde Hauptsächlich mit der Online-Lösung [GitBook](https://gitbook.com) geschrieben, jedoch können die darunterlegenden Markdown `.md`-Dateien auch auf einem Rechner lokal im Browser angezeigt werden. Für den lokalen Gebrauch wurde die Seite für [Docsify](https://docsify.js.org/#/?id=docsify) optimiert.
-
-* Git
-* [NodeJS](https://nodejs.org)
-* Gitbash \(Windows\) / Terminal \(macOS\) 
-
-```bash
-npm i -g docsify-cli  # Use sudo on macOS
-git clone https://github.com/motzne/security.enz.lu.git
-cd security.enz.lu
-docsify serve .
-```
-
-Es kann sein dass einige "neue" Funktionen von Gitbook.com lokal nicht unterstützt werden. Daher sollten Fehler auf der Console angezeigt werden, gilt es diese zu beheben resp. direkt in den Markdown-Dateien zu bereinigen.
-
+Inhalt, Grafiken und Screenshots stammen aus Vorlesungsunterlagen der Hochschule Luzern Informatik und ihrer Dozenten. Sie wurden mit persönlichen Notizen/Kommentaren des Authors ergänzt. Ein detailierte Liste der Dozenten ist im Kapitel [Themenübersicht](themenuebersicht.md) zu finden.
