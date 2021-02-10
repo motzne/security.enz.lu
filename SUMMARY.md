@@ -1,5 +1,3 @@
-# Table of contents
-
 - [Intro](README.md)
 - [🚧 Todo](todos.md)
 - [CAS: Themenüberischt](themenuebersicht.md)
